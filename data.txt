@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 10850,
+    "counts": 10851,
     "has_wrc_req": false
    },
    {
@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "doskey_in_LC",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "smarvin6689",
     "counts": 3,
     "has_wrc_req": false
@@ -79,11 +84,6 @@
    {
     "author": "Iamspeedy36",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "doskey_in_LC",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -127,13 +127,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26697
+  "total_counts": 26699
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 18258
+    "counts": 18259
    },
    {
     "author": "MaybeNotWrong",
@@ -220,6 +220,10 @@
     "counts": 3
    },
    {
+    "author": "doskey_in_LC",
+    "counts": 3
+   },
+   {
     "author": "noduorg",
     "counts": 3
    },
@@ -229,10 +233,6 @@
    },
    {
     "author": "dominodan123",
-    "counts": 2
-   },
-   {
-    "author": "doskey_in_LC",
     "counts": 2
    },
    {
@@ -248,7 +248,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45167
+  "total_counts": 45169
  },
- "latest_count": 19745167
+ "latest_count": 19745169
 }
