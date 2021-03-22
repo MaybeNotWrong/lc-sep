@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "ItzTaken",
-    "counts": 5795,
+    "author": "MaybeNotWrong",
+    "counts": 5903,
     "has_wrc_req": true
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 5763,
+    "author": "ItzTaken",
+    "counts": 5795,
     "has_wrc_req": true
    },
    {
@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "NobodyL0vesMe",
+    "counts": 182,
+    "has_wrc_req": false
+   },
+   {
     "author": "darrensoap",
     "counts": 121,
     "has_wrc_req": false
@@ -39,11 +44,6 @@
    {
     "author": "Trowaweg123",
     "counts": 57,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 41,
     "has_wrc_req": false
    },
    {
@@ -107,21 +107,25 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20277
+  "total_counts": 20558
  },
  "100k": {
   "hoc": [
+   {
+    "author": "MaybeNotWrong",
+    "counts": 5903
+   },
    {
     "author": "ItzTaken",
     "counts": 5795
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 5763
-   },
-   {
     "author": "Lonadont",
     "counts": 304
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 182
    },
    {
     "author": "darrensoap",
@@ -130,10 +134,6 @@
    {
     "author": "Trowaweg123",
     "counts": 57
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 41
    },
    {
     "author": "TOP_20",
@@ -168,7 +168,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12145
+  "total_counts": 12426
  },
- "latest_count": 19812145
+ "latest_count": 19812426
 }
