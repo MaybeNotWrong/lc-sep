@@ -8,7 +8,7 @@
    },
    {
     "author": "TOP_20",
-    "counts": 2411,
+    "counts": 2412,
     "has_wrc_req": false
    },
    {
@@ -37,12 +37,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "darrensoap",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "darrensoap",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8193
+  "total_counts": 8197
  },
  "100k": {
   "hoc": [
@@ -96,14 +96,18 @@
    },
    {
     "author": "TOP_20",
-    "counts": 12
+    "counts": 13
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 5
    },
    {
     "author": "funfact15",
     "counts": 5
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "darrensoap",
     "counts": 4
    },
    {
@@ -113,13 +117,9 @@
    {
     "author": "davidjl123",
     "counts": 3
-   },
-   {
-    "author": "darrensoap",
-    "counts": 2
    }
   ],
-  "total_counts": 61
+  "total_counts": 65
  },
- "latest_count": 19800061
+ "latest_count": 19800065
 }
