@@ -67,12 +67,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8174
+  "total_counts": 8175
  },
  "100k": {
   "hoc": [
@@ -99,9 +104,13 @@
    {
     "author": "davidjl123",
     "counts": 2
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1
    }
   ],
-  "total_counts": 42
+  "total_counts": 43
  },
- "latest_count": 19800042
+ "latest_count": 19800043
 }
