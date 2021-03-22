@@ -8,7 +8,7 @@
    },
    {
     "author": "TOP_20",
-    "counts": 2428,
+    "counts": 2429,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 367,
+    "counts": 386,
     "has_wrc_req": false
    },
    {
@@ -29,6 +29,11 @@
    {
     "author": "Trowaweg123",
     "counts": 57,
+    "has_wrc_req": false
+   },
+   {
+    "author": "darrensoap",
+    "counts": 32,
     "has_wrc_req": false
    },
    {
@@ -44,11 +49,6 @@
    {
     "author": "andrewtheredditor",
     "counts": 16,
-    "has_wrc_req": false
-   },
-   {
-    "author": "darrensoap",
-    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -92,13 +92,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8932
+  "total_counts": 8971
  },
  "100k": {
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 367
+    "counts": 386
    },
    {
     "author": "ItzTaken",
@@ -109,8 +109,12 @@
     "counts": 57
    },
    {
+    "author": "darrensoap",
+    "counts": 32
+   },
+   {
     "author": "TOP_20",
-    "counts": 29
+    "counts": 30
    },
    {
     "author": "Lonadont",
@@ -119,10 +123,6 @@
    {
     "author": "andrewtheredditor",
     "counts": 15
-   },
-   {
-    "author": "darrensoap",
-    "counts": 13
    },
    {
     "author": "funfact15",
@@ -137,7 +137,7 @@
     "counts": 3
    }
   ],
-  "total_counts": 800
+  "total_counts": 839
  },
- "latest_count": 19800800
+ "latest_count": 19800839
 }
