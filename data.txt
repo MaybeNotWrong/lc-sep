@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 4461,
+    "counts": 4462,
     "has_wrc_req": true
    },
    {
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TOP_20",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Iamspeedy36",
     "counts": 2,
     "has_wrc_req": false
@@ -92,12 +97,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
+    "author": "dominodan123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "TOP_20",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -110,14 +115,9 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 16005
+  "total_counts": 16008
  },
  "100k": {
   "hoc": [
@@ -131,7 +131,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 16249
+    "counts": 16250
    },
    {
     "author": "davidjl123",
@@ -191,7 +191,7 @@
    },
    {
     "author": "TOP_20",
-    "counts": 38
+    "counts": 39
    },
    {
     "author": "Tranquilsunrise",
@@ -226,19 +226,19 @@
     "counts": 3
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "dominodan123",
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 1
+    "author": "buy_me_a_pint",
+    "counts": 2
    },
    {
     "author": "supersammy00",
     "counts": 1
    }
   ],
-  "total_counts": 78014
+  "total_counts": 78017
  },
- "latest_count": 19878014
+ "latest_count": 19878017
 }
