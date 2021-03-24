@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 7186,
+    "counts": 7270,
     "has_wrc_req": true
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 4469,
+    "counts": 4491,
     "has_wrc_req": true
    },
    {
@@ -33,7 +33,12 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 231,
+    "counts": 233,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 104,
     "has_wrc_req": false
    },
    {
@@ -42,17 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 43,
+    "author": "smarvin6689",
+    "counts": 18,
     "has_wrc_req": false
    },
    {
     "author": "TOP_20",
-    "counts": 17,
-    "has_wrc_req": false
-   },
-   {
-    "author": "smarvin6689",
     "counts": 17,
     "has_wrc_req": false
    },
@@ -132,13 +132,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 17898
+  "total_counts": 18068
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 10915
+    "counts": 10999
    },
    {
     "author": "amazingpikachu_38",
@@ -146,7 +146,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 6224
+    "counts": 6246
    },
    {
     "author": "supersammy00",
@@ -174,11 +174,15 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 232
+    "counts": 234
    },
    {
     "author": "----Redditisgood----",
     "counts": 164
+   },
+   {
+    "author": "Lonadont",
+    "counts": 104
    },
    {
     "author": "TOP_20",
@@ -189,12 +193,8 @@
     "counts": 60
    },
    {
-    "author": "Lonadont",
-    "counts": 43
-   },
-   {
     "author": "smarvin6689",
-    "counts": 39
+    "counts": 40
    },
    {
     "author": "rschaosid",
@@ -257,7 +257,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39954
+  "total_counts": 40124
  },
- "latest_count": 19939953
+ "latest_count": 19940123
 }
