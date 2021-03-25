@@ -28,7 +28,7 @@
    },
    {
     "author": "treje",
-    "counts": 2087,
+    "counts": 2168,
     "has_wrc_req": true
    },
    {
@@ -53,12 +53,17 @@
    },
    {
     "author": "Iamspeedy36",
-    "counts": 279,
+    "counts": 280,
     "has_wrc_req": false
    },
    {
     "author": "TOP_20",
     "counts": 239,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SecretAsianMa",
+    "counts": 225,
     "has_wrc_req": false
    },
    {
@@ -69,11 +74,6 @@
    {
     "author": "amazingpikachu_37",
     "counts": 159,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SecretAsianMa",
-    "counts": 147,
     "has_wrc_req": false
    },
    {
@@ -103,7 +103,7 @@
    },
    {
     "author": "Antichess",
-    "counts": 16,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -147,6 +147,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "_TheRealKeel_",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -157,7 +162,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "_TheRealKeel_",
+    "author": "richard7775",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -175,19 +180,24 @@
     "author": "FOR_WHIT",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "parker_cube",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 78302
+  "total_counts": 78466
  },
  "100k": {
   "hoc": [
    {
     "author": "SecretAsianMa",
-    "counts": 146
+    "counts": 224
    },
    {
     "author": "treje",
-    "counts": 67
+    "counts": 148
    },
    {
     "author": "NobodyL0vesMe",
@@ -219,10 +229,14 @@
    },
    {
     "author": "Antichess",
-    "counts": 3
+    "counts": 4
    },
    {
     "author": "Iamspeedy36",
+    "counts": 3
+   },
+   {
+    "author": "_TheRealKeel_",
     "counts": 2
    },
    {
@@ -234,7 +248,7 @@
     "counts": 2
    },
    {
-    "author": "_TheRealKeel_",
+    "author": "richard7775",
     "counts": 1
    },
    {
@@ -272,9 +286,13 @@
    {
     "author": "smarvin6689",
     "counts": 1
+   },
+   {
+    "author": "parker_cube",
+    "counts": 1
    }
   ],
-  "total_counts": 357
+  "total_counts": 521
  },
- "latest_count": 20000357
+ "latest_count": 20000521
 }
