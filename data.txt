@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -118,7 +123,7 @@
    },
    {
     "author": "Antichess",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "_TheRealKeel_",
@@ -161,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12281
+  "total_counts": 12282
  },
- "latest_count": 20012281
+ "latest_count": 20012282
 }
