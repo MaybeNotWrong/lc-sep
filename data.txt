@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TOP_20",
     "counts": 1,
     "has_wrc_req": false
@@ -12,17 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -36,7 +41,7 @@
    },
    {
     "author": "rideride",
-    "counts": 1546
+    "counts": 1547
    },
    {
     "author": "ItzTaken",
@@ -151,7 +156,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12279
+  "total_counts": 12280
  },
- "latest_count": 20012279
+ "latest_count": 20012280
 }
