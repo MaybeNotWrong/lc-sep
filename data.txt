@@ -23,13 +23,13 @@
    },
    {
     "author": "supersammy00",
-    "counts": 4084,
+    "counts": 4085,
     "has_wrc_req": false
    },
    {
     "author": "treje",
-    "counts": 2023,
-    "has_wrc_req": false
+    "counts": 2087,
+    "has_wrc_req": true
    },
    {
     "author": "davidjl123",
@@ -73,7 +73,7 @@
    },
    {
     "author": "SecretAsianMa",
-    "counts": 84,
+    "counts": 147,
     "has_wrc_req": false
    },
    {
@@ -157,6 +157,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "_TheRealKeel_",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "sbb618",
     "counts": 1,
     "has_wrc_req": false
@@ -172,13 +177,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 78173
+  "total_counts": 78302
  },
  "100k": {
   "hoc": [
    {
     "author": "SecretAsianMa",
-    "counts": 83
+    "counts": 146
+   },
+   {
+    "author": "treje",
+    "counts": 67
    },
    {
     "author": "NobodyL0vesMe",
@@ -190,7 +199,7 @@
    },
    {
     "author": "supersammy00",
-    "counts": 16
+    "counts": 17
    },
    {
     "author": "abplows",
@@ -209,10 +218,6 @@
     "counts": 5
    },
    {
-    "author": "treje",
-    "counts": 3
-   },
-   {
     "author": "Antichess",
     "counts": 3
    },
@@ -227,6 +232,10 @@
    {
     "author": "rideride",
     "counts": 2
+   },
+   {
+    "author": "_TheRealKeel_",
+    "counts": 1
    },
    {
     "author": "noduorg",
@@ -265,7 +274,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 228
+  "total_counts": 357
  },
- "latest_count": 20000228
+ "latest_count": 20000357
 }
