@@ -2,13 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "rideride",
+    "counts": 870,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 865,
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 863,
+    "author": "_TheRealKeel_",
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TOP_6689",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -19,16 +29,6 @@
    {
     "author": "davidjl123",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TOP_6689",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "_TheRealKeel_",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -57,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1750
+  "total_counts": 1764
  },
  "100k": {
   "hoc": [
@@ -67,7 +67,7 @@
    },
    {
     "author": "rideride",
-    "counts": 2409
+    "counts": 2416
    },
    {
     "author": "NobodyL0vesMe",
@@ -115,11 +115,15 @@
    },
    {
     "author": "TOP_6689",
-    "counts": 14
+    "counts": 15
    },
    {
     "author": "smarvin6689",
     "counts": 13
+   },
+   {
+    "author": "_TheRealKeel_",
+    "counts": 11
    },
    {
     "author": "Iamspeedy36",
@@ -132,10 +136,6 @@
    {
     "author": "dominodan123",
     "counts": 6
-   },
-   {
-    "author": "_TheRealKeel_",
-    "counts": 5
    },
    {
     "author": "Cox_1920",
@@ -186,7 +186,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14025
+  "total_counts": 14039
  },
- "latest_count": 20014025
+ "latest_count": 20014039
 }
