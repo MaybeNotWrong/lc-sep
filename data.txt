@@ -38,7 +38,12 @@
    },
    {
     "author": "treje",
-    "counts": 104,
+    "counts": 170,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Chad",
+    "counts": 92,
     "has_wrc_req": false
    },
    {
@@ -64,11 +69,6 @@
    {
     "author": "Tranquilsunrise",
     "counts": 36,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Chad",
-    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -127,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 65650
+  "total_counts": 65783
  },
  "100k": {
   "hoc": [
@@ -153,15 +153,15 @@
    },
    {
     "author": "treje",
-    "counts": 74
+    "counts": 140
+   },
+   {
+    "author": "Chalupa_Chad",
+    "counts": 92
    },
    {
     "author": "TOP_20",
     "counts": 74
-   },
-   {
-    "author": "Chalupa_Chad",
-    "counts": 25
    },
    {
     "author": "Iamspeedy36",
@@ -208,7 +208,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 20067
+  "total_counts": 20200
  },
- "latest_count": 20220067
+ "latest_count": 20220200
 }
