@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 27348,
+    "counts": 27405,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 21950,
+    "counts": 22005,
     "has_wrc_req": false
    },
    {
@@ -68,7 +68,7 @@
    },
    {
     "author": "abplows",
-    "counts": 54,
+    "counts": 55,
     "has_wrc_req": false
    },
    {
@@ -107,6 +107,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Justsnipemealready",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
     "author": "AutomatedCountingBot",
     "counts": 6,
     "has_wrc_req": false
@@ -114,11 +119,6 @@
    {
     "author": "Chalupa_Descendant",
     "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Justsnipemealready",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -157,17 +157,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 82775
+  "total_counts": 82890
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 16973
+    "counts": 17030
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10584
+    "counts": 10639
    },
    {
     "author": "MaybeNotWrong",
@@ -234,6 +234,10 @@
     "counts": 9
    },
    {
+    "author": "Justsnipemealready",
+    "counts": 7
+   },
+   {
     "author": "AutomatedCountingBot",
     "counts": 6
    },
@@ -242,8 +246,8 @@
     "counts": 6
    },
    {
-    "author": "Justsnipemealready",
-    "counts": 5
+    "author": "abplows",
+    "counts": 3
    },
    {
     "author": "NobodyL0vesMe",
@@ -251,10 +255,6 @@
    },
    {
     "author": "rschaosid",
-    "counts": 2
-   },
-   {
-    "author": "abplows",
     "counts": 2
    },
    {
@@ -278,7 +278,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37192
+  "total_counts": 37307
  },
- "latest_count": 20237192
+ "latest_count": 20237307
 }
