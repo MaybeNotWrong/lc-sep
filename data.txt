@@ -53,7 +53,12 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 10,
+    "counts": 11,
+    "has_wrc_req": false
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -63,11 +68,6 @@
    },
    {
     "author": "overdrafts",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "andrewtheredditor",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5474
+  "total_counts": 5476
  },
  "100k": {
   "hoc": [
@@ -106,7 +106,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 8859
+    "counts": 8860
    },
    {
     "author": "TOP_20",
@@ -142,7 +142,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 131
+    "counts": 132
    },
    {
     "author": "abplows",
@@ -229,7 +229,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 54523
+  "total_counts": 54525
  },
- "latest_count": 20254523
+ "latest_count": 20254525
 }
