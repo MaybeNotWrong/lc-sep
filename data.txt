@@ -2,28 +2,28 @@
  "day": {
   "hoc": [
    {
+    "author": "ItzTaken",
+    "counts": 6005,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 5901,
     "has_wrc_req": true
    },
    {
-    "author": "ItzTaken",
-    "counts": 5874,
+    "author": "amazingpikachu_38",
+    "counts": 1268,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 1072,
+    "author": "NobodyL0vesMe",
+    "counts": 600,
     "has_wrc_req": false
    },
    {
     "author": "c2h3o2_acetate",
     "counts": 587,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 534,
     "has_wrc_req": false
    },
    {
@@ -147,29 +147,29 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 16100
+  "total_counts": 16493
  },
  "100k": {
   "hoc": [
+   {
+    "author": "ItzTaken",
+    "counts": 6012
+   },
    {
     "author": "MaybeNotWrong",
     "counts": 5901
    },
    {
-    "author": "ItzTaken",
-    "counts": 5881
+    "author": "amazingpikachu_38",
+    "counts": 1352
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 1156
+    "author": "NobodyL0vesMe",
+    "counts": 606
    },
    {
     "author": "c2h3o2_acetate",
     "counts": 587
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 540
    },
    {
     "author": "treje",
@@ -276,7 +276,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16407
+  "total_counts": 16800
  },
- "latest_count": 20316407
+ "latest_count": 20316800
 }
