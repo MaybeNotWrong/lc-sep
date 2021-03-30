@@ -142,12 +142,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "abplows",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "only_counts_evens",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31782
+  "total_counts": 31783
  },
  "100k": {
   "hoc": [
@@ -184,6 +189,10 @@
     "counts": 3
    },
    {
+    "author": "abplows",
+    "counts": 1
+   },
+   {
     "author": "gordonpt8",
     "counts": 1
    },
@@ -196,7 +205,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1031
+  "total_counts": 1032
  },
- "latest_count": 20401031
+ "latest_count": 20401032
 }
