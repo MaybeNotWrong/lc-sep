@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "gordonpt8",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Iamspeedy36",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
-    "counts": 2,
+    "author": "overdrafts",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -82,6 +87,10 @@
     "counts": 6
    },
    {
+    "author": "gordonpt8",
+    "counts": 6
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 6
    },
@@ -90,23 +99,19 @@
     "counts": 5
    },
    {
-    "author": "gordonpt8",
-    "counts": 5
-   },
-   {
     "author": "AnonymousCounter",
     "counts": 4
    },
    {
     "author": "overdrafts",
-    "counts": 2
+    "counts": 3
    },
    {
     "author": "supersammy00",
     "counts": 1
    }
   ],
-  "total_counts": 3128
+  "total_counts": 3130
  },
- "latest_count": 20403128
+ "latest_count": 20403130
 }
