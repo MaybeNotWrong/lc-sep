@@ -107,17 +107,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "overdrafts",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "overdrafts",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27695
+  "total_counts": 27696
  },
  "100k": {
   "hoc": [
@@ -225,11 +225,11 @@
     "counts": 4
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 3
+    "author": "overdrafts",
+    "counts": 4
    },
    {
-    "author": "overdrafts",
+    "author": "buy_me_a_pint",
     "counts": 3
    },
    {
@@ -253,11 +253,11 @@
     "counts": 1
    }
   ],
-  "total_counts": 30818
+  "total_counts": 30819
  },
  "april": [
   null,
   null
  ],
- "latest_count": 20430818
+ "latest_count": 20430819
 }
