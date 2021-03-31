@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 12092,
+    "counts": 12230,
     "has_wrc_req": false
    },
    {
@@ -28,7 +28,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 192,
+    "counts": 193,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 154,
     "has_wrc_req": false
    },
    {
@@ -59,11 +64,6 @@
    {
     "author": "Cox_1920",
     "counts": 19,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -132,13 +132,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26885
+  "total_counts": 27161
  },
  "100k": {
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 12576
+    "counts": 12714
    },
    {
     "author": "ItzTaken",
@@ -166,7 +166,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 192
+    "counts": 193
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 170
    },
    {
     "author": "Tranquilsunrise",
@@ -191,10 +195,6 @@
    {
     "author": "Cox_1920",
     "counts": 38
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 33
    },
    {
     "author": "davidjl123",
@@ -253,11 +253,11 @@
     "counts": 1
    }
   ],
-  "total_counts": 30008
+  "total_counts": 30284
  },
  "april": [
   null,
   null
  ],
- "latest_count": 20430008
+ "latest_count": 20430284
 }
