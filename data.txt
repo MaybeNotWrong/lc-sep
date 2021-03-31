@@ -8,7 +8,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 11501,
+    "counts": 11659,
     "has_wrc_req": false
    },
    {
@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 268,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 192,
     "has_wrc_req": false
@@ -29,11 +34,6 @@
    {
     "author": "Tranquilsunrise",
     "counts": 124,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 110,
     "has_wrc_req": false
    },
    {
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26064
+  "total_counts": 26380
  },
  "100k": {
   "hoc": [
@@ -142,7 +142,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 11857
+    "counts": 12015
    },
    {
     "author": "treje",
@@ -161,12 +161,12 @@
     "counts": 359
    },
    {
-    "author": "Lonadont",
-    "counts": 192
+    "author": "LeinadSpoon",
+    "counts": 297
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 139
+    "author": "Lonadont",
+    "counts": 192
    },
    {
     "author": "Tranquilsunrise",
@@ -253,11 +253,11 @@
     "counts": 1
    }
   ],
-  "total_counts": 29187
+  "total_counts": 29503
  },
  "april": [
   null,
   null
  ],
- "latest_count": 20429187
+ "latest_count": 20429503
 }
