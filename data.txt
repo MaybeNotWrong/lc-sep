@@ -98,7 +98,7 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27681
+  "total_counts": 27682
  },
  "100k": {
   "hoc": [
@@ -225,12 +225,12 @@
     "counts": 4
    },
    {
-    "author": "overdrafts",
+    "author": "buy_me_a_pint",
     "counts": 3
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 2
+    "author": "overdrafts",
+    "counts": 3
    },
    {
     "author": "noduorg",
@@ -253,11 +253,11 @@
     "counts": 1
    }
   ],
-  "total_counts": 30804
+  "total_counts": 30805
  },
  "april": [
   null,
   null
  ],
- "latest_count": 20430804
+ "latest_count": 20430805
 }
