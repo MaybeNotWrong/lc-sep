@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "ItzTaken",
+    "counts": 1137,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1023,
     "has_wrc_req": false
@@ -9,11 +14,6 @@
    {
     "author": "rideride",
     "counts": 1017,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ItzTaken",
-    "counts": 1015,
     "has_wrc_req": false
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 201,
+    "counts": 324,
     "has_wrc_req": false
    },
    {
@@ -53,7 +53,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 56,
+    "counts": 57,
     "has_wrc_req": false
    },
    {
@@ -137,13 +137,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5445
+  "total_counts": 5691
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 22938
+    "counts": 23060
    },
    {
     "author": "MaybeNotWrong",
@@ -178,16 +178,16 @@
     "counts": 360
    },
    {
+    "author": "VitaminB16",
+    "counts": 333
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 311
    },
    {
     "author": "Lonadont",
-    "counts": 256
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 210
+    "counts": 257
    },
    {
     "author": "Iamspeedy36",
@@ -278,11 +278,11 @@
     "counts": 1
    }
   ],
-  "total_counts": 56546
+  "total_counts": 56792
  },
  "april": [
-  3048,
-  2397
+  3056,
+  2635
  ],
- "latest_count": 20456546
+ "latest_count": 20456792
 }
