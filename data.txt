@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "rideride",
+    "counts": 11,
+    "has_wrc_req": false
+   },
+   {
     "author": "ItzTaken",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
+    "author": "King_INF3RN0",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "King_INF3RN0",
-    "counts": 6,
+    "author": "Tranquilsunrise",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -22,22 +27,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Dandelion212",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Dandelion212",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "haykam821",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 31
+  "total_counts": 40
  },
  "100k": {
   "hoc": [
@@ -51,7 +61,7 @@
    },
    {
     "author": "rideride",
-    "counts": 529
+    "counts": 532
    },
    {
     "author": "treje",
@@ -83,11 +93,11 @@
    },
    {
     "author": "davidjl123",
-    "counts": 23
+    "counts": 24
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 17
+    "counts": 19
    },
    {
     "author": "haykam821",
@@ -98,16 +108,16 @@
     "counts": 9
    },
    {
+    "author": "King_INF3RN0",
+    "counts": 8
+   },
+   {
     "author": "Iamspeedy36",
     "counts": 7
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 7
-   },
-   {
-    "author": "King_INF3RN0",
-    "counts": 6
    },
    {
     "author": "LeinadSpoon",
@@ -142,11 +152,15 @@
     "counts": 1
    },
    {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
     "author": "andrewtheredditor",
     "counts": 1
    }
   ],
-  "total_counts": 13682
+  "total_counts": 13691
  },
- "latest_count": 20513682
+ "latest_count": 20513691
 }
