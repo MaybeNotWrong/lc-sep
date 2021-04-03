@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "rideride",
-    "counts": 11,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
     "author": "ItzTaken",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -18,11 +18,16 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "abplows",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -40,20 +45,15 @@
     "author": "haykam821",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 40
+  "total_counts": 47
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 5993
+    "counts": 5994
    },
    {
     "author": "amazingpikachu_38",
@@ -61,7 +61,7 @@
    },
    {
     "author": "rideride",
-    "counts": 532
+    "counts": 534
    },
    {
     "author": "treje",
@@ -85,7 +85,7 @@
    },
    {
     "author": "abplows",
-    "counts": 32
+    "counts": 33
    },
    {
     "author": "VitaminB16",
@@ -97,7 +97,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 19
+    "counts": 20
    },
    {
     "author": "haykam821",
@@ -140,6 +140,10 @@
     "counts": 3
    },
    {
+    "author": "Antichess",
+    "counts": 3
+   },
+   {
     "author": "supersammy00",
     "counts": 2
    },
@@ -152,15 +156,11 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
-    "counts": 1
-   },
-   {
     "author": "andrewtheredditor",
     "counts": 1
    }
   ],
-  "total_counts": 13691
+  "total_counts": 13698
  },
- "latest_count": 20513691
+ "latest_count": 20513698
 }
