@@ -28,7 +28,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 45,
+    "counts": 47,
     "has_wrc_req": false
    },
    {
@@ -38,7 +38,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 12,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -52,8 +52,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "techno-fusion21",
     "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -67,11 +77,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "MaybeNotWrong",
     "counts": 2,
     "has_wrc_req": false
@@ -79,11 +84,6 @@
    {
     "author": "Dandelion212",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9726
+  "total_counts": 9736
  },
  "100k": {
   "hoc": [
@@ -154,15 +154,15 @@
    },
    {
     "author": "Lonadont",
-    "counts": 50
+    "counts": 52
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 39
    },
    {
     "author": "davidjl123",
     "counts": 38
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 35
    },
    {
     "author": "VitaminB16",
@@ -170,7 +170,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 27
+    "counts": 29
    },
    {
     "author": "haykam821",
@@ -201,6 +201,10 @@
     "counts": 5
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 5
+   },
+   {
     "author": "Dandelion212",
     "counts": 3
    },
@@ -210,10 +214,6 @@
    },
    {
     "author": "Antichess",
-    "counts": 3
-   },
-   {
-    "author": "andrewtheredditor",
     "counts": 3
    },
    {
@@ -237,7 +237,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23377
+  "total_counts": 23387
  },
- "latest_count": 20523378
+ "latest_count": 20523388
 }
