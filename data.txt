@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
@@ -63,11 +68,6 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4031
+  "total_counts": 4032
  },
  "100k": {
   "hoc": [
@@ -192,15 +192,15 @@
     "counts": 5
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 5
+   },
+   {
     "author": "TheNitromeFan",
     "counts": 4
    },
    {
     "author": "supersammy00",
-    "counts": 4
-   },
-   {
-    "author": "buy_me_a_pint",
     "counts": 4
    },
    {
@@ -240,7 +240,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 85037
+  "total_counts": 85038
  },
- "latest_count": 20585038
+ "latest_count": 20585039
 }
