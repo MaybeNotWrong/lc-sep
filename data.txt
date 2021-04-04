@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 17269,
+    "counts": 17292,
     "has_wrc_req": true
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 10575,
+    "counts": 10577,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10277,
+    "counts": 10286,
     "has_wrc_req": false
    },
    {
@@ -23,7 +23,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1958,
+    "counts": 1959,
     "has_wrc_req": false
    },
    {
@@ -57,13 +57,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 57,
+    "author": "abplows",
+    "counts": 89,
     "has_wrc_req": false
    },
    {
-    "author": "abplows",
-    "counts": 56,
+    "author": "andrewtheredditor",
+    "counts": 57,
     "has_wrc_req": false
    },
    {
@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "rschaosid",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 4,
     "has_wrc_req": false
@@ -119,11 +124,6 @@
    {
     "author": "Whit4You",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rschaosid",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -157,25 +157,25 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 44028
+  "total_counts": 44099
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 9809
+    "counts": 9832
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 8310
+    "counts": 8319
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 3347
+    "counts": 3349
    },
    {
     "author": "Trial-Name",
-    "counts": 1954
+    "counts": 1955
    },
    {
     "author": "Lonadont",
@@ -198,6 +198,10 @@
     "counts": 52
    },
    {
+    "author": "abplows",
+    "counts": 49
+   },
+   {
     "author": "VitaminB16",
     "counts": 36
    },
@@ -206,8 +210,8 @@
     "counts": 22
    },
    {
-    "author": "abplows",
-    "counts": 16
+    "author": "rschaosid",
+    "counts": 4
    },
    {
     "author": "gordonpt8",
@@ -230,10 +234,6 @@
     "counts": 2
    },
    {
-    "author": "rschaosid",
-    "counts": 1
-   },
-   {
     "author": "supersammy00",
     "counts": 1
    },
@@ -250,7 +250,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 25035
+  "total_counts": 25106
  },
- "latest_count": 20625034
+ "latest_count": 20625105
 }
