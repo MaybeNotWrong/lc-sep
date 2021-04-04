@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4000
+  "total_counts": 4001
  },
  "100k": {
   "hoc": [
@@ -203,11 +208,15 @@
     "counts": 2
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
     "author": "Graphite_bot",
     "counts": 1
    }
   ],
-  "total_counts": 85006
+  "total_counts": 85007
  },
- "latest_count": 20585007
+ "latest_count": 20585008
 }
