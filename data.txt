@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -46,7 +51,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 304
+    "counts": 305
    },
    {
     "author": "Markymark10133",
@@ -78,7 +83,7 @@
    },
    {
     "author": "treje",
-    "counts": 16
+    "counts": 17
    },
    {
     "author": "Cox_1920",
@@ -121,7 +126,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26129
+  "total_counts": 26131
  },
- "latest_count": 20626128
+ "latest_count": 20626130
 }
