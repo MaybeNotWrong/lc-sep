@@ -8,18 +8,18 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 3844,
+    "counts": 3845,
     "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1482,
+    "has_wrc_req": true
    },
    {
     "author": "treje",
     "counts": 1434,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1399,
-    "has_wrc_req": true
    },
    {
     "author": "rideride",
@@ -28,7 +28,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 864,
+    "counts": 948,
     "has_wrc_req": false
    },
    {
@@ -48,7 +48,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 16,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -122,6 +122,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "youjustlostandrew",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -147,7 +152,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14131
+  "total_counts": 14302
  },
  "100k": {
   "hoc": [
@@ -157,15 +162,15 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 1547
+    "counts": 1548
    },
    {
     "author": "Lonadont",
-    "counts": 1368
+    "counts": 1451
    },
    {
     "author": "Trial-Name",
-    "counts": 859
+    "counts": 943
    },
    {
     "author": "TheMatsValk",
@@ -173,7 +178,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 15
+    "counts": 16
    },
    {
     "author": "Cox_1920",
@@ -184,11 +189,15 @@
     "counts": 4
    },
    {
+    "author": "youjustlostandrew",
+    "counts": 2
+   },
+   {
     "author": "Whit4You",
     "counts": 2
    }
   ],
-  "total_counts": 5837
+  "total_counts": 6008
  },
- "latest_count": 20705837
+ "latest_count": 20706008
 }
