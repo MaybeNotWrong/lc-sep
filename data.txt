@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "rideride",
+    "counts": 469,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 465,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 333,
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 311,
-    "has_wrc_req": false
-   },
-   {
     "author": "ItzTaken",
     "counts": 307,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 306,
     "has_wrc_req": false
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1284
+  "total_counts": 1602
  },
  "100k": {
   "hoc": [
@@ -88,15 +88,19 @@
    },
    {
     "author": "davidjl123",
-    "counts": 2058
+    "counts": 2059
    },
    {
     "author": "treje",
-    "counts": 1573
+    "counts": 1732
    },
    {
     "author": "ddodd69",
     "counts": 1088
+   },
+   {
+    "author": "rideride",
+    "counts": 967
    },
    {
     "author": "VitaminB16",
@@ -105,10 +109,6 @@
    {
     "author": "TheMatsValk",
     "counts": 863
-   },
-   {
-    "author": "rideride",
-    "counts": 809
    },
    {
     "author": "Lonadont",
@@ -223,7 +223,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92993
+  "total_counts": 93311
  },
- "latest_count": 20692990
+ "latest_count": 20693308
 }
