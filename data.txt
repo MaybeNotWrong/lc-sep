@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 4306,
+    "counts": 4384,
     "has_wrc_req": false
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 233,
+    "counts": 310,
     "has_wrc_req": false
    },
    {
@@ -82,6 +82,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 4,
     "has_wrc_req": false
@@ -98,11 +103,6 @@
    },
    {
     "author": "IgnoringWhitToo",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -147,13 +147,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11706
+  "total_counts": 11862
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 1702
+    "counts": 1780
    },
    {
     "author": "MaybeNotWrong",
@@ -161,22 +161,22 @@
    },
    {
     "author": "Lonadont",
-    "counts": 202
+    "counts": 279
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 3
    },
    {
     "author": "Cox_1920",
     "counts": 3
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1
    }
   ],
-  "total_counts": 3412
+  "total_counts": 3568
  },
- "latest_count": 20703412
+ "latest_count": 20703568
 }
