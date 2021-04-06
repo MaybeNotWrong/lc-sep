@@ -13,7 +13,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1487,
+    "counts": 1489,
     "has_wrc_req": true
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 949,
+    "counts": 952,
     "has_wrc_req": false
    },
    {
@@ -137,6 +137,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MatsLCChatsTab",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -152,7 +157,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14319
+  "total_counts": 14325
  },
  "100k": {
   "hoc": [
@@ -166,11 +171,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1456
+    "counts": 1458
    },
    {
     "author": "Trial-Name",
-    "counts": 944
+    "counts": 947
    },
    {
     "author": "TheMatsValk",
@@ -199,9 +204,13 @@
    {
     "author": "VitaminB16",
     "counts": 1
+   },
+   {
+    "author": "MatsLCChatsTab",
+    "counts": 1
    }
   ],
-  "total_counts": 6025
+  "total_counts": 6031
  },
- "latest_count": 20706025
+ "latest_count": 20706031
 }
