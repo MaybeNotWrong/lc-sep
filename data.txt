@@ -83,7 +83,12 @@
    },
    {
     "author": "abplows",
-    "counts": 46,
+    "counts": 47,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 32,
     "has_wrc_req": false
    },
    {
@@ -92,13 +97,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
-    "counts": 31,
-    "has_wrc_req": false
-   },
-   {
     "author": "Whit4You",
-    "counts": 29,
+    "counts": 31,
     "has_wrc_req": false
    },
    {
@@ -237,7 +237,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 43331
+  "total_counts": 43335
  },
  "100k": {
   "hoc": [
@@ -298,12 +298,12 @@
     "counts": 94
    },
    {
-    "author": "treje",
+    "author": "abplows",
     "counts": 47
    },
    {
-    "author": "abplows",
-    "counts": 46
+    "author": "treje",
+    "counts": 47
    },
    {
     "author": "rideride",
@@ -311,7 +311,7 @@
    },
    {
     "author": "Whit4You",
-    "counts": 27
+    "counts": 29
    },
    {
     "author": "davidjl123",
@@ -319,7 +319,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "48888CountsADay",
@@ -390,7 +390,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35037
+  "total_counts": 35041
  },
- "latest_count": 20735037
+ "latest_count": 20735041
 }
