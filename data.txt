@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Trial-Name",
-    "counts": 6876,
+    "counts": 6878,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 4429,
+    "counts": 4430,
     "has_wrc_req": true
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "Whit4You",
-    "counts": 1490,
+    "counts": 1491,
     "has_wrc_req": false
    },
    {
@@ -92,6 +92,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "techno-fusion21",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "TehVulpez",
     "counts": 2,
     "has_wrc_req": false
@@ -117,17 +127,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "couscous666",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25028
+  "total_counts": 25035
  },
  "100k": {
   "hoc": [
@@ -141,11 +146,11 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 10539
+    "counts": 10541
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 6114
+    "counts": 6115
    },
    {
     "author": "rideride",
@@ -157,7 +162,7 @@
    },
    {
     "author": "Whit4You",
-    "counts": 1566
+    "counts": 1567
    },
    {
     "author": "NobodyL0vesMe",
@@ -260,11 +265,19 @@
     "counts": 2
    },
    {
+    "author": "techno-fusion21",
+    "counts": 2
+   },
+   {
     "author": "Antichess",
     "counts": 2
    },
    {
     "author": "MatsLCChatsTab",
+    "counts": 2
+   },
+   {
+    "author": "buy_me_a_pint",
     "counts": 2
    },
    {
@@ -294,13 +307,9 @@
    {
     "author": "HeadingToIceland",
     "counts": 1
-   },
-   {
-    "author": "buy_me_a_pint",
-    "counts": 1
    }
   ],
-  "total_counts": 60480
+  "total_counts": 60487
  },
- "latest_count": 20760481
+ "latest_count": 20760488
 }
