@@ -33,7 +33,12 @@
    },
    {
     "author": "abplows",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -50,14 +55,9 @@
     "author": "couscous666",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 1554
+  "total_counts": 1556
  },
  "100k": {
   "hoc": [
@@ -131,7 +131,7 @@
    },
    {
     "author": "abplows",
-    "counts": 74
+    "counts": 75
    },
    {
     "author": "Cox_1920",
@@ -147,7 +147,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "MarsLifetimeOfGuilt",
@@ -218,7 +218,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37006
+  "total_counts": 37008
  },
- "latest_count": 20737007
+ "latest_count": 20737009
 }
