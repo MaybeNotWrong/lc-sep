@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "rideride",
-    "counts": 3002,
+    "counts": 3118,
     "has_wrc_req": true
    },
    {
@@ -12,14 +12,14 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1573,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1534,
     "has_wrc_req": true
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1458,
-    "has_wrc_req": false
    },
    {
     "author": "Whit4You",
@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "funfact15",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10602
+  "total_counts": 10834
  },
  "100k": {
   "hoc": [
@@ -101,15 +106,15 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 5121
+    "counts": 5236
+   },
+   {
+    "author": "rideride",
+    "counts": 3285
    },
    {
     "author": "MaybeNotWrong",
     "counts": 3219
-   },
-   {
-    "author": "rideride",
-    "counts": 3169
    },
    {
     "author": "Lonadont",
@@ -204,11 +209,11 @@
     "counts": 4
    },
    {
-    "author": "49999CountsADay",
-    "counts": 3
+    "author": "noduorg",
+    "counts": 4
    },
    {
-    "author": "noduorg",
+    "author": "49999CountsADay",
     "counts": 3
    },
    {
@@ -256,7 +261,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46054
+  "total_counts": 46286
  },
- "latest_count": 20746055
+ "latest_count": 20746287
 }
