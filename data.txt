@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Whit4You",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -25,7 +30,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 1000
+    "counts": 1001
    },
    {
     "author": "Whit4You",
@@ -52,7 +57,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 9138
+  "total_counts": 9139
  },
- "latest_count": 20809138
+ "latest_count": 20809139
 }
