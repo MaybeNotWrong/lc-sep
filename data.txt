@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 13100,
+    "counts": 13101,
     "has_wrc_req": false
    },
    {
@@ -23,7 +23,7 @@
    },
    {
     "author": "rideride",
-    "counts": 5777,
+    "counts": 5928,
     "has_wrc_req": true
    },
    {
@@ -73,7 +73,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 323,
+    "counts": 472,
     "has_wrc_req": false
    },
    {
@@ -177,21 +177,25 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 65117
+  "total_counts": 65418
  },
  "100k": {
   "hoc": [
    {
     "author": "rideride",
-    "counts": 283
+    "counts": 434
    },
    {
     "author": "davidjl123",
-    "counts": 282
+    "counts": 431
    },
    {
     "author": "TheMatsValk",
     "counts": 2
+   },
+   {
+    "author": "ItzTaken",
+    "counts": 1
    },
    {
     "author": "abplows",
@@ -206,7 +210,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 570
+  "total_counts": 871
  },
- "latest_count": 20800570
+ "latest_count": 20800871
 }
