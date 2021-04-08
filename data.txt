@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Whit4You",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -23,7 +29,7 @@
    },
    {
     "author": "Whit4You",
-    "counts": 180
+    "counts": 181
    },
    {
     "author": "abplows",
@@ -46,7 +52,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 9137
+  "total_counts": 9138
  },
- "latest_count": 20809137
+ "latest_count": 20809138
 }
