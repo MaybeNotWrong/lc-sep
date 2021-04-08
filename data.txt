@@ -52,6 +52,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "TehVulpez",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 3,
     "has_wrc_req": false
@@ -72,18 +82,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "lurker_24",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4885
+  "total_counts": 4889
  },
  "100k": {
   "hoc": [
@@ -160,12 +160,16 @@
     "counts": 5
    },
    {
-    "author": "Lonadont",
+    "author": "TehVulpez",
+    "counts": 4
+   },
+   {
+    "author": "Trial-Name",
     "counts": 3
    },
    {
-    "author": "TehVulpez",
-    "counts": 2
+    "author": "Lonadont",
+    "counts": 3
    },
    {
     "author": "lurker_24",
@@ -178,10 +182,6 @@
    {
     "author": "TheMatsValk",
     "counts": 2
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
    },
    {
     "author": "MaybeNotWrong",
@@ -200,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14022
+  "total_counts": 14026
  },
- "latest_count": 20814022
+ "latest_count": 20814026
 }
