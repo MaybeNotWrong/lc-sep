@@ -122,6 +122,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TOP_20",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -132,7 +137,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11614
+  "total_counts": 11615
  },
  "100k": {
   "hoc": [
@@ -281,6 +286,10 @@
     "counts": 2
    },
    {
+    "author": "TOP_20",
+    "counts": 1
+   },
+   {
     "author": "_TheRealKeel_",
     "counts": 1
    },
@@ -293,7 +302,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 64637
+  "total_counts": 64638
  },
- "latest_count": 20864637
+ "latest_count": 20864638
 }
