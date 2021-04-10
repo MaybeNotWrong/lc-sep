@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "SecretAsianMa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -29,7 +34,7 @@
    },
    {
     "author": "SecretAsianMa",
-    "counts": 3840
+    "counts": 3841
    },
    {
     "author": "Trial-Name",
@@ -180,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 95219
+  "total_counts": 95220
  },
- "latest_count": 20895219
+ "latest_count": 20895220
 }
