@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "SecretAsianMa",
-    "counts": 5,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -37,7 +42,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 25578
+    "counts": 25580
    },
    {
     "author": "MaybeNotWrong",
@@ -49,7 +54,7 @@
    },
    {
     "author": "SecretAsianMa",
-    "counts": 3845
+    "counts": 3846
    },
    {
     "author": "Trial-Name",
@@ -200,7 +205,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 95228
+  "total_counts": 95231
  },
- "latest_count": 20895228
+ "latest_count": 20895231
 }
