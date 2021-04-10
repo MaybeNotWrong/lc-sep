@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 12326,
+    "counts": 12327,
     "has_wrc_req": false
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 12215,
+    "counts": 12216,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 28,
+    "counts": 29,
     "has_wrc_req": false
    },
    {
@@ -92,6 +92,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
@@ -112,17 +117,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 24808
+  "total_counts": 24812
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 9987
+    "counts": 9988
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 9875
+    "counts": 9876
    },
    {
     "author": "Whit4You",
@@ -133,11 +138,11 @@
     "counts": 15
    },
    {
-    "author": "Cox_1920",
-    "counts": 11
+    "author": "buy_me_a_pint",
+    "counts": 12
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "Cox_1920",
     "counts": 11
    },
    {
@@ -159,9 +164,13 @@
    {
     "author": "Zaajdaeon",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 20026
+  "total_counts": 20030
  },
- "latest_count": 20920026
+ "latest_count": 20920030
 }
