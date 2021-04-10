@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 17632,
+    "counts": 17738,
     "has_wrc_req": true
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 14649,
+    "counts": 14755,
     "has_wrc_req": true
    },
    {
@@ -77,13 +77,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
+    "author": "davidjl123",
     "counts": 15,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 14,
+    "author": "rideride",
+    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -98,6 +98,11 @@
    },
    {
     "author": "Iamspeedy36",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -119,11 +124,6 @@
    {
     "author": "Antichess",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -157,17 +157,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40573
+  "total_counts": 40787
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 15293
+    "counts": 15399
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 12309
+    "counts": 12415
    },
    {
     "author": "amazingpikachu_38",
@@ -223,7 +223,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 7
+    "counts": 8
    },
    {
     "author": "Iamspeedy36",
@@ -235,6 +235,10 @@
    },
    {
     "author": "NobodyL0vesMe",
+    "counts": 2
+   },
+   {
+    "author": "gordonpt8",
     "counts": 2
    },
    {
@@ -254,10 +258,6 @@
     "counts": 1
    },
    {
-    "author": "gordonpt8",
-    "counts": 1
-   },
-   {
     "author": "888Nox",
     "counts": 1
    },
@@ -266,7 +266,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35791
+  "total_counts": 36005
  },
- "latest_count": 20935791
+ "latest_count": 20936005
 }
