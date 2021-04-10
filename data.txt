@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 6174,
+    "counts": 6337,
     "has_wrc_req": false
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 6061,
+    "counts": 6224,
     "has_wrc_req": false
    },
    {
@@ -102,22 +102,27 @@
     "has_wrc_req": false
    },
    {
+    "author": "Zaajdaeon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12463
+  "total_counts": 12790
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 3835
+    "counts": 3998
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 3721
+    "counts": 3884
    },
    {
     "author": "Whit4You",
@@ -138,9 +143,13 @@
    {
     "author": "Lonadont",
     "counts": 2
+   },
+   {
+    "author": "Zaajdaeon",
+    "counts": 1
    }
   ],
-  "total_counts": 7681
+  "total_counts": 8008
  },
- "latest_count": 20907681
+ "latest_count": 20908008
 }
