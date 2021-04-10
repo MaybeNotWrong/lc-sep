@@ -27,6 +27,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 152,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SecretAsianMa",
+    "counts": 124,
+    "has_wrc_req": false
+   },
+   {
     "author": "Whit4You",
     "counts": 113,
     "has_wrc_req": false
@@ -34,16 +44,6 @@
    {
     "author": "buy_me_a_pint",
     "counts": 61,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 59,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SecretAsianMa",
-    "counts": 30,
     "has_wrc_req": false
    },
    {
@@ -147,7 +147,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31171
+  "total_counts": 31358
  },
  "100k": {
   "hoc": [
@@ -172,12 +172,16 @@
     "counts": 1069
    },
    {
-    "author": "Whit4You",
-    "counts": 113
+    "author": "Trial-Name",
+    "counts": 148
    },
    {
-    "author": "Trial-Name",
-    "counts": 55
+    "author": "SecretAsianMa",
+    "counts": 118
+   },
+   {
+    "author": "Whit4You",
+    "counts": 113
    },
    {
     "author": "buy_me_a_pint",
@@ -186,10 +190,6 @@
    {
     "author": "VitaminB16",
     "counts": 26
-   },
-   {
-    "author": "SecretAsianMa",
-    "counts": 24
    },
    {
     "author": "Lonadont",
@@ -240,7 +240,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26389
+  "total_counts": 26576
  },
- "latest_count": 20926389
+ "latest_count": 20926576
 }
