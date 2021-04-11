@@ -33,7 +33,12 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 16,
+    "counts": 17,
+    "has_wrc_req": false
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -43,11 +48,6 @@
    },
    {
     "author": "Lonadont",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "buy_me_a_pint",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Whit4You",
     "counts": 2,
     "has_wrc_req": false
@@ -74,11 +79,6 @@
    {
     "author": "andrewtheredditor",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21264
+  "total_counts": 21267
  },
  "100k": {
   "hoc": [
@@ -145,7 +145,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 547
+    "counts": 548
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -165,7 +165,7 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 106
+    "counts": 107
    },
    {
     "author": "abc_wtf",
@@ -181,7 +181,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 36
+    "counts": 37
    },
    {
     "author": "Lonadont",
@@ -252,7 +252,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78049
+  "total_counts": 78052
  },
- "latest_count": 20978049
+ "latest_count": 20978052
 }
