@@ -52,8 +52,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "CTAM_Invasion_2021",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -63,11 +73,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -107,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5759
+  "total_counts": 5761
  },
  "100k": {
   "hoc": [
@@ -129,7 +134,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 742
+    "counts": 743
    },
    {
     "author": "NikinCZ",
@@ -216,6 +221,10 @@
     "counts": 3
    },
    {
+    "author": "CTAM_Invasion_2021",
+    "counts": 1
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    },
@@ -232,7 +241,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12414
+  "total_counts": 12416
  },
- "latest_count": 21012414
+ "latest_count": 21012416
 }
