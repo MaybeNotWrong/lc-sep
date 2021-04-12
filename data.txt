@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LC_RECON_Team",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -102,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5758
+  "total_counts": 5759
  },
  "100k": {
   "hoc": [
@@ -221,9 +226,13 @@
    {
     "author": "noduorg",
     "counts": 1
+   },
+   {
+    "author": "LC_RECON_Team",
+    "counts": 1
    }
   ],
-  "total_counts": 12413
+  "total_counts": 12414
  },
- "latest_count": 21012413
+ "latest_count": 21012414
 }
