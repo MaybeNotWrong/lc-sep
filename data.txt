@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "darrenrs",
-    "counts": 70,
+    "counts": 122,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
-    "counts": 70,
+    "counts": 122,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -35,14 +40,9 @@
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 146
+  "total_counts": 251
  },
  "100k": {
   "hoc": [
@@ -79,20 +79,20 @@
     "counts": 276
    },
    {
+    "author": "TheMatsValk",
+    "counts": 150
+   },
+   {
+    "author": "darrenrs",
+    "counts": 122
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 120
    },
    {
-    "author": "TheMatsValk",
-    "counts": 98
-   },
-   {
     "author": "VitaminB16",
     "counts": 90
-   },
-   {
-    "author": "darrenrs",
-    "counts": 70
    },
    {
     "author": "abplows",
@@ -115,11 +115,11 @@
     "counts": 14
    },
    {
-    "author": "SecretAsianMa",
-    "counts": 13
+    "author": "davidjl123",
+    "counts": 14
    },
    {
-    "author": "davidjl123",
+    "author": "SecretAsianMa",
     "counts": 13
    },
    {
@@ -159,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6801
+  "total_counts": 6906
  },
- "latest_count": 21006801
+ "latest_count": 21006906
 }
