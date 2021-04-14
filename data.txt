@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -119,7 +125,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "supersammy00",
@@ -226,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 77157
+  "total_counts": 77158
  },
- "latest_count": 21077159
+ "latest_count": 21077160
 }
