@@ -107,6 +107,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -122,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14900
+  "total_counts": 14901
  },
  "100k": {
   "hoc": [
@@ -311,6 +316,10 @@
     "counts": 2
    },
    {
+    "author": "Countletics",
+    "counts": 1
+   },
+   {
     "author": "artbn",
     "counts": 1
    },
@@ -355,7 +364,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92057
+  "total_counts": 92058
  },
- "latest_count": 21092059
+ "latest_count": 21092060
 }
