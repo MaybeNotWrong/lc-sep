@@ -2,23 +2,28 @@
  "day": {
   "hoc": [
    {
+    "author": "supersammy00",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "-TheDockOfTheBay-",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "abplows",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "-TheDockOfTheBay-",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "supersammy00",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "SingsDuringArguments",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -37,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 18
+  "total_counts": 22
  },
  "100k": {
   "hoc": [
@@ -55,7 +60,7 @@
    },
    {
     "author": "rideride",
-    "counts": 620
+    "counts": 621
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -67,7 +72,7 @@
    },
    {
     "author": "supersammy00",
-    "counts": 19
+    "counts": 21
    },
    {
     "author": "TheMatsValk",
@@ -99,7 +104,7 @@
    },
    {
     "author": "-TheDockOfTheBay-",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "--Not_Clutter--",
@@ -170,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12546
+  "total_counts": 12550
  },
- "latest_count": 21112546
+ "latest_count": 21112550
 }
