@@ -2,22 +2,27 @@
  "day": {
   "hoc": [
    {
+    "author": "-TheDockOfTheBay-",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "abplows",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "supersammy00",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "SingsDuringArguments",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "-TheDockOfTheBay-",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "--MoralOfTheStory--",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "abplows",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -27,18 +32,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "supersammy00",
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5631
+    "counts": 5632
    },
    {
     "author": "ItzTaken",
@@ -66,7 +71,7 @@
    },
    {
     "author": "supersammy00",
-    "counts": 16
+    "counts": 17
    },
    {
     "author": "haykam821",
@@ -89,6 +94,10 @@
     "counts": 6
    },
    {
+    "author": "abplows",
+    "counts": 6
+   },
+   {
     "author": "--Not_Clutter--",
     "counts": 4
    },
@@ -101,16 +110,16 @@
     "counts": 4
    },
    {
-    "author": "abplows",
-    "counts": 4
-   },
-   {
     "author": "SingsDuringArguments",
     "counts": 4
    },
    {
     "author": "andrewtheredditor",
     "counts": 4
+   },
+   {
+    "author": "-TheDockOfTheBay-",
+    "counts": 3
    },
    {
     "author": "AutomatedCountingBot",
@@ -141,10 +150,6 @@
     "counts": 2
    },
    {
-    "author": "-TheDockOfTheBay-",
-    "counts": 1
-   },
-   {
     "author": "MrUnderdawg",
     "counts": 1
    },
@@ -165,7 +170,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12535
+  "total_counts": 12541
  },
- "latest_count": 21112535
+ "latest_count": 21112541
 }
