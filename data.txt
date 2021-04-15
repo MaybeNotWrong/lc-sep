@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "abplows",
+    "counts": 18,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 18,
+    "has_wrc_req": false
+   },
+   {
     "author": "supersammy00",
     "counts": 14,
     "has_wrc_req": false
@@ -17,18 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "abplows",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "SingsDuringArguments",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "-ComfortablyNumb--",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -42,13 +47,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 45
+  "total_counts": 73
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5635
+    "counts": 5649
    },
    {
     "author": "ItzTaken",
@@ -75,6 +80,10 @@
     "counts": 26
    },
    {
+    "author": "abplows",
+    "counts": 21
+   },
+   {
     "author": "TheMatsValk",
     "counts": 18
    },
@@ -92,10 +101,6 @@
    },
    {
     "author": "-TheDockOfTheBay-",
-    "counts": 8
-   },
-   {
-    "author": "abplows",
     "counts": 8
    },
    {
@@ -155,6 +160,10 @@
     "counts": 2
    },
    {
+    "author": "-ComfortablyNumb--",
+    "counts": 1
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1
    },
@@ -175,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12573
+  "total_counts": 12601
  },
- "latest_count": 21112573
+ "latest_count": 21112601
 }
