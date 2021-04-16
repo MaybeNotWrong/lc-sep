@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "funfact15",
-    "counts": 14,
+    "counts": 27,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Karp2TheRescue",
+    "counts": 19,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
     "counts": 11,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Karp2TheRescue",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 60
+  "total_counts": 85
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "funfact15",
-    "counts": 4015
+    "counts": 4028
    },
    {
     "author": "LeinadSpoon",
@@ -165,6 +165,10 @@
     "counts": 20
    },
    {
+    "author": "Karp2TheRescue",
+    "counts": 19
+   },
+   {
     "author": "Antichess",
     "counts": 15
    },
@@ -187,10 +191,6 @@
    {
     "author": "RWTIT",
     "counts": 8
-   },
-   {
-    "author": "Karp2TheRescue",
-    "counts": 7
    },
    {
     "author": "49999MessagesADay",
@@ -293,7 +293,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52203
+  "total_counts": 52228
  },
- "latest_count": 21152203
+ "latest_count": 21152228
 }
