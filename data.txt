@@ -42,8 +42,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "SoTellMeMore",
     "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "---Blast-From-Past--",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -52,18 +62,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "---Blast-From-Past--",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 177
+  "total_counts": 181
  },
  "100k": {
   "hoc": [
@@ -149,7 +149,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 807
+    "counts": 808
    },
    {
     "author": "abplows",
@@ -181,7 +181,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 55
+    "counts": 57
    },
    {
     "author": "andrewtheredditor",
@@ -256,6 +256,10 @@
     "counts": 5
    },
    {
+    "author": "---Blast-From-Past--",
+    "counts": 4
+   },
+   {
     "author": "AutomatedCountingBot",
     "counts": 4
    },
@@ -270,10 +274,6 @@
    {
     "author": "SingsDuringArguments",
     "counts": 4
-   },
-   {
-    "author": "---Blast-From-Past--",
-    "counts": 3
    },
    {
     "author": "Iamspeedy36",
@@ -332,7 +332,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52320
+  "total_counts": 52324
  },
- "latest_count": 21152320
+ "latest_count": 21152324
 }
