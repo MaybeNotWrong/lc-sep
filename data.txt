@@ -42,7 +42,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "---Blast-From-Past--",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -52,18 +62,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "---Blast-From-Past--",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "supersammy00",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 181
+  "total_counts": 184
  },
  "100k": {
   "hoc": [
@@ -149,7 +149,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 808
+    "counts": 810
    },
    {
     "author": "abplows",
@@ -232,6 +232,10 @@
     "counts": 8
    },
    {
+    "author": "---Blast-From-Past--",
+    "counts": 5
+   },
+   {
     "author": "treje",
     "counts": 5
    },
@@ -254,10 +258,6 @@
    {
     "author": "NobodyL0vesMe",
     "counts": 5
-   },
-   {
-    "author": "---Blast-From-Past--",
-    "counts": 4
    },
    {
     "author": "AutomatedCountingBot",
@@ -332,7 +332,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52324
+  "total_counts": 52327
  },
- "latest_count": 21152324
+ "latest_count": 21152327
 }
