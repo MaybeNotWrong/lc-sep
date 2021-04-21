@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Cox_1920",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
@@ -55,14 +60,9 @@
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 31
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
@@ -164,7 +164,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 7
+    "counts": 8
    },
    {
     "author": "funfact15",
@@ -219,7 +219,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 61333
+  "total_counts": 61334
  },
- "latest_count": 21361333
+ "latest_count": 21361334
 }
