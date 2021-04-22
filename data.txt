@@ -23,7 +23,17 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 491,
+    "counts": 492,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Countletics",
+    "counts": 360,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Whit4You",
+    "counts": 351,
     "has_wrc_req": false
    },
    {
@@ -32,18 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Countletics",
-    "counts": 270,
-    "has_wrc_req": false
-   },
-   {
     "author": "13CountsADay",
     "counts": 265,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Whit4You",
-    "counts": 263,
     "has_wrc_req": false
    },
    {
@@ -78,7 +78,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -107,6 +107,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "NobodyL0vesMe",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "abplows",
     "counts": 4,
     "has_wrc_req": false
@@ -118,11 +123,6 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -157,7 +157,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 34071
+  "total_counts": 34252
  },
  "100k": {
   "hoc": [
@@ -179,11 +179,15 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 500
+    "counts": 501
    },
    {
     "author": "Countletics",
-    "counts": 293
+    "counts": 383
+   },
+   {
+    "author": "Whit4You",
+    "counts": 351
    },
    {
     "author": "MrGally75",
@@ -192,10 +196,6 @@
    {
     "author": "13CountsADay",
     "counts": 265
-   },
-   {
-    "author": "Whit4You",
-    "counts": 263
    },
    {
     "author": "gordonpt8",
@@ -231,11 +231,15 @@
    },
    {
     "author": "davidjl123",
-    "counts": 16
+    "counts": 17
    },
    {
     "author": "supersammy00",
     "counts": 9
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 8
    },
    {
     "author": "Cox_1920",
@@ -243,10 +247,6 @@
    },
    {
     "author": "couscous666",
-    "counts": 7
-   },
-   {
-    "author": "NobodyL0vesMe",
     "counts": 7
    },
    {
@@ -294,7 +294,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34560
+  "total_counts": 34741
  },
- "latest_count": 21434560
+ "latest_count": 21434741
 }
