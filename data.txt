@@ -3,13 +3,18 @@
   "hoc": [
    {
     "author": "LeinadSpoon",
-    "counts": 4185,
+    "counts": 4202,
     "has_wrc_req": true
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 4133,
+    "counts": 4152,
     "has_wrc_req": true
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 57,
+    "has_wrc_req": false
    },
    {
     "author": "TOP_20",
@@ -17,8 +22,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 33,
+    "author": "420CountsADay",
+    "counts": 24,
     "has_wrc_req": false
    },
    {
@@ -28,7 +33,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -107,31 +112,26 @@
     "has_wrc_req": false
    },
    {
-    "author": "420CountsADay",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8480
+  "total_counts": 8564
  },
  "100k": {
   "hoc": [
    {
     "author": "LeinadSpoon",
-    "counts": 4186
+    "counts": 4203
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 4138
+    "counts": 4157
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 229
+    "counts": 253
    },
    {
     "author": "gordonpt8",
@@ -147,10 +147,14 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "Countletics",
+    "counts": 24
+   },
+   {
+    "author": "420CountsADay",
     "counts": 24
    },
    {
@@ -228,13 +232,9 @@
    {
     "author": "---EPIPHANY---",
     "counts": 1
-   },
-   {
-    "author": "420CountsADay",
-    "counts": 1
    }
   ],
-  "total_counts": 8969
+  "total_counts": 9053
  },
- "latest_count": 21408969
+ "latest_count": 21409053
 }
