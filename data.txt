@@ -75,9 +75,14 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 63
+  "total_counts": 64
  },
  "100k": {
   "hoc": [
@@ -162,6 +167,10 @@
     "counts": 3
    },
    {
+    "author": "artbn",
+    "counts": 1
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    },
@@ -178,7 +187,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 552
+  "total_counts": 553
  },
- "latest_count": 21400552
+ "latest_count": 21400553
 }
