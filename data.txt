@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "LeinadSpoon",
-    "counts": 5714,
+    "counts": 5867,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,12 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1618,
+    "counts": 1694,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ItzTaken",
+    "counts": 90,
     "has_wrc_req": false
    },
    {
@@ -29,11 +34,6 @@
    {
     "author": "Lonadont",
     "counts": 14,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ItzTaken",
-    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -117,13 +117,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11692
+  "total_counts": 11998
  },
  "100k": {
   "hoc": [
    {
     "author": "LeinadSpoon",
-    "counts": 5715
+    "counts": 5868
    },
    {
     "author": "MaybeNotWrong",
@@ -131,7 +131,11 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1814
+    "counts": 1890
+   },
+   {
+    "author": "ItzTaken",
+    "counts": 116
    },
    {
     "author": "gordonpt8",
@@ -148,10 +152,6 @@
    {
     "author": "TOP_20",
     "counts": 53
-   },
-   {
-    "author": "ItzTaken",
-    "counts": 39
    },
    {
     "author": "Countletics",
@@ -234,7 +234,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12181
+  "total_counts": 12487
  },
- "latest_count": 21412181
+ "latest_count": 21412487
 }
