@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "abplows",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 10
  },
  "100k": {
   "hoc": [
@@ -37,7 +42,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10848
+    "counts": 10849
    },
    {
     "author": "Rajalaxo",
@@ -93,7 +98,7 @@
    },
    {
     "author": "abplows",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "Antichess",
@@ -152,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36045
+  "total_counts": 36047
  },
- "latest_count": 21736045
+ "latest_count": 21736047
 }
