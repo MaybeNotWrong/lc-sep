@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "supersammy00",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -102,7 +107,7 @@
    },
    {
     "author": "supersammy00",
-    "counts": 8
+    "counts": 9
    },
    {
     "author": "padiwik",
@@ -145,7 +150,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73014
+  "total_counts": 73015
  },
- "latest_count": 21773013
+ "latest_count": 21773014
 }
