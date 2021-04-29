@@ -23,7 +23,7 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 1333,
+    "counts": 1425,
     "has_wrc_req": true
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 115,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 99,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "ddodd69",
     "counts": 43,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 22,
     "has_wrc_req": false
    },
    {
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40327
+  "total_counts": 40512
  },
  "100k": {
   "hoc": [
@@ -150,7 +150,11 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 308
+    "counts": 400
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 103
    },
    {
     "author": "Lonadont",
@@ -170,10 +174,6 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 10
-   },
-   {
-    "author": "Trial-Name",
     "counts": 10
    },
    {
@@ -213,7 +213,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13338
+  "total_counts": 13523
  },
- "latest_count": 21813338
+ "latest_count": 21813523
 }
