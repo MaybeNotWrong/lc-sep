@@ -23,7 +23,12 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 26,
+    "counts": 119,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Countletics",
+    "counts": 93,
     "has_wrc_req": false
    },
    {
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Countletics",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11019
+  "total_counts": 11204
  },
  "100k": {
   "hoc": [
@@ -125,11 +125,11 @@
    },
    {
     "author": "Countletics",
-    "counts": 4896
+    "counts": 4988
    },
    {
     "author": "Rajalaxo",
-    "counts": 3505
+    "counts": 3598
    },
    {
     "author": "MrGally75",
@@ -248,7 +248,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84031
+  "total_counts": 84216
  },
- "latest_count": 21784030
+ "latest_count": 21784215
 }
