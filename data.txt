@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "overdrafts",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "couscous666",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "overdrafts",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 573
+  "total_counts": 574
  },
  "100k": {
   "hoc": [
@@ -158,19 +158,19 @@
     "counts": 2
    },
    {
+    "author": "overdrafts",
+    "counts": 2
+   },
+   {
     "author": "Antichess",
     "counts": 2
    },
    {
     "author": "dominodan123",
     "counts": 1
-   },
-   {
-    "author": "overdrafts",
-    "counts": 1
    }
   ],
-  "total_counts": 28044
+  "total_counts": 28045
  },
- "latest_count": 21828044
+ "latest_count": 21828045
 }
