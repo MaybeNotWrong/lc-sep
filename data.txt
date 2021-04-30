@@ -48,7 +48,7 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -69,6 +69,11 @@
    {
     "author": "overdrafts",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -102,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 684
+  "total_counts": 686
  },
  "100k": {
   "hoc": [
@@ -124,7 +129,7 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 2638
+    "counts": 2639
    },
    {
     "author": "TheMatsValk",
@@ -191,6 +196,10 @@
     "counts": 5
    },
    {
+    "author": "VitaminB16",
+    "counts": 4
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 4
    },
@@ -200,10 +209,6 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 3
-   },
-   {
-    "author": "VitaminB16",
     "counts": 3
    },
    {
@@ -223,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28155
+  "total_counts": 28157
  },
- "latest_count": 21828155
+ "latest_count": 21828157
 }
