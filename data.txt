@@ -105,9 +105,14 @@
     "author": "couscous666",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "energy_tick",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 688
+  "total_counts": 689
  },
  "100k": {
   "hoc": [
@@ -226,9 +231,13 @@
    {
     "author": "buy_me_a_pint",
     "counts": 1
+   },
+   {
+    "author": "energy_tick",
+    "counts": 1
    }
   ],
-  "total_counts": 28159
+  "total_counts": 28160
  },
- "latest_count": 21828159
+ "latest_count": 21828160
 }
