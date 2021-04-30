@@ -3,6 +3,16 @@
   "hoc": [
    {
     "author": "TheMatsValk",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -12,22 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 9
  },
  "100k": {
   "hoc": [
@@ -37,7 +37,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 6900
+    "counts": 6901
    },
    {
     "author": "LeinadSpoon",
@@ -53,7 +53,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 1926
+    "counts": 1927
    },
    {
     "author": "MaybeNotWrong",
@@ -65,7 +65,7 @@
    },
    {
     "author": "rideride",
-    "counts": 211
+    "counts": 212
    },
    {
     "author": "Longjumping_Size_154",
@@ -132,7 +132,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 27477
+  "total_counts": 27480
  },
- "latest_count": 21827477
+ "latest_count": 21827480
 }
