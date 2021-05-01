@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 12551,
+    "counts": 12552,
     "has_wrc_req": false
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 10062,
+    "counts": 10063,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 3,
     "has_wrc_req": false
@@ -78,11 +83,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "andrewtheredditor",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -117,24 +117,28 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 34076
+  "total_counts": 34079
  },
  "100k": {
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 3084
+    "counts": 3085
    },
    {
     "author": "ItzTaken",
-    "counts": 3083
+    "counts": 3084
    },
    {
     "author": "Antichess",
     "counts": 2
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 1
    }
   ],
-  "total_counts": 6169
+  "total_counts": 6172
  },
- "latest_count": 21906169
+ "latest_count": 21906172
 }
