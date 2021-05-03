@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "rideride",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 1,
+    "author": "supersammy00",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -20,14 +25,9 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "supersammy00",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -53,7 +53,7 @@
    },
    {
     "author": "rideride",
-    "counts": 2761
+    "counts": 2762
    },
    {
     "author": "SemiRetire_by45ish",
@@ -116,12 +116,12 @@
     "counts": 14
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "supersammy00",
     "counts": 12
    },
    {
-    "author": "supersammy00",
-    "counts": 11
+    "author": "buy_me_a_pint",
+    "counts": 12
    },
    {
     "author": "Cox_1920",
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73221
+  "total_counts": 73223
  },
- "latest_count": 21973221
+ "latest_count": 21973223
 }
