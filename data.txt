@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "abplows",
     "counts": 2,
     "has_wrc_req": false
@@ -89,11 +94,6 @@
    {
     "author": "LeinadSpoon",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -127,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7320
+  "total_counts": 7321
  },
  "100k": {
   "hoc": [
@@ -193,7 +193,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "Countletics",
@@ -264,7 +264,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14033
+  "total_counts": 14034
  },
- "latest_count": 22014033
+ "latest_count": 22014034
 }
