@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 79,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ItzTaken",
+    "counts": 79,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 69,
     "has_wrc_req": false
@@ -19,16 +29,6 @@
    {
     "author": "amazingpikachu_38",
     "counts": 12,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ItzTaken",
-    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 206
+  "total_counts": 344
  },
  "100k": {
   "hoc": [
@@ -132,7 +132,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 327
+    "counts": 396
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -143,16 +143,16 @@
     "counts": 222
    },
    {
+    "author": "Lonadont",
+    "counts": 130
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 68
    },
    {
     "author": "MrGally75",
     "counts": 64
-   },
-   {
-    "author": "Lonadont",
-    "counts": 61
    },
    {
     "author": "abplows",
@@ -231,7 +231,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6919
+  "total_counts": 7057
  },
- "latest_count": 22006919
+ "latest_count": 22007057
 }
