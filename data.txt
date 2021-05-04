@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 99,
+    "counts": 353,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 278,
     "has_wrc_req": false
    },
    {
@@ -27,18 +32,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 26,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 12,
     "has_wrc_req": false
    },
    {
     "author": "Rajalaxo",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 386
+  "total_counts": 893
  },
  "100k": {
   "hoc": [
@@ -112,7 +112,7 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 1092
+    "counts": 1093
    },
    {
     "author": "davidjl123",
@@ -123,6 +123,10 @@
     "counts": 699
    },
    {
+    "author": "ItzTaken",
+    "counts": 670
+   },
+   {
     "author": "Whit4You",
     "counts": 631
    },
@@ -131,8 +135,8 @@
     "counts": 620
    },
    {
-    "author": "ItzTaken",
-    "counts": 416
+    "author": "MaybeNotWrong",
+    "counts": 341
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -145,10 +149,6 @@
    {
     "author": "Lonadont",
     "counts": 130
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 89
    },
    {
     "author": "MrGally75",
@@ -231,7 +231,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7099
+  "total_counts": 7606
  },
- "latest_count": 22007099
+ "latest_count": 22007606
 }
