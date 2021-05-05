@@ -1,7 +1,23 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -35,7 +51,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 999
+    "counts": 1000
    },
    {
     "author": "Whit4You",
@@ -43,7 +59,7 @@
    },
    {
     "author": "rideride",
-    "counts": 680
+    "counts": 681
    },
    {
     "author": "SemiRetire_by45ish",
@@ -87,7 +103,7 @@
    },
    {
     "author": "Countletics",
-    "counts": 15
+    "counts": 16
    },
    {
     "author": "noduorg",
@@ -150,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45178
+  "total_counts": 45181
  },
- "latest_count": 22045178
+ "latest_count": 22045181
 }
