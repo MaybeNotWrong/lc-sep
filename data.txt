@@ -82,6 +82,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
@@ -102,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10906
+  "total_counts": 10907
  },
  "100k": {
   "hoc": [
@@ -123,11 +128,15 @@
     "counts": 3
    },
    {
+    "author": "Countletics",
+    "counts": 1
+   },
+   {
     "author": "ItzTaken",
     "counts": 1
    }
   ],
-  "total_counts": 21
+  "total_counts": 22
  },
- "latest_count": 22100021
+ "latest_count": 22100022
 }
