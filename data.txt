@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 6945,
+    "counts": 6982,
     "has_wrc_req": true
    },
    {
@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 120,
+    "has_wrc_req": false
+   },
+   {
     "author": "andrewtheredditor",
     "counts": 99,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "TheMatsValk",
     "counts": 90,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 82,
     "has_wrc_req": false
    },
    {
@@ -97,13 +97,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "supersammy00",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "supersammy00",
-    "counts": 2,
+    "author": "Antichess",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -137,13 +137,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 16877
+  "total_counts": 16953
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 18565
+    "counts": 18602
    },
    {
     "author": "amazingpikachu_38",
@@ -194,16 +194,16 @@
     "counts": 135
    },
    {
+    "author": "VitaminB16",
+    "counts": 122
+   },
+   {
     "author": "Lonadont",
     "counts": 100
    },
    {
     "author": "NikinCZ",
     "counts": 95
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 84
    },
    {
     "author": "abplows",
@@ -238,12 +238,12 @@
     "counts": 4
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "supersammy00",
     "counts": 4
    },
    {
-    "author": "supersammy00",
-    "counts": 3
+    "author": "buy_me_a_pint",
+    "counts": 4
    },
    {
     "author": "gordonpt8",
@@ -286,7 +286,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49693
+  "total_counts": 49769
  },
- "latest_count": 22149693
+ "latest_count": 22149769
 }
