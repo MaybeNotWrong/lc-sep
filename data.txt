@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -115,14 +120,9 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 12459
+  "total_counts": 12460
  },
  "100k": {
   "hoc": [
@@ -207,11 +207,11 @@
     "counts": 14
    },
    {
-    "author": "Whit4You",
-    "counts": 8
+    "author": "Antichess",
+    "counts": 9
    },
    {
-    "author": "Antichess",
+    "author": "Whit4You",
     "counts": 8
    },
    {
@@ -271,7 +271,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45275
+  "total_counts": 45276
  },
- "latest_count": 22145275
+ "latest_count": 22145276
 }
