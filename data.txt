@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 536,
+    "counts": 675,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Rajalaxo",
+    "counts": 644,
     "has_wrc_req": false
    },
    {
     "author": "ItzTaken",
     "counts": 534,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 506,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2113
+  "total_counts": 2390
  },
  "100k": {
   "hoc": [
@@ -96,11 +96,11 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 7525
+    "counts": 7663
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 4169
+    "counts": 4308
    },
    {
     "author": "MrGally75",
@@ -239,7 +239,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82486
+  "total_counts": 82763
  },
- "latest_count": 22182486
+ "latest_count": 22182763
 }
