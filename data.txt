@@ -88,7 +88,7 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 7,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -137,7 +137,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29877
+  "total_counts": 29878
  },
  "100k": {
   "hoc": [
@@ -216,9 +216,13 @@
    {
     "author": "Chalupa_Chad",
     "counts": 1
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1
    }
   ],
-  "total_counts": 10250
+  "total_counts": 10251
  },
- "latest_count": 22210250
+ "latest_count": 22210251
 }
