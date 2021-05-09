@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "supersammy00",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 120
+  "total_counts": 121
  },
  "100k": {
   "hoc": [
@@ -148,16 +148,16 @@
     "counts": 13
    },
    {
+    "author": "Trial-Name",
+    "counts": 9
+   },
+   {
     "author": "Countletics",
     "counts": 9
    },
    {
     "author": "Lonadont",
     "counts": 9
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 8
    },
    {
     "author": "Rajalaxo",
@@ -228,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22663
+  "total_counts": 22664
  },
- "latest_count": 22222663
+ "latest_count": 22222664
 }
