@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Rajalaxo",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 3,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "Cox_1920",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 132
+  "total_counts": 133
  },
  "100k": {
   "hoc": [
@@ -166,11 +166,11 @@
     "counts": 11
    },
    {
-    "author": "Countletics",
-    "counts": 9
+    "author": "Rajalaxo",
+    "counts": 10
    },
    {
-    "author": "Rajalaxo",
+    "author": "Countletics",
     "counts": 9
    },
    {
@@ -238,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22675
+  "total_counts": 22676
  },
- "latest_count": 22222675
+ "latest_count": 22222676
 }
