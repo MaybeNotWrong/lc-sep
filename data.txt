@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Rajalaxo",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 6,
     "has_wrc_req": false
@@ -9,11 +14,6 @@
    {
     "author": "davidjl123",
     "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -57,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 34
+  "total_counts": 35
  },
  "100k": {
   "hoc": [
@@ -75,7 +75,7 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 2990
+    "counts": 2991
    },
    {
     "author": "TheMatsValk",
@@ -222,7 +222,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 59850
+  "total_counts": 59851
  },
- "latest_count": 22259849
+ "latest_count": 22259850
 }
