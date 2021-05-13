@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "_TheRealKeel_",
-    "counts": 6,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -13,12 +13,17 @@
    },
    {
     "author": "Whit4You",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -32,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Rajalaxo",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31
+  "total_counts": 36
  },
  "100k": {
   "hoc": [
@@ -81,11 +86,11 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 11985
+    "counts": 11986
    },
    {
     "author": "Rajalaxo",
-    "counts": 9190
+    "counts": 9191
    },
    {
     "author": "TheMatsValk",
@@ -141,11 +146,15 @@
    },
    {
     "author": "Whit4You",
-    "counts": 14
+    "counts": 15
    },
    {
     "author": "haykam821",
     "counts": 12
+   },
+   {
+    "author": "_TheRealKeel_",
+    "counts": 11
    },
    {
     "author": "NobodyL0vesMe",
@@ -154,10 +163,6 @@
    {
     "author": "Cox_1920",
     "counts": 10
-   },
-   {
-    "author": "_TheRealKeel_",
-    "counts": 9
    },
    {
     "author": "buy_me_a_pint",
@@ -220,7 +225,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 87483
+  "total_counts": 87488
  },
- "latest_count": 22387481
+ "latest_count": 22387486
 }
