@@ -22,17 +22,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Rajalaxo",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41
+  "total_counts": 42
  },
  "100k": {
   "hoc": [
@@ -96,7 +96,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 11986
+    "counts": 11987
    },
    {
     "author": "Rajalaxo",
@@ -235,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 87493
+  "total_counts": 87494
  },
- "latest_count": 22387491
+ "latest_count": 22387492
 }
