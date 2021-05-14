@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 12,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10700
+    "counts": 10712
    },
    {
     "author": "ItzTaken",
@@ -35,7 +46,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 117
+    "counts": 129
    },
    {
     "author": "VitaminB16",
@@ -94,7 +105,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 27583
+  "total_counts": 27607
  },
- "latest_count": 22427582
+ "latest_count": 22427606
 }
