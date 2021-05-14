@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -37,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 51
+  "total_counts": 52
  },
  "100k": {
   "hoc": [
@@ -132,9 +137,13 @@
    {
     "author": "noduorg",
     "counts": 2
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 27634
+  "total_counts": 27635
  },
- "latest_count": 22427633
+ "latest_count": 22427634
 }
