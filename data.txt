@@ -2,18 +2,28 @@
  "day": {
   "hoc": [
    {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 12198
+    "counts": 12199
    },
    {
     "author": "ItzTaken",
@@ -101,7 +111,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "noduorg",
@@ -128,7 +138,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43009
+  "total_counts": 43011
  },
- "latest_count": 22543009
+ "latest_count": 22543011
 }
