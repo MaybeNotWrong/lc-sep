@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "supersammy00",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ItzTaken",
     "counts": 2,
     "has_wrc_req": false
@@ -77,17 +82,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "supersammy00",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 42
+  "total_counts": 43
  },
  "100k": {
   "hoc": [
@@ -184,12 +184,12 @@
     "counts": 6
    },
    {
-    "author": "noduorg",
+    "author": "supersammy00",
     "counts": 3
    },
    {
-    "author": "supersammy00",
-    "counts": 2
+    "author": "noduorg",
+    "counts": 3
    },
    {
     "author": "Antichess",
@@ -220,7 +220,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43050
+  "total_counts": 43051
  },
- "latest_count": 22543050
+ "latest_count": 22543051
 }
