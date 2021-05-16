@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "ItzTaken",
+    "counts": 31,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 31,
+    "has_wrc_req": false
+   },
+   {
     "author": "Fortnite_Skin_Leaker",
     "counts": 12,
     "has_wrc_req": false
@@ -22,17 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "ItzTaken",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 68
+  "total_counts": 120
  },
  "100k": {
   "hoc": [
@@ -107,7 +107,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 10606
+    "counts": 10632
    },
    {
     "author": "TheMatsValk",
@@ -123,7 +123,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 959
+    "counts": 985
    },
    {
     "author": "VitaminB16",
@@ -230,7 +230,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43076
+  "total_counts": 43128
  },
- "latest_count": 22543076
+ "latest_count": 22543128
 }
