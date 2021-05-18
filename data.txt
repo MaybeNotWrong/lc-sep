@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6,
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Blackwind123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,13 +32,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11
+  "total_counts": 14
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 9315
+    "counts": 9316
    },
    {
     "author": "ItzTaken",
@@ -116,6 +121,10 @@
     "counts": 2
    },
    {
+    "author": "Blackwind123",
+    "counts": 2
+   },
+   {
     "author": "noduorg",
     "counts": 2
    },
@@ -140,7 +149,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24260
+  "total_counts": 24263
  },
- "latest_count": 22624259
+ "latest_count": 22624262
 }
