@@ -23,12 +23,17 @@
    },
    {
     "author": "Lonadont",
-    "counts": 13,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
     "author": "AngryLispingSloth",
-    "counts": 9,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -42,18 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 6,
+    "author": "NobodyL0vesMe",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6932
+  "total_counts": 6940
  },
  "100k": {
   "hoc": [
@@ -148,14 +148,14 @@
    },
    {
     "author": "Lonadont",
+    "counts": 35
+   },
+   {
+    "author": "andrewtheredditor",
     "counts": 34
    },
    {
     "author": "Trial-Name",
-    "counts": 30
-   },
-   {
-    "author": "andrewtheredditor",
     "counts": 30
    },
    {
@@ -168,7 +168,7 @@
    },
    {
     "author": "AngryLispingSloth",
-    "counts": 16
+    "counts": 17
    },
    {
     "author": "LeinadSpoon",
@@ -180,7 +180,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 8
+    "counts": 10
    },
    {
     "author": "Cox_1920",
@@ -235,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45041
+  "total_counts": 45049
  },
- "latest_count": 22745041
+ "latest_count": 22745049
 }
