@@ -23,7 +23,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 12,
+    "counts": 13,
+    "has_wrc_req": false
+   },
+   {
+    "author": "AngryLispingSloth",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -32,13 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "davidjl123",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 7,
+    "author": "andrewtheredditor",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -47,8 +52,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 4,
+    "author": "NobodyL0vesMe",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -92,17 +97,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "supersammy00",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6925
+  "total_counts": 6932
  },
  "100k": {
   "hoc": [
@@ -148,7 +148,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 33
+    "counts": 34
    },
    {
     "author": "Trial-Name",
@@ -156,7 +156,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 28
+    "counts": 30
    },
    {
     "author": "davidjl123",
@@ -168,7 +168,7 @@
    },
    {
     "author": "AngryLispingSloth",
-    "counts": 14
+    "counts": 16
    },
    {
     "author": "LeinadSpoon",
@@ -179,12 +179,12 @@
     "counts": 11
    },
    {
-    "author": "Cox_1920",
-    "counts": 7
+    "author": "NobodyL0vesMe",
+    "counts": 8
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 6
+    "author": "Cox_1920",
+    "counts": 7
    },
    {
     "author": "parker_cube",
@@ -235,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45034
+  "total_counts": 45041
  },
- "latest_count": 22745034
+ "latest_count": 22745041
 }
