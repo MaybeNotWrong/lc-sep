@@ -105,9 +105,14 @@
     "author": "supersammy00",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 9920
+  "total_counts": 9921
  },
  "100k": {
   "hoc": [
@@ -200,6 +205,10 @@
     "counts": 4
    },
    {
+    "author": "noduorg",
+    "counts": 4
+   },
+   {
     "author": "CabbageTaco",
     "counts": 3
    },
@@ -209,10 +218,6 @@
    },
    {
     "author": "Antichess",
-    "counts": 3
-   },
-   {
-    "author": "noduorg",
     "counts": 3
    },
    {
@@ -240,7 +245,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48029
+  "total_counts": 48030
  },
- "latest_count": 22748029
+ "latest_count": 22748030
 }
