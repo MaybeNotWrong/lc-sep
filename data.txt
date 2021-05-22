@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -70,7 +75,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 45
+    "counts": 46
    },
    {
     "author": "andrewtheredditor",
@@ -153,7 +158,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 72649
+  "total_counts": 72650
  },
- "latest_count": 22772649
+ "latest_count": 22772650
 }
