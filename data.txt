@@ -3,18 +3,18 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 2872,
+    "counts": 3002,
+    "has_wrc_req": true
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1826,
     "has_wrc_req": true
    },
    {
     "author": "Trial-Name",
     "counts": 1771,
     "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1695,
-    "has_wrc_req": true
    },
    {
     "author": "VitaminB16",
@@ -52,12 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Rajalaxo",
-    "counts": 4,
+    "author": "andrewtheredditor",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
+    "author": "Rajalaxo",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -97,13 +97,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8741
+  "total_counts": 9003
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 35768
+    "counts": 35898
    },
    {
     "author": "amazingpikachu_38",
@@ -111,7 +111,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 11528
+    "counts": 11659
    },
    {
     "author": "Trial-Name",
@@ -171,7 +171,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 49
+    "counts": 50
    },
    {
     "author": "AngryLispingSloth",
@@ -238,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 81388
+  "total_counts": 81650
  },
- "latest_count": 22781388
+ "latest_count": 22781650
 }
