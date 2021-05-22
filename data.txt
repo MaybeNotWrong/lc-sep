@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 10775,
+    "counts": 10776,
     "has_wrc_req": true
    },
    {
@@ -48,7 +48,7 @@
    },
    {
     "author": "abplows",
-    "counts": 44,
+    "counts": 45,
     "has_wrc_req": false
    },
    {
@@ -132,28 +132,32 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27360
+  "total_counts": 27362
  },
  "100k": {
   "hoc": [
+   {
+    "author": "ItzTaken",
+    "counts": 3
+   },
    {
     "author": "amazingpikachu_38",
     "counts": 3
    },
    {
-    "author": "ItzTaken",
-    "counts": 2
-   },
-   {
-    "author": "TheMatsValk",
+    "author": "abplows",
     "counts": 1
    },
    {
     "author": "MaybeNotWrong",
     "counts": 1
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1
    }
   ],
-  "total_counts": 7
+  "total_counts": 9
  },
- "latest_count": 22800007
+ "latest_count": 22800009
 }
