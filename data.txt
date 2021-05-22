@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2,
     "has_wrc_req": false
@@ -120,14 +125,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 17809
+  "total_counts": 17810
  },
  "100k": {
   "hoc": [
@@ -220,11 +220,11 @@
     "counts": 8
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 7
+    "author": "noduorg",
+    "counts": 8
    },
    {
-    "author": "noduorg",
+    "author": "Tranquilsunrise",
     "counts": 7
    },
    {
@@ -268,7 +268,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 90456
+  "total_counts": 90457
  },
- "latest_count": 22790456
+ "latest_count": 22790457
 }
