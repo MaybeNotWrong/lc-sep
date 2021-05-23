@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
@@ -22,7 +27,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -87,15 +92,15 @@
     "counts": 3
    },
    {
+    "author": "gordonpt8",
+    "counts": 2
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1
    },
    {
     "author": "VitaminB16",
-    "counts": 1
-   },
-   {
-    "author": "gordonpt8",
     "counts": 1
    },
    {
@@ -115,7 +120,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14256
+  "total_counts": 14257
  },
- "latest_count": 22814256
+ "latest_count": 22814257
 }
