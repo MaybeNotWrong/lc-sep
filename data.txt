@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
@@ -139,15 +144,15 @@
     "counts": 4
    },
    {
+    "author": "noduorg",
+    "counts": 4
+   },
+   {
     "author": "AngryLispingSloth",
     "counts": 3
    },
    {
     "author": "gordonpt8",
-    "counts": 3
-   },
-   {
-    "author": "noduorg",
     "counts": 3
    },
    {
@@ -191,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45054
+  "total_counts": 45055
  },
- "latest_count": 22845054
+ "latest_count": 22845055
 }
