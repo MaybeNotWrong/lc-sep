@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -48,11 +53,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9984
+  "total_counts": 9985
  },
  "100k": {
   "hoc": [
@@ -165,7 +165,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 14
+    "counts": 15
    },
    {
     "author": "buy_me_a_pint",
@@ -236,7 +236,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55015
+  "total_counts": 55016
  },
- "latest_count": 22855015
+ "latest_count": 22855016
 }
