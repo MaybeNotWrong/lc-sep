@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "ItzTaken",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 20920
+    "counts": 20921
    },
    {
     "author": "amazingpikachu_38",
@@ -132,7 +137,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45032
+  "total_counts": 45033
  },
- "latest_count": 22845032
+ "latest_count": 22845033
 }
