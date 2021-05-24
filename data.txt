@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 1967,
+    "counts": 2142,
     "has_wrc_req": false
    },
    {
     "author": "ItzTaken",
-    "counts": 1963,
+    "counts": 2136,
     "has_wrc_req": false
    },
    {
@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 2,
     "has_wrc_req": false
@@ -48,11 +53,6 @@
    },
    {
     "author": "AngryLispingSloth",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,13 +92,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3965
+  "total_counts": 4314
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 22883
+    "counts": 23056
    },
    {
     "author": "amazingpikachu_38",
@@ -106,7 +106,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 6862
+    "counts": 7037
    },
    {
     "author": "MrGally75",
@@ -169,11 +169,11 @@
     "counts": 5
    },
    {
-    "author": "AngryLispingSloth",
-    "counts": 4
+    "author": "noduorg",
+    "counts": 5
    },
    {
-    "author": "noduorg",
+    "author": "AngryLispingSloth",
     "counts": 4
    },
    {
@@ -221,7 +221,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48996
+  "total_counts": 49345
  },
- "latest_count": 22848996
+ "latest_count": 22849345
 }
