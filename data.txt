@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2,
+    "author": "Trial-Name",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10391
+  "total_counts": 10392
  },
  "100k": {
   "hoc": [
@@ -122,11 +122,15 @@
     "counts": 2
    },
    {
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
     "author": "Countletics",
     "counts": 1
    }
   ],
-  "total_counts": 3006
+  "total_counts": 3007
  },
- "latest_count": 22903006
+ "latest_count": 22903007
 }
