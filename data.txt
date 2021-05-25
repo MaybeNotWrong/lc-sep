@@ -13,7 +13,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -23,6 +23,11 @@
    },
    {
     "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 422
+  "total_counts": 424
  },
  "100k": {
   "hoc": [
@@ -102,15 +107,15 @@
    },
    {
     "author": "davidjl123",
-    "counts": 62
+    "counts": 63
+   },
+   {
+    "author": "Lonadont",
+    "counts": 54
    },
    {
     "author": "Rajalaxo",
     "counts": 54
-   },
-   {
-    "author": "Lonadont",
-    "counts": 53
    },
    {
     "author": "VitaminB16",
@@ -197,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93038
+  "total_counts": 93040
  },
- "latest_count": 22893037
+ "latest_count": 22893039
 }
