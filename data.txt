@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "andrewtheredditor",
+    "counts": 16,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 15,
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 12,
+    "author": "Rajalaxo",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -17,18 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Lonadont",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "Rajalaxo",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 5,
+    "author": "davidjl123",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 74
+  "total_counts": 85
  },
  "100k": {
   "hoc": [
@@ -107,23 +107,23 @@
    },
    {
     "author": "Lonadont",
-    "counts": 63
+    "counts": 65
    },
    {
     "author": "andrewtheredditor",
-    "counts": 47
+    "counts": 51
    },
    {
     "author": "davidjl123",
     "counts": 28
    },
    {
-    "author": "Countletics",
-    "counts": 24
+    "author": "Rajalaxo",
+    "counts": 25
    },
    {
-    "author": "Rajalaxo",
-    "counts": 20
+    "author": "Countletics",
+    "counts": 24
    },
    {
     "author": "NobodyL0vesMe",
@@ -194,7 +194,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24484
+  "total_counts": 24495
  },
- "latest_count": 22924484
+ "latest_count": 22924495
 }
