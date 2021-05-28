@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Rajalaxo",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "supersammy00",
     "counts": 2,
     "has_wrc_req": false
@@ -48,11 +53,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6056
+  "total_counts": 6057
  },
  "100k": {
   "hoc": [
@@ -115,15 +115,15 @@
     "counts": 2
    },
    {
+    "author": "Rajalaxo",
+    "counts": 2
+   },
+   {
     "author": "supersammy00",
     "counts": 2
    },
    {
     "author": "VitaminB16",
-    "counts": 1
-   },
-   {
-    "author": "Rajalaxo",
     "counts": 1
    },
    {
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79
+  "total_counts": 80
  },
- "latest_count": 23000079
+ "latest_count": 23000080
 }
