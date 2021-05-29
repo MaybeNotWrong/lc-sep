@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "andrewtheredditor",
-    "counts": 16,
+    "counts": 18,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -12,13 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 8,
+    "author": "amazingpikachu_38",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 7,
+    "author": "SemiRetire_by45ish",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -29,11 +34,6 @@
    {
     "author": "davidjl123",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SemiRetire_by45ish",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 62
+  "total_counts": 68
  },
  "100k": {
   "hoc": [
@@ -91,7 +91,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 6452
+    "counts": 6453
    },
    {
     "author": "MrGally75",
@@ -111,7 +111,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 46
+    "counts": 48
    },
    {
     "author": "TheMatsValk",
@@ -136,6 +136,10 @@
    {
     "author": "supersammy00",
     "counts": 7
+   },
+   {
+    "author": "SemiRetire_by45ish",
+    "counts": 6
    },
    {
     "author": "buy_me_a_pint",
@@ -163,10 +167,6 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3
-   },
-   {
-    "author": "SemiRetire_by45ish",
     "counts": 3
    },
    {
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34133
+  "total_counts": 34139
  },
- "latest_count": 23034133
+ "latest_count": 23034139
 }
