@@ -7,12 +7,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
-    "counts": 1,
+    "author": "Antichess",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
@@ -119,6 +119,10 @@
     "counts": 3
    },
    {
+    "author": "Antichess",
+    "counts": 3
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 3
    },
@@ -128,10 +132,6 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 2
-   },
-   {
-    "author": "Antichess",
     "counts": 2
    },
    {
@@ -163,7 +163,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34081
+  "total_counts": 34082
  },
- "latest_count": 23034081
+ "latest_count": 23034082
 }
