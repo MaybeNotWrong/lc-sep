@@ -27,17 +27,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29
+  "total_counts": 30
  },
  "100k": {
   "hoc": [
@@ -154,7 +154,7 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "AngryLispingSloth",
@@ -213,7 +213,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 63135
+  "total_counts": 63136
  },
- "latest_count": 23063134
+ "latest_count": 23063135
 }
