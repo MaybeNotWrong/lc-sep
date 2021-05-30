@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Rajalaxo",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 2,
     "has_wrc_req": false
@@ -19,11 +24,6 @@
    {
     "author": "Antichess",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 24
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 1054
+    "counts": 1055
    },
    {
     "author": "VitaminG420",
@@ -208,7 +208,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 63130
+  "total_counts": 63131
  },
- "latest_count": 23063129
+ "latest_count": 23063130
 }
