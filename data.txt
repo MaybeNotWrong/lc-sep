@@ -52,13 +52,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Countletics",
+    "author": "noduorg",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 3,
+    "author": "Countletics",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10891
+  "total_counts": 10892
  },
  "100k": {
   "hoc": [
@@ -151,6 +151,10 @@
     "counts": 2
    },
    {
+    "author": "noduorg",
+    "counts": 2
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 1
    },
@@ -165,13 +169,9 @@
    {
     "author": "artbn",
     "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 5071
+  "total_counts": 5072
  },
- "latest_count": 23105071
+ "latest_count": 23105072
 }
