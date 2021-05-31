@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "ItzTaken",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "abplows",
     "counts": 1,
     "has_wrc_req": false
@@ -17,23 +27,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "ItzTaken",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 41864
+    "counts": 41865
    },
    {
     "author": "amazingpikachu_38",
@@ -129,7 +134,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "artbn",
@@ -180,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 94186
+  "total_counts": 94188
  },
- "latest_count": 23094185
+ "latest_count": 23094187
 }
