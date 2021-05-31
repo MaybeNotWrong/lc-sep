@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ItzTaken",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -117,15 +122,15 @@
     "counts": 5
    },
    {
+    "author": "artbn",
+    "counts": 5
+   },
+   {
     "author": "Cox_1920",
     "counts": 5
    },
    {
     "author": "rschaosid",
-    "counts": 4
-   },
-   {
-    "author": "artbn",
     "counts": 4
    },
    {
@@ -165,7 +170,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 94183
+  "total_counts": 94184
  },
- "latest_count": 23094182
+ "latest_count": 23094183
 }
