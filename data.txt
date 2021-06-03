@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 3501,
+    "counts": 3502,
     "has_wrc_req": true
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8888
+  "total_counts": 8889
  },
  "100k": {
   "hoc": [
@@ -119,6 +119,10 @@
     "counts": 2
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2
+   },
+   {
     "author": "andrewtheredditor",
     "counts": 1
    },
@@ -131,15 +135,11 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
     "author": "abplows",
     "counts": 1
    }
   ],
-  "total_counts": 12
+  "total_counts": 13
  },
- "latest_count": 23200012
+ "latest_count": 23200013
 }
