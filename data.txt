@@ -38,7 +38,12 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 3,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -64,11 +69,6 @@
    {
     "author": "Countletics",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 13481
+  "total_counts": 13487
  },
  "100k": {
   "hoc": [
@@ -144,7 +144,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 69
+    "counts": 72
    },
    {
     "author": "VitaminB16",
@@ -167,6 +167,10 @@
     "counts": 12
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 11
+   },
+   {
     "author": "Trial-Name",
     "counts": 11
    },
@@ -176,10 +180,6 @@
    },
    {
     "author": "haykam821",
-    "counts": 8
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 8
    },
    {
@@ -231,7 +231,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46016
+  "total_counts": 46022
  },
- "latest_count": 23246016
+ "latest_count": 23246022
 }
