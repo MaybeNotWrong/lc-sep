@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 3970,
+    "counts": 4223,
     "has_wrc_req": false
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 3968,
+    "counts": 4219,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 8,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -72,20 +72,24 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7978
+  "total_counts": 8483
  },
  "100k": {
   "hoc": [
    {
-    "author": "MaybeNotWrong",
-    "counts": 558
+    "author": "ItzTaken",
+    "counts": 810
    },
    {
-    "author": "ItzTaken",
-    "counts": 557
+    "author": "MaybeNotWrong",
+    "counts": 809
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1
    }
   ],
-  "total_counts": 1115
+  "total_counts": 1620
  },
- "latest_count": 23301115
+ "latest_count": 23301620
 }
