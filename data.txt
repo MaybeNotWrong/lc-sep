@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 8542,
+    "counts": 8583,
     "has_wrc_req": false
    },
    {
@@ -13,12 +13,17 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 4251,
+    "counts": 4446,
     "has_wrc_req": true
    },
    {
     "author": "TheMatsValk",
     "counts": 377,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Rajalaxo",
+    "counts": 330,
     "has_wrc_req": false
    },
    {
@@ -29,11 +34,6 @@
    {
     "author": "supersammy00",
     "counts": 236,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 176,
     "has_wrc_req": false
    },
    {
@@ -102,13 +102,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 19134
+  "total_counts": 19524
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 29452
+    "counts": 29493
    },
    {
     "author": "MaybeNotWrong",
@@ -116,7 +116,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 15279
+    "counts": 15474
    },
    {
     "author": "1eu3",
@@ -125,6 +125,10 @@
    {
     "author": "TheMatsValk",
     "counts": 383
+   },
+   {
+    "author": "Rajalaxo",
+    "counts": 342
    },
    {
     "author": "MrGally75",
@@ -137,10 +141,6 @@
    {
     "author": "supersammy00",
     "counts": 236
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 188
    },
    {
     "author": "VitaminB16",
@@ -211,7 +211,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65584
+  "total_counts": 65974
  },
- "latest_count": 23365585
+ "latest_count": 23365975
 }
