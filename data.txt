@@ -38,7 +38,12 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1312
+  "total_counts": 1314
  },
  "100k": {
   "hoc": [
@@ -116,7 +121,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 19
+    "counts": 20
    },
    {
     "author": "Rajalaxo",
@@ -143,6 +148,10 @@
     "counts": 2
    },
    {
+    "author": "Cox_1920",
+    "counts": 2
+   },
+   {
     "author": "artbn",
     "counts": 2
    },
@@ -161,13 +170,9 @@
    {
     "author": "haykam821",
     "counts": 1
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 1
    }
   ],
-  "total_counts": 47762
+  "total_counts": 47764
  },
- "latest_count": 23347763
+ "latest_count": 23347765
 }
