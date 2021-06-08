@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 8357,
+    "counts": 8358,
     "has_wrc_req": true
    },
    {
@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrGally75",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 2,
     "has_wrc_req": false
@@ -79,11 +84,6 @@
    {
     "author": "NobodyL0vesMe",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -105,15 +105,20 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 23083
+  "total_counts": 23086
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 8576
+    "counts": 8577
    },
    {
     "author": "MaybeNotWrong",
@@ -168,16 +173,16 @@
     "counts": 3
    },
    {
+    "author": "MrGally75",
+    "counts": 2
+   },
+   {
     "author": "Antichess",
     "counts": 2
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 2
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1
    },
    {
     "author": "LeinadSpoon",
@@ -194,9 +199,13 @@
    {
     "author": "dominodan123",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 24019
+  "total_counts": 24022
  },
- "latest_count": 23424019
+ "latest_count": 23424022
 }
