@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 12479,
+    "counts": 12481,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 2433,
+    "counts": 2434,
     "has_wrc_req": false
    },
    {
@@ -63,7 +63,7 @@
    },
    {
     "author": "abplows",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -73,6 +73,11 @@
    },
    {
     "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "flabbymice",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -107,11 +112,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "flabbymice",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -127,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31429
+  "total_counts": 31434
  },
  "100k": {
   "hoc": [
@@ -137,7 +137,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 4012
+    "counts": 4014
    },
    {
     "author": "Countletics",
@@ -153,7 +153,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 15
+    "counts": 16
    },
    {
     "author": "davidjl123",
@@ -176,20 +176,20 @@
     "counts": 3
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "abplows",
+    "counts": 3
+   },
+   {
+    "author": "flabbymice",
     "counts": 2
    },
    {
-    "author": "abplows",
+    "author": "NobodyL0vesMe",
     "counts": 2
    },
    {
     "author": "noduorg",
     "counts": 2
-   },
-   {
-    "author": "flabbymice",
-    "counts": 1
    },
    {
     "author": "MrUnderdawg",
@@ -204,7 +204,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13023
+  "total_counts": 13028
  },
- "latest_count": 23513023
+ "latest_count": 23513028
 }
