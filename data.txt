@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 23335,
+    "counts": 23336,
     "has_wrc_req": true
    },
    {
@@ -47,13 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 8,
+    "author": "flabbymice",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
-    "author": "flabbymice",
-    "counts": 7,
+    "author": "andrewtheredditor",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -63,7 +63,7 @@
    },
    {
     "author": "Rajalaxo",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 75865
+  "total_counts": 75871
  },
  "100k": {
   "hoc": [
@@ -146,7 +146,15 @@
    },
    {
     "author": "flabbymice",
-    "counts": 6
+    "counts": 9
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 4
+   },
+   {
+    "author": "Rajalaxo",
+    "counts": 3
    },
    {
     "author": "Lonadont",
@@ -161,12 +169,8 @@
     "counts": 3
    },
    {
-    "author": "andrewtheredditor",
+    "author": "ItzTaken",
     "counts": 3
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 2
    },
    {
     "author": "Trial-Name",
@@ -174,10 +178,6 @@
    },
    {
     "author": "_TheRealKeel_",
-    "counts": 2
-   },
-   {
-    "author": "ItzTaken",
     "counts": 2
    },
    {
@@ -193,7 +193,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 518
+  "total_counts": 524
  },
- "latest_count": 23600518
+ "latest_count": 23600524
 }
