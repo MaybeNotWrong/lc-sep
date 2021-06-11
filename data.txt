@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Countletics",
-    "counts": 10847,
+    "counts": 11010,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10792,
+    "counts": 10953,
     "has_wrc_req": true
    },
    {
@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "livecounting",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
@@ -62,17 +67,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30771
+  "total_counts": 31096
  },
  "100k": {
   "hoc": [
    {
     "author": "Countletics",
-    "counts": 18065
+    "counts": 18228
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 16716
+    "counts": 16877
    },
    {
     "author": "ItzTaken",
@@ -143,6 +148,10 @@
     "counts": 2
    },
    {
+    "author": "livecounting",
+    "counts": 1
+   },
+   {
     "author": "Post_picker",
     "counts": 1
    },
@@ -179,7 +188,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55425
+  "total_counts": 55750
  },
- "latest_count": 23555424
+ "latest_count": 23555749
 }
