@@ -3,23 +3,23 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 32707,
+    "counts": 32825,
     "has_wrc_req": true
    },
    {
     "author": "Countletics",
-    "counts": 30158,
+    "counts": 30238,
+    "has_wrc_req": true
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 21637,
     "has_wrc_req": true
    },
    {
     "author": "MaybeNotWrong",
     "counts": 21484,
     "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 21437,
-    "has_wrc_req": true
    },
    {
     "author": "TheMatsValk",
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "_TheRealKeel_",
     "counts": 2,
     "has_wrc_req": false
@@ -103,11 +108,6 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -157,21 +157,21 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 111519
+  "total_counts": 111918
  },
  "100k": {
   "hoc": [
    {
     "author": "Countletics",
-    "counts": 12542
+    "counts": 12622
    },
    {
     "author": "ItzTaken",
-    "counts": 9374
+    "counts": 9492
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 6672
+    "counts": 6872
    },
    {
     "author": "MaybeNotWrong",
@@ -210,6 +210,10 @@
     "counts": 6
    },
    {
+    "author": "noduorg",
+    "counts": 3
+   },
+   {
     "author": "Fortnite_Skin_Leaker",
     "counts": 3
    },
@@ -219,10 +223,6 @@
    },
    {
     "author": "MrGally75",
-    "counts": 2
-   },
-   {
-    "author": "noduorg",
     "counts": 2
    },
    {
@@ -250,7 +250,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36172
+  "total_counts": 36571
  },
- "latest_count": 23636172
+ "latest_count": 23636571
 }
