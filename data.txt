@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 23347,
+    "counts": 23348,
     "has_wrc_req": true
    },
    {
     "author": "Countletics",
-    "counts": 22849,
+    "counts": 23045,
     "has_wrc_req": true
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 20537,
+    "counts": 20734,
     "has_wrc_req": false
    },
    {
@@ -92,6 +92,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "rschaosid",
     "counts": 2,
     "has_wrc_req": false
@@ -127,27 +132,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Harding_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 86658
+  "total_counts": 87053
  },
  "100k": {
   "hoc": [
    {
     "author": "Countletics",
-    "counts": 5233
+    "counts": 5429
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 5033
+    "counts": 5230
    },
    {
     "author": "TheMatsValk",
@@ -171,7 +171,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 14
+    "counts": 15
    },
    {
     "author": "amazingpikachu_38",
@@ -194,19 +194,19 @@
     "counts": 2
    },
    {
+    "author": "noduorg",
+    "counts": 2
+   },
+   {
     "author": "_TheRealKeel_",
     "counts": 2
    },
    {
     "author": "MrGally75",
     "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 11311
+  "total_counts": 11706
  },
- "latest_count": 23611311
+ "latest_count": 23611706
 }
