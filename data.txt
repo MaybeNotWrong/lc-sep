@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 7,
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -12,18 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "Antichess",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "gordonpt8",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -32,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 18
+  "total_counts": 23
  },
  "100k": {
   "hoc": [
@@ -42,11 +42,11 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 21443
+    "counts": 21444
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 19157
+    "counts": 19158
    },
    {
     "author": "MaybeNotWrong",
@@ -97,11 +97,15 @@
     "counts": 4
    },
    {
+    "author": "gordonpt8",
+    "counts": 4
+   },
+   {
     "author": "MrGally75",
     "counts": 4
    },
    {
-    "author": "gordonpt8",
+    "author": "Antichess",
     "counts": 3
    },
    {
@@ -133,15 +137,11 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
-    "counts": 1
-   },
-   {
     "author": "artbn",
     "counts": 1
    }
   ],
-  "total_counts": 75356
+  "total_counts": 75361
  },
- "latest_count": 23675357
+ "latest_count": 23675362
 }
