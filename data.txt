@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
@@ -95,14 +100,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Countletics",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 14913
+  "total_counts": 14914
  },
  "100k": {
   "hoc": [
@@ -124,7 +124,7 @@
    },
    {
     "author": "Countletics",
-    "counts": 1842
+    "counts": 1843
    },
    {
     "author": "TheMatsValk",
@@ -203,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28002
+  "total_counts": 28003
  },
- "latest_count": 23728002
+ "latest_count": 23728003
 }
