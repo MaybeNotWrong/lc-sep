@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 15232,
+    "counts": 15279,
     "has_wrc_req": false
    },
    {
     "author": "ItzTaken",
-    "counts": 13434,
+    "counts": 13615,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 8149,
+    "counts": 8282,
     "has_wrc_req": true
    },
    {
@@ -58,7 +58,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 23,
+    "counts": 24,
     "has_wrc_req": false
    },
    {
@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
@@ -115,28 +120,23 @@
     "author": "NikinCZ",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 38573
+  "total_counts": 38936
  },
  "100k": {
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 12751
+    "counts": 12798
    },
    {
     "author": "ItzTaken",
-    "counts": 11179
+    "counts": 11360
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 5905
+    "counts": 6038
    },
    {
     "author": "Trial-Name",
@@ -172,7 +172,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 23
+    "counts": 24
    },
    {
     "author": "Countletics",
@@ -203,6 +203,10 @@
     "counts": 2
    },
    {
+    "author": "noduorg",
+    "counts": 2
+   },
+   {
     "author": "gordonpt8",
     "counts": 1
    },
@@ -213,13 +217,9 @@
    {
     "author": "NikinCZ",
     "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 31572
+  "total_counts": 31935
  },
- "latest_count": 23831572
+ "latest_count": 23831935
 }
