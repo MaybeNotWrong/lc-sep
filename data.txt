@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 14270,
+    "counts": 14271,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
-    "counts": 11163,
+    "counts": 11166,
     "has_wrc_req": false
    },
    {
@@ -72,12 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 5,
+    "author": "NobodyL0vesMe",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "buy_me_a_pint",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -112,29 +112,29 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 45802
+  "total_counts": 45808
  },
  "100k": {
   "hoc": [
+   {
+    "author": "TheMatsValk",
+    "counts": 6
+   },
    {
     "author": "MaybeNotWrong",
     "counts": 4
    },
    {
-    "author": "TheMatsValk",
+    "author": "NobodyL0vesMe",
+    "counts": 3
+   },
+   {
+    "author": "ItzTaken",
     "counts": 3
    },
    {
     "author": "Trial-Name",
     "counts": 2
-   },
-   {
-    "author": "ItzTaken",
-    "counts": 2
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1
    },
    {
     "author": "Tranquilsunrise",
@@ -149,7 +149,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 15
+  "total_counts": 21
  },
- "latest_count": 23900015
+ "latest_count": 23900021
 }
