@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Trial-Name",
+    "counts": 115,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 104,
     "has_wrc_req": false
@@ -12,22 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 30,
+    "author": "Lonadont",
+    "counts": 94,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 28,
+    "author": "andrewtheredditor",
+    "counts": 31,
     "has_wrc_req": false
    },
    {
     "author": "Rajalaxo",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 309
+  "total_counts": 483
  },
  "100k": {
   "hoc": [
@@ -123,11 +123,15 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 36
+    "counts": 123
+   },
+   {
+    "author": "Lonadont",
+    "counts": 94
    },
    {
     "author": "andrewtheredditor",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "ddodd69",
@@ -152,10 +156,6 @@
    {
     "author": "Rajalaxo",
     "counts": 9
-   },
-   {
-    "author": "Lonadont",
-    "counts": 8
    },
    {
     "author": "NobodyL0vesMe",
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 3830
+  "total_counts": 4004
  },
- "latest_count": 23903830
+ "latest_count": 23904004
 }
