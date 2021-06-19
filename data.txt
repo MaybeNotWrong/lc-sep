@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "abplows",
     "counts": 1,
     "has_wrc_req": false
@@ -92,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27665
+  "total_counts": 27666
  },
  "100k": {
   "hoc": [
@@ -109,11 +114,15 @@
     "counts": 5
    },
    {
+    "author": "Cox_1920",
+    "counts": 1
+   },
+   {
     "author": "Trial-Name",
     "counts": 1
    }
   ],
-  "total_counts": 4002
+  "total_counts": 4003
  },
- "latest_count": 24004002
+ "latest_count": 24004003
 }
