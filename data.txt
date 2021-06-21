@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Rajalaxo",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 5,
     "has_wrc_req": false
@@ -29,11 +34,6 @@
    {
     "author": "buy_me_a_pint",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ItzTaken",
     "counts": 2,
     "has_wrc_req": false
@@ -75,14 +80,9 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 208
+  "total_counts": 211
  },
  "100k": {
   "hoc": [
@@ -96,11 +96,11 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 7861
+    "counts": 7862
    },
    {
     "author": "Rajalaxo",
-    "counts": 4473
+    "counts": 4475
    },
    {
     "author": "TheMatsValk",
@@ -223,7 +223,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 61762
+  "total_counts": 61765
  },
- "latest_count": 24061762
+ "latest_count": 24061765
 }
