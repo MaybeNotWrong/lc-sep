@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "AngryLispingSloth",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 2,
     "has_wrc_req": false
@@ -44,11 +49,6 @@
    {
     "author": "ItzTaken",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "AngryLispingSloth",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 197
+  "total_counts": 198
  },
  "100k": {
   "hoc": [
@@ -193,12 +193,12 @@
     "counts": 3
    },
    {
-    "author": "dominodan123",
+    "author": "AngryLispingSloth",
     "counts": 2
    },
    {
-    "author": "AngryLispingSloth",
-    "counts": 1
+    "author": "dominodan123",
+    "counts": 2
    },
    {
     "author": "Myoniora",
@@ -213,7 +213,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 61751
+  "total_counts": 61752
  },
- "latest_count": 24061751
+ "latest_count": 24061752
 }
