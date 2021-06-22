@@ -8,7 +8,12 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
@@ -37,7 +42,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 3074
+    "counts": 3075
    },
    {
     "author": "Rajalaxo",
@@ -100,6 +105,10 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "gordonpt8",
     "counts": 1
    },
@@ -128,7 +137,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13201
+  "total_counts": 13203
  },
- "latest_count": 24113200
+ "latest_count": 24113202
 }
