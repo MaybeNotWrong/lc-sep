@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 4,
     "has_wrc_req": false
@@ -12,13 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "ItzTaken",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -42,13 +42,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 16
+  "total_counts": 19
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 37489
+    "counts": 37490
    },
    {
     "author": "amazingpikachu_38",
@@ -72,7 +72,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 616
+    "counts": 618
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -159,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 94146
+  "total_counts": 94149
  },
- "latest_count": 24194141
+ "latest_count": 24194144
 }
