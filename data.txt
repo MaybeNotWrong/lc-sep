@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -82,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11728
+  "total_counts": 11729
  },
  "100k": {
   "hoc": [
@@ -155,6 +160,10 @@
     "counts": 2
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 2
+   },
+   {
     "author": "noduorg",
     "counts": 2
    },
@@ -171,15 +180,11 @@
     "counts": 1
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1
-   },
-   {
     "author": "Nekyiia",
     "counts": 1
    }
   ],
-  "total_counts": 40002
+  "total_counts": 40003
  },
- "latest_count": 24240002
+ "latest_count": 24240003
 }
