@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "ItzTaken",
+    "counts": 2107,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 2033,
     "has_wrc_req": false
    },
    {
-    "author": "ItzTaken",
-    "counts": 1997,
+    "author": "MaybeNotWrong",
+    "counts": 111,
     "has_wrc_req": false
    },
    {
@@ -38,7 +43,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -48,11 +53,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -92,13 +92,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4152
+  "total_counts": 4372
  },
  "100k": {
   "hoc": [
    {
     "author": "ItzTaken",
-    "counts": 31253
+    "counts": 31363
    },
    {
     "author": "amazingpikachu_38",
@@ -110,7 +110,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 5826
+    "counts": 5935
    },
    {
     "author": "TheMatsValk",
@@ -154,7 +154,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "kugelblitzk",
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73158
+  "total_counts": 73378
  },
- "latest_count": 24273158
+ "latest_count": 24273378
 }
