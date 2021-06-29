@@ -28,7 +28,12 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 85,
+    "counts": 117,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 44,
     "has_wrc_req": false
    },
    {
@@ -39,11 +44,6 @@
    {
     "author": "Lonadont",
     "counts": 20,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 12,
     "has_wrc_req": false
    },
    {
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12837
+  "total_counts": 12901
  },
  "100k": {
   "hoc": [
@@ -142,6 +142,10 @@
     "counts": 178
    },
    {
+    "author": "amazingpikachu_38",
+    "counts": 127
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 118
    },
@@ -150,8 +154,8 @@
     "counts": 101
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 95
+    "author": "Trial-Name",
+    "counts": 46
    },
    {
     "author": "Lonadont",
@@ -163,10 +167,6 @@
    },
    {
     "author": "Countletics",
-    "counts": 14
-   },
-   {
-    "author": "Trial-Name",
     "counts": 14
    },
    {
@@ -226,7 +226,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 20008
+  "total_counts": 20072
  },
- "latest_count": 24420008
+ "latest_count": 24420072
 }
