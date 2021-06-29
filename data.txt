@@ -87,13 +87,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "MrGally75",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 50039
+  "total_counts": 50040
  },
  "100k": {
   "hoc": [
@@ -190,11 +190,15 @@
     "counts": 1
    },
    {
+    "author": "MrGally75",
+    "counts": 1
+   },
+   {
     "author": "noduorg",
     "counts": 1
    }
   ],
-  "total_counts": 7047
+  "total_counts": 7048
  },
- "latest_count": 24407047
+ "latest_count": 24407048
 }
