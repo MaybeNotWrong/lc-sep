@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -53,7 +58,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2596
+    "counts": 2597
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -136,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51019
+  "total_counts": 51020
  },
- "latest_count": 24451019
+ "latest_count": 24451020
 }
