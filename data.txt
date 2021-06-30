@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
@@ -22,7 +27,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -64,7 +69,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 34
+    "counts": 35
    },
    {
     "author": "Lonadont",
@@ -131,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51018
+  "total_counts": 51019
  },
- "latest_count": 24451018
+ "latest_count": 24451019
 }
