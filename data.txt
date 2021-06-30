@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -52,11 +57,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20232
+  "total_counts": 20233
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 8299
+    "counts": 8300
    },
    {
     "author": "Trial-Name",
@@ -176,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71246
+  "total_counts": 71247
  },
- "latest_count": 24471246
+ "latest_count": 24471247
 }
