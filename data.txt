@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -97,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15443
+  "total_counts": 15444
  },
  "100k": {
   "hoc": [
@@ -174,6 +179,10 @@
     "counts": 2
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2
+   },
+   {
     "author": "noduorg",
     "counts": 2
    },
@@ -184,13 +193,9 @@
    {
     "author": "dominodan123",
     "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
    }
   ],
-  "total_counts": 33026
+  "total_counts": 33027
  },
- "latest_count": 24533025
+ "latest_count": 24533026
 }
