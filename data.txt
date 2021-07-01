@@ -2,22 +2,27 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "ItzTaken",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Fortnite_Skin_Leaker",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 10
  },
  "100k": {
   "hoc": [
@@ -47,7 +52,7 @@
    },
    {
     "author": "Fortnite_Skin_Leaker",
-    "counts": 416
+    "counts": 418
    },
    {
     "author": "MaybeNotWrong",
@@ -59,7 +64,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 13
+    "counts": 15
    },
    {
     "author": "Countletics",
@@ -102,7 +107,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17589
+  "total_counts": 17593
  },
- "latest_count": 24517588
+ "latest_count": 24517592
 }
