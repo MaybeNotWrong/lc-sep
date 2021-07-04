@@ -73,7 +73,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 33937
+  "total_counts": 33938
  },
  "100k": {
   "hoc": [
@@ -152,15 +152,15 @@
     "counts": 4
    },
    {
+    "author": "Trial-Name",
+    "counts": 3
+   },
+   {
     "author": "Countletics",
     "counts": 3
    },
    {
     "author": "Antichess",
-    "counts": 2
-   },
-   {
-    "author": "Trial-Name",
     "counts": 2
    },
    {
@@ -172,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21041
+  "total_counts": 21042
  },
- "latest_count": 24621041
+ "latest_count": 24621042
 }
