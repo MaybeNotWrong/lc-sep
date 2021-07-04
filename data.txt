@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -41,7 +46,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 1488
+    "counts": 1489
    },
    {
     "author": "noduorg",
@@ -100,7 +105,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21064
+  "total_counts": 21065
  },
- "latest_count": 24621064
+ "latest_count": 24621065
 }
