@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
@@ -72,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10158
+  "total_counts": 10159
  },
  "100k": {
   "hoc": [
@@ -121,6 +126,10 @@
     "counts": 2
    },
    {
+    "author": "Countletics",
+    "counts": 1
+   },
+   {
     "author": "Cox_1920",
     "counts": 1
    },
@@ -133,7 +142,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 42169
+  "total_counts": 42170
  },
- "latest_count": 24842165
+ "latest_count": 24842166
 }
