@@ -52,12 +52,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21007
+  "total_counts": 21008
  },
  "100k": {
   "hoc": [
@@ -132,9 +137,13 @@
    {
     "author": "livecounting",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 52019
+  "total_counts": 52020
  },
- "latest_count": 24952018
+ "latest_count": 24952019
 }
