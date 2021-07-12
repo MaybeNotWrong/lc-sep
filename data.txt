@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2,
     "has_wrc_req": false
@@ -77,17 +82,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Countletics",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10000
+  "total_counts": 10001
  },
  "100k": {
   "hoc": [
@@ -144,6 +144,10 @@
     "counts": 2
    },
    {
+    "author": "Countletics",
+    "counts": 2
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2
    },
@@ -152,15 +156,11 @@
     "counts": 1
    },
    {
-    "author": "Countletics",
-    "counts": 1
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 1
    }
   ],
-  "total_counts": 11040
+  "total_counts": 11041
  },
- "latest_count": 25111040
+ "latest_count": 25111041
 }
