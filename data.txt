@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "MaybeNotWrong",
-    "counts": 2008,
+    "author": "ItzTaken",
+    "counts": 2180,
     "has_wrc_req": false
    },
    {
-    "author": "ItzTaken",
-    "counts": 2007,
+    "author": "MaybeNotWrong",
+    "counts": 2180,
     "has_wrc_req": false
    },
    {
@@ -82,20 +82,20 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6609
+  "total_counts": 6954
  },
  "100k": {
   "hoc": [
    {
-    "author": "MaybeNotWrong",
-    "counts": 1031
+    "author": "ItzTaken",
+    "counts": 1203
    },
    {
-    "author": "ItzTaken",
-    "counts": 1030
+    "author": "MaybeNotWrong",
+    "counts": 1203
    }
   ],
-  "total_counts": 2061
+  "total_counts": 2406
  },
- "latest_count": 25202061
+ "latest_count": 25202406
 }
