@@ -48,7 +48,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9717
+  "total_counts": 9718
  },
  "100k": {
   "hoc": [
@@ -132,6 +132,10 @@
     "counts": 14
    },
    {
+    "author": "Trial-Name",
+    "counts": 4
+   },
+   {
     "author": "Rajalaxo",
     "counts": 4
    },
@@ -141,10 +145,6 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 3
-   },
-   {
-    "author": "Trial-Name",
     "counts": 3
    },
    {
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49128
+  "total_counts": 49129
  },
- "latest_count": 25249127
+ "latest_count": 25249128
 }
