@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -97,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11764
+  "total_counts": 11765
  },
  "100k": {
   "hoc": [
@@ -154,11 +159,11 @@
     "counts": 6
    },
    {
-    "author": "Rajalaxo",
-    "counts": 5
+    "author": "buy_me_a_pint",
+    "counts": 6
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "Rajalaxo",
     "counts": 5
    },
    {
@@ -198,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 80024
+  "total_counts": 80025
  },
- "latest_count": 25280023
+ "latest_count": 25280024
 }
