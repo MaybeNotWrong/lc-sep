@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
@@ -45,20 +50,15 @@
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 38
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 4993
+    "counts": 4994
    },
    {
     "author": "MrGally75",
@@ -129,7 +129,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 11538
+  "total_counts": 11539
  },
- "latest_count": 25311537
+ "latest_count": 25311538
 }
