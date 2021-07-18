@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ItzTaken",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -11,7 +17,7 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 10020
+    "counts": 10021
    },
    {
     "author": "MrGally75",
@@ -98,7 +104,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38490
+  "total_counts": 38491
  },
- "latest_count": 25338489
+ "latest_count": 25338490
 }
