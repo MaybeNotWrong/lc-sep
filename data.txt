@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
-    "counts": 1,
+    "author": "MrUnderdawg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -22,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -75,16 +75,16 @@
     "counts": 7
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 6
+   },
+   {
     "author": "Rajalaxo",
     "counts": 6
    },
    {
     "author": "andrewtheredditor",
     "counts": 6
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 5
    },
    {
     "author": "noduorg",
@@ -119,7 +119,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38494
+  "total_counts": 38495
  },
- "latest_count": 25338493
+ "latest_count": 25338494
 }
