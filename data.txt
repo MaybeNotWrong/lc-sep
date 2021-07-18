@@ -87,6 +87,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -107,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26986
+  "total_counts": 26987
  },
  "100k": {
   "hoc": [
@@ -180,6 +185,10 @@
     "counts": 3
    },
    {
+    "author": "artbn",
+    "counts": 1
+   },
+   {
     "author": "abplows",
     "counts": 1
    },
@@ -200,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38486
+  "total_counts": 38487
  },
- "latest_count": 25338485
+ "latest_count": 25338486
 }
