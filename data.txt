@@ -7,6 +7,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Rajalaxo",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 3,
     "has_wrc_req": false
@@ -19,11 +24,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Rajalaxo",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
@@ -97,12 +97,12 @@
     "counts": 22
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Rajalaxo",
     "counts": 9
    },
    {
-    "author": "Rajalaxo",
-    "counts": 8
+    "author": "NobodyL0vesMe",
+    "counts": 9
    },
    {
     "author": "Countletics",
@@ -149,7 +149,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38513
+  "total_counts": 38514
  },
- "latest_count": 25338512
+ "latest_count": 25338513
 }
