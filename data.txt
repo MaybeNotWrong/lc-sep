@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1212,
-    "has_wrc_req": false
+    "counts": 1306,
+    "has_wrc_req": true
    },
    {
     "author": "MrGally75",
-    "counts": 1148,
+    "counts": 1242,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
-    "counts": 1080,
+    "counts": 1081,
     "has_wrc_req": false
    },
    {
@@ -33,7 +33,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 12,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -97,32 +97,32 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3755
+  "total_counts": 3945
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 446
+    "counts": 540
    },
    {
     "author": "MrGally75",
-    "counts": 442
+    "counts": 536
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 5
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 4
    },
    {
-    "author": "TheMatsValk",
-    "counts": 4
+    "author": "davidjl123",
+    "counts": 2
    },
    {
     "author": "andrewtheredditor",
-    "counts": 1
-   },
-   {
-    "author": "davidjl123",
     "counts": 1
    },
    {
@@ -130,7 +130,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 899
+  "total_counts": 1089
  },
- "latest_count": 25400899
+ "latest_count": 25401089
 }
