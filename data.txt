@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Rajalaxo",
     "counts": 2,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "noduorg",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 910
+  "total_counts": 911
  },
  "100k": {
   "hoc": [
@@ -145,7 +145,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 21
+    "counts": 22
    },
    {
     "author": "artbn",
@@ -200,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 98056
+  "total_counts": 98057
  },
- "latest_count": 25398054
+ "latest_count": 25398055
 }
