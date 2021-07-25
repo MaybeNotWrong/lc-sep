@@ -87,6 +87,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -102,11 +107,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "ItzTaken",
     "counts": 1,
     "has_wrc_req": false
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6922
+  "total_counts": 6923
  },
  "100k": {
   "hoc": [
@@ -180,9 +180,13 @@
    {
     "author": "Countletics",
     "counts": 1
+   },
+   {
+    "author": "Antichess",
+    "counts": 1
    }
   ],
-  "total_counts": 4066
+  "total_counts": 4067
  },
- "latest_count": 25404066
+ "latest_count": 25404067
 }
