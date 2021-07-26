@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Rajalaxo",
     "counts": 1,
     "has_wrc_req": false
@@ -65,14 +70,9 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 3140
+  "total_counts": 3141
  },
  "100k": {
   "hoc": [
@@ -90,7 +90,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 1033
+    "counts": 1034
    },
    {
     "author": "Trial-Name",
@@ -177,7 +177,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22042
+  "total_counts": 22043
  },
- "latest_count": 25422041
+ "latest_count": 25422042
 }
