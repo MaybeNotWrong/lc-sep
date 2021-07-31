@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Rajalaxo",
     "counts": 1,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 943
+  "total_counts": 944
  },
  "100k": {
   "hoc": [
@@ -75,7 +75,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 2139
+    "counts": 2140
    },
    {
     "author": "MrUnderdawg",
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73519
+  "total_counts": 73520
  },
- "latest_count": 25473516
+ "latest_count": 25473517
 }
