@@ -1,17 +1,33 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 33356
+    "counts": 33357
    },
    {
     "author": "TheMatsValk",
-    "counts": 32699
+    "counts": 32700
    },
    {
     "author": "MrGally75",
@@ -55,7 +71,7 @@
    },
    {
     "author": "Countletics",
-    "counts": 60
+    "counts": 61
    },
    {
     "author": "NobodyL0vesMe",
@@ -146,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86158
+  "total_counts": 86161
  },
- "latest_count": 25486155
+ "latest_count": 25486158
 }
