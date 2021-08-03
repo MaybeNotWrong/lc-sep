@@ -18,7 +18,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 979,
+    "counts": 981,
     "has_wrc_req": false
    },
    {
@@ -43,7 +43,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14052
+  "total_counts": 14055
  },
  "100k": {
   "hoc": [
@@ -121,7 +121,11 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 3
+    "counts": 5
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 2
    },
    {
     "author": "VitaminB16",
@@ -150,13 +154,9 @@
    {
     "author": "MrGally75",
     "counts": 1
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
    }
   ],
-  "total_counts": 207
+  "total_counts": 210
  },
- "latest_count": 25500207
+ "latest_count": 25500210
 }
