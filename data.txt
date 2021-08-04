@@ -35,9 +35,14 @@
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 67
+  "total_counts": 68
  },
  "100k": {
   "hoc": [
@@ -70,11 +75,11 @@
     "counts": 13
    },
    {
-    "author": "Lonadont",
-    "counts": 9
+    "author": "MaybeNotWrong",
+    "counts": 10
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "Lonadont",
     "counts": 9
    },
    {
@@ -106,7 +111,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1165
+  "total_counts": 1166
  },
- "latest_count": 25501165
+ "latest_count": 25501166
 }
