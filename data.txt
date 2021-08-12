@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 102,
+    "counts": 213,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 126,
     "has_wrc_req": false
    },
    {
@@ -19,11 +24,6 @@
    {
     "author": "Lonadont",
     "counts": 28,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 354
+  "total_counts": 577
  },
  "100k": {
   "hoc": [
@@ -112,7 +112,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 6880
+    "counts": 6991
    },
    {
     "author": "MrGally75",
@@ -132,7 +132,7 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 788
+    "counts": 900
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -247,7 +247,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24711
+  "total_counts": 24934
  },
- "latest_count": 25524709
+ "latest_count": 25524932
 }
