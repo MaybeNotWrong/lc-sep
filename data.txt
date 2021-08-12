@@ -3,6 +3,16 @@
   "hoc": [
    {
     "author": "TheMatsValk",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Fortnite_Skin_Leaker",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -15,19 +25,9 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Fortnite_Skin_Leaker",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 9
  },
  "100k": {
   "hoc": [
@@ -61,7 +61,7 @@
    },
    {
     "author": "Fortnite_Skin_Leaker",
-    "counts": 432
+    "counts": 433
    },
    {
     "author": "Trial-Name",
@@ -172,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 25058
+  "total_counts": 25059
  },
  "latest_count": 25525056
 }
