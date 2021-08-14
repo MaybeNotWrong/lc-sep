@@ -1,29 +1,135 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "TheMatsValk",
+    "counts": 315,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
+    "counts": 300,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 24,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 21,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 14,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Countletics",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Fortnite_Skin_Leaker",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ItzTaken",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "darrenrs",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 734
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10157
+    "counts": 10167
    },
    {
     "author": "TheMatsValk",
-    "counts": 9387
+    "counts": 9810
    },
    {
     "author": "MrGally75",
-    "counts": 3251
+    "counts": 3656
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 1600
+    "counts": 1614
    },
    {
     "author": "ddodd69",
-    "counts": 1346
+    "counts": 1372
    },
    {
     "author": "NikinCZ",
@@ -31,31 +137,31 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 967
+    "counts": 969
    },
    {
     "author": "Fortnite_Skin_Leaker",
-    "counts": 447
+    "counts": 450
    },
    {
     "author": "Lonadont",
-    "counts": 349
+    "counts": 373
    },
    {
     "author": "ItzTaken",
-    "counts": 328
+    "counts": 329
    },
    {
     "author": "Trial-Name",
-    "counts": 307
+    "counts": 316
    },
    {
     "author": "VitaminB16",
-    "counts": 299
+    "counts": 301
    },
    {
     "author": "davidjl123",
-    "counts": 170
+    "counts": 181
    },
    {
     "author": "rideride",
@@ -63,23 +169,23 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 85
+    "counts": 93
    },
    {
     "author": "Countletics",
-    "counts": 48
+    "counts": 53
    },
    {
     "author": "noduorg",
-    "counts": 34
+    "counts": 37
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 29
+    "counts": 31
    },
    {
     "author": "artbn",
-    "counts": 17
+    "counts": 18
    },
    {
     "author": "haykam821",
@@ -90,20 +196,24 @@
     "counts": 13
    },
    {
+    "author": "dominodan123",
+    "counts": 11
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 11
+   },
+   {
+    "author": "vovker1",
+    "counts": 10
    },
    {
     "author": "Chalupa_Chad",
     "counts": 10
    },
    {
-    "author": "dominodan123",
-    "counts": 10
-   },
-   {
     "author": "darrenrs",
-    "counts": 8
+    "counts": 9
    },
    {
     "author": "_TheRealKeel_",
@@ -126,6 +236,10 @@
     "counts": 2
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 2
+   },
+   {
     "author": "FelipePlayz9",
     "counts": 2
    },
@@ -138,10 +252,6 @@
     "counts": 1
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1
-   },
-   {
     "author": "Antichess",
     "counts": 1
    },
@@ -150,7 +260,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30098
+  "total_counts": 31060
  },
- "latest_count": 25530098
+ "latest_count": 25531060
 }
