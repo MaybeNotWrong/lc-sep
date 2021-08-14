@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
+    "author": "Trial-Name",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 6,
+    "author": "Lonadont",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 39
+  "total_counts": 40
  },
  "100k": {
   "hoc": [
@@ -128,7 +128,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 313
+    "counts": 314
    },
    {
     "author": "VitaminB16",
@@ -235,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30366
+  "total_counts": 30367
  },
- "latest_count": 25530365
+ "latest_count": 25530366
 }
