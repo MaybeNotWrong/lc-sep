@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
@@ -108,7 +113,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 307
+    "counts": 308
    },
    {
     "author": "VitaminB16",
@@ -211,7 +216,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30350
+  "total_counts": 30351
  },
- "latest_count": 25530349
+ "latest_count": 25530350
 }
