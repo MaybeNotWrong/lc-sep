@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -11,11 +22,11 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 10258
+    "counts": 10260
    },
    {
     "author": "MrGally75",
-    "counts": 3690
+    "counts": 3691
    },
    {
     "author": "MaybeNotWrong",
@@ -162,7 +173,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 32067
+  "total_counts": 32070
  },
- "latest_count": 25532066
+ "latest_count": 25532069
 }
