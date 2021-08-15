@@ -1,33 +1,79 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 387,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NikinCZ",
+    "counts": 380,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 798
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10488
+    "counts": 11022
    },
    {
     "author": "TheMatsValk",
-    "counts": 10103
+    "counts": 10264
    },
    {
     "author": "MrGally75",
-    "counts": 3675
+    "counts": 3697
    },
    {
     "author": "MaybeNotWrong",
     "counts": 1616
    },
    {
-    "author": "ddodd69",
-    "counts": 1378
+    "author": "NikinCZ",
+    "counts": 1456
    },
    {
-    "author": "NikinCZ",
-    "counts": 1076
+    "author": "ddodd69",
+    "counts": 1392
    },
    {
     "author": "MrUnderdawg",
@@ -39,7 +85,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 373
+    "counts": 376
    },
    {
     "author": "ItzTaken",
@@ -55,7 +101,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 185
+    "counts": 191
    },
    {
     "author": "rideride",
@@ -79,7 +125,11 @@
    },
    {
     "author": "artbn",
-    "counts": 20
+    "counts": 21
+   },
+   {
+    "author": "vovker1",
+    "counts": 16
    },
    {
     "author": "haykam821",
@@ -91,19 +141,23 @@
    },
    {
     "author": "dominodan123",
-    "counts": 11
+    "counts": 12
    },
    {
     "author": "Tranquilsunrise",
     "counts": 11
    },
    {
-    "author": "vovker1",
+    "author": "Chalupa_Chad",
     "counts": 10
    },
    {
-    "author": "Chalupa_Chad",
-    "counts": 10
+    "author": "livecounting",
+    "counts": 9
+   },
+   {
+    "author": "r_livecounting",
+    "counts": 9
    },
    {
     "author": "darrenrs",
@@ -154,7 +208,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31719
+  "total_counts": 32865
  },
- "latest_count": 25531719
+ "latest_count": 25532865
 }
