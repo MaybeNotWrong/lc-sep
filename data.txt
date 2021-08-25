@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -29,7 +34,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 2335
+    "counts": 2336
    },
    {
     "author": "NikinCZ",
@@ -184,7 +189,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43213
+  "total_counts": 43214
  },
- "latest_count": 25543213
+ "latest_count": 25543214
 }
