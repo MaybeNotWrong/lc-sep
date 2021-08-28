@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 383
+    "counts": 384
    },
    {
     "author": "VitaminB16",
@@ -178,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48426
+  "total_counts": 48427
  },
- "latest_count": 25548426
+ "latest_count": 25548427
 }
