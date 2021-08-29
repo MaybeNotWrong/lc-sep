@@ -18,7 +18,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 12,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -34,6 +34,11 @@
    {
     "author": "MaybeNotWrong",
     "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -53,11 +58,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 133
+  "total_counts": 135
  },
  "100k": {
   "hoc": [
@@ -161,7 +161,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 349
+    "counts": 350
    },
    {
     "author": "ItzTaken",
@@ -181,7 +181,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 89
+    "counts": 90
    },
    {
     "author": "Countletics",
@@ -288,7 +288,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50715
+  "total_counts": 50717
  },
- "latest_count": 25550714
+ "latest_count": 25550716
 }
