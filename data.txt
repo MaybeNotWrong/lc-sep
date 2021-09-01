@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 273,
+    "counts": 301,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 161,
     "has_wrc_req": false
    },
    {
     "author": "vovker1",
     "counts": 141,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 134,
     "has_wrc_req": false
    },
    {
@@ -32,13 +32,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "Lonadont",
     "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 10,
+    "author": "MaybeNotWrong",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 760
+  "total_counts": 816
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 14650
+    "counts": 14678
    },
    {
     "author": "MrGally75",
@@ -108,7 +108,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1692
+    "counts": 1719
    },
    {
     "author": "NikinCZ",
@@ -124,7 +124,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 960
+    "counts": 961
    },
    {
     "author": "darrenrs",
@@ -271,7 +271,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53117
+  "total_counts": 53173
  },
- "latest_count": 25553419
+ "latest_count": 25553475
 }
