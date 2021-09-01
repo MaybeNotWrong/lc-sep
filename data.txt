@@ -2,8 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "vovker1",
+    "counts": 132,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 130,
+    "has_wrc_req": false
+   },
+   {
     "author": "thelegendary08",
-    "counts": 85,
+    "counts": 88,
     "has_wrc_req": false
    },
    {
@@ -18,7 +28,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 8,
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -32,13 +47,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "MaybeNotWrong",
-    "counts": 2,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -47,12 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "darrenrs",
+    "author": "andrewtheredditor",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "darrenrs",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 194
+  "total_counts": 463
  },
  "100k": {
   "hoc": [
@@ -77,7 +87,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 14378
+    "counts": 14507
    },
    {
     "author": "MrGally75",
@@ -89,7 +99,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 2510
+    "counts": 2512
    },
    {
     "author": "Trial-Name",
@@ -109,7 +119,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 958
+    "counts": 959
    },
    {
     "author": "darrenrs",
@@ -117,7 +127,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 450
+    "counts": 451
    },
    {
     "author": "VitaminB16",
@@ -133,11 +143,15 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 212
+    "counts": 213
    },
    {
     "author": "thelegendary08",
-    "counts": 175
+    "counts": 178
+   },
+   {
+    "author": "vovker1",
+    "counts": 157
    },
    {
     "author": "rideride",
@@ -166,10 +180,6 @@
    {
     "author": "dominodan123",
     "counts": 30
-   },
-   {
-    "author": "vovker1",
-    "counts": 25
    },
    {
     "author": "Iamspeedy36",
@@ -256,7 +266,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52551
+  "total_counts": 52820
  },
- "latest_count": 25552551
+ "latest_count": 25553122
 }
