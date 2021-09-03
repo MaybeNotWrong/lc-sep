@@ -17,12 +17,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -191,6 +196,10 @@
     "counts": 2
    },
    {
+    "author": "Antichess",
+    "counts": 2
+   },
+   {
     "author": "FelipePlayz9",
     "counts": 2
    },
@@ -205,13 +214,9 @@
    {
     "author": "Myoniora",
     "counts": 1
-   },
-   {
-    "author": "Antichess",
-    "counts": 1
    }
   ],
-  "total_counts": 61193
+  "total_counts": 61194
  },
- "latest_count": 25561192
+ "latest_count": 25561193
 }
