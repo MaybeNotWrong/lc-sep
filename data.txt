@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "MrGally75",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 2,
     "has_wrc_req": false
@@ -12,17 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -36,7 +36,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 6028
+    "counts": 6029
    },
    {
     "author": "MaybeNotWrong",
@@ -211,7 +211,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 64124
+  "total_counts": 64125
  },
- "latest_count": 25564121
+ "latest_count": 25564122
 }
