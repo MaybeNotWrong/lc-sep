@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -55,7 +66,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 502
+    "counts": 503
    },
    {
     "author": "VitaminB16",
@@ -107,7 +118,7 @@
    },
    {
     "author": "dominodan123",
-    "counts": 32
+    "counts": 33
    },
    {
     "author": "Iamspeedy36",
@@ -190,7 +201,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 64119
+  "total_counts": 64121
  },
- "latest_count": 25564116
+ "latest_count": 25564118
 }
