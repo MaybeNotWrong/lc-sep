@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 381,
+    "author": "PaleRepresentative",
+    "counts": 404,
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 361,
+    "author": "amazingpikachu_38",
+    "counts": 384,
+    "has_wrc_req": false
+   },
+   {
+    "author": "abplows",
+    "counts": 40,
     "has_wrc_req": false
    },
    {
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "abplows",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
@@ -97,13 +97,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 830
+  "total_counts": 915
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 21285
+    "counts": 21288
    },
    {
     "author": "TheMatsValk",
@@ -147,7 +147,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 1013
+    "counts": 1056
    },
    {
     "author": "darrenrs",
@@ -202,6 +202,10 @@
     "counts": 61
    },
    {
+    "author": "abplows",
+    "counts": 53
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 41
    },
@@ -216,10 +220,6 @@
    {
     "author": "r_livecounting",
     "counts": 16
-   },
-   {
-    "author": "abplows",
-    "counts": 14
    },
    {
     "author": "kugelblitzk",
@@ -286,7 +286,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 66119
+  "total_counts": 66204
  },
- "latest_count": 25566120
+ "latest_count": 25566205
 }
