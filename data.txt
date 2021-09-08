@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -91,7 +97,7 @@
    },
    {
     "author": "Countletics",
-    "counts": 116
+    "counts": 117
    },
    {
     "author": "noduorg",
@@ -194,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68728
+  "total_counts": 68729
  },
- "latest_count": 25568729
+ "latest_count": 25568730
 }
