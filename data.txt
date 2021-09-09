@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 43,
+    "counts": 48,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 30,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 27,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 162
+  "total_counts": 172
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 18842
+    "counts": 18847
    },
    {
     "author": "MrGally75",
@@ -164,7 +164,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 146
+    "counts": 151
    },
    {
     "author": "Countletics",
@@ -275,7 +275,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69300
+  "total_counts": 69310
  },
- "latest_count": 25569305
+ "latest_count": 25569315
 }
