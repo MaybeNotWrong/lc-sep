@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
@@ -22,7 +27,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -136,7 +141,7 @@
    },
    {
     "author": "dominodan123",
-    "counts": 42
+    "counts": 43
    },
    {
     "author": "Iamspeedy36",
@@ -227,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78452
+  "total_counts": 78453
  },
- "latest_count": 25578455
+ "latest_count": 25578456
 }
