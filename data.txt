@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -29,7 +34,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3181
+    "counts": 3182
    },
    {
     "author": "Trial-Name",
@@ -228,7 +233,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78782
+  "total_counts": 78783
  },
- "latest_count": 25578784
+ "latest_count": 25578785
 }
