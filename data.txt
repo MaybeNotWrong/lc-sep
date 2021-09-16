@@ -43,6 +43,11 @@
    },
    {
     "author": "Trial-Name",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Countletics",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -52,12 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Countletics",
+    "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -80,14 +85,9 @@
     "author": "darrenrs",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 572
+  "total_counts": 575
  },
  "100k": {
   "hoc": [
@@ -113,7 +113,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1954
+    "counts": 1955
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -161,7 +161,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 385
+    "counts": 386
    },
    {
     "author": "andrewtheredditor",
@@ -169,7 +169,7 @@
    },
    {
     "author": "Countletics",
-    "counts": 168
+    "counts": 169
    },
    {
     "author": "vovker1",
@@ -308,7 +308,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 80673
+  "total_counts": 80676
  },
- "latest_count": 25580675
+ "latest_count": 25580678
 }
