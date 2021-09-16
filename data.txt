@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -27,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -59,7 +59,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3199
+    "counts": 3200
    },
    {
     "author": "Trial-Name",
@@ -258,7 +258,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 80109
+  "total_counts": 80110
  },
- "latest_count": 25580111
+ "latest_count": 25580112
 }
