@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -135,7 +141,7 @@
    },
    {
     "author": "Antichess",
-    "counts": 11
+    "counts": 12
    },
    {
     "author": "Chalupa_Chad",
@@ -222,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 81121
+  "total_counts": 81122
  },
- "latest_count": 25581123
+ "latest_count": 25581124
 }
