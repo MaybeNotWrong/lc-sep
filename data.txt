@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Dawidluna",
+    "counts": 40,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 39,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 29,
     "has_wrc_req": false
@@ -9,16 +19,6 @@
    {
     "author": "Fortnite_Skin_Leaker",
     "counts": 16,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Dawidluna",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -57,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 78
+  "total_counts": 142
  },
  "100k": {
   "hoc": [
@@ -71,7 +71,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 7322
+    "counts": 7354
    },
    {
     "author": "MrGally75",
@@ -174,6 +174,10 @@
     "counts": 58
    },
    {
+    "author": "Dawidluna",
+    "counts": 46
+   },
+   {
     "author": "Iamspeedy36",
     "counts": 23
    },
@@ -184,10 +188,6 @@
    {
     "author": "Cox_1920",
     "counts": 15
-   },
-   {
-    "author": "Dawidluna",
-    "counts": 14
    },
    {
     "author": "kugelblitzk",
@@ -290,7 +290,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82968
+  "total_counts": 83032
  },
- "latest_count": 25583843
+ "latest_count": 25583907
 }
