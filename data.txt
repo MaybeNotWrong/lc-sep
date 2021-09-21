@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "thelegendary08",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -38,7 +43,7 @@
    },
    {
     "author": "thelegendary08",
-    "counts": 2384
+    "counts": 2385
    },
    {
     "author": "Trial-Name",
@@ -249,7 +254,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 95557
+  "total_counts": 95558
  },
- "latest_count": 25595560
+ "latest_count": 25595561
 }
