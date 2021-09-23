@@ -107,6 +107,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 1,
     "has_wrc_req": false
@@ -137,7 +142,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2908
+  "total_counts": 2909
  },
  "100k": {
   "hoc": [
@@ -230,6 +235,10 @@
     "counts": 1
    },
    {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 1
    },
@@ -250,7 +259,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 3025
+  "total_counts": 3026
  },
- "latest_count": 25603026
+ "latest_count": 25603027
 }
