@@ -13,17 +13,17 @@
    },
    {
     "author": "Dawidluna",
-    "counts": 8,
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "ddodd69",
     "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Countletics",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -82,13 +82,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 96
+  "total_counts": 101
  },
  "100k": {
   "hoc": [
    {
     "author": "Dawidluna",
-    "counts": 1522
+    "counts": 1523
    },
    {
     "author": "amazingpikachu_38",
@@ -96,7 +96,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 1037
+    "counts": 1039
    },
    {
     "author": "LeinadSpoon",
@@ -147,12 +147,12 @@
     "counts": 12
    },
    {
-    "author": "Trial-Name",
-    "counts": 10
+    "author": "Countletics",
+    "counts": 11
    },
    {
-    "author": "Countletics",
-    "counts": 9
+    "author": "Trial-Name",
+    "counts": 10
    },
    {
     "author": "PaleRepresentative",
@@ -219,7 +219,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6171
+  "total_counts": 6176
  },
- "latest_count": 25606170
+ "latest_count": 25606175
 }
