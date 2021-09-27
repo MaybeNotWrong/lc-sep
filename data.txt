@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Dawidluna",
+    "counts": 62,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Countletics",
+    "counts": 49,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 31,
     "has_wrc_req": false
@@ -9,11 +19,6 @@
    {
     "author": "Lonadont",
     "counts": 22,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Dawidluna",
-    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -34,11 +39,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Countletics",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 124
+  "total_counts": 217
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "Dawidluna",
-    "counts": 3504
+    "counts": 3551
    },
    {
     "author": "TheMatsValk",
@@ -148,6 +148,10 @@
     "counts": 71
    },
    {
+    "author": "Countletics",
+    "counts": 70
+   },
+   {
     "author": "MrGally75",
     "counts": 50
    },
@@ -158,10 +162,6 @@
    {
     "author": "andrewtheredditor",
     "counts": 27
-   },
-   {
-    "author": "Countletics",
-    "counts": 24
    },
    {
     "author": "VitaminB16",
@@ -232,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12289
+  "total_counts": 12382
  },
- "latest_count": 25612289
+ "latest_count": 25612382
 }
