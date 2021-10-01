@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Dawidluna",
-    "counts": 1708,
+    "counts": 1765,
     "has_wrc_req": false
    },
    {
@@ -14,6 +14,11 @@
    {
     "author": "Countletics",
     "counts": 450,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 77,
     "has_wrc_req": false
    },
    {
@@ -34,11 +39,6 @@
    {
     "author": "Lonadont",
     "counts": 24,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 20,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3603
+  "total_counts": 3717
  },
  "100k": {
   "hoc": [
@@ -107,7 +107,7 @@
    },
    {
     "author": "Dawidluna",
-    "counts": 7370
+    "counts": 7427
    },
    {
     "author": "TheMatsValk",
@@ -162,6 +162,10 @@
     "counts": 167
    },
    {
+    "author": "Trial-Name",
+    "counts": 93
+   },
+   {
     "author": "haykam821",
     "counts": 80
    },
@@ -172,10 +176,6 @@
    {
     "author": "andrewtheredditor",
     "counts": 42
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 36
    },
    {
     "author": "PaleRepresentative",
@@ -254,7 +254,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 32055
+  "total_counts": 32169
  },
- "latest_count": 25632055
+ "latest_count": 25632169
 }
