@@ -3,8 +3,8 @@
   "hoc": [
    {
     "author": "MaybeNotWrong",
-    "counts": 1382,
-    "has_wrc_req": false
+    "counts": 1473,
+    "has_wrc_req": true
    },
    {
     "author": "Dawidluna",
@@ -13,7 +13,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 868,
+    "counts": 959,
     "has_wrc_req": false
    },
    {
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3760
+  "total_counts": 3942
  },
  "100k": {
   "hoc": [
@@ -105,11 +105,15 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 3461
+    "counts": 3552
    },
    {
     "author": "ddodd69",
     "counts": 1274
+   },
+   {
+    "author": "MrGally75",
+    "counts": 1022
    },
    {
     "author": "VitaminB16",
@@ -118,10 +122,6 @@
    {
     "author": "Trial-Name",
     "counts": 968
-   },
-   {
-    "author": "MrGally75",
-    "counts": 931
    },
    {
     "author": "Countletics",
@@ -248,7 +248,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36821
+  "total_counts": 37003
  },
- "latest_count": 25636821
+ "latest_count": 25637003
 }
