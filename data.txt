@@ -8,12 +8,17 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 3695,
+    "counts": 3776,
     "has_wrc_req": true
    },
    {
     "author": "TheMatsValk",
     "counts": 2303,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Dawidluna",
+    "counts": 544,
     "has_wrc_req": false
    },
    {
@@ -24,11 +29,6 @@
    {
     "author": "LeinadSpoon",
     "counts": 501,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Dawidluna",
-    "counts": 462,
     "has_wrc_req": false
    },
    {
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
@@ -112,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 13075
+  "total_counts": 13239
  },
  "100k": {
   "hoc": [
@@ -122,11 +127,11 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 22496
+    "counts": 22577
    },
    {
     "author": "Dawidluna",
-    "counts": 16944
+    "counts": 17026
    },
    {
     "author": "TheMatsValk",
@@ -241,15 +246,15 @@
     "counts": 7
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 4
+   },
+   {
     "author": "Antichess",
     "counts": 4
    },
    {
     "author": "Urbul",
-    "counts": 3
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 3
    },
    {
@@ -289,7 +294,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93084
+  "total_counts": 93248
  },
- "latest_count": 25693084
+ "latest_count": 25693248
 }
