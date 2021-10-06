@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "co3_carbonate",
     "counts": 1,
     "has_wrc_req": false
@@ -77,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 126
+  "total_counts": 127
  },
  "100k": {
   "hoc": [
@@ -138,6 +143,10 @@
     "counts": 2
    },
    {
+    "author": "Countletics",
+    "counts": 2
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2
    },
@@ -164,13 +173,9 @@
    {
     "author": "summerkimbee",
     "counts": 1
-   },
-   {
-    "author": "Countletics",
-    "counts": 1
    }
   ],
-  "total_counts": 467
+  "total_counts": 468
  },
- "latest_count": 25700467
+ "latest_count": 25700468
 }
