@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Dawidluna",
-    "counts": 324,
+    "counts": 325,
     "has_wrc_req": false
    },
    {
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ItzTaken",
     "counts": 1,
     "has_wrc_req": false
@@ -102,13 +107,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 761
+  "total_counts": 763
  },
  "100k": {
   "hoc": [
    {
     "author": "Dawidluna",
-    "counts": 324
+    "counts": 325
    },
    {
     "author": "LeinadSpoon",
@@ -205,9 +210,13 @@
    {
     "author": "PaleRepresentative",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 1102
+  "total_counts": 1104
  },
- "latest_count": 25701102
+ "latest_count": 25701104
 }
