@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -45,7 +50,7 @@
    },
    {
     "author": "treje",
-    "counts": 96
+    "counts": 97
    },
    {
     "author": "Lonadont",
@@ -136,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 8563
+  "total_counts": 8564
  },
- "latest_count": 25708563
+ "latest_count": 25708564
 }
