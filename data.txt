@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -66,7 +71,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 51
+    "counts": 52
    },
    {
     "author": "Trial-Name",
@@ -145,7 +150,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18028
+  "total_counts": 18029
  },
- "latest_count": 25718028
+ "latest_count": 25718029
 }
