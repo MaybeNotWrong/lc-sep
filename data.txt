@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "co3_carbonate",
     "counts": 1,
     "has_wrc_req": false
@@ -107,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7006
+  "total_counts": 7007
  },
  "100k": {
   "hoc": [
@@ -180,12 +185,12 @@
     "counts": 23
    },
    {
-    "author": "Countletics",
+    "author": "PaleRepresentative",
     "counts": 14
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 13
+    "author": "Countletics",
+    "counts": 14
    },
    {
     "author": "darrenrs",
@@ -244,7 +249,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 25032
+  "total_counts": 25033
  },
- "latest_count": 25725032
+ "latest_count": 25725033
 }
