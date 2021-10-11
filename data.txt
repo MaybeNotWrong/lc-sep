@@ -42,12 +42,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 720
+  "total_counts": 721
  },
  "100k": {
   "hoc": [
@@ -125,7 +130,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 31
+    "counts": 32
    },
    {
     "author": "abplows",
@@ -192,7 +197,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41024
+  "total_counts": 41025
  },
- "latest_count": 25741024
+ "latest_count": 25741025
 }
