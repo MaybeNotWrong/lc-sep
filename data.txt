@@ -43,6 +43,11 @@
    },
    {
     "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 878
+  "total_counts": 880
  },
  "100k": {
   "hoc": [
@@ -84,7 +89,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 1550
+    "counts": 1551
    },
    {
     "author": "co3_carbonate",
@@ -104,7 +109,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 649
+    "counts": 650
    },
    {
     "author": "treje",
@@ -211,7 +216,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47527
+  "total_counts": 47529
  },
- "latest_count": 25747527
+ "latest_count": 25747529
 }
