@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "RegularlyListen",
-    "counts": 2022,
+    "counts": 2023,
     "has_wrc_req": true
    },
    {
@@ -32,12 +32,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4061
+  "total_counts": 4063
  },
  "100k": {
   "hoc": [
@@ -67,7 +72,7 @@
    },
    {
     "author": "RegularlyListen",
-    "counts": 2415
+    "counts": 2416
    },
    {
     "author": "MaybeNotWrong",
@@ -194,11 +199,15 @@
     "counts": 1
    },
    {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
     "author": "NikinCZ",
     "counts": 1
    }
   ],
-  "total_counts": 76366
+  "total_counts": 76368
  },
- "latest_count": 25776359
+ "latest_count": 25776361
 }
