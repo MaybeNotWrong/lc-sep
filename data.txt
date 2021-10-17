@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -68,11 +73,6 @@
    },
    {
     "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 448
+  "total_counts": 449
  },
  "100k": {
   "hoc": [
@@ -150,7 +150,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 586
+    "counts": 587
    },
    {
     "author": "Dawidluna",
@@ -265,7 +265,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39724
+  "total_counts": 39725
  },
- "latest_count": 25839724
+ "latest_count": 25839725
 }
