@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 8482,
+    "counts": 8533,
     "has_wrc_req": true
    },
    {
     "author": "VitaminB16",
-    "counts": 5065,
+    "counts": 5117,
     "has_wrc_req": false
    },
    {
@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -120,24 +125,19 @@
     "author": "ItzTaken",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 18152
+  "total_counts": 18256
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 11027
+    "counts": 11078
    },
    {
     "author": "VitaminB16",
-    "counts": 5665
+    "counts": 5717
    },
    {
     "author": "NobodyL0vesMe",
@@ -240,6 +240,10 @@
     "counts": 2
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 2
+   },
+   {
     "author": "darrenrs",
     "counts": 1
    },
@@ -250,13 +254,9 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1
    }
   ],
-  "total_counts": 34233
+  "total_counts": 34337
  },
- "latest_count": 25834233
+ "latest_count": 25834337
 }
