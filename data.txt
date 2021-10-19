@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -22,7 +27,7 @@
    },
    {
     "author": "treje",
-    "counts": 9475
+    "counts": 9476
    },
    {
     "author": "TheMatsValk",
@@ -74,7 +79,7 @@
    },
    {
     "author": "rideride",
-    "counts": 410
+    "counts": 411
    },
    {
     "author": "TheExtraMeme",
@@ -177,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65654
+  "total_counts": 65656
  },
- "latest_count": 25865654
+ "latest_count": 25865656
 }
