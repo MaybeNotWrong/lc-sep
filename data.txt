@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -15,7 +21,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 7951
+    "counts": 7952
    },
    {
     "author": "VitaminB16",
@@ -166,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65652
+  "total_counts": 65653
  },
- "latest_count": 25865652
+ "latest_count": 25865653
 }
