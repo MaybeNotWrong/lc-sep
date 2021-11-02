@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -67,7 +73,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 147
+    "counts": 148
    },
    {
     "author": "Urbul",
@@ -170,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60158
+  "total_counts": 60159
  },
- "latest_count": 26060158
+ "latest_count": 26060159
 }
