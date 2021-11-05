@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TOP_501",
     "counts": 1,
     "has_wrc_req": false
@@ -88,6 +93,11 @@
    },
    {
     "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -127,7 +137,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10996
+  "total_counts": 10998
  },
  "100k": {
   "hoc": [
@@ -232,6 +242,10 @@
     "counts": 2
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
     "author": "TOP_501",
     "counts": 1
    },
@@ -264,11 +278,15 @@
     "counts": 1
    },
    {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
     "author": "LeinadChopsticks",
     "counts": 1
    }
   ],
-  "total_counts": 15011
+  "total_counts": 15013
  },
- "latest_count": 26115011
+ "latest_count": 26115013
 }
