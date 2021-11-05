@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Countletics",
     "counts": 2,
     "has_wrc_req": false
@@ -113,11 +118,6 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -172,7 +172,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14189
+  "total_counts": 14190
  },
  "100k": {
   "hoc": [
@@ -269,6 +269,10 @@
     "counts": 5
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 2
+   },
+   {
     "author": "ItzTaken",
     "counts": 2
    },
@@ -290,10 +294,6 @@
    },
    {
     "author": "Dawidluna",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -329,7 +329,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18204
+  "total_counts": 18205
  },
- "latest_count": 26118204
+ "latest_count": 26118205
 }
