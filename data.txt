@@ -3,7 +3,17 @@
   "hoc": [
    {
     "author": "verihappi",
-    "counts": 10,
+    "counts": 28,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 21,
+    "has_wrc_req": false
+   },
+   {
+    "author": "thelegendary08",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -12,22 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "thelegendary08",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21
+  "total_counts": 59
  },
  "100k": {
   "hoc": [
@@ -41,7 +41,7 @@
    },
    {
     "author": "thelegendary08",
-    "counts": 664
+    "counts": 665
    },
    {
     "author": "Countletics",
@@ -57,7 +57,7 @@
    },
    {
     "author": "verihappi",
-    "counts": 83
+    "counts": 101
    },
    {
     "author": "MaybeNotWrong",
@@ -80,6 +80,10 @@
     "counts": 25
    },
    {
+    "author": "vovker1",
+    "counts": 21
+   },
+   {
     "author": "treje",
     "counts": 19
    },
@@ -98,10 +102,6 @@
    {
     "author": "LeinadSpoon",
     "counts": 4
-   },
-   {
-    "author": "vovker1",
-    "counts": 2
    },
    {
     "author": "ItzTaken",
@@ -140,7 +140,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4036
+  "total_counts": 4074
  },
- "latest_count": 26104036
+ "latest_count": 26104074
 }
