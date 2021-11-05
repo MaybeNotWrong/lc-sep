@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "verihappi",
-    "counts": 28,
+    "counts": 59,
     "has_wrc_req": false
    },
    {
     "author": "vovker1",
-    "counts": 21,
+    "counts": 52,
     "has_wrc_req": false
    },
    {
@@ -27,7 +27,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 121
  },
  "100k": {
   "hoc": [
@@ -57,7 +57,7 @@
    },
    {
     "author": "verihappi",
-    "counts": 101
+    "counts": 132
    },
    {
     "author": "MaybeNotWrong",
@@ -66,6 +66,10 @@
    {
     "author": "Trial-Name",
     "counts": 78
+   },
+   {
+    "author": "vovker1",
+    "counts": 52
    },
    {
     "author": "eddebbboi",
@@ -78,10 +82,6 @@
    {
     "author": "darrenrs",
     "counts": 25
-   },
-   {
-    "author": "vovker1",
-    "counts": 21
    },
    {
     "author": "treje",
@@ -140,7 +140,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4074
+  "total_counts": 4136
  },
- "latest_count": 26104074
+ "latest_count": 26104136
 }
