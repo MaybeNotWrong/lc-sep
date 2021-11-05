@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 4071,
+    "counts": 4120,
     "has_wrc_req": true
    },
    {
@@ -53,7 +53,12 @@
    },
    {
     "author": "verihappi",
-    "counts": 71,
+    "counts": 72,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 56,
     "has_wrc_req": false
    },
    {
@@ -89,11 +94,6 @@
    {
     "author": "NobodyHugsMe",
     "counts": 14,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -162,13 +162,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9324
+  "total_counts": 9424
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 223
+    "counts": 272
    },
    {
     "author": "MrGally75",
@@ -184,11 +184,15 @@
    },
    {
     "author": "verihappi",
-    "counts": 71
+    "counts": 72
    },
    {
     "author": "ddodd69",
     "counts": 70
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 53
    },
    {
     "author": "eddebbboi",
@@ -223,10 +227,6 @@
     "counts": 4
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 3
-   },
-   {
     "author": "Countletics",
     "counts": 2
    },
@@ -259,7 +259,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 808
+  "total_counts": 908
  },
- "latest_count": 26100808
+ "latest_count": 26100908
 }
