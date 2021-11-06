@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "verihappi",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -11,7 +22,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 3347
+    "counts": 3348
    },
    {
     "author": "vovker1",
@@ -43,7 +54,7 @@
    },
    {
     "author": "verihappi",
-    "counts": 295
+    "counts": 296
    },
    {
     "author": "TheExtraMeme",
@@ -158,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21005
+  "total_counts": 21007
  },
- "latest_count": 26121005
+ "latest_count": 26121007
 }
