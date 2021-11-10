@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3178
+  "total_counts": 3179
  },
  "100k": {
   "hoc": [
@@ -95,11 +100,15 @@
     "counts": 2
    },
    {
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1
    }
   ],
-  "total_counts": 517
+  "total_counts": 518
  },
- "latest_count": 26300517
+ "latest_count": 26300518
 }
