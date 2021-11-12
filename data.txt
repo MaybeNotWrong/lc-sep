@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -88,11 +93,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -147,7 +147,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10375
+  "total_counts": 10376
  },
  "100k": {
   "hoc": [
@@ -240,11 +240,11 @@
     "counts": 7
    },
    {
-    "author": "Countletics",
-    "counts": 6
+    "author": "noduorg",
+    "counts": 7
    },
    {
-    "author": "noduorg",
+    "author": "Countletics",
     "counts": 6
    },
    {
@@ -292,7 +292,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37413
+  "total_counts": 37414
  },
- "latest_count": 26337413
+ "latest_count": 26337414
 }
