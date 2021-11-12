@@ -87,6 +87,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
@@ -107,11 +112,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Countletics",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Dawidluna",
     "counts": 1,
     "has_wrc_req": false
@@ -127,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7948
+  "total_counts": 7949
  },
  "100k": {
   "hoc": [
@@ -208,12 +208,12 @@
     "counts": 6
    },
    {
-    "author": "VitaminB16",
+    "author": "Countletics",
     "counts": 5
    },
    {
-    "author": "Countletics",
-    "counts": 4
+    "author": "VitaminB16",
+    "counts": 5
    },
    {
     "author": "noduorg",
@@ -244,7 +244,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19111
+  "total_counts": 19112
  },
- "latest_count": 26319111
+ "latest_count": 26319112
 }
