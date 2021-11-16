@@ -3,18 +3,18 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6809,
+    "counts": 6985,
     "has_wrc_req": true
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1920,
+    "has_wrc_req": false
    },
    {
     "author": "treje",
     "counts": 1781,
     "has_wrc_req": true
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1745,
-    "has_wrc_req": false
    },
    {
     "author": "darrenrs",
@@ -28,7 +28,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 886,
+    "counts": 887,
     "has_wrc_req": false
    },
    {
@@ -77,6 +77,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadFork",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyHugsMe",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "vovker1",
     "counts": 3,
     "has_wrc_req": false
@@ -84,16 +94,6 @@
    {
     "author": "Trial-Name",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadFork",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyHugsMe",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -182,17 +182,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14346
+  "total_counts": 14700
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 12544
+    "counts": 12720
    },
    {
     "author": "TheMatsValk",
-    "counts": 5816
+    "counts": 5991
    },
    {
     "author": "treje",
@@ -212,7 +212,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 886
+    "counts": 887
    },
    {
     "author": "MrGally75",
@@ -267,16 +267,16 @@
     "counts": 6
    },
    {
-    "author": "Dawidluna",
+    "author": "LeinadFork",
     "counts": 3
    },
    {
-    "author": "LeinadFork",
-    "counts": 2
+    "author": "NobodyHugsMe",
+    "counts": 3
    },
    {
-    "author": "NobodyHugsMe",
-    "counts": 2
+    "author": "Dawidluna",
+    "counts": 3
    },
    {
     "author": "PaleRepresentative",
@@ -347,7 +347,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26923
+  "total_counts": 27277
  },
- "latest_count": 26426923
+ "latest_count": 26427277
 }
