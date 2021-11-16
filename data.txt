@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 55,
+    "counts": 146,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Dawidluna",
+    "counts": 94,
     "has_wrc_req": false
    },
    {
@@ -22,23 +27,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Dawidluna",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "MaybeNotWrong",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -57,13 +57,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 115
+  "total_counts": 301
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 15945
+    "counts": 16036
    },
    {
     "author": "TheMatsValk",
@@ -106,12 +106,16 @@
     "counts": 183
    },
    {
+    "author": "Dawidluna",
+    "counts": 97
+   },
+   {
     "author": "Antichess",
     "counts": 86
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 73
+    "counts": 74
    },
    {
     "author": "Lonadont",
@@ -127,7 +131,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 39
+    "counts": 40
    },
    {
     "author": "artbn",
@@ -152,10 +156,6 @@
    {
     "author": "LeinadFork",
     "counts": 5
-   },
-   {
-    "author": "Dawidluna",
-    "counts": 4
    },
    {
     "author": "VitaminB16",
@@ -262,7 +262,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34875
+  "total_counts": 35061
  },
- "latest_count": 26434875
+ "latest_count": 26435061
 }
