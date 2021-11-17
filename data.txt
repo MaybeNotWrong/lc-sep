@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "TheMatsValk",
+    "counts": 134,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 129,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 42,
     "has_wrc_req": false
@@ -42,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "MaybeNotWrong",
     "counts": 5,
     "has_wrc_req": false
@@ -54,11 +59,6 @@
    {
     "author": "darrenrs",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 162
+  "total_counts": 415
  },
  "100k": {
   "hoc": [
@@ -102,7 +102,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 11787
+    "counts": 11913
    },
    {
     "author": "darrenrs",
@@ -114,7 +114,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1966
+    "counts": 2093
    },
    {
     "author": "treje",
@@ -305,7 +305,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51617
+  "total_counts": 51870
  },
- "latest_count": 26451617
+ "latest_count": 26451870
 }
