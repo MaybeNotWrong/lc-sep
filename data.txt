@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "emma040902",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
@@ -72,11 +77,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "emma040902",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5237
+  "total_counts": 5238
  },
  "100k": {
   "hoc": [
@@ -141,6 +141,10 @@
     "counts": 7
    },
    {
+    "author": "emma040902",
+    "counts": 2
+   },
+   {
     "author": "NobodyHugsMe",
     "counts": 2
    },
@@ -169,10 +173,6 @@
     "counts": 1
    },
    {
-    "author": "emma040902",
-    "counts": 1
-   },
-   {
     "author": "artbn",
     "counts": 1
    },
@@ -185,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 10190
+  "total_counts": 10191
  },
- "latest_count": 26610190
+ "latest_count": 26610191
 }
