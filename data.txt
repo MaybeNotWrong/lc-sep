@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3096,
+    "counts": 3097,
     "has_wrc_req": true
    },
    {
@@ -115,15 +115,20 @@
     "author": "eggcognitic",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 7551
+  "total_counts": 7553
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5568
+    "counts": 5569
    },
    {
     "author": "MaybeNotWrong",
@@ -224,9 +229,13 @@
    {
     "author": "eggcognitic",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 12504
+  "total_counts": 12506
  },
- "latest_count": 26612504
+ "latest_count": 26612506
 }
