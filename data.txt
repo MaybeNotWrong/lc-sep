@@ -25,9 +25,14 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "co3_carbonate",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 60
  },
  "100k": {
   "hoc": [
@@ -108,6 +113,10 @@
     "counts": 2
    },
    {
+    "author": "co3_carbonate",
+    "counts": 1
+   },
+   {
     "author": "darrenrs",
     "counts": 1
    },
@@ -132,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18128
+  "total_counts": 18129
  },
- "latest_count": 26718128
+ "latest_count": 26718129
 }
