@@ -13,12 +13,17 @@
    },
    {
     "author": "Helloim0_0",
-    "counts": 1848,
+    "counts": 1929,
     "has_wrc_req": true
    },
    {
     "author": "Trial-Name",
     "counts": 435,
+    "has_wrc_req": false
+   },
+   {
+    "author": "emma040902",
+    "counts": 88,
     "has_wrc_req": false
    },
    {
@@ -54,11 +59,6 @@
    {
     "author": "rideride",
     "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "emma040902",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -142,7 +142,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8661
+  "total_counts": 8822
  },
  "100k": {
   "hoc": [
@@ -164,7 +164,7 @@
    },
    {
     "author": "Helloim0_0",
-    "counts": 2304
+    "counts": 2385
    },
    {
     "author": "treje",
@@ -191,6 +191,10 @@
     "counts": 129
    },
    {
+    "author": "emma040902",
+    "counts": 100
+   },
+   {
     "author": "Lonadont",
     "counts": 39
    },
@@ -209,10 +213,6 @@
    {
     "author": "Desperate_Tie_6384",
     "counts": 26
-   },
-   {
-    "author": "emma040902",
-    "counts": 20
    },
    {
     "author": "noduorg",
@@ -283,7 +283,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43083
+  "total_counts": 43244
  },
- "latest_count": 26743083
+ "latest_count": 26743244
 }
