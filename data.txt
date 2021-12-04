@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "NobodyL0vesMe",
+    "counts": 460,
+    "has_wrc_req": false
+   },
+   {
     "author": "Helloim0_0",
     "counts": 404,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 386,
+    "author": "MaybeNotWrong",
+    "counts": 78,
     "has_wrc_req": false
    },
    {
@@ -47,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 846
+  "total_counts": 995
  },
  "100k": {
   "hoc": [
@@ -96,7 +96,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 6344
+    "counts": 6418
    },
    {
     "author": "LeinadSpoon",
@@ -108,7 +108,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 1306
+    "counts": 1381
    },
    {
     "author": "getoffmylawn2002",
@@ -227,7 +227,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 54003
+  "total_counts": 54152
  },
- "latest_count": 26854003
+ "latest_count": 26854152
 }
