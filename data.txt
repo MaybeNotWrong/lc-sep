@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -46,7 +51,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 932
+    "counts": 933
    },
    {
     "author": "emma040902",
@@ -157,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53159
+  "total_counts": 53160
  },
- "latest_count": 26853159
+ "latest_count": 26853160
 }
