@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 3,
     "has_wrc_req": false
@@ -34,11 +39,6 @@
    {
     "author": "Tranquilsunrise",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 64
+  "total_counts": 65
  },
  "100k": {
   "hoc": [
@@ -177,11 +177,11 @@
     "counts": 8
    },
    {
-    "author": "TOP_501",
-    "counts": 6
+    "author": "VitaminB16",
+    "counts": 7
    },
    {
-    "author": "VitaminB16",
+    "author": "TOP_501",
     "counts": 6
    },
    {
@@ -241,7 +241,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48683
+  "total_counts": 48684
  },
- "latest_count": 26948683
+ "latest_count": 26948684
 }
