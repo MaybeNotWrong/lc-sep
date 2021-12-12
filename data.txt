@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Broccoli-eating_man",
     "counts": 1,
     "has_wrc_req": false
@@ -127,11 +132,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "andrewtheredditor",
     "counts": 1,
     "has_wrc_req": false
@@ -142,7 +142,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10431
+  "total_counts": 10432
  },
  "100k": {
   "hoc": [
@@ -223,6 +223,10 @@
     "counts": 2
    },
    {
+    "author": "treje",
+    "counts": 2
+   },
+   {
     "author": "Broccoli-eating_man",
     "counts": 1
    },
@@ -253,13 +257,9 @@
    {
     "author": "IAmNotRunning",
     "counts": 1
-   },
-   {
-    "author": "treje",
-    "counts": 1
    }
   ],
-  "total_counts": 8107
+  "total_counts": 8108
  },
- "latest_count": 27008107
+ "latest_count": 27008108
 }
