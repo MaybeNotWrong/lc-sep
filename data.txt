@@ -3,16 +3,16 @@
   "hoc": [
    {
     "author": "darrenrs",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -47,7 +47,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 10224
+    "counts": 10225
    },
    {
     "author": "Trial-Name",
@@ -91,7 +91,7 @@
    },
    {
     "author": "darrenrs",
-    "counts": 275
+    "counts": 276
    },
    {
     "author": "dragonpro9827",
@@ -226,7 +226,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53025
+  "total_counts": 53027
  },
- "latest_count": 27053025
+ "latest_count": 27053027
 }
