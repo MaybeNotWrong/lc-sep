@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 8,
+    "author": "TheMatsValk",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "Lonadont",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 48
+  "total_counts": 49
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 10230
+    "counts": 10231
    },
    {
     "author": "Trial-Name",
@@ -251,7 +251,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53062
+  "total_counts": 53063
  },
- "latest_count": 27053062
+ "latest_count": 27053063
 }
