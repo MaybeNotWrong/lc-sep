@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16750
+    "counts": 16751
    },
    {
     "author": "TheMatsValk",
@@ -208,7 +213,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 61835
+  "total_counts": 61836
  },
- "latest_count": 27061835
+ "latest_count": 27061836
 }
