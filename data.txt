@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 13,
+    "counts": 92,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 84,
     "has_wrc_req": false
    },
    {
@@ -24,11 +29,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 991
+  "total_counts": 1150
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 7120
+    "counts": 7200
    },
    {
     "author": "LeinadSpoon",
@@ -125,7 +125,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 355
+    "counts": 434
    },
    {
     "author": "dragonpro9827",
@@ -272,7 +272,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68286
+  "total_counts": 68445
  },
- "latest_count": 27068286
+ "latest_count": 27068445
 }
