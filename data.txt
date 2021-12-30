@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -39,7 +50,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 2393
+    "counts": 2394
    },
    {
     "author": "ddodd69",
@@ -67,7 +78,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 254
+    "counts": 255
    },
    {
     "author": "emma040902",
@@ -206,7 +217,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69075
+  "total_counts": 69077
  },
- "latest_count": 27069075
+ "latest_count": 27069077
 }
