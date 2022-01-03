@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Rajalaxo",
     "counts": 1,
     "has_wrc_req": false
@@ -67,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 44
+  "total_counts": 45
  },
  "100k": {
   "hoc": [
@@ -81,7 +86,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 9118
+    "counts": 9119
    },
    {
     "author": "Chalupa_Chad",
@@ -308,7 +313,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93059
+  "total_counts": 93060
  },
- "latest_count": 27093058
+ "latest_count": 27093059
 }
