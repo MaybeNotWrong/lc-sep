@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 669,
+    "counts": 670,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
-    "counts": 367,
+    "counts": 370,
     "has_wrc_req": false
    },
    {
@@ -92,13 +92,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "SIDES_OR_DIE",
+    "author": "rsorderid",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "TheChalupsValk",
-    "counts": 1,
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SIDES_OR_DIE",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -172,17 +177,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1876
+  "total_counts": 1883
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 20230
+    "counts": 20231
    },
    {
     "author": "LeinadSpoon",
-    "counts": 6587
+    "counts": 6590
    },
    {
     "author": "TheMatsValk",
@@ -357,7 +362,15 @@
     "counts": 3
    },
    {
+    "author": "rsorderid",
+    "counts": 2
+   },
+   {
     "author": "SIDES_OR_DIE",
+    "counts": 2
+   },
+   {
+    "author": "TheChalupsValk",
     "counts": 2
    },
    {
@@ -409,15 +422,11 @@
     "counts": 1
    },
    {
-    "author": "TheChalupsValk",
+    "author": "ddoddthulium",
     "counts": 1
    },
    {
     "author": "Lein4You",
-    "counts": 1
-   },
-   {
-    "author": "ddoddthulium",
     "counts": 1
    },
    {
@@ -433,7 +442,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48405
+  "total_counts": 48412
  },
- "latest_count": 27148405
+ "latest_count": 27148412
 }
