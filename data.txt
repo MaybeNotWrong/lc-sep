@@ -3,21 +3,21 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 2,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -35,7 +35,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 5226
+    "counts": 5230
    },
    {
     "author": "MaybeNotWrong",
@@ -63,7 +63,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 594
+    "counts": 598
    },
    {
     "author": "Trial-Name",
@@ -294,7 +294,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56293
+  "total_counts": 56301
  },
- "latest_count": 27156293
+ "latest_count": 27156301
 }
