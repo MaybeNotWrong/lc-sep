@@ -3,12 +3,22 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 13,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 13,
+    "counts": 16,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Chad",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "count_worse",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -17,7 +27,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27
+  "total_counts": 36
  },
  "100k": {
   "hoc": [
@@ -35,7 +45,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 2726
+    "counts": 2729
    },
    {
     "author": "Trial-Name",
@@ -43,7 +53,7 @@
    },
    {
     "author": "treje",
-    "counts": 1001
+    "counts": 1005
    },
    {
     "author": "ItzTaken",
@@ -111,7 +121,7 @@
    },
    {
     "author": "Chalupa_Chad",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "artbn",
@@ -134,6 +144,10 @@
     "counts": 2
    },
    {
+    "author": "count_worse",
+    "counts": 2
+   },
+   {
     "author": "WhatIsRocketLeague",
     "counts": 2
    },
@@ -146,10 +160,6 @@
     "counts": 2
    },
    {
-    "author": "count_worse",
-    "counts": 1
-   },
-   {
     "author": "LeinadFork",
     "counts": 1
    },
@@ -158,7 +168,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21461
+  "total_counts": 21470
  },
- "latest_count": 27221461
+ "latest_count": 27221470
 }
