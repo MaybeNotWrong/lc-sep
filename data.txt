@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 126
+  "total_counts": 127
  },
  "100k": {
   "hoc": [
@@ -220,15 +220,15 @@
     "counts": 5
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 3
+   },
+   {
     "author": "count_worse",
     "counts": 2
    },
    {
     "author": "WhatIsRocketLeague",
-    "counts": 2
-   },
-   {
-    "author": "buy_me_a_pint",
     "counts": 2
    },
    {
@@ -252,7 +252,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38779
+  "total_counts": 38780
  },
- "latest_count": 27238779
+ "latest_count": 27238780
 }
