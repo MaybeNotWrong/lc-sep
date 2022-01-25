@@ -3,17 +3,22 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1321,
+    "counts": 1322,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 946,
+    "counts": 947,
     "has_wrc_req": true
    },
    {
     "author": "dragonpro9827",
-    "counts": 370,
+    "counts": 730,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 359,
     "has_wrc_req": false
    },
    {
@@ -28,17 +33,22 @@
    },
    {
     "author": "Lonadont",
-    "counts": 9,
+    "counts": 13,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -62,17 +72,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "trejeje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,27 +80,32 @@
     "author": "Chalupa_Chad",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 2710
+  "total_counts": 3444
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 15027
+    "counts": 15028
    },
    {
     "author": "LeinadSpoon",
-    "counts": 8165
+    "counts": 8170
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 7123
+    "counts": 7124
    },
    {
     "author": "TheMatsValk",
-    "counts": 6372
+    "counts": 6731
    },
    {
     "author": "treje",
@@ -119,6 +124,10 @@
     "counts": 1210
    },
    {
+    "author": "dragonpro9827",
+    "counts": 798
+   },
+   {
     "author": "ItzTaken",
     "counts": 718
    },
@@ -129,10 +138,6 @@
    {
     "author": "MrGally75",
     "counts": 447
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 438
    },
    {
     "author": "NobodyL0vesMe",
@@ -148,15 +153,15 @@
    },
    {
     "author": "Lonadont",
-    "counts": 148
+    "counts": 152
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 62
    },
    {
     "author": "upvoid1",
     "counts": 59
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 58
    },
    {
     "author": "Tranquilsunrise",
@@ -255,7 +260,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46034
+  "total_counts": 46768
  },
- "latest_count": 27246034
+ "latest_count": 27246768
 }
