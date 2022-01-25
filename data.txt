@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
-    "counts": 1,
+    "author": "Chalupa_Grandpa",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
+    "author": "treje",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 3,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 10
  },
  "100k": {
   "hoc": [
@@ -30,15 +35,15 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 6178
+    "counts": 6181
    },
    {
     "author": "treje",
-    "counts": 1802
+    "counts": 1805
    },
    {
     "author": "ddodd69",
-    "counts": 1518
+    "counts": 1520
    },
    {
     "author": "noduorg",
@@ -181,7 +186,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43326
+  "total_counts": 43334
  },
- "latest_count": 27243326
+ "latest_count": 27243334
 }
