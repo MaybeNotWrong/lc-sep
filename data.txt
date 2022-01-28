@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "LeinadSpoon",
+    "counts": 86,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 77,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 61,
     "has_wrc_req": false
@@ -22,23 +32,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 14,
-    "has_wrc_req": false
-   },
-   {
     "author": "andrewtheredditor",
-    "counts": 12,
+    "counts": 15,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 225
+  "total_counts": 369
  },
  "100k": {
   "hoc": [
@@ -122,11 +122,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 11848
+    "counts": 11920
    },
    {
     "author": "TheMatsValk",
-    "counts": 9928
+    "counts": 9997
    },
    {
     "author": "Chalupa_Grandpa",
@@ -182,7 +182,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 189
+    "counts": 192
    },
    {
     "author": "VitaminB16",
@@ -297,7 +297,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65526
+  "total_counts": 65670
  },
- "latest_count": 27265526
+ "latest_count": 27265670
 }
