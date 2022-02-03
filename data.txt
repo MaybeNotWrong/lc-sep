@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "TheMatsValk",
+    "counts": 313,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 227,
     "has_wrc_req": false
@@ -12,8 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 165,
+    "author": "Trial-Name",
+    "counts": 157,
     "has_wrc_req": false
    },
    {
@@ -44,11 +49,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 698
+  "total_counts": 995
  },
  "100k": {
   "hoc": [
@@ -114,20 +114,20 @@
     "counts": 951
    },
    {
+    "author": "TheMatsValk",
+    "counts": 836
+   },
+   {
     "author": "treje",
     "counts": 755
    },
    {
-    "author": "TheMatsValk",
-    "counts": 688
+    "author": "Trial-Name",
+    "counts": 540
    },
    {
     "author": "MaybeNotWrong",
     "counts": 428
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 391
    },
    {
     "author": "VitaminB16",
@@ -214,7 +214,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16729
+  "total_counts": 17026
  },
- "latest_count": 27316729
+ "latest_count": 27317026
 }
