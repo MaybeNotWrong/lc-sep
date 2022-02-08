@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -27,7 +38,7 @@
    },
    {
     "author": "treje",
-    "counts": 1464
+    "counts": 1466
    },
    {
     "author": "NobodyL0vesMe",
@@ -35,7 +46,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 522
+    "counts": 523
    },
    {
     "author": "MaybeNotWrong",
@@ -150,7 +161,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36320
+  "total_counts": 36323
  },
- "latest_count": 27336320
+ "latest_count": 27336323
 }
