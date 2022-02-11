@@ -12,12 +12,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14
+  "total_counts": 16
  },
  "100k": {
   "hoc": [
@@ -77,11 +82,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 304
+    "counts": 305
    },
    {
     "author": "artbn",
-    "counts": 278
+    "counts": 279
    },
    {
     "author": "VitaminB16",
@@ -184,7 +189,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50043
+  "total_counts": 50045
  },
- "latest_count": 27350043
+ "latest_count": 27350045
 }
