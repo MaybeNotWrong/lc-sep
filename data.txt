@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 4,
     "has_wrc_req": false
@@ -34,11 +39,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 66
+  "total_counts": 67
  },
  "100k": {
   "hoc": [
@@ -87,7 +87,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 9015
+    "counts": 9016
    },
    {
     "author": "Chalupa_Grandpa",
@@ -234,7 +234,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50095
+  "total_counts": 50096
  },
- "latest_count": 27350095
+ "latest_count": 27350096
 }
