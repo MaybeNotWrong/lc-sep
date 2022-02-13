@@ -13,17 +13,17 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 12,
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
     "author": "treje",
     "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -95,14 +100,9 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 118
+  "total_counts": 125
  },
  "100k": {
   "hoc": [
@@ -116,7 +116,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 5026
+    "counts": 5029
    },
    {
     "author": "Trial-Name",
@@ -140,7 +140,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 1048
+    "counts": 1051
    },
    {
     "author": "LeinadFork",
@@ -152,7 +152,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 553
+    "counts": 554
    },
    {
     "author": "Lonadont",
@@ -271,7 +271,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 59475
+  "total_counts": 59482
  },
- "latest_count": 27359475
+ "latest_count": 27359482
 }
