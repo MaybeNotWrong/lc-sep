@@ -2,23 +2,28 @@
  "day": {
   "hoc": [
    {
-    "author": "Ezekiel134",
-    "counts": 112,
+    "author": "amazingpikachu_38",
+    "counts": 128,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 98,
+    "author": "Ezekiel134",
+    "counts": 117,
     "has_wrc_req": false
    },
    {
     "author": "treje",
-    "counts": 58,
+    "counts": 60,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 30,
+    "counts": 32,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -33,27 +38,22 @@
    },
    {
     "author": "davidjl123",
-    "counts": 5,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "MaybeNotWrong",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 334
+  "total_counts": 396
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 26691
+    "counts": 26721
    },
    {
     "author": "LeinadSpoon",
@@ -65,7 +65,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 5639
+    "counts": 5641
    },
    {
     "author": "Trial-Name",
@@ -77,7 +77,7 @@
    },
    {
     "author": "treje",
-    "counts": 2434
+    "counts": 2436
    },
    {
     "author": "MaybeNotWrong",
@@ -101,7 +101,7 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 431
+    "counts": 436
    },
    {
     "author": "Lonadont",
@@ -116,12 +116,12 @@
     "counts": 274
    },
    {
-    "author": "andrewtheredditor",
+    "author": "davidjl123",
     "counts": 253
    },
    {
-    "author": "davidjl123",
-    "counts": 252
+    "author": "andrewtheredditor",
+    "counts": 253
    },
    {
     "author": "vovker1",
@@ -142,6 +142,10 @@
    {
     "author": "MrGally75",
     "counts": 32
+   },
+   {
+    "author": "Antichess",
+    "counts": 24
    },
    {
     "author": "nobody_loves_me",
@@ -200,10 +204,6 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
-    "counts": 2
-   },
-   {
     "author": "count_worse",
     "counts": 1
    },
@@ -228,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65947
+  "total_counts": 66009
  },
- "latest_count": 27365947
+ "latest_count": 27366009
 }
