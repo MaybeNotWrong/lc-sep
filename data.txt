@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 4620,
+    "counts": 4621,
     "has_wrc_req": false
    },
    {
@@ -23,12 +23,12 @@
    },
    {
     "author": "treje",
-    "counts": 885,
+    "counts": 888,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 675,
+    "counts": 679,
     "has_wrc_req": false
    },
    {
@@ -73,7 +73,7 @@
    },
    {
     "author": "artbn",
-    "counts": 33,
+    "counts": 34,
     "has_wrc_req": false
    },
    {
@@ -107,13 +107,21 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 13582
+  "total_counts": 13591
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 2
+    "counts": 5
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 5
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1
    },
    {
     "author": "MaybeNotWrong",
@@ -124,15 +132,15 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "artbn",
     "counts": 1
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 6
+  "total_counts": 15
  },
- "latest_count": 27400006
+ "latest_count": 27400015
 }
