@@ -22,8 +22,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 45,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 42,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 39,
     "has_wrc_req": false
    },
    {
@@ -42,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 23,
-    "has_wrc_req": false
-   },
-   {
     "author": "RegularlyListen",
     "counts": 22,
     "has_wrc_req": false
@@ -54,11 +59,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 21,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 502
+  "total_counts": 546
  },
  "100k": {
   "hoc": [
@@ -112,7 +112,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 21295
+    "counts": 21317
    },
    {
     "author": "MrGally75",
@@ -132,7 +132,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2513
+    "counts": 2535
    },
    {
     "author": "Ezekiel134",
@@ -275,7 +275,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86596
+  "total_counts": 86640
  },
- "latest_count": 27486595
+ "latest_count": 27486639
 }
