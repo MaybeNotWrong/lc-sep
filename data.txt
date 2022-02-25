@@ -32,17 +32,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "RegularlyListen",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 8,
     "has_wrc_req": false
    },
    {
     "author": "Ezekiel134",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "RegularlyListen",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -54,6 +54,11 @@
    {
     "author": "Trial-Name",
     "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lorisredstone",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -72,11 +77,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lorisredstone",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 263
+  "total_counts": 265
  },
  "100k": {
   "hoc": [
@@ -165,7 +165,7 @@
    },
    {
     "author": "RegularlyListen",
-    "counts": 25
+    "counts": 26
    },
    {
     "author": "Tranquilsunrise",
@@ -220,6 +220,10 @@
     "counts": 3
    },
    {
+    "author": "Lorisredstone",
+    "counts": 2
+   },
+   {
     "author": "LeinadLadle",
     "counts": 2
    },
@@ -244,10 +248,6 @@
     "counts": 2
    },
    {
-    "author": "Lorisredstone",
-    "counts": 1
-   },
-   {
     "author": "rschaosid",
     "counts": 1
    },
@@ -260,7 +260,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86357
+  "total_counts": 86359
  },
- "latest_count": 27486356
+ "latest_count": 27486358
 }
