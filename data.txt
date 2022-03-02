@@ -13,6 +13,11 @@
    },
    {
     "author": "treje",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Ezekiel134",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -30,14 +35,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Ezekiel134",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 19
  },
  "100k": {
   "hoc": [
@@ -63,7 +63,7 @@
    },
    {
     "author": "treje",
-    "counts": 547
+    "counts": 548
    },
    {
     "author": "MrGally75",
@@ -71,7 +71,7 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 326
+    "counts": 327
    },
    {
     "author": "TheMatsValk",
@@ -166,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17041
+  "total_counts": 17043
  },
- "latest_count": 27517041
+ "latest_count": 27517043
 }
