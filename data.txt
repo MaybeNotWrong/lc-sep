@@ -3,26 +3,31 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 15,
+    "counts": 18,
     "has_wrc_req": false
    },
    {
     "author": "Ezekiel134",
-    "counts": 13,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 8,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
     "author": "ddodd69",
-    "counts": 4,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -35,14 +40,9 @@
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 46
+  "total_counts": 58
  },
  "100k": {
   "hoc": [
@@ -56,7 +56,7 @@
    },
    {
     "author": "treje",
-    "counts": 2233
+    "counts": 2236
    },
    {
     "author": "dragonpro9827",
@@ -68,11 +68,11 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 1596
+    "counts": 1597
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1470
+    "counts": 1473
    },
    {
     "author": "noduorg",
@@ -80,11 +80,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 666
+    "counts": 670
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 550
+    "counts": 551
    },
    {
     "author": "vovker1",
@@ -167,7 +167,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38621
+  "total_counts": 38633
  },
- "latest_count": 27638621
+ "latest_count": 27638633
 }
