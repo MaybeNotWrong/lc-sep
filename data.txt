@@ -2,27 +2,37 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Ezekiel134",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Ezekiel134",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
@@ -36,7 +46,7 @@
    },
    {
     "author": "treje",
-    "counts": 2219
+    "counts": 2222
    },
    {
     "author": "dragonpro9827",
@@ -48,11 +58,11 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 1584
+    "counts": 1585
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1462
+    "counts": 1463
    },
    {
     "author": "noduorg",
@@ -88,7 +98,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 59
+    "counts": 60
    },
    {
     "author": "artbn",
@@ -147,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38580
+  "total_counts": 38586
  },
- "latest_count": 27638580
+ "latest_count": 27638586
 }
