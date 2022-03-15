@@ -2,8 +2,13 @@
  "day": {
   "hoc": [
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -12,33 +17,28 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 6,
+    "author": "dominodan123",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "dominodan123",
+    "author": "gordonpt8",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29
+  "total_counts": 40
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 23389
+    "counts": 23390
    },
    {
     "author": "TheMatsValk",
@@ -50,11 +50,11 @@
    },
    {
     "author": "treje",
-    "counts": 4679
+    "counts": 4680
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 3616
+    "counts": 3622
    },
    {
     "author": "LeinadSpoon",
@@ -82,7 +82,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 826
+    "counts": 828
    },
    {
     "author": "MrGally75",
@@ -134,7 +134,7 @@
    },
    {
     "author": "dominodan123",
-    "counts": 36
+    "counts": 37
    },
    {
     "author": "Tranquilsunrise",
@@ -177,7 +177,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69346
+  "total_counts": 69357
  },
- "latest_count": 27669346
+ "latest_count": 27669357
 }
