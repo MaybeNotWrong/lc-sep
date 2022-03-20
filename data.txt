@@ -8,7 +8,12 @@
    },
    {
     "author": "vovker1",
-    "counts": 9,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 28
  },
  "100k": {
   "hoc": [
@@ -89,7 +94,7 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 514
+    "counts": 516
    },
    {
     "author": "NobodyL0vesMe",
@@ -101,7 +106,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 415
+    "counts": 416
    },
    {
     "author": "VitaminB16",
@@ -192,7 +197,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86320
+  "total_counts": 86323
  },
- "latest_count": 27686320
+ "latest_count": 27686323
 }
