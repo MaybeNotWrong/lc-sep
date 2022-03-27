@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "ItzTaken",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -92,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25098
+  "total_counts": 25099
  },
  "100k": {
   "hoc": [
@@ -193,6 +198,10 @@
     "counts": 2
    },
    {
+    "author": "ItzTaken",
+    "counts": 2
+   },
+   {
     "author": "rschaosid",
     "counts": 2
    },
@@ -201,15 +210,11 @@
     "counts": 2
    },
    {
-    "author": "ItzTaken",
-    "counts": 1
-   },
-   {
     "author": "dominodan123",
     "counts": 1
    }
   ],
-  "total_counts": 46075
+  "total_counts": 46076
  },
- "latest_count": 27746075
+ "latest_count": 27746076
 }
