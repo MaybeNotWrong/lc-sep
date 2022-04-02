@@ -28,7 +28,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 20,
+    "counts": 21,
     "has_wrc_req": false
    },
    {
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Codelta",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "carbsna",
     "counts": 3,
     "has_wrc_req": false
@@ -98,11 +103,6 @@
    },
    {
     "author": "rsorderid",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Codelta",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -197,7 +197,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 466
+  "total_counts": 468
  },
  "100k": {
   "hoc": [
@@ -215,7 +215,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 5607
+    "counts": 5608
    },
    {
     "author": "dragonpro9827",
@@ -350,6 +350,10 @@
     "counts": 4
    },
    {
+    "author": "Codelta",
+    "counts": 3
+   },
+   {
     "author": "carbsna",
     "counts": 3
    },
@@ -371,10 +375,6 @@
    },
    {
     "author": "rsorderid",
-    "counts": 2
-   },
-   {
-    "author": "Codelta",
     "counts": 2
    },
    {
@@ -458,7 +458,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65327
+  "total_counts": 65329
  },
- "latest_count": 27765327
+ "latest_count": 27765329
 }
