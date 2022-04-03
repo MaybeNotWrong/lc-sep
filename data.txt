@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TheMatsValk",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
@@ -32,17 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20
+  "total_counts": 21
  },
  "100k": {
   "hoc": [
@@ -52,7 +52,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 6707
+    "counts": 6708
    },
    {
     "author": "vovker1",
@@ -331,7 +331,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 66308
+  "total_counts": 66309
  },
- "latest_count": 27766308
+ "latest_count": 27766309
 }
