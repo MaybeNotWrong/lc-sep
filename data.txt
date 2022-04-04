@@ -13,7 +13,12 @@
    },
    {
     "author": "treje",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Playing_2",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -37,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
@@ -63,7 +68,7 @@
    },
    {
     "author": "treje",
-    "counts": 3268
+    "counts": 3269
    },
    {
     "author": "TheAlbinoShadow",
@@ -163,7 +168,7 @@
    },
    {
     "author": "Playing_2",
-    "counts": 15
+    "counts": 16
    },
    {
     "author": "abplows",
@@ -342,7 +347,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67636
+  "total_counts": 67638
  },
- "latest_count": 27767635
+ "latest_count": 27767637
 }
