@@ -3,17 +3,22 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Playing_2",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -30,20 +35,15 @@
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 15
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 30886
+    "counts": 30888
    },
    {
     "author": "TheMatsValk",
@@ -63,7 +63,7 @@
    },
    {
     "author": "treje",
-    "counts": 3302
+    "counts": 3304
    },
    {
     "author": "TheAlbinoShadow",
@@ -87,7 +87,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 730
+    "counts": 731
    },
    {
     "author": "noduorg",
@@ -342,7 +342,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68511
+  "total_counts": 68516
  },
- "latest_count": 27768510
+ "latest_count": 27768515
 }
