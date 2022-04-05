@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -121,7 +126,7 @@
    },
    {
     "author": "artbn",
-    "counts": 52
+    "counts": 53
    },
    {
     "author": "andrewtheredditor",
@@ -332,7 +337,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68506
+  "total_counts": 68507
  },
- "latest_count": 27768505
+ "latest_count": 27768506
 }
