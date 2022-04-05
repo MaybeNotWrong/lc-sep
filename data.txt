@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -82,7 +87,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 729
+    "counts": 730
    },
    {
     "author": "noduorg",
@@ -337,7 +342,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68507
+  "total_counts": 68508
  },
- "latest_count": 27768506
+ "latest_count": 27768507
 }
