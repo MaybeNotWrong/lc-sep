@@ -18,7 +18,12 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 67,
+    "counts": 71,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 27,
     "has_wrc_req": false
    },
    {
@@ -27,13 +32,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 23,
+    "author": "TheMatsValk",
+    "counts": 22,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 22,
+    "author": "Chalupa_Grandpa",
+    "counts": 21,
     "has_wrc_req": false
    },
    {
@@ -44,11 +49,6 @@
    {
     "author": "Lonadont",
     "counts": 19,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 18,
     "has_wrc_req": false
    },
    {
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 800
+  "total_counts": 811
  },
  "100k": {
   "hoc": [
@@ -138,7 +138,7 @@
    },
    {
     "author": "treje",
-    "counts": 3388
+    "counts": 3392
    },
    {
     "author": "TheAlbinoShadow",
@@ -146,7 +146,7 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 1549
+    "counts": 1553
    },
    {
     "author": "ddodd69",
@@ -162,7 +162,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 827
+    "counts": 830
    },
    {
     "author": "noduorg",
@@ -417,7 +417,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70483
+  "total_counts": 70494
  },
- "latest_count": 27770482
+ "latest_count": 27770493
 }
