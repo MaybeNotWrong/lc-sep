@@ -38,7 +38,12 @@
    },
    {
     "author": "dragonpro9827",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -57,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 158
+  "total_counts": 160
  },
  "100k": {
   "hoc": [
@@ -79,7 +84,7 @@
    },
    {
     "author": "dragonpro9827",
-    "counts": 4846
+    "counts": 4847
    },
    {
     "author": "treje",
@@ -143,7 +148,7 @@
    },
    {
     "author": "Antichess",
-    "counts": 131
+    "counts": 132
    },
    {
     "author": "gordonpt8",
@@ -366,7 +371,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71052
+  "total_counts": 71054
  },
- "latest_count": 27771057
+ "latest_count": 27771059
 }
