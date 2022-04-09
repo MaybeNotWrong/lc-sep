@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 987
+    "counts": 988
    },
    {
     "author": "VitaminB16",
@@ -318,7 +324,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78289
+  "total_counts": 78290
  },
- "latest_count": 27778294
+ "latest_count": 27778295
 }
