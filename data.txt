@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "gordonpt8",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheAlbinoShadow",
     "counts": 2,
     "has_wrc_req": false
@@ -40,14 +45,9 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 26
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
@@ -136,12 +136,12 @@
     "counts": 177
    },
    {
-    "author": "Antichess",
+    "author": "gordonpt8",
     "counts": 132
    },
    {
-    "author": "gordonpt8",
-    "counts": 131
+    "author": "Antichess",
+    "counts": 132
    },
    {
     "author": "ItzTaken",
@@ -364,7 +364,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78315
+  "total_counts": 78316
  },
- "latest_count": 27778320
+ "latest_count": 27778321
 }
