@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -63,11 +68,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 331
+  "total_counts": 332
  },
  "100k": {
   "hoc": [
@@ -263,7 +263,7 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 8
+    "counts": 9
    },
    {
     "author": "Huntears",
@@ -414,7 +414,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 83331
+  "total_counts": 83332
  },
- "latest_count": 27783336
+ "latest_count": 27783337
 }
