@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Ezekiel134",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -58,7 +63,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 6
+    "counts": 7
    },
    {
     "author": "MaybeNotWrong",
@@ -93,7 +98,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2021
+  "total_counts": 2022
  },
- "latest_count": 27802019
+ "latest_count": 27802020
 }
