@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "andrew_wayne12",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
@@ -107,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1426
+  "total_counts": 1427
  },
  "100k": {
   "hoc": [
@@ -212,6 +217,10 @@
     "counts": 2
    },
    {
+    "author": "andrew_wayne12",
+    "counts": 2
+   },
+   {
     "author": "rsorderid",
     "counts": 1
    },
@@ -222,13 +231,9 @@
    {
     "author": "darrenrs",
     "counts": 1
-   },
-   {
-    "author": "andrew_wayne12",
-    "counts": 1
    }
   ],
-  "total_counts": 6528
+  "total_counts": 6529
  },
- "latest_count": 27806526
+ "latest_count": 27806527
 }
