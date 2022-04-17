@@ -3,13 +3,18 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2475,
+    "counts": 2529,
     "has_wrc_req": true
    },
    {
     "author": "TheAlbinoShadow",
     "counts": 1318,
     "has_wrc_req": true
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 334,
+    "has_wrc_req": false
    },
    {
     "author": "Chalupa_Chad",
@@ -19,11 +24,6 @@
    {
     "author": "andrew_wayne12",
     "counts": 303,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 279,
     "has_wrc_req": false
    },
    {
@@ -137,13 +137,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5068
+  "total_counts": 5177
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 15276
+    "counts": 15330
    },
    {
     "author": "TheAlbinoShadow",
@@ -178,6 +178,10 @@
     "counts": 399
    },
    {
+    "author": "Trial-Name",
+    "counts": 334
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 333
    },
@@ -188,10 +192,6 @@
    {
     "author": "andrew_wayne12",
     "counts": 310
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 279
    },
    {
     "author": "TheMatsValk",
@@ -302,7 +302,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33765
+  "total_counts": 33874
  },
- "latest_count": 27833765
+ "latest_count": 27833874
 }
