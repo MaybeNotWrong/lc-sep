@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 13,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 12,
     "has_wrc_req": false
@@ -12,8 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 10,
+    "author": "andrewtheredditor",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -23,11 +28,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "andrewtheredditor",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 69
+  "total_counts": 76
  },
  "100k": {
   "hoc": [
@@ -100,7 +100,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1983
+    "counts": 1986
    },
    {
     "author": "treje",
@@ -179,12 +179,12 @@
     "counts": 24
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 20
+    "author": "andrewtheredditor",
+    "counts": 21
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 17
+    "author": "NobodyL0vesMe",
+    "counts": 20
    },
    {
     "author": "rideride",
@@ -251,7 +251,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51217
+  "total_counts": 51224
  },
- "latest_count": 27851218
+ "latest_count": 27851225
 }
