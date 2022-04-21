@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "parker_cube",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "Ezekiel134",
     "counts": 4,
     "has_wrc_req": false
@@ -39,11 +44,6 @@
    {
     "author": "davidjl123",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "parker_cube",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 734
+  "total_counts": 735
  },
  "100k": {
   "hoc": [
@@ -167,7 +167,7 @@
    },
    {
     "author": "parker_cube",
-    "counts": 175
+    "counts": 176
    },
    {
     "author": "davidjl123",
@@ -270,7 +270,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69742
+  "total_counts": 69743
  },
- "latest_count": 27869742
+ "latest_count": 27869743
 }
