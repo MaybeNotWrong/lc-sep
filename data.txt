@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "andrew_wayne12",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -15,7 +26,7 @@
    },
    {
     "author": "andrew_wayne12",
-    "counts": 13539
+    "counts": 13540
    },
    {
     "author": "Chalupa_Grandpa",
@@ -111,7 +122,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "rschaosid",
@@ -174,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69008
+  "total_counts": 69010
  },
- "latest_count": 27869008
+ "latest_count": 27869010
 }
