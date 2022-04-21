@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
@@ -57,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 44
+  "total_counts": 45
  },
  "100k": {
   "hoc": [
@@ -134,12 +139,12 @@
     "counts": 161
    },
    {
-    "author": "artbn",
+    "author": "MaybeNotWrong",
     "counts": 106
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 105
+    "author": "artbn",
+    "counts": 106
    },
    {
     "author": "andrewtheredditor",
@@ -230,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69052
+  "total_counts": 69053
  },
- "latest_count": 27869052
+ "latest_count": 27869053
 }
