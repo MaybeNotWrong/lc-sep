@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 101,
+    "counts": 172,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 100,
     "has_wrc_req": false
    },
    {
@@ -13,12 +18,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 33,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 32,
+    "counts": 34,
     "has_wrc_req": false
    },
    {
@@ -28,33 +28,33 @@
    },
    {
     "author": "davidjl123",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 222
+  "total_counts": 363
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 353
+    "counts": 424
    },
    {
     "author": "TheAlbinoShadow",
     "counts": 126
    },
    {
+    "author": "treje",
+    "counts": 122
+   },
+   {
     "author": "ddodd69",
-    "counts": 120
+    "counts": 121
    },
    {
     "author": "Ezekiel134",
     "counts": 81
-   },
-   {
-    "author": "treje",
-    "counts": 54
    },
    {
     "author": "Playing_2",
@@ -73,11 +73,11 @@
     "counts": 14
    },
    {
-    "author": "Trial-Name",
-    "counts": 7
+    "author": "davidjl123",
+    "counts": 8
    },
    {
-    "author": "davidjl123",
+    "author": "Trial-Name",
     "counts": 7
    },
    {
@@ -113,7 +113,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 866
+  "total_counts": 1007
  },
- "latest_count": 27900866
+ "latest_count": 27901007
 }
