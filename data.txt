@@ -2,8 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "Ezekiel134",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -12,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -54,7 +64,7 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 118
+    "counts": 120
    },
    {
     "author": "MrGally75",
@@ -81,11 +91,11 @@
     "counts": 25
    },
    {
-    "author": "Trial-Name",
-    "counts": 21
+    "author": "davidjl123",
+    "counts": 22
    },
    {
-    "author": "davidjl123",
+    "author": "Trial-Name",
     "counts": 21
    },
    {
@@ -129,7 +139,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6508
+  "total_counts": 6511
  },
- "latest_count": 27906508
+ "latest_count": 27906511
 }
