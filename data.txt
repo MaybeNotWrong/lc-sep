@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "Countletics",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 170
+  "total_counts": 171
  },
  "100k": {
   "hoc": [
@@ -107,7 +107,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 475
+    "counts": 476
    },
    {
     "author": "MrGally75",
@@ -222,7 +222,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17482
+  "total_counts": 17483
  },
- "latest_count": 27917482
+ "latest_count": 27917483
 }
