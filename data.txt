@@ -38,17 +38,17 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 40,
+    "counts": 41,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Ezekiel134",
+    "counts": 37,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 37,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Ezekiel134",
-    "counts": 36,
     "has_wrc_req": false
    },
    {
@@ -137,7 +137,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1123
+  "total_counts": 1125
  },
  "100k": {
   "hoc": [
@@ -183,11 +183,11 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 655
+    "counts": 656
    },
    {
     "author": "Trial-Name",
-    "counts": 514
+    "counts": 515
    },
    {
     "author": "VitaminB16",
@@ -306,7 +306,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18435
+  "total_counts": 18437
  },
- "latest_count": 27918435
+ "latest_count": 27918437
 }
