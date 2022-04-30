@@ -58,7 +58,12 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 9,
+    "counts": 11,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christian230102",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -72,22 +77,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christian230102",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadFork",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 3,
+    "author": "TheAlbinoShadow",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "TheAlbinoShadow",
+    "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12604
+  "total_counts": 12610
  },
  "100k": {
   "hoc": [
@@ -146,7 +146,7 @@
    },
    {
     "author": "TheAlbinoShadow",
-    "counts": 2797
+    "counts": 2798
    },
    {
     "author": "LeinadSpoon",
@@ -178,7 +178,7 @@
    },
    {
     "author": "Christian230102",
-    "counts": 882
+    "counts": 885
    },
    {
     "author": "dragonpro9827",
@@ -202,7 +202,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 155
+    "counts": 157
    },
    {
     "author": "MrGally75",
@@ -317,7 +317,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41250
+  "total_counts": 41256
  },
- "latest_count": 27941250
+ "latest_count": 27941256
 }
