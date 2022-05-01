@@ -65,9 +65,14 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 12468
+  "total_counts": 12469
  },
  "100k": {
   "hoc": [
@@ -125,7 +130,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 596
+    "counts": 597
    },
    {
     "author": "Playing_2",
@@ -256,7 +261,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 59689
+  "total_counts": 59690
  },
- "latest_count": 27959689
+ "latest_count": 27959690
 }
