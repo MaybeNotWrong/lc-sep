@@ -38,12 +38,17 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 15,
+    "counts": 16,
     "has_wrc_req": false
    },
    {
     "author": "Playing_2",
     "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -62,18 +67,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "andrewtheredditor",
     "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "Countletics",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1084
+  "total_counts": 1089
  },
  "100k": {
   "hoc": [
@@ -127,7 +127,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 7743
+    "counts": 7746
    },
    {
     "author": "MaybeNotWrong",
@@ -183,18 +183,18 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 660
+    "counts": 661
    },
    {
     "author": "Playing_2",
     "counts": 441
    },
    {
-    "author": "VitaminB16",
-    "counts": 288
+    "author": "andrewtheredditor",
+    "counts": 289
    },
    {
-    "author": "andrewtheredditor",
+    "author": "VitaminB16",
     "counts": 288
    },
    {
@@ -314,7 +314,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68598
+  "total_counts": 68603
  },
- "latest_count": 27968598
+ "latest_count": 27968603
 }
