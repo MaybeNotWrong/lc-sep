@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Trial-Name",
-    "counts": 203,
+    "counts": 264,
     "has_wrc_req": false
    },
    {
     "author": "VitaminB16",
-    "counts": 179,
+    "counts": 240,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 662
+  "total_counts": 784
  },
  "100k": {
   "hoc": [
@@ -152,7 +152,11 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1180
+    "counts": 1241
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1067
    },
    {
     "author": "dragonpro9827",
@@ -161,10 +165,6 @@
    {
     "author": "Christian230102",
     "counts": 1008
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1006
    },
    {
     "author": "Chalupa_Chad",
@@ -311,7 +311,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71878
+  "total_counts": 72000
  },
- "latest_count": 27971878
+ "latest_count": 27972000
 }
