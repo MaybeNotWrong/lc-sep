@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
@@ -69,11 +74,6 @@
    {
     "author": "gordonpt8",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 896
+  "total_counts": 897
  },
  "100k": {
   "hoc": [
@@ -121,7 +121,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 5939
+    "counts": 5940
    },
    {
     "author": "TheAlbinoShadow",
@@ -316,7 +316,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 72112
+  "total_counts": 72113
  },
- "latest_count": 27972112
+ "latest_count": 27972113
 }
