@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "noduorg",
+    "counts": 3612,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 3546,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 3543,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 990,
+    "counts": 1060,
     "has_wrc_req": false
    },
    {
@@ -137,21 +137,21 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9316
+  "total_counts": 9455
  },
  "100k": {
   "hoc": [
+   {
+    "author": "noduorg",
+    "counts": 3612
+   },
    {
     "author": "Trial-Name",
     "counts": 3546
    },
    {
-    "author": "noduorg",
-    "counts": 3543
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 520
+    "counts": 590
    },
    {
     "author": "cuteballgames",
@@ -246,7 +246,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 8370
+  "total_counts": 8509
  },
- "latest_count": 28008370
+ "latest_count": 28008509
 }
