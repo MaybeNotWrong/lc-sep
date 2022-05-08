@@ -3,7 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6,
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -12,8 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "cuteballgames",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -22,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 21
  },
  "100k": {
   "hoc": [
@@ -41,11 +56,11 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1652
+    "counts": 1655
    },
    {
     "author": "cuteballgames",
-    "counts": 471
+    "counts": 472
    },
    {
     "author": "e-xz",
@@ -65,11 +80,11 @@
    },
    {
     "author": "treje",
-    "counts": 72
+    "counts": 73
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 59
+    "counts": 60
    },
    {
     "author": "dragonpro9827",
@@ -84,12 +99,12 @@
     "counts": 16
    },
    {
-    "author": "TheMatsValk",
-    "counts": 13
+    "author": "davidjl123",
+    "counts": 14
    },
    {
-    "author": "davidjl123",
-    "counts": 12
+    "author": "TheMatsValk",
+    "counts": 13
    },
    {
     "author": "Countletics",
@@ -108,6 +123,10 @@
     "counts": 3
    },
    {
+    "author": "gordonpt8",
+    "counts": 3
+   },
+   {
     "author": "nothings32",
     "counts": 2
    },
@@ -117,10 +136,6 @@
    },
    {
     "author": "Playing_2",
-    "counts": 2
-   },
-   {
-    "author": "gordonpt8",
     "counts": 2
    },
    {
@@ -140,7 +155,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 10806
+  "total_counts": 10815
  },
- "latest_count": 28010806
+ "latest_count": 28010815
 }
