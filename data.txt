@@ -92,6 +92,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ItzTaken",
     "counts": 1,
     "has_wrc_req": false
@@ -122,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11942
+  "total_counts": 11943
  },
  "100k": {
   "hoc": [
@@ -245,9 +250,13 @@
    {
     "author": "ItzTaken",
     "counts": 2
+   },
+   {
+    "author": "rideride",
+    "counts": 1
    }
   ],
-  "total_counts": 28693
+  "total_counts": 28694
  },
- "latest_count": 28028693
+ "latest_count": 28028694
 }
