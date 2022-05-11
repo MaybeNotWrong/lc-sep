@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "VitaminB16",
-    "counts": 610,
+    "counts": 659,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 324,
     "has_wrc_req": false
    },
    {
@@ -19,11 +24,6 @@
    {
     "author": "cuteballgames",
     "counts": 299,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 275,
     "has_wrc_req": false
    },
    {
@@ -142,13 +142,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2323
+  "total_counts": 2421
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 12480
+    "counts": 12529
    },
    {
     "author": "cuteballgames",
@@ -172,7 +172,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 826
+    "counts": 875
    },
    {
     "author": "Playing_2",
@@ -291,7 +291,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36463
+  "total_counts": 36561
  },
- "latest_count": 28036463
+ "latest_count": 28036561
 }
