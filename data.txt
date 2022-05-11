@@ -77,12 +77,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 3,
+    "author": "MaybeNotWrong",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -92,17 +92,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "darrenrs",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "rideride",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "darrenrs",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -137,7 +137,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1151
+  "total_counts": 1153
  },
  "100k": {
   "hoc": [
@@ -218,12 +218,12 @@
     "counts": 63
    },
    {
-    "author": "andrewtheredditor",
+    "author": "MaybeNotWrong",
     "counts": 58
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 57
+    "author": "andrewtheredditor",
+    "counts": 58
    },
    {
     "author": "gordonpt8",
@@ -262,6 +262,10 @@
     "counts": 6
    },
    {
+    "author": "darrenrs",
+    "counts": 4
+   },
+   {
     "author": "ItzTaken",
     "counts": 4
    },
@@ -271,10 +275,6 @@
    },
    {
     "author": "andrew_wayne12",
-    "counts": 3
-   },
-   {
-    "author": "darrenrs",
     "counts": 3
    },
    {
@@ -290,7 +290,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39285
+  "total_counts": 39287
  },
- "latest_count": 28039285
+ "latest_count": 28039287
 }
