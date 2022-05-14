@@ -75,9 +75,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 2131
+  "total_counts": 2132
  },
  "100k": {
   "hoc": [
@@ -91,7 +96,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 4475
+    "counts": 4476
    },
    {
     "author": "noduorg",
@@ -234,7 +239,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56439
+  "total_counts": 56440
  },
- "latest_count": 28056438
+ "latest_count": 28056439
 }
