@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
@@ -80,14 +85,9 @@
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6300
+  "total_counts": 6301
  },
  "100k": {
   "hoc": [
@@ -105,7 +105,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 3887
+    "counts": 3888
    },
    {
     "author": "GO4T3D",
@@ -244,7 +244,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70575
+  "total_counts": 70576
  },
- "latest_count": 28070574
+ "latest_count": 28070575
 }
