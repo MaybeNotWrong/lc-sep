@@ -108,7 +108,7 @@
    },
    {
     "author": "artbn",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -152,7 +152,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8340
+  "total_counts": 8341
  },
  "100k": {
   "hoc": [
@@ -181,6 +181,10 @@
     "counts": 3
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "TheMatsValk",
     "counts": 2
    },
@@ -193,15 +197,11 @@
     "counts": 1
    },
    {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
     "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 1532
+  "total_counts": 1533
  },
- "latest_count": 28101532
+ "latest_count": 28101533
 }
