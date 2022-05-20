@@ -107,6 +107,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
@@ -122,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11880
+  "total_counts": 11881
  },
  "100k": {
   "hoc": [
@@ -235,11 +240,15 @@
     "counts": 1
    },
    {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
     "author": "Dr_Artbn",
     "counts": 1
    }
   ],
-  "total_counts": 23570
+  "total_counts": 23571
  },
- "latest_count": 28123570
+ "latest_count": 28123571
 }
