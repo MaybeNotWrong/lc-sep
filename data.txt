@@ -2,22 +2,27 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 97,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 95,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 17,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 14,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 13,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -27,17 +32,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 32
+  "total_counts": 226
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 9980
+    "counts": 9984
    },
    {
     "author": "cuteballgames",
-    "counts": 8151
+    "counts": 8246
    },
    {
     "author": "NobodyL0vesMe",
@@ -49,7 +54,7 @@
    },
    {
     "author": "treje",
-    "counts": 859
+    "counts": 954
    },
    {
     "author": "GO4T3D",
@@ -152,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24309
+  "total_counts": 24503
  },
- "latest_count": 28124309
+ "latest_count": 28124503
 }
