@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "MrUnderdawg",
+    "counts": 142,
+    "has_wrc_req": false
+   },
+   {
+    "author": "GO4T3D",
+    "counts": 103,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 92,
     "has_wrc_req": false
@@ -14,11 +24,6 @@
    {
     "author": "e-xz",
     "counts": 48,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 40,
     "has_wrc_req": false
    },
    {
@@ -92,11 +97,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "GO4T3D",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "ItzTaken",
     "counts": 1,
     "has_wrc_req": false
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 346
+  "total_counts": 550
  },
  "100k": {
   "hoc": [
@@ -135,11 +135,11 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 3747
+    "counts": 3849
    },
    {
     "author": "GO4T3D",
-    "counts": 1249
+    "counts": 1351
    },
    {
     "author": "treje",
@@ -262,7 +262,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60618
+  "total_counts": 60822
  },
- "latest_count": 28160618
+ "latest_count": 28160822
 }
