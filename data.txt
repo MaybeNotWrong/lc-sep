@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "e-xz",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -39,11 +50,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 394
+    "counts": 396
    },
    {
     "author": "e-xz",
-    "counts": 340
+    "counts": 341
    },
    {
     "author": "LeinadSpoon",
@@ -146,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60272
+  "total_counts": 60275
  },
- "latest_count": 28160272
+ "latest_count": 28160275
 }
