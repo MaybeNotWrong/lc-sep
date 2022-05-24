@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "MrUnderdawg",
-    "counts": 142,
+    "counts": 232,
     "has_wrc_req": false
    },
    {
     "author": "GO4T3D",
-    "counts": 103,
+    "counts": 192,
     "has_wrc_req": false
    },
    {
@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 9,
     "has_wrc_req": false
@@ -44,11 +49,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 550
+  "total_counts": 730
  },
  "100k": {
   "hoc": [
@@ -135,11 +135,11 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 3849
+    "counts": 3939
    },
    {
     "author": "GO4T3D",
-    "counts": 1351
+    "counts": 1440
    },
    {
     "author": "treje",
@@ -183,7 +183,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 112
+    "counts": 113
    },
    {
     "author": "artbn",
@@ -262,7 +262,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60822
+  "total_counts": 61002
  },
- "latest_count": 28160822
+ "latest_count": 28161002
 }
