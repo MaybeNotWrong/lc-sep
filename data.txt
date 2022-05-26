@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "ddodd69",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -38,11 +43,11 @@
    },
    {
     "author": "treje",
-    "counts": 1318
+    "counts": 1319
    },
    {
     "author": "ddodd69",
-    "counts": 925
+    "counts": 926
    },
    {
     "author": "PaleRepresentative",
@@ -165,7 +170,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68029
+  "total_counts": 68031
  },
- "latest_count": 28168029
+ "latest_count": 28168031
 }
