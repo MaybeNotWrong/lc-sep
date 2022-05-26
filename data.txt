@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 40,
+    "counts": 72,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 33,
     "has_wrc_req": false
    },
    {
@@ -112,13 +117,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 130
+  "total_counts": 195
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 30586
+    "counts": 30618
    },
    {
     "author": "cuteballgames",
@@ -205,6 +210,10 @@
     "counts": 35
    },
    {
+    "author": "Trial-Name",
+    "counts": 33
+   },
+   {
     "author": "noduorg",
     "counts": 33
    },
@@ -269,7 +278,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68157
+  "total_counts": 68222
  },
- "latest_count": 28168157
+ "latest_count": 28168222
 }
