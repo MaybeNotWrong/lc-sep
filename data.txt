@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "MrUnderdawg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
@@ -12,17 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -40,7 +40,7 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 6344
+    "counts": 6345
    },
    {
     "author": "ddodd69",
@@ -183,7 +183,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 77214
+  "total_counts": 77215
  },
- "latest_count": 28177214
+ "latest_count": 28177215
 }
