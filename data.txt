@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3913,
+    "counts": 3964,
     "has_wrc_req": true
    },
    {
     "author": "cuteballgames",
-    "counts": 3568,
+    "counts": 3570,
     "has_wrc_req": true
    },
    {
@@ -34,6 +34,11 @@
    {
     "author": "Trial-Name",
     "counts": 68,
+    "has_wrc_req": false
+   },
+   {
+    "author": "GO4T3D",
+    "counts": 54,
     "has_wrc_req": false
    },
    {
@@ -102,11 +107,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "GO4T3D",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "andrew_wayne12",
     "counts": 1,
     "has_wrc_req": false
@@ -127,17 +127,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8361
+  "total_counts": 8467
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 8605
+    "counts": 8656
    },
    {
     "author": "cuteballgames",
-    "counts": 7161
+    "counts": 7163
    },
    {
     "author": "noduorg",
@@ -174,6 +174,10 @@
    {
     "author": "PaleRepresentative",
     "counts": 58
+   },
+   {
+    "author": "GO4T3D",
+    "counts": 54
    },
    {
     "author": "davidjl123",
@@ -236,10 +240,6 @@
     "counts": 1
    },
    {
-    "author": "GO4T3D",
-    "counts": 1
-   },
-   {
     "author": "andrew_wayne12",
     "counts": 1
    },
@@ -256,7 +256,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18025
+  "total_counts": 18131
  },
- "latest_count": 28218025
+ "latest_count": 28218131
 }
