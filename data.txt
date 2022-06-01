@@ -8,7 +8,12 @@
    },
    {
     "author": "Playing_2",
-    "counts": 11,
+    "counts": 13,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "MrGally75",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -27,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 34
+  "total_counts": 40
  },
  "100k": {
   "hoc": [
@@ -70,12 +70,12 @@
     "counts": 450
    },
    {
-    "author": "andrew_wayne12",
-    "counts": 428
+    "author": "treje",
+    "counts": 430
    },
    {
-    "author": "treje",
-    "counts": 427
+    "author": "andrew_wayne12",
+    "counts": 428
    },
    {
     "author": "ddodd69",
@@ -102,19 +102,19 @@
     "counts": 27
    },
    {
+    "author": "Playing_2",
+    "counts": 21
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 21
    },
    {
-    "author": "Playing_2",
-    "counts": 19
+    "author": "MrGally75",
+    "counts": 20
    },
    {
     "author": "VitaminB16",
-    "counts": 19
-   },
-   {
-    "author": "MrGally75",
     "counts": 19
    },
    {
@@ -178,7 +178,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31353
+  "total_counts": 31359
  },
- "latest_count": 28231353
+ "latest_count": 28231359
 }
