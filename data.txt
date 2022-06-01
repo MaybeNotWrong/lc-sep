@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -35,14 +40,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 47
+  "total_counts": 48
  },
  "100k": {
   "hoc": [
@@ -52,7 +52,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 10377
+    "counts": 10378
    },
    {
     "author": "Trial-Name",
@@ -183,7 +183,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31366
+  "total_counts": 31367
  },
- "latest_count": 28231366
+ "latest_count": 28231367
 }
