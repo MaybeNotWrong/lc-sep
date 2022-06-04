@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "cuteballgames",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "haykam821",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -12,13 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "haykam821",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "e-xz",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 20
  },
  "100k": {
   "hoc": [
@@ -47,7 +47,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 15395
+    "counts": 15396
    },
    {
     "author": "Trial-Name",
@@ -67,7 +67,7 @@
    },
    {
     "author": "e-xz",
-    "counts": 644
+    "counts": 645
    },
    {
     "author": "noduorg",
@@ -154,16 +154,16 @@
     "counts": 8
    },
    {
+    "author": "haykam821",
+    "counts": 6
+   },
+   {
     "author": "dominodan123",
     "counts": 6
    },
    {
     "author": "Antichess",
     "counts": 6
-   },
-   {
-    "author": "haykam821",
-    "counts": 5
    },
    {
     "author": "ItzTaken",
@@ -182,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45190
+  "total_counts": 45193
  },
- "latest_count": 28245188
+ "latest_count": 28245191
 }
