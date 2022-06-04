@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -110,12 +116,12 @@
     "counts": 13
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "gordonpt8",
     "counts": 8
    },
    {
-    "author": "gordonpt8",
-    "counts": 7
+    "author": "Tranquilsunrise",
+    "counts": 8
    },
    {
     "author": "dominodan123",
@@ -146,7 +152,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45173
+  "total_counts": 45174
  },
- "latest_count": 28245171
+ "latest_count": 28245172
 }
