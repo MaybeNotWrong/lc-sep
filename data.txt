@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "cuteballgames",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 4,
     "has_wrc_req": false
@@ -9,11 +14,6 @@
    {
     "author": "haykam821",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 16
+  "total_counts": 17
  },
  "100k": {
   "hoc": [
@@ -47,7 +47,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 15394
+    "counts": 15395
    },
    {
     "author": "Trial-Name",
@@ -182,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45189
+  "total_counts": 45190
  },
- "latest_count": 28245187
+ "latest_count": 28245188
 }
