@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "swinub_time",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -38,7 +43,7 @@
    },
    {
     "author": "swinub_time",
-    "counts": 2731
+    "counts": 2732
    },
    {
     "author": "ddodd69",
@@ -90,7 +95,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 254
+    "counts": 255
    },
    {
     "author": "Playing_2",
@@ -173,7 +178,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79684
+  "total_counts": 79686
  },
- "latest_count": 28279682
+ "latest_count": 28279684
 }
