@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
@@ -64,11 +69,6 @@
    {
     "author": "TheMatsValk",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1873
+  "total_counts": 1874
  },
  "100k": {
   "hoc": [
@@ -171,11 +171,11 @@
     "counts": 6
    },
    {
-    "author": "Cox_1920",
-    "counts": 4
+    "author": "MaybeNotWrong",
+    "counts": 5
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "Cox_1920",
     "counts": 4
    },
    {
@@ -203,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 5134
+  "total_counts": 5135
  },
- "latest_count": 28305134
+ "latest_count": 28305135
 }
