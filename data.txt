@@ -12,6 +12,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 77,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 67,
+    "has_wrc_req": false
+   },
+   {
     "author": "e-xz",
     "counts": 26,
     "has_wrc_req": false
@@ -19,11 +29,6 @@
    {
     "author": "Lonadont",
     "counts": 17,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -38,11 +43,6 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 540
+  "total_counts": 664
  },
  "100k": {
   "hoc": [
@@ -115,7 +115,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 3874
+    "counts": 3936
    },
    {
     "author": "TheMatsValk",
@@ -174,6 +174,10 @@
     "counts": 90
    },
    {
+    "author": "noduorg",
+    "counts": 86
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 62
    },
@@ -188,10 +192,6 @@
    {
     "author": "andrewtheredditor",
     "counts": 25
-   },
-   {
-    "author": "noduorg",
-    "counts": 24
    },
    {
     "author": "PaleRepresentative",
@@ -270,7 +270,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37079
+  "total_counts": 37203
  },
- "latest_count": 28337079
+ "latest_count": 28337203
 }
