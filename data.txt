@@ -47,12 +47,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1798
+  "total_counts": 1799
  },
  "100k": {
   "hoc": [
@@ -62,7 +67,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 7733
+    "counts": 7734
    },
    {
     "author": "swinub_time",
@@ -233,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52571
+  "total_counts": 52572
  },
- "latest_count": 28352571
+ "latest_count": 28352572
 }
