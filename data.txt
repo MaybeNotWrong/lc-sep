@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1068,
-    "has_wrc_req": false
+    "counts": 1165,
+    "has_wrc_req": true
    },
    {
     "author": "swinub_time",
     "counts": 787,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 205,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 134,
+    "author": "VitaminB16",
+    "counts": 57,
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 57,
+    "author": "NobodyL0vesMe",
+    "counts": 30,
     "has_wrc_req": false
    },
    {
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "dragonpro9827",
     "counts": 3,
     "has_wrc_req": false
@@ -107,17 +107,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2389
+  "total_counts": 2583
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 23860
+    "counts": 23957
    },
    {
     "author": "Trial-Name",
-    "counts": 7867
+    "counts": 7938
    },
    {
     "author": "swinub_time",
@@ -125,7 +125,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 5678
+    "counts": 5704
    },
    {
     "author": "TheMatsValk",
@@ -292,7 +292,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53162
+  "total_counts": 53356
  },
- "latest_count": 28353162
+ "latest_count": 28353356
 }
