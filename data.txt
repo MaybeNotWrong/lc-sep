@@ -50,9 +50,14 @@
     "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 224
+  "total_counts": 225
  },
  "100k": {
   "hoc": [
@@ -62,7 +67,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 7939
+    "counts": 7940
    },
    {
     "author": "swinub_time",
@@ -237,7 +242,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53796
+  "total_counts": 53797
  },
- "latest_count": 28353796
+ "latest_count": 28353797
 }
