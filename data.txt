@@ -33,17 +33,17 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 13,
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dragonpro9827",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -57,17 +57,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "TheMatsValk",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "MrUnderdawg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1317
+  "total_counts": 1322
  },
  "100k": {
   "hoc": [
@@ -117,7 +117,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 8140
+    "counts": 8142
    },
    {
     "author": "NobodyL0vesMe",
@@ -129,7 +129,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 2389
+    "counts": 2390
    },
    {
     "author": "cuteballgames",
@@ -149,7 +149,7 @@
    },
    {
     "author": "dragonpro9827",
-    "counts": 732
+    "counts": 734
    },
    {
     "author": "noduorg",
@@ -292,7 +292,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65338
+  "total_counts": 65343
  },
- "latest_count": 28365338
+ "latest_count": 28365343
 }
