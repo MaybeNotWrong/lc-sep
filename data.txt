@@ -3,11 +3,21 @@
   "hoc": [
    {
     "author": "treje",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Harding_1920",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -33,7 +43,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1680
+    "counts": 1681
    },
    {
     "author": "ddodd69",
@@ -49,7 +59,7 @@
    },
    {
     "author": "treje",
-    "counts": 867
+    "counts": 869
    },
    {
     "author": "dragonpro9827",
@@ -160,6 +170,10 @@
     "counts": 3
    },
    {
+    "author": "Harding_1920",
+    "counts": 2
+   },
+   {
     "author": "GO4T3D",
     "counts": 2
    },
@@ -200,7 +214,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 66518
+  "total_counts": 66523
  },
- "latest_count": 28366518
+ "latest_count": 28366523
 }
