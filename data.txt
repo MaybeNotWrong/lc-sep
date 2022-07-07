@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
+    "author": "amazingpikachu_38",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -17,17 +22,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 34383
+    "counts": 34384
    },
    {
     "author": "swinub_time",
-    "counts": 9446
+    "counts": 9447
    },
    {
     "author": "Trial-Name",
@@ -218,7 +223,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 75737
+  "total_counts": 75739
  },
- "latest_count": 28375737
+ "latest_count": 28375739
 }
