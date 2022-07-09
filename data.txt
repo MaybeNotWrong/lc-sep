@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 14,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "rideride",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -24,11 +29,6 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -57,13 +57,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41
+  "total_counts": 58
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 34871
+    "counts": 34878
    },
    {
     "author": "swinub_time",
@@ -79,7 +79,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 3105
+    "counts": 3110
    },
    {
     "author": "TheMatsValk",
@@ -198,16 +198,16 @@
     "counts": 15
    },
    {
+    "author": "rideride",
+    "counts": 13
+   },
+   {
     "author": "Cox_1920",
     "counts": 12
    },
    {
     "author": "haykam821",
     "counts": 9
-   },
-   {
-    "author": "rideride",
-    "counts": 8
    },
    {
     "author": "TehVulpez",
@@ -262,7 +262,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76924
+  "total_counts": 76941
  },
- "latest_count": 28376924
+ "latest_count": 28376941
 }
