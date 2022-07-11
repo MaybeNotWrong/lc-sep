@@ -33,7 +33,12 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 2,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -57,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 91
+  "total_counts": 96
  },
  "100k": {
   "hoc": [
@@ -153,7 +153,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 232
+    "counts": 234
    },
    {
     "author": "artbn",
@@ -181,7 +181,7 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 52
+    "counts": 55
    },
    {
     "author": "r_livecounting",
@@ -272,7 +272,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78646
+  "total_counts": 78651
  },
- "latest_count": 28378646
+ "latest_count": 28378651
 }
