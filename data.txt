@@ -3,16 +3,21 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 4,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "cuteballgames",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -30,20 +35,15 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 20
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 37214
+    "counts": 37217
    },
    {
     "author": "swinub_time",
@@ -59,7 +59,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 3675
+    "counts": 3677
    },
    {
     "author": "TheMatsValk",
@@ -71,11 +71,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 1336
+    "counts": 1337
    },
    {
     "author": "treje",
-    "counts": 1106
+    "counts": 1107
    },
    {
     "author": "Christian230102",
@@ -242,7 +242,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82028
+  "total_counts": 82035
  },
- "latest_count": 28382028
+ "latest_count": 28382035
 }
