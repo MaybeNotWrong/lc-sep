@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 37488
+    "counts": 37489
    },
    {
     "author": "swinub_time",
@@ -79,7 +90,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 443
+    "counts": 444
    },
    {
     "author": "LeinadSpoon",
@@ -206,7 +217,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82791
+  "total_counts": 82793
  },
- "latest_count": 28382791
+ "latest_count": 28382793
 }
