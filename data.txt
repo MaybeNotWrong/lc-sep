@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -32,17 +37,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11
+  "total_counts": 20
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 38240
+    "counts": 38245
    },
    {
     "author": "swinub_time",
-    "counts": 9470
+    "counts": 9471
    },
    {
     "author": "Trial-Name",
@@ -66,7 +71,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 1684
+    "counts": 1687
    },
    {
     "author": "treje",
@@ -237,7 +242,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84654
+  "total_counts": 84663
  },
- "latest_count": 28384653
+ "latest_count": 28384662
 }
