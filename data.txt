@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
@@ -55,14 +60,9 @@
     "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 165
+  "total_counts": 166
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,7 @@
    },
    {
     "author": "treje",
-    "counts": 548
+    "counts": 549
    },
    {
     "author": "Lonadont",
@@ -235,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14608
+  "total_counts": 14609
  },
- "latest_count": 28414608
+ "latest_count": 28414609
 }
