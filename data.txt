@@ -140,9 +140,14 @@
     "author": "andrew_wayne12",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "r_livecounting",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 1058
+  "total_counts": 1059
  },
  "100k": {
   "hoc": [
@@ -267,11 +272,11 @@
     "counts": 8
    },
    {
-    "author": "Cox_1920",
-    "counts": 7
+    "author": "r_livecounting",
+    "counts": 8
    },
    {
-    "author": "r_livecounting",
+    "author": "Cox_1920",
     "counts": 7
    },
    {
@@ -323,7 +328,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28194
+  "total_counts": 28195
  },
- "latest_count": 28428194
+ "latest_count": 28428195
 }
