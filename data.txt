@@ -18,7 +18,12 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 3,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -52,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 44
+  "total_counts": 48
  },
  "100k": {
   "hoc": [
@@ -70,7 +75,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1380
+    "counts": 1382
    },
    {
     "author": "Christian230102",
@@ -173,16 +178,16 @@
     "counts": 9
    },
    {
+    "author": "vovker1",
+    "counts": 8
+   },
+   {
     "author": "Cox_1920",
     "counts": 7
    },
    {
     "author": "r_livecounting",
     "counts": 7
-   },
-   {
-    "author": "vovker1",
-    "counts": 6
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -233,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 27180
+  "total_counts": 27184
  },
- "latest_count": 28427180
+ "latest_count": 28427184
 }
