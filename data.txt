@@ -33,12 +33,17 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 33,
+    "counts": 35,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 19,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -49,11 +54,6 @@
    {
     "author": "treje",
     "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2774
+  "total_counts": 2778
  },
  "100k": {
   "hoc": [
@@ -139,7 +139,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1547
+    "counts": 1549
    },
    {
     "author": "Lonadont",
@@ -187,7 +187,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 136
+    "counts": 138
    },
    {
     "author": "Ezekiel134",
@@ -302,7 +302,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31114
+  "total_counts": 31118
  },
- "latest_count": 28431114
+ "latest_count": 28431118
 }
