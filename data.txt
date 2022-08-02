@@ -2,23 +2,28 @@
  "day": {
   "hoc": [
    {
+    "author": "MrGally75",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Ezekiel134",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -37,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 15
  },
  "100k": {
   "hoc": [
@@ -91,7 +96,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 319
+    "counts": 320
    },
    {
     "author": "e-xz",
@@ -111,7 +116,7 @@
    },
    {
     "author": "Ezekiel134",
-    "counts": 129
+    "counts": 130
    },
    {
     "author": "artbn",
@@ -119,7 +124,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 70
+    "counts": 71
    },
    {
     "author": "andrewtheredditor",
@@ -222,7 +227,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31824
+  "total_counts": 31827
  },
- "latest_count": 28431824
+ "latest_count": 28431827
 }
