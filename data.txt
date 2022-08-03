@@ -70,9 +70,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 104
+  "total_counts": 105
  },
  "100k": {
   "hoc": [
@@ -94,7 +99,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1592
+    "counts": 1593
    },
    {
     "author": "LeinadSpoon",
@@ -261,7 +266,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 32875
+  "total_counts": 32876
  },
- "latest_count": 28432875
+ "latest_count": 28432876
 }
