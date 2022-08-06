@@ -115,9 +115,14 @@
     "author": "ItzTaken",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "PaleRepresentative",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 314
+  "total_counts": 315
  },
  "100k": {
   "hoc": [
@@ -302,11 +307,15 @@
     "counts": 1
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 1
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1
    }
   ],
-  "total_counts": 37790
+  "total_counts": 37791
  },
- "latest_count": 28437790
+ "latest_count": 28437791
 }
