@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 113
+  "total_counts": 114
  },
  "100k": {
   "hoc": [
@@ -75,7 +75,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1662
+    "counts": 1663
    },
    {
     "author": "Christian230102",
@@ -250,7 +250,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39324
+  "total_counts": 39325
  },
- "latest_count": 28439324
+ "latest_count": 28439325
 }
