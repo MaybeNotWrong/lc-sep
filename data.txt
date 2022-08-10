@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "ItzTaken",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -173,16 +178,16 @@
     "counts": 10
    },
    {
+    "author": "ItzTaken",
+    "counts": 9
+   },
+   {
     "author": "nothings32",
     "counts": 9
    },
    {
     "author": "r_livecounting",
     "counts": 9
-   },
-   {
-    "author": "ItzTaken",
-    "counts": 8
    },
    {
     "author": "Antichess",
@@ -225,7 +230,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 40367
+  "total_counts": 40368
  },
- "latest_count": 28440367
+ "latest_count": 28440368
 }
