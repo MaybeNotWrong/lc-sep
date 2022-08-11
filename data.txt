@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -31,7 +37,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1606
+    "counts": 1607
    },
    {
     "author": "TheMatsValk",
@@ -194,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41623
+  "total_counts": 41624
  },
- "latest_count": 28441623
+ "latest_count": 28441624
 }
