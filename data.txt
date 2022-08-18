@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -62,11 +67,11 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 805
+    "counts": 806
    },
    {
     "author": "cuteballgames",
-    "counts": 737
+    "counts": 738
    },
    {
     "author": "dragonpro9827",
@@ -213,7 +218,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53152
+  "total_counts": 53154
  },
- "latest_count": 28453150
+ "latest_count": 28453152
 }
