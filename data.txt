@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 5,
     "has_wrc_req": false
@@ -39,11 +44,6 @@
    {
     "author": "treje",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "buy_me_a_pint",
-    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 114
+  "total_counts": 115
  },
  "100k": {
   "hoc": [
@@ -215,11 +215,11 @@
     "counts": 25
    },
    {
-    "author": "ItzTaken",
-    "counts": 15
+    "author": "buy_me_a_pint",
+    "counts": 16
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "ItzTaken",
     "counts": 15
    },
    {
@@ -283,7 +283,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53543
+  "total_counts": 53544
  },
- "latest_count": 28453541
+ "latest_count": 28453542
 }
