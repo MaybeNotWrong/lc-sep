@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 66
+  "total_counts": 67
  },
  "100k": {
   "hoc": [
@@ -135,7 +135,7 @@
    },
    {
     "author": "artbn",
-    "counts": 231
+    "counts": 232
    },
    {
     "author": "kugelblitzk",
@@ -258,7 +258,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53495
+  "total_counts": 53496
  },
- "latest_count": 28453493
+ "latest_count": 28453494
 }
