@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
@@ -75,14 +80,9 @@
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 413
+  "total_counts": 414
  },
  "100k": {
   "hoc": [
@@ -160,7 +160,7 @@
    },
    {
     "author": "artbn",
-    "counts": 240
+    "counts": 241
    },
    {
     "author": "kugelblitzk",
@@ -287,7 +287,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 54039
+  "total_counts": 54040
  },
- "latest_count": 28454037
+ "latest_count": 28454038
 }
