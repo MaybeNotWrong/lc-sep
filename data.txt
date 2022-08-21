@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -73,7 +78,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 485
+    "counts": 486
    },
    {
     "author": "VitaminB16",
@@ -212,7 +217,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 54134
+  "total_counts": 54135
  },
- "latest_count": 28454132
+ "latest_count": 28454133
 }
