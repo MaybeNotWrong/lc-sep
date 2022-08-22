@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 21,
+    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,12 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 7,
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -38,11 +43,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "buy_me_a_pint",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 70
+  "total_counts": 78
  },
  "100k": {
   "hoc": [
@@ -104,7 +104,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2722
+    "counts": 2726
    },
    {
     "author": "Christian230102",
@@ -112,7 +112,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2370
+    "counts": 2371
    },
    {
     "author": "LeinadSpoon",
@@ -220,7 +220,7 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 21
+    "counts": 24
    },
    {
     "author": "gordonpt8",
@@ -287,7 +287,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 54581
+  "total_counts": 54589
  },
- "latest_count": 28454579
+ "latest_count": 28454587
 }
