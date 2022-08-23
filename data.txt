@@ -7,6 +7,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
@@ -15,14 +20,9 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 519
+    "counts": 520
    },
    {
     "author": "VitaminB16",
@@ -227,7 +227,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55029
+  "total_counts": 55030
  },
- "latest_count": 28455027
+ "latest_count": 28455028
 }
