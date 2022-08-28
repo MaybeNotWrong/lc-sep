@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 3,
     "has_wrc_req": false
@@ -32,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 3,
+    "author": "Cox_1920",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,17 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 74
+  "total_counts": 76
  },
  "100k": {
   "hoc": [
@@ -87,7 +87,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 7213
+    "counts": 7214
    },
    {
     "author": "MaybeNotWrong",
@@ -95,7 +95,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 4344
+    "counts": 4345
    },
    {
     "author": "Lonadont",
@@ -286,7 +286,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67201
+  "total_counts": 67203
  },
- "latest_count": 28467199
+ "latest_count": 28467201
 }
