@@ -2,12 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "e-xz",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -53,7 +63,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1106
+    "counts": 1107
    },
    {
     "author": "noduorg",
@@ -69,7 +79,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 716
+    "counts": 717
    },
    {
     "author": "dragonpro9827",
@@ -81,7 +91,7 @@
    },
    {
     "author": "e-xz",
-    "counts": 617
+    "counts": 619
    },
    {
     "author": "VitaminB16",
@@ -216,7 +226,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 96630
+  "total_counts": 96634
  },
- "latest_count": 28496628
+ "latest_count": 28496632
 }
