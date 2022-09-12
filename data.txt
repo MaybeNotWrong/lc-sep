@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -43,7 +54,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 79
+    "counts": 80
    },
    {
     "author": "MrGally75",
@@ -82,12 +93,12 @@
     "counts": 10
    },
    {
-    "author": "dominodan123",
+    "author": "MrUnderdawg",
     "counts": 6
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 5
+    "author": "dominodan123",
+    "counts": 6
    },
    {
     "author": "PaleRepresentative",
@@ -126,7 +137,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4803
+  "total_counts": 4805
  },
- "latest_count": 28504803
+ "latest_count": 28504805
 }
