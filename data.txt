@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Playing_2",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -74,11 +79,6 @@
    {
     "author": "noduorg",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Playing_2",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 177
+  "total_counts": 178
  },
  "100k": {
   "hoc": [
@@ -198,6 +198,10 @@
     "counts": 4
    },
    {
+    "author": "Playing_2",
+    "counts": 3
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 3
    },
@@ -211,10 +215,6 @@
    },
    {
     "author": "ItzTaken",
-    "counts": 2
-   },
-   {
-    "author": "Playing_2",
     "counts": 2
    },
    {
@@ -242,7 +242,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 11390
+  "total_counts": 11391
  },
- "latest_count": 28511390
+ "latest_count": 28511391
 }
