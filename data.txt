@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 3,
     "has_wrc_req": false
@@ -69,11 +74,6 @@
    {
     "author": "artbn",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1092
+  "total_counts": 1093
  },
  "100k": {
   "hoc": [
@@ -195,7 +195,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "treje",
@@ -242,7 +242,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13097
+  "total_counts": 13098
  },
- "latest_count": 28513097
+ "latest_count": 28513098
 }
