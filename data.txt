@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 79
+  "total_counts": 80
  },
  "100k": {
   "hoc": [
@@ -71,7 +71,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1237
+    "counts": 1238
    },
    {
     "author": "LeinadSpoon",
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14320
+  "total_counts": 14321
  },
- "latest_count": 28514320
+ "latest_count": 28514321
 }
