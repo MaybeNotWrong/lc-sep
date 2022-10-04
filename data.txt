@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -82,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 145
+  "total_counts": 146
  },
  "100k": {
   "hoc": [
@@ -253,9 +258,13 @@
    {
     "author": "co3_carbonate",
     "counts": 1
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1
    }
   ],
-  "total_counts": 47428
+  "total_counts": 47429
  },
- "latest_count": 28547428
+ "latest_count": 28547429
 }
