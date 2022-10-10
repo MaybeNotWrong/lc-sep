@@ -50,9 +50,14 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 78
+  "total_counts": 79
  },
  "100k": {
   "hoc": [
@@ -98,7 +103,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 424
+    "counts": 425
    },
    {
     "author": "rschaosid",
@@ -233,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53634
+  "total_counts": 53635
  },
- "latest_count": 28553634
+ "latest_count": 28553635
 }
