@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 80
+  "total_counts": 81
  },
  "100k": {
   "hoc": [
@@ -103,7 +103,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 425
+    "counts": 426
    },
    {
     "author": "rschaosid",
@@ -238,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53636
+  "total_counts": 53637
  },
- "latest_count": 28553636
+ "latest_count": 28553637
 }
