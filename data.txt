@@ -37,12 +37,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30
+  "total_counts": 31
  },
  "100k": {
   "hoc": [
@@ -56,7 +61,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 7933
+    "counts": 7934
    },
    {
     "author": "dragonpro9827",
@@ -239,7 +244,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69768
+  "total_counts": 69769
  },
- "latest_count": 28569768
+ "latest_count": 28569769
 }
