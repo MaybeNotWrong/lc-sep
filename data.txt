@@ -35,9 +35,14 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 43
+  "total_counts": 44
  },
  "100k": {
   "hoc": [
@@ -99,7 +104,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 66
+    "counts": 67
    },
    {
     "author": "artbn",
@@ -170,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37176
+  "total_counts": 37177
  },
- "latest_count": 28637161
+ "latest_count": 28637162
 }
