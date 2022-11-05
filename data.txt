@@ -3,11 +3,21 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "e-xz",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -32,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
@@ -66,7 +76,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 570
+    "counts": 571
    },
    {
     "author": "Christian230102",
@@ -90,7 +100,7 @@
    },
    {
     "author": "e-xz",
-    "counts": 114
+    "counts": 115
    },
    {
     "author": "Trial-Name",
@@ -141,11 +151,11 @@
     "counts": 9
    },
    {
-    "author": "ItzTaken",
-    "counts": 6
+    "author": "Antichess",
+    "counts": 7
    },
    {
-    "author": "Antichess",
+    "author": "ItzTaken",
     "counts": 6
    },
    {
@@ -181,7 +191,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45518
+  "total_counts": 45521
  },
- "latest_count": 28645502
+ "latest_count": 28645505
 }
