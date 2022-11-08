@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3,
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -22,13 +27,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 16
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 26099
+    "counts": 26104
    },
    {
     "author": "TheMatsValk",
@@ -60,7 +65,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 673
+    "counts": 678
    },
    {
     "author": "Chalupa_Grandpa",
@@ -187,7 +192,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56601
+  "total_counts": 56611
  },
- "latest_count": 28656594
+ "latest_count": 28656604
 }
