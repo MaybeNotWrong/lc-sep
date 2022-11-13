@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "abplows",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -22,23 +27,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "abplows",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 16
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 33540
+    "counts": 33543
    },
    {
     "author": "TheMatsValk",
@@ -173,6 +173,10 @@
     "counts": 7
    },
    {
+    "author": "abplows",
+    "counts": 4
+   },
+   {
     "author": "Cox_1920",
     "counts": 3
    },
@@ -187,10 +191,6 @@
    {
     "author": "Fortnite_Skin_Leaker",
     "counts": 2
-   },
-   {
-    "author": "abplows",
-    "counts": 1
    },
    {
     "author": "Chalupa_Dad",
@@ -213,7 +213,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 72270
+  "total_counts": 72276
  },
- "latest_count": 28672266
+ "latest_count": 28672272
 }
