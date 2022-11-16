@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
@@ -33,11 +38,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 77
+  "total_counts": 78
  },
  "100k": {
   "hoc": [
@@ -142,7 +142,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 277
+    "counts": 278
    },
    {
     "author": "artbn",
@@ -273,7 +273,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 81563
+  "total_counts": 81564
  },
- "latest_count": 28681557
+ "latest_count": 28681558
 }
