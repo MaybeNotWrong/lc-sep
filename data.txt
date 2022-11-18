@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "kugelblitzk",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -45,14 +50,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "kugelblitzk",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 49
+  "total_counts": 50
  },
  "100k": {
   "hoc": [
@@ -110,7 +110,7 @@
    },
    {
     "author": "kugelblitzk",
-    "counts": 684
+    "counts": 685
    },
    {
     "author": "davidjl123",
@@ -253,7 +253,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86416
+  "total_counts": 86417
  },
- "latest_count": 28686410
+ "latest_count": 28686411
 }
