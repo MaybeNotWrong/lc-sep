@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
@@ -59,11 +64,6 @@
    {
     "author": "kugelblitzk",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 942
+  "total_counts": 943
  },
  "100k": {
   "hoc": [
@@ -156,7 +156,7 @@
    },
    {
     "author": "MaybeNotWrong",
-    "counts": 240
+    "counts": 241
    },
    {
     "author": "artbn",
@@ -283,7 +283,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 87309
+  "total_counts": 87310
  },
- "latest_count": 28687303
+ "latest_count": 28687304
 }
