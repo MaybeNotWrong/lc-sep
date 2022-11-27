@@ -13,12 +13,17 @@
    },
    {
     "author": "Lonadont",
-    "counts": 26,
+    "counts": 34,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 23,
+    "has_wrc_req": false
+   },
+   {
+    "author": "AngryLispingSloth",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -29,11 +34,6 @@
    {
     "author": "Trial-Name",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "AngryLispingSloth",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -62,12 +62,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 232
+  "total_counts": 248
  },
  "100k": {
   "hoc": [
@@ -93,7 +98,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 470
+    "counts": 478
    },
    {
     "author": "treje",
@@ -144,11 +149,11 @@
     "counts": 17
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 14
+    "author": "noduorg",
+    "counts": 15
    },
    {
-    "author": "noduorg",
+    "author": "MaybeNotWrong",
     "counts": 14
    },
    {
@@ -158,6 +163,10 @@
    {
     "author": "VitaminB16",
     "counts": 12
+   },
+   {
+    "author": "AngryLispingSloth",
+    "counts": 10
    },
    {
     "author": "e-xz",
@@ -184,10 +193,6 @@
     "counts": 4
    },
    {
-    "author": "AngryLispingSloth",
-    "counts": 3
-   },
-   {
     "author": "buy_me_a_pint",
     "counts": 3
    },
@@ -212,7 +217,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21480
+  "total_counts": 21496
  },
- "latest_count": 28721479
+ "latest_count": 28721495
 }
