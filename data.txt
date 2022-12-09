@@ -28,7 +28,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -47,7 +52,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1702
+  "total_counts": 1704
  },
  "100k": {
   "hoc": [
@@ -85,7 +90,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 742
+    "counts": 743
    },
    {
     "author": "TheMatsValk",
@@ -105,7 +110,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 292
+    "counts": 293
    },
    {
     "author": "Trial-Name",
@@ -244,7 +249,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43171
+  "total_counts": 43173
  },
- "latest_count": 28743171
+ "latest_count": 28743173
 }
