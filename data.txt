@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
@@ -75,14 +80,9 @@
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 405
+  "total_counts": 406
  },
  "100k": {
   "hoc": [
@@ -156,7 +156,7 @@
    },
    {
     "author": "artbn",
-    "counts": 98
+    "counts": 99
    },
    {
     "author": "SilverSherbert6088",
@@ -279,7 +279,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44590
+  "total_counts": 44591
  },
- "latest_count": 28744590
+ "latest_count": 28744591
 }
