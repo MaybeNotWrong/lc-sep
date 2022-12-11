@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "gordonpt8",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
@@ -63,11 +68,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 550
+  "total_counts": 551
  },
  "100k": {
   "hoc": [
@@ -241,6 +241,10 @@
     "counts": 5
    },
    {
+    "author": "gordonpt8",
+    "counts": 4
+   },
+   {
     "author": "alienth",
     "counts": 4
    },
@@ -255,10 +259,6 @@
    {
     "author": "buy_me_a_pint",
     "counts": 4
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 3
    },
    {
     "author": "haykam821",
@@ -293,7 +293,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44735
+  "total_counts": 44736
  },
- "latest_count": 28744735
+ "latest_count": 28744736
 }
