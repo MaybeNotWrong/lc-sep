@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
@@ -60,14 +65,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 43
+  "total_counts": 44
  },
  "100k": {
   "hoc": [
@@ -125,7 +125,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 392
+    "counts": 393
    },
    {
     "author": "Christmas_Missionary",
@@ -272,7 +272,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48129
+  "total_counts": 48130
  },
- "latest_count": 28748130
+ "latest_count": 28748131
 }
