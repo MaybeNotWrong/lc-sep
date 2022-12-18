@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
@@ -15,14 +20,9 @@
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 421
+    "counts": 422
    },
    {
     "author": "Trial-Name",
@@ -227,7 +227,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48091
+  "total_counts": 48092
  },
- "latest_count": 28748092
+ "latest_count": 28748093
 }
