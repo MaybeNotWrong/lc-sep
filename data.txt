@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 8452,
+    "counts": 8454,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 5718,
+    "counts": 6296,
+    "has_wrc_req": true
+   },
+   {
+    "author": "vovker1",
+    "counts": 3476,
     "has_wrc_req": true
    },
    {
@@ -17,13 +22,8 @@
     "has_wrc_req": true
    },
    {
-    "author": "vovker1",
-    "counts": 2892,
-    "has_wrc_req": true
-   },
-   {
     "author": "Chalupa_Chad",
-    "counts": 302,
+    "counts": 303,
     "has_wrc_req": false
    },
    {
@@ -53,12 +53,17 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 8,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
     "author": "treje",
     "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -87,31 +92,26 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20820
+  "total_counts": 21990
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 19473
+    "counts": 19475
    },
    {
     "author": "greenpeppercat",
-    "counts": 15911
+    "counts": 16489
    },
    {
     "author": "vovker1",
-    "counts": 3806
+    "counts": 4390
    },
    {
     "author": "dragonpro9827",
@@ -123,11 +123,11 @@
    },
    {
     "author": "Chalupa_Chad",
-    "counts": 302
+    "counts": 303
    },
    {
     "author": "TheMatsValk",
-    "counts": 285
+    "counts": 288
    },
    {
     "author": "Lonadont",
@@ -170,15 +170,15 @@
     "counts": 5
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 4
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 3
    },
    {
     "author": "andrewtheredditor",
-    "counts": 2
-   },
-   {
-    "author": "MaybeNotWrong",
     "counts": 2
    },
    {
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43846
+  "total_counts": 45016
  },
- "latest_count": 28843841
+ "latest_count": 28845011
 }
