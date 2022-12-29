@@ -58,7 +58,7 @@
    },
    {
     "author": "treje",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29805
+  "total_counts": 29806
  },
  "100k": {
   "hoc": [
@@ -156,6 +156,10 @@
     "counts": 5
    },
    {
+    "author": "treje",
+    "counts": 2
+   },
+   {
     "author": "artbn",
     "counts": 2
    },
@@ -174,13 +178,9 @@
    {
     "author": "davidjl123",
     "counts": 1
-   },
-   {
-    "author": "treje",
-    "counts": 1
    }
   ],
-  "total_counts": 3023
+  "total_counts": 3024
  },
- "latest_count": 29003022
+ "latest_count": 29003023
 }
