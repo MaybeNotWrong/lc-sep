@@ -8,7 +8,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 9151,
+    "counts": 9165,
     "has_wrc_req": true
    },
    {
@@ -23,7 +23,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1580,
+    "counts": 1581,
     "has_wrc_req": false
    },
    {
@@ -54,6 +54,11 @@
    {
     "author": "davidjl123",
     "counts": 25,
+    "has_wrc_req": false
+   },
+   {
+    "author": "UserIP1",
+    "counts": 16,
     "has_wrc_req": false
    },
    {
@@ -122,17 +127,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "UserIP1",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 37788
+  "total_counts": 37818
  },
  "100k": {
   "hoc": [
@@ -142,7 +142,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 14021
+    "counts": 14035
    },
    {
     "author": "vovker1",
@@ -154,7 +154,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2236
+    "counts": 2237
    },
    {
     "author": "_Pranoodles",
@@ -205,6 +205,10 @@
     "counts": 20
    },
    {
+    "author": "UserIP1",
+    "counts": 16
+   },
+   {
     "author": "artbn",
     "counts": 10
    },
@@ -243,13 +247,9 @@
    {
     "author": "dominodan123",
     "counts": 1
-   },
-   {
-    "author": "UserIP1",
-    "counts": 1
    }
   ],
-  "total_counts": 59472
+  "total_counts": 59502
  },
- "latest_count": 29059470
+ "latest_count": 29059500
 }
