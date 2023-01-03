@@ -18,7 +18,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 1993,
+    "counts": 1996,
     "has_wrc_req": true
    },
    {
@@ -33,7 +33,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 846,
+    "counts": 849,
     "has_wrc_req": false
    },
    {
@@ -58,7 +58,12 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 14,
+    "counts": 16,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -67,13 +72,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Splash30ah",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
-    "counts": 2,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27493
+  "total_counts": 27506
  },
  "100k": {
   "hoc": [
@@ -115,7 +115,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 1993
+    "counts": 1996
    },
    {
     "author": "dragonpro9827",
@@ -123,7 +123,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 846
+    "counts": 849
    },
    {
     "author": "Chalupa_Grandpa",
@@ -138,12 +138,12 @@
     "counts": 18
    },
    {
-    "author": "davidjl123",
+    "author": "Trial-Name",
     "counts": 16
    },
    {
-    "author": "Trial-Name",
-    "counts": 14
+    "author": "davidjl123",
+    "counts": 16
    },
    {
     "author": "treje",
@@ -151,15 +151,15 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 6
+    "counts": 8
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 5
    },
    {
     "author": "MaybeNotWrong",
     "counts": 3
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 2
    },
    {
     "author": "VitaminB16",
@@ -174,7 +174,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23499
+  "total_counts": 23512
  },
- "latest_count": 29223496
+ "latest_count": 29223509
 }
