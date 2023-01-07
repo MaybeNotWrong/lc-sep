@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8037
+  "total_counts": 8038
  },
  "100k": {
   "hoc": [
@@ -144,6 +149,10 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 1
+   },
+   {
     "author": "Trial-Name",
     "counts": 1
    },
@@ -164,7 +173,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 9040
+  "total_counts": 9041
  },
- "latest_count": 29309040
+ "latest_count": 29309041
 }
