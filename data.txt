@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 6368,
+    "counts": 6369,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 2076,
+    "counts": 2078,
     "has_wrc_req": false
    },
    {
@@ -122,12 +122,16 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15974
+  "total_counts": 15977
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
+    "counts": 4
+   },
+   {
+    "author": "Splash30ah",
     "counts": 3
    },
    {
@@ -147,15 +151,11 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1
    }
   ],
-  "total_counts": 11
+  "total_counts": 14
  },
- "latest_count": 29300011
+ "latest_count": 29300014
 }
