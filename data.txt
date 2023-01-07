@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 6365,
+    "counts": 6366,
     "has_wrc_req": true
    },
    {
@@ -122,16 +122,20 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15964
+  "total_counts": 15965
  },
  "100k": {
   "hoc": [
+   {
+    "author": "greenpeppercat",
+    "counts": 1
+   },
    {
     "author": "TheMatsValk",
     "counts": 1
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
- "latest_count": 29300001
+ "latest_count": 29300002
 }
