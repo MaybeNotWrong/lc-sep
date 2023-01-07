@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 4,
+    "author": "Trial-Name",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "artbn",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8074
+  "total_counts": 8075
  },
  "100k": {
   "hoc": [
@@ -144,15 +144,15 @@
     "counts": 8
    },
    {
+    "author": "Trial-Name",
+    "counts": 5
+   },
+   {
     "author": "TheMatsValk",
     "counts": 5
    },
    {
     "author": "artbn",
-    "counts": 4
-   },
-   {
-    "author": "Trial-Name",
     "counts": 4
    },
    {
@@ -200,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 9077
+  "total_counts": 9078
  },
- "latest_count": 29309077
+ "latest_count": 29309078
 }
