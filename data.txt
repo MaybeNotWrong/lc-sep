@@ -38,7 +38,17 @@
    },
    {
     "author": "noduorg",
-    "counts": 6,
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -67,17 +77,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8059
+  "total_counts": 8064
  },
  "100k": {
   "hoc": [
@@ -141,11 +141,19 @@
    },
    {
     "author": "noduorg",
-    "counts": 6
+    "counts": 7
    },
    {
     "author": "TheMatsValk",
     "counts": 5
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 4
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 4
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -164,15 +172,7 @@
     "counts": 2
    },
    {
-    "author": "Trial-Name",
-    "counts": 2
-   },
-   {
     "author": "treje",
-    "counts": 2
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 2
    },
    {
@@ -200,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 9062
+  "total_counts": 9067
  },
- "latest_count": 29309062
+ "latest_count": 29309067
 }
