@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "Lonadont",
+    "counts": 95,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 78,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
     "counts": 66,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 62,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 295
+  "total_counts": 328
  },
  "100k": {
   "hoc": [
@@ -104,11 +104,11 @@
    },
    {
     "author": "noduorg",
-    "counts": 2516
+    "counts": 2532
    },
    {
     "author": "Lonadont",
-    "counts": 797
+    "counts": 814
    },
    {
     "author": "artbn",
@@ -207,7 +207,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 88496
+  "total_counts": 88529
  },
- "latest_count": 29488499
+ "latest_count": 29488532
 }
