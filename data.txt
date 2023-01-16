@@ -60,9 +60,14 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 21785
+  "total_counts": 21786
  },
  "100k": {
   "hoc": [
@@ -115,11 +120,11 @@
     "counts": 2
    },
    {
-    "author": "darrenrs",
+    "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "darrenrs",
     "counts": 1
    },
    {
@@ -127,11 +132,15 @@
     "counts": 1
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    }
   ],
-  "total_counts": 37001
+  "total_counts": 37002
  },
- "latest_count": 29637001
+ "latest_count": 29637002
 }
