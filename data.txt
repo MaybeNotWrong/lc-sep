@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 3,
     "has_wrc_req": false
@@ -64,11 +69,6 @@
    {
     "author": "Trial-Name",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 22082
+  "total_counts": 22083
  },
  "100k": {
   "hoc": [
@@ -140,16 +140,16 @@
     "counts": 4
    },
    {
+    "author": "artbn",
+    "counts": 3
+   },
+   {
     "author": "Trial-Name",
     "counts": 3
    },
    {
     "author": "treje",
     "counts": 3
-   },
-   {
-    "author": "artbn",
-    "counts": 2
    },
    {
     "author": "Cox_1920",
@@ -172,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37298
+  "total_counts": 37299
  },
- "latest_count": 29637298
+ "latest_count": 29637299
 }
