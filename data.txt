@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 23773,
+    "counts": 23824,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 23752,
+    "counts": 23774,
     "has_wrc_req": true
    },
    {
     "author": "Lonadont",
-    "counts": 85,
+    "counts": 86,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 32,
+    "has_wrc_req": false
+   },
+   {
     "author": "vovker1",
     "counts": 11,
     "has_wrc_req": false
@@ -67,18 +72,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
+    "author": "dragonpro9827",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "dragonpro9827",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 3,
+    "author": "MrGally75",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -117,21 +117,21 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 47972
+  "total_counts": 48076
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 17324
+    "counts": 17375
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 17299
+    "counts": 17321
    },
    {
     "author": "Lonadont",
-    "counts": 85
+    "counts": 86
    },
    {
     "author": "LeinadSpoon",
@@ -154,6 +154,10 @@
     "counts": 33
    },
    {
+    "author": "noduorg",
+    "counts": 32
+   },
+   {
     "author": "vovker1",
     "counts": 11
    },
@@ -170,16 +174,12 @@
     "counts": 5
    },
    {
-    "author": "MrGally75",
+    "author": "dragonpro9827",
     "counts": 4
    },
    {
-    "author": "dragonpro9827",
-    "counts": 3
-   },
-   {
-    "author": "noduorg",
-    "counts": 3
+    "author": "MrGally75",
+    "counts": 4
    },
    {
     "author": "MrUnderdawg",
@@ -206,7 +206,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35050
+  "total_counts": 35154
  },
- "latest_count": 29735050
+ "latest_count": 29735154
 }
