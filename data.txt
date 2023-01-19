@@ -77,18 +77,23 @@
     "has_wrc_req": false
    },
    {
+    "author": "OscarTheChocolateBoi",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Tranquilsunrise",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "OscarTheChocolateBoi",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -120,14 +125,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 14803
+  "total_counts": 14805
  },
  "100k": {
   "hoc": [
@@ -216,12 +216,16 @@
     "counts": 4
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 4
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 3
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 3
+    "author": "OscarTheChocolateBoi",
+    "counts": 2
    },
    {
     "author": "VitaminB16",
@@ -236,10 +240,6 @@
     "counts": 2
    },
    {
-    "author": "OscarTheChocolateBoi",
-    "counts": 1
-   },
-   {
     "author": "AutomatedCountingBot",
     "counts": 1
    },
@@ -252,7 +252,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56328
+  "total_counts": 56330
  },
- "latest_count": 29756328
+ "latest_count": 29756330
 }
