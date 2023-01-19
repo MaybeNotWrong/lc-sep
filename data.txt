@@ -110,9 +110,14 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 14790
+  "total_counts": 14791
  },
  "100k": {
   "hoc": [
@@ -205,6 +210,10 @@
     "counts": 3
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 3
+   },
+   {
     "author": "VitaminB16",
     "counts": 2
    },
@@ -214,10 +223,6 @@
    },
    {
     "author": "dominodan123",
-    "counts": 2
-   },
-   {
-    "author": "SubSmartstocks",
     "counts": 2
    },
    {
@@ -233,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56315
+  "total_counts": 56316
  },
- "latest_count": 29756315
+ "latest_count": 29756316
 }
