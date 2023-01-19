@@ -102,6 +102,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "AutomatedCountingBot",
     "counts": 1,
     "has_wrc_req": false
@@ -120,14 +125,9 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 54422
+  "total_counts": 54423
  },
  "100k": {
   "hoc": [
@@ -212,6 +212,10 @@
     "counts": 2
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 2
+   },
+   {
     "author": "AutomatedCountingBot",
     "counts": 1
    },
@@ -226,13 +230,9 @@
    {
     "author": "dominodan123",
     "counts": 1
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1
    }
   ],
-  "total_counts": 41500
+  "total_counts": 41501
  },
- "latest_count": 29741500
+ "latest_count": 29741501
 }
