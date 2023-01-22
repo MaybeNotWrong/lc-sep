@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -65,9 +70,14 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 30046
+  "total_counts": 30048
  },
  "100k": {
   "hoc": [
@@ -106,9 +116,17 @@
    {
     "author": "greenpeppercat",
     "counts": 2
+   },
+   {
+    "author": "treje",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 2054
+  "total_counts": 2056
  },
- "latest_count": 29902054
+ "latest_count": 29902056
 }
