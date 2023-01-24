@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "MrGally75",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -79,7 +85,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "SubSmartstocks",
@@ -138,7 +144,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48004
+  "total_counts": 48005
  },
- "latest_count": 29948005
+ "latest_count": 29948006
 }
