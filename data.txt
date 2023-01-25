@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 14458,
+    "counts": 14567,
     "has_wrc_req": true
    },
    {
@@ -22,13 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 36,
+    "author": "vovker1",
+    "counts": 142,
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 35,
+    "author": "Chalupa_Grandpa",
+    "counts": 37,
     "has_wrc_req": false
    },
    {
@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Chalupa_Dad",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -57,34 +62,37 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Dad",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31004
+  "total_counts": 31222
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3
+    "counts": 112
+   },
+   {
+    "author": "vovker1",
+    "counts": 108
+   },
+   {
+    "author": "Chalupa_Dad",
+    "counts": 1
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1
    },
    {
     "author": "greenpeppercat",
     "counts": 1
-   },
-   {
-    "author": "vovker1",
-    "counts": 1
    }
   ],
-  "total_counts": 5
+  "total_counts": 223
  },
- "latest_count": 30000005
+ "latest_count": 30000223
 }
