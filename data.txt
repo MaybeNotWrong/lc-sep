@@ -3,13 +3,18 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1000,
+    "counts": 1003,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
     "counts": 997,
     "has_wrc_req": true
+   },
+   {
+    "author": "artbn",
+    "counts": 3,
+    "has_wrc_req": false
    },
    {
     "author": "davidjl123",
@@ -22,13 +27,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2002
+  "total_counts": 2008
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 37193
+    "counts": 37196
    },
    {
     "author": "greenpeppercat",
@@ -52,7 +57,7 @@
    },
    {
     "author": "artbn",
-    "counts": 545
+    "counts": 548
    },
    {
     "author": "ddodd69",
@@ -167,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78006
+  "total_counts": 78012
  },
- "latest_count": 30078005
+ "latest_count": 30078011
 }
