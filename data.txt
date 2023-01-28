@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 8,
     "has_wrc_req": false
@@ -47,8 +52,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 7,
+    "author": "Trial-Name",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -59,11 +64,6 @@
    {
     "author": "PaleRepresentative",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 38026
+  "total_counts": 38028
  },
  "100k": {
   "hoc": [
@@ -114,11 +114,15 @@
    },
    {
     "author": "Lonadont",
-    "counts": 7
+    "counts": 8
    },
    {
     "author": "vovker1",
     "counts": 4
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 3
    },
    {
     "author": "PaleRepresentative",
@@ -127,10 +131,6 @@
    {
     "author": "VitaminB16",
     "counts": 3
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2
    },
    {
     "author": "Fortnite_Skin_Leaker",
@@ -145,7 +145,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14029
+  "total_counts": 14031
  },
- "latest_count": 30114029
+ "latest_count": 30114031
 }
