@@ -43,7 +43,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -72,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15951
+  "total_counts": 15953
  },
  "100k": {
   "hoc": [
@@ -106,7 +111,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 15
+    "counts": 16
    },
    {
     "author": "e-xz",
@@ -141,6 +146,10 @@
     "counts": 2
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 1
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    },
@@ -157,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 25020
+  "total_counts": 25022
  },
- "latest_count": 30225021
+ "latest_count": 30225023
 }
