@@ -67,13 +67,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "MrGally75",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
-    "counts": 2,
+    "author": "treje",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14172
+  "total_counts": 14173
  },
  "100k": {
   "hoc": [
@@ -169,6 +169,10 @@
     "counts": 2
    },
    {
+    "author": "MrGally75",
+    "counts": 2
+   },
+   {
     "author": "artbn",
     "counts": 1
    },
@@ -191,13 +195,9 @@
    {
     "author": "noduorg",
     "counts": 1
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1
    }
   ],
-  "total_counts": 1209
+  "total_counts": 1210
  },
- "latest_count": 30301209
+ "latest_count": 30301210
 }
