@@ -53,12 +53,17 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -74,11 +79,6 @@
    {
     "author": "treje",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26775
+  "total_counts": 26777
  },
  "100k": {
   "hoc": [
@@ -157,7 +157,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "rideride",
@@ -184,12 +184,12 @@
     "counts": 9
    },
    {
-    "author": "MrUnderdawg",
+    "author": "artbn",
     "counts": 7
    },
    {
-    "author": "artbn",
-    "counts": 6
+    "author": "MrUnderdawg",
+    "counts": 7
    },
    {
     "author": "los_emilios2000",
@@ -232,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56008
+  "total_counts": 56010
  },
- "latest_count": 30356008
+ "latest_count": 30356010
 }
