@@ -83,7 +83,12 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -117,7 +122,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 61728
+  "total_counts": 61730
  },
  "100k": {
   "hoc": [
@@ -182,11 +187,15 @@
     "counts": 4
    },
    {
-    "author": "vovker1",
+    "author": "Splash30ah",
+    "counts": 2
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "vovker1",
     "counts": 1
    },
    {
@@ -202,7 +211,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 27034
+  "total_counts": 27036
  },
- "latest_count": 30427034
+ "latest_count": 30427036
 }
