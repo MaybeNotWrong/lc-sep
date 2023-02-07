@@ -33,7 +33,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -72,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9022
+  "total_counts": 9024
  },
  "100k": {
   "hoc": [
@@ -90,7 +95,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 2557
+    "counts": 2558
    },
    {
     "author": "MrGally75",
@@ -130,7 +135,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 66
+    "counts": 67
    },
    {
     "author": "TehVulpez",
@@ -221,7 +226,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 90026
+  "total_counts": 90028
  },
- "latest_count": 30490026
+ "latest_count": 30490028
 }
