@@ -33,6 +33,11 @@
    },
    {
     "author": "rideride",
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 9,
     "has_wrc_req": false
    },
@@ -42,13 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "MrGally75",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
-    "counts": 8,
+    "author": "Chalupa_Grandpa",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -63,11 +68,6 @@
    },
    {
     "author": "OscarTheChocolateBoi",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 18155
+  "total_counts": 18159
  },
  "100k": {
   "hoc": [
@@ -147,7 +147,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 29
+    "counts": 30
    },
    {
     "author": "SubSmartstocks",
@@ -163,11 +163,11 @@
    },
    {
     "author": "rideride",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 9
+    "counts": 11
    },
    {
     "author": "Trial-Name",
@@ -234,7 +234,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 75172
+  "total_counts": 75176
  },
- "latest_count": 30575171
+ "latest_count": 30575175
 }
