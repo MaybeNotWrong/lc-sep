@@ -22,13 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 10,
+    "author": "LeinadSpoon",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 3,
     "has_wrc_req": false
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20011
+  "total_counts": 20014
  },
  "100k": {
   "hoc": [
@@ -99,12 +99,12 @@
     "counts": 16
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 11
    },
    {
-    "author": "TheMatsValk",
-    "counts": 10
+    "author": "LeinadSpoon",
+    "counts": 11
    },
    {
     "author": "rideride",
@@ -123,6 +123,10 @@
     "counts": 3
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 3
+   },
+   {
     "author": "Trial-Name",
     "counts": 3
    },
@@ -131,15 +135,11 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 8081
+  "total_counts": 8084
  },
- "latest_count": 30608081
+ "latest_count": 30608084
 }
