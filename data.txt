@@ -57,12 +57,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41005
+  "total_counts": 41006
  },
  "100k": {
   "hoc": [
@@ -111,12 +116,12 @@
     "counts": 16
    },
    {
-    "author": "rideride",
+    "author": "Trial-Name",
     "counts": 12
    },
    {
-    "author": "Trial-Name",
-    "counts": 11
+    "author": "rideride",
+    "counts": 12
    },
    {
     "author": "SubSmartstocks",
@@ -179,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 57008
+  "total_counts": 57009
  },
- "latest_count": 30657008
+ "latest_count": 30657009
 }
