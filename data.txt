@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16916,
+    "counts": 16917,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 16909,
+    "counts": 16913,
+    "has_wrc_req": false
+   },
+   {
+    "author": "No-Point-Out",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -17,22 +22,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "No-Point-Out",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "Splash30ah",
-    "counts": 3,
+    "author": "Trial-Name",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "Splash30ah",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -62,33 +62,33 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 33855
+  "total_counts": 33865
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 9473
+    "counts": 9474
    },
    {
     "author": "greenpeppercat",
-    "counts": 9468
+    "counts": 9472
+   },
+   {
+    "author": "No-Point-Out",
+    "counts": 8
    },
    {
     "author": "Lonadont",
     "counts": 6
    },
    {
-    "author": "No-Point-Out",
+    "author": "Trial-Name",
     "counts": 5
    },
    {
     "author": "davidjl123",
     "counts": 4
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 3
    },
    {
     "author": "Chalupa_Grandpa",
@@ -107,7 +107,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18965
+  "total_counts": 18975
  },
- "latest_count": 30718965
+ "latest_count": 30718975
 }
