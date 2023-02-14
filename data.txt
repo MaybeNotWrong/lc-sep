@@ -60,9 +60,14 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 4158
+  "total_counts": 4159
  },
  "100k": {
   "hoc": [
@@ -92,7 +97,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 320
+    "counts": 321
    },
    {
     "author": "No-Point-Out",
@@ -191,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68228
+  "total_counts": 68229
  },
- "latest_count": 30768230
+ "latest_count": 30768231
 }
