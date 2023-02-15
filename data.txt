@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
@@ -82,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 35025
+  "total_counts": 35026
  },
  "100k": {
   "hoc": [
@@ -131,6 +136,10 @@
     "counts": 2
    },
    {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1
    },
@@ -151,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35030
+  "total_counts": 35031
  },
- "latest_count": 30835030
+ "latest_count": 30835031
 }
