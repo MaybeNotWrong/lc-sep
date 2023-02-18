@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
@@ -65,14 +70,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 33851
+  "total_counts": 33852
  },
  "100k": {
   "hoc": [
@@ -109,6 +109,10 @@
     "counts": 2
    },
    {
+    "author": "treje",
+    "counts": 1
+   },
+   {
     "author": "rideride",
     "counts": 1
    },
@@ -121,7 +125,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24144
+  "total_counts": 24145
  },
- "latest_count": 31024144
+ "latest_count": 31024145
 }
