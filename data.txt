@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 2,
     "has_wrc_req": false
@@ -72,11 +77,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 43044
+  "total_counts": 43045
  },
  "100k": {
   "hoc": [
@@ -121,6 +121,10 @@
     "counts": 6
    },
    {
+    "author": "cuteballgames",
+    "counts": 2
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 2
    },
@@ -130,10 +134,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1
-   },
-   {
-    "author": "cuteballgames",
     "counts": 1
    },
    {
@@ -149,7 +149,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19049
+  "total_counts": 19050
  },
- "latest_count": 31119049
+ "latest_count": 31119050
 }
