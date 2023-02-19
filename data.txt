@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
@@ -107,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 43055
+  "total_counts": 43056
  },
  "100k": {
   "hoc": [
@@ -156,6 +161,10 @@
     "counts": 2
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 1
    },
@@ -180,7 +189,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19060
+  "total_counts": 19061
  },
- "latest_count": 31119060
+ "latest_count": 31119061
 }
