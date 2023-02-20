@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 36304,
+    "counts": 36305,
     "has_wrc_req": true
    },
    {
@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "andrewtheredditor",
     "counts": 2,
     "has_wrc_req": false
@@ -94,11 +99,6 @@
    {
     "author": "PaleRepresentative",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -147,13 +147,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 74026
+  "total_counts": 74028
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24309
+    "counts": 24310
    },
    {
     "author": "greenpeppercat",
@@ -204,6 +204,10 @@
     "counts": 3
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "treje",
     "counts": 2
    },
@@ -226,10 +230,6 @@
    {
     "author": "andrewtheredditor",
     "counts": 2
-   },
-   {
-    "author": "artbn",
-    "counts": 1
    },
    {
     "author": "MrUnderdawg",
@@ -256,7 +256,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50031
+  "total_counts": 50033
  },
- "latest_count": 31150011
+ "latest_count": 31150013
 }
