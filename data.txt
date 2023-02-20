@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Splash30ah",
     "counts": 1,
     "has_wrc_req": false
@@ -52,16 +57,20 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29020
+  "total_counts": 29021
  },
  "100k": {
   "hoc": [
+   {
+    "author": "Trial-Name",
+    "counts": 1
+   },
    {
     "author": "treje",
     "counts": 1
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
- "latest_count": 31390021
+ "latest_count": 31390022
 }
