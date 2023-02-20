@@ -43,7 +43,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -57,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29023
+  "total_counts": 29024
  },
  "100k": {
   "hoc": [
@@ -130,6 +130,10 @@
     "counts": 3
    },
    {
+    "author": "Trial-Name",
+    "counts": 2
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 2
    },
@@ -162,15 +166,11 @@
     "counts": 1
    },
    {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
     "author": "I__mean",
     "counts": 1
    }
   ],
-  "total_counts": 90042
+  "total_counts": 90043
  },
- "latest_count": 31190021
+ "latest_count": 31190022
 }
