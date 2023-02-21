@@ -58,6 +58,11 @@
    },
    {
     "author": "treje",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -82,11 +87,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27623
+  "total_counts": 27627
  },
  "100k": {
   "hoc": [
@@ -146,15 +146,19 @@
     "counts": 6
    },
    {
+    "author": "treje",
+    "counts": 5
+   },
+   {
     "author": "artbn",
     "counts": 4
    },
    {
-    "author": "ddodd69",
+    "author": "Trial-Name",
     "counts": 3
    },
    {
-    "author": "treje",
+    "author": "ddodd69",
     "counts": 3
    },
    {
@@ -170,10 +174,6 @@
     "counts": 2
    },
    {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 1
    },
@@ -182,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49037
+  "total_counts": 49041
  },
- "latest_count": 31249029
+ "latest_count": 31249033
 }
