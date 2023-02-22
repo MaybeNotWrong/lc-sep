@@ -12,8 +12,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 30,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 30,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 26,
     "has_wrc_req": false
    },
    {
@@ -34,16 +44,6 @@
    {
     "author": "TheMatsValk",
     "counts": 13,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 47272
+  "total_counts": 47314
  },
  "100k": {
   "hoc": [
@@ -93,6 +93,14 @@
    {
     "author": "greenpeppercat",
     "counts": 9987
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 30
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 26
    },
    {
     "author": "Lonadont",
@@ -109,14 +117,6 @@
    {
     "author": "TheMatsValk",
     "counts": 13
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 9
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 5
    },
    {
     "author": "artbn",
@@ -139,7 +139,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 20082
+  "total_counts": 20124
  },
- "latest_count": 31320081
+ "latest_count": 31320123
 }
