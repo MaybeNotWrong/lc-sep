@@ -92,6 +92,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
@@ -107,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 53393
+  "total_counts": 53394
  },
  "100k": {
   "hoc": [
@@ -184,6 +189,10 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 1
+   },
+   {
     "author": "rideride",
     "counts": 1
    },
@@ -196,7 +205,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37239
+  "total_counts": 37240
  },
- "latest_count": 31437239
+ "latest_count": 31437240
 }
