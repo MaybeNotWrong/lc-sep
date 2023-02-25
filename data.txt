@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "OscarTheChocolateBoi",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
@@ -87,11 +92,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "OscarTheChocolateBoi",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 54369
+  "total_counts": 54370
  },
  "100k": {
   "hoc": [
@@ -126,9 +126,13 @@
    {
     "author": "cuteballgames",
     "counts": 1
+   },
+   {
+    "author": "OscarTheChocolateBoi",
+    "counts": 1
    }
   ],
-  "total_counts": 8
+  "total_counts": 9
  },
- "latest_count": 31500008
+ "latest_count": 31500009
 }
