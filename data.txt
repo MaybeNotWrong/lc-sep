@@ -23,7 +23,12 @@
    },
    {
     "author": "vovker1",
-    "counts": 30,
+    "counts": 34,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -34,11 +39,6 @@
    {
     "author": "atomicimploder",
     "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23102
+  "total_counts": 23110
  },
  "100k": {
   "hoc": [
@@ -149,7 +149,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 30
+    "counts": 34
    },
    {
     "author": "SubSmartstocks",
@@ -161,7 +161,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 9
+    "counts": 13
    },
    {
     "author": "atomicimploder",
@@ -216,7 +216,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46256
+  "total_counts": 46264
  },
- "latest_count": 31646253
+ "latest_count": 31646261
 }
