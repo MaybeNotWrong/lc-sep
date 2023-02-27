@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "atomicimploder",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
@@ -29,11 +34,6 @@
    {
     "author": "davidjl123",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "atomicimploder",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 22870
+  "total_counts": 22871
  },
  "100k": {
   "hoc": [
@@ -139,11 +139,11 @@
     "counts": 5
    },
    {
-    "author": "Lonadont",
-    "counts": 3
+    "author": "atomicimploder",
+    "counts": 4
    },
    {
-    "author": "atomicimploder",
+    "author": "Lonadont",
     "counts": 3
    },
    {
@@ -183,7 +183,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46024
+  "total_counts": 46025
  },
- "latest_count": 31646021
+ "latest_count": 31646022
 }
