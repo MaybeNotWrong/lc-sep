@@ -97,6 +97,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "PATXS",
     "counts": 2,
     "has_wrc_req": false
@@ -108,11 +113,6 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -142,7 +142,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41996
+  "total_counts": 41997
  },
  "100k": {
   "hoc": [
@@ -184,7 +184,7 @@
    },
    {
     "author": "artbn",
-    "counts": 399
+    "counts": 400
    },
    {
     "author": "Lonadont",
@@ -303,7 +303,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93014
+  "total_counts": 93015
  },
- "latest_count": 31693010
+ "latest_count": 31693011
 }
