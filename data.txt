@@ -82,6 +82,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
     "counts": 2,
     "has_wrc_req": false
@@ -98,11 +103,6 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Countletics",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -142,7 +142,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 38121
+  "total_counts": 38122
  },
  "100k": {
   "hoc": [
@@ -212,7 +212,7 @@
    },
    {
     "author": "Countletics",
-    "counts": 2
+    "counts": 3
    },
    {
     "author": "rideride",
@@ -259,7 +259,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38026
+  "total_counts": 38027
  },
- "latest_count": 31738026
+ "latest_count": 31738027
 }
