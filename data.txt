@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
@@ -67,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 51
+  "total_counts": 52
  },
  "100k": {
   "hoc": [
@@ -172,6 +177,10 @@
     "counts": 2
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 2
+   },
+   {
     "author": "TehVulpez",
     "counts": 2
    },
@@ -190,13 +199,9 @@
    {
     "author": "buy_me_a_pint",
     "counts": 1
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 1
    }
   ],
-  "total_counts": 40335
+  "total_counts": 40336
  },
- "latest_count": 31740335
+ "latest_count": 31740336
 }
