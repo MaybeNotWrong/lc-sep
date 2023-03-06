@@ -8,12 +8,17 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 10465,
+    "counts": 10632,
     "has_wrc_req": true
    },
    {
     "author": "dragonpro9827",
     "counts": 2463,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 176,
     "has_wrc_req": false
    },
    {
@@ -34,11 +39,6 @@
    {
     "author": "SubSmartstocks",
     "counts": 13,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25034
+  "total_counts": 25368
  },
  "100k": {
   "hoc": [
@@ -122,7 +122,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 10466
+    "counts": 10633
    },
    {
     "author": "dragonpro9827",
@@ -131,6 +131,10 @@
    {
     "author": "Splash30ah",
     "counts": 499
+   },
+   {
+    "author": "noduorg",
+    "counts": 176
    },
    {
     "author": "TheMatsValk",
@@ -147,10 +151,6 @@
    {
     "author": "SubSmartstocks",
     "counts": 13
-   },
-   {
-    "author": "noduorg",
-    "counts": 9
    },
    {
     "author": "ddodd69",
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26035
+  "total_counts": 26369
  },
- "latest_count": 31926035
+ "latest_count": 31926369
 }
