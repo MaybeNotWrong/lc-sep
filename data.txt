@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
     "counts": 2,
     "has_wrc_req": false
@@ -77,11 +82,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40965
+  "total_counts": 40966
  },
  "100k": {
   "hoc": [
@@ -133,11 +133,11 @@
     "counts": 4
    },
    {
-    "author": "VitaminB16",
-    "counts": 1
+    "author": "Antichess",
+    "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "VitaminB16",
     "counts": 1
    },
    {
@@ -145,7 +145,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4068
+  "total_counts": 4069
  },
- "latest_count": 32004068
+ "latest_count": 32004069
 }
