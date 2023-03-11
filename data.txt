@@ -102,12 +102,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 42030
+  "total_counts": 42031
  },
  "100k": {
   "hoc": [
@@ -190,9 +195,13 @@
    {
     "author": "treje",
     "counts": 1
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1
    }
   ],
-  "total_counts": 35032
+  "total_counts": 35033
  },
- "latest_count": 32135032
+ "latest_count": 32135033
 }
