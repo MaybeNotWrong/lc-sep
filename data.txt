@@ -112,6 +112,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -122,10 +127,14 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 55646
+  "total_counts": 55647
  },
  "100k": {
   "hoc": [
+   {
+    "author": "Antichess",
+    "counts": 1
+   },
    {
     "author": "amazingpikachu_38",
     "counts": 1
@@ -135,7 +144,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
- "latest_count": 32200002
+ "latest_count": 32200003
 }
