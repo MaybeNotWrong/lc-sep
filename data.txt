@@ -32,7 +32,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -42,7 +52,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 44
+  "total_counts": 46
  },
  "100k": {
   "hoc": [
@@ -99,11 +109,11 @@
     "counts": 6
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Antichess",
     "counts": 6
    },
    {
-    "author": "Antichess",
+    "author": "LeinadSpoon",
     "counts": 6
    },
    {
@@ -127,6 +137,10 @@
     "counts": 3
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 2
    },
@@ -147,15 +161,11 @@
     "counts": 2
    },
    {
+    "author": "vovker1",
+    "counts": 1
+   },
+   {
     "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
     "counts": 1
    },
    {
@@ -163,7 +173,7 @@
     "counts": 1
    },
    {
-    "author": "TheMatsValk",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
@@ -171,11 +181,15 @@
     "counts": 1
    },
    {
+    "author": "TheMatsValk",
+    "counts": 1
+   },
+   {
     "author": "1eu3",
     "counts": 1
    }
   ],
-  "total_counts": 14069
+  "total_counts": 14071
  },
- "latest_count": 32214069
+ "latest_count": 32214071
 }
