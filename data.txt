@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "artbn",
+    "author": "greenpeppercat",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
-    "counts": 2,
+    "author": "artbn",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -17,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -27,7 +27,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 25585
+    "counts": 25586
    },
    {
     "author": "SubSmartstocks",
@@ -166,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 75024
+  "total_counts": 75025
  },
- "latest_count": 32275025
+ "latest_count": 32275027
 }
