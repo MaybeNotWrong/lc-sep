@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -77,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41512
+  "total_counts": 41513
  },
  "100k": {
   "hoc": [
@@ -122,6 +127,10 @@
     "counts": 2
    },
    {
+    "author": "Cox_1920",
+    "counts": 1
+   },
+   {
     "author": "noduorg",
     "counts": 1
    },
@@ -142,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39022
+  "total_counts": 39023
  },
- "latest_count": 32539022
+ "latest_count": 32539023
 }
