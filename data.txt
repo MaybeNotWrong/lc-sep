@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Splash30ah",
     "counts": 2,
     "has_wrc_req": false
@@ -43,11 +48,6 @@
    },
    {
     "author": "throwaway70338",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41506
+  "total_counts": 41507
  },
  "100k": {
   "hoc": [
@@ -101,6 +101,10 @@
     "counts": 3
    },
    {
+    "author": "Lonadont",
+    "counts": 2
+   },
+   {
     "author": "Splash30ah",
     "counts": 2
    },
@@ -110,10 +114,6 @@
    },
    {
     "author": "throwaway70338",
-    "counts": 1
-   },
-   {
-    "author": "Lonadont",
     "counts": 1
    },
    {
@@ -133,7 +133,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39016
+  "total_counts": 39017
  },
- "latest_count": 32539016
+ "latest_count": 32539017
 }
