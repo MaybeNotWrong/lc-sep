@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24197,
+    "counts": 24219,
     "has_wrc_req": true
    },
    {
@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Fivure",
+    "counts": 27,
+    "has_wrc_req": false
+   },
+   {
     "author": "throwaway70338",
     "counts": 12,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "Tranquilsunrise",
     "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Fivure",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -132,13 +132,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 48523
+  "total_counts": 48567
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 22953
+    "counts": 22975
    },
    {
     "author": "greenpeppercat",
@@ -153,6 +153,10 @@
     "counts": 30
    },
    {
+    "author": "Fivure",
+    "counts": 27
+   },
+   {
     "author": "throwaway70338",
     "counts": 12
    },
@@ -175,10 +179,6 @@
    {
     "author": "Tranquilsunrise",
     "counts": 6
-   },
-   {
-    "author": "Fivure",
-    "counts": 5
    },
    {
     "author": "SubSmartstocks",
@@ -241,7 +241,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46033
+  "total_counts": 46077
  },
- "latest_count": 32546033
+ "latest_count": 32546077
 }
