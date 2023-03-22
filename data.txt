@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 7,
     "has_wrc_req": false
@@ -63,11 +68,6 @@
    },
    {
     "author": "luc122c",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -142,7 +142,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 66526
+  "total_counts": 66527
  },
  "100k": {
   "hoc": [
@@ -187,6 +187,10 @@
     "counts": 8
    },
    {
+    "author": "Antichess",
+    "counts": 7
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 7
    },
@@ -196,10 +200,6 @@
    },
    {
     "author": "luc122c",
-    "counts": 6
-   },
-   {
-    "author": "Antichess",
     "counts": 6
    },
    {
@@ -259,7 +259,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 64036
+  "total_counts": 64037
  },
- "latest_count": 32564036
+ "latest_count": 32564037
 }
