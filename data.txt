@@ -57,17 +57,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 38018
+  "total_counts": 38019
  },
  "100k": {
   "hoc": [
@@ -152,6 +152,10 @@
     "counts": 3
    },
    {
+    "author": "noduorg",
+    "counts": 2
+   },
+   {
     "author": "ddodd69",
     "counts": 1
    },
@@ -172,10 +176,6 @@
     "counts": 1
    },
    {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1
    },
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2059
+  "total_counts": 2060
  },
- "latest_count": 32602059
+ "latest_count": 32602060
 }
