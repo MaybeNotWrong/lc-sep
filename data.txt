@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "cuteballgames",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26453
+  "total_counts": 26454
  },
  "100k": {
   "hoc": [
@@ -148,7 +148,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "davidjl123",
@@ -247,7 +247,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 85031
+  "total_counts": 85032
  },
- "latest_count": 32685031
+ "latest_count": 32685032
 }
