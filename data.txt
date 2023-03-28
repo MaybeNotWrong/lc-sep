@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "andrewtheredditor",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "throwaway70338",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +62,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "throwaway70338",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "PaleRepresentative",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25522
+  "total_counts": 25523
  },
  "100k": {
   "hoc": [
@@ -195,6 +200,10 @@
     "counts": 2
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 1
+   },
+   {
     "author": "artbn",
     "counts": 1
    },
@@ -219,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 96025
+  "total_counts": 96026
  },
- "latest_count": 32896024
+ "latest_count": 32896025
 }
