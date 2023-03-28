@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "Splash30ah",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "greenpeppercat",
-    "counts": 5,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 4,
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -22,17 +22,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 34549
+    "counts": 34553
    },
    {
     "author": "greenpeppercat",
-    "counts": 33011
+    "counts": 33016
    },
    {
     "author": "SubSmartstocks",
@@ -151,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70518
+  "total_counts": 70527
  },
- "latest_count": 32870517
+ "latest_count": 32870526
 }
