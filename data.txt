@@ -102,6 +102,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Countletics",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -127,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 39682
+  "total_counts": 39683
  },
  "100k": {
   "hoc": [
@@ -222,9 +227,13 @@
    {
     "author": "Voltinus",
     "counts": 1
+   },
+   {
+    "author": "Countletics",
+    "counts": 1
    }
   ],
-  "total_counts": 36058
+  "total_counts": 36059
  },
- "latest_count": 32936058
+ "latest_count": 32936059
 }
