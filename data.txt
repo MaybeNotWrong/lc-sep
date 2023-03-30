@@ -82,6 +82,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
@@ -117,11 +122,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 60483
+  "total_counts": 60484
  },
  "100k": {
   "hoc": [
@@ -151,9 +151,13 @@
    {
     "author": "treje",
     "counts": 2
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1
    }
   ],
-  "total_counts": 1001
+  "total_counts": 1002
  },
- "latest_count": 33001001
+ "latest_count": 33001002
 }
