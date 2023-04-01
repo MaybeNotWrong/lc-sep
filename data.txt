@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "vovker1",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -79,6 +79,10 @@
     "counts": 10
    },
    {
+    "author": "vovker1",
+    "counts": 6
+   },
+   {
     "author": "treje",
     "counts": 6
    },
@@ -92,10 +96,6 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 5
-   },
-   {
-    "author": "vovker1",
     "counts": 5
    },
    {
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30104
+  "total_counts": 30105
  },
- "latest_count": 33030104
+ "latest_count": 33030105
 }
