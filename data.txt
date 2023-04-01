@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -85,6 +90,10 @@
     "counts": 2
    },
    {
+    "author": "rideride",
+    "counts": 2
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2
    },
@@ -109,15 +118,11 @@
     "counts": 1
    },
    {
-    "author": "rideride",
-    "counts": 1
-   },
-   {
     "author": "Cox_1920",
     "counts": 1
    }
   ],
-  "total_counts": 30094
+  "total_counts": 30095
  },
- "latest_count": 33030094
+ "latest_count": 33030095
 }
