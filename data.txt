@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 21,
+    "counts": 143,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
-    "counts": 13,
+    "counts": 134,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 56
+  "total_counts": 299
  },
  "100k": {
   "hoc": [
@@ -82,11 +82,15 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 20080
+    "counts": 20202
    },
    {
     "author": "Splash30ah",
     "counts": 515
+   },
+   {
+    "author": "noduorg",
+    "counts": 148
    },
    {
     "author": "LeinadSpoon",
@@ -98,10 +102,6 @@
    },
    {
     "author": "davidjl123",
-    "counts": 27
-   },
-   {
-    "author": "noduorg",
     "counts": 27
    },
    {
@@ -205,7 +205,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41110
+  "total_counts": 41353
  },
- "latest_count": 33041110
+ "latest_count": 33041353
 }
