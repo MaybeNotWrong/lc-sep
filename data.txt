@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "Splash30ah",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -12,17 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Blue_boomer",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -36,7 +36,7 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 514
+    "counts": 515
    },
    {
     "author": "LeinadSpoon",
@@ -75,11 +75,11 @@
     "counts": 12
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 8
+    "author": "artbn",
+    "counts": 9
    },
    {
-    "author": "artbn",
+    "author": "Christmas_Missionary",
     "counts": 8
    },
    {
@@ -151,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41060
+  "total_counts": 41062
  },
- "latest_count": 33041060
+ "latest_count": 33041062
 }
