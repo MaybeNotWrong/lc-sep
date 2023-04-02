@@ -2,17 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "greenpeppercat",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Splash30ah",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15
+  "total_counts": 16
  },
  "100k": {
   "hoc": [
@@ -57,7 +57,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 20062
+    "counts": 20063
    },
    {
     "author": "Splash30ah",
@@ -176,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41069
+  "total_counts": 41070
  },
- "latest_count": 33041069
+ "latest_count": 33041070
 }
