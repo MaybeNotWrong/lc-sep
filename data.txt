@@ -3,13 +3,13 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 834,
+    "counts": 1013,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 832,
-    "has_wrc_req": false
+    "counts": 1010,
+    "has_wrc_req": true
    },
    {
     "author": "rideride",
@@ -22,17 +22,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1669
+  "total_counts": 2026
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 36323
+    "counts": 36502
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 34274
+    "counts": 34452
    },
    {
     "author": "noduorg",
@@ -163,7 +163,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73709
+  "total_counts": 74066
  },
- "latest_count": 33073709
+ "latest_count": 33074066
 }
