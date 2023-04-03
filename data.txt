@@ -1,13 +1,19 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "greenpeppercat",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 35489
+    "counts": 35490
    },
    {
     "author": "amazingpikachu_38",
@@ -142,7 +148,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 72040
+  "total_counts": 72041
  },
- "latest_count": 33072040
+ "latest_count": 33072041
 }
