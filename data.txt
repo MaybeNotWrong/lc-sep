@@ -87,6 +87,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -112,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31515
+  "total_counts": 31516
  },
  "100k": {
   "hoc": [
@@ -217,6 +222,10 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 2
+   },
+   {
     "author": "r_livecounting",
     "counts": 2
    },
@@ -231,13 +240,9 @@
    {
     "author": "thephilsblogbar123",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 52047
+  "total_counts": 52048
  },
- "latest_count": 33152044
+ "latest_count": 33152045
 }
