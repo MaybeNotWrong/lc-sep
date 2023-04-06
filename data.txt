@@ -48,6 +48,11 @@
    },
    {
     "author": "Chalupa_Grandpa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "PrinceCrinkle",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -97,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21097
+  "total_counts": 21100
  },
  "100k": {
   "hoc": [
@@ -147,7 +152,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "Countaholics",
@@ -194,6 +199,10 @@
     "counts": 3
    },
    {
+    "author": "PrinceCrinkle",
+    "counts": 2
+   },
+   {
     "author": "livecounting",
     "counts": 2
    },
@@ -234,7 +243,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73169
+  "total_counts": 73172
  },
- "latest_count": 33173166
+ "latest_count": 33173169
 }
