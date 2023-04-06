@@ -17,13 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "Antichess",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 1,
+    "author": "Cox_1920",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 18937
+  "total_counts": 18938
  },
  "100k": {
   "hoc": [
@@ -103,6 +103,10 @@
     "counts": 7
    },
    {
+    "author": "Antichess",
+    "counts": 7
+   },
+   {
     "author": "MrGally75",
     "counts": 7
    },
@@ -112,10 +116,6 @@
    },
    {
     "author": "vovker1",
-    "counts": 6
-   },
-   {
-    "author": "Antichess",
     "counts": 6
    },
    {
@@ -175,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71009
+  "total_counts": 71010
  },
- "latest_count": 33171006
+ "latest_count": 33171007
 }
