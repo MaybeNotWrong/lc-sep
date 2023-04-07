@@ -8,7 +8,12 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 11510,
+    "counts": 11513,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -19,11 +24,6 @@
    {
     "author": "Lonadont",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23080
+  "total_counts": 23086
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 3006
+    "counts": 3009
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 10
    },
    {
     "author": "LeinadSpoon",
@@ -101,10 +105,6 @@
    {
     "author": "Lonadont",
     "counts": 9
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 7
    },
    {
     "author": "noduorg",
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6067
+  "total_counts": 6073
  },
- "latest_count": 33206067
+ "latest_count": 33206073
 }
