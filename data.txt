@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -57,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 42684
+  "total_counts": 42685
  },
  "100k": {
   "hoc": [
@@ -98,15 +103,15 @@
     "counts": 7
    },
    {
+    "author": "noduorg",
+    "counts": 6
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 6
    },
    {
     "author": "vovker1",
-    "counts": 5
-   },
-   {
-    "author": "noduorg",
     "counts": 5
    },
    {
@@ -150,7 +155,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73006
+  "total_counts": 73007
  },
- "latest_count": 33273007
+ "latest_count": 33273008
 }
