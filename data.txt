@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Blue_boomer",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -77,7 +82,7 @@
    },
    {
     "author": "Blue_boomer",
-    "counts": 6
+    "counts": 7
    },
    {
     "author": "MrGally75",
@@ -120,7 +125,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33610
+  "total_counts": 33611
  },
- "latest_count": 33333610
+ "latest_count": 33333611
 }
