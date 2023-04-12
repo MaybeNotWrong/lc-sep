@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 23333,
+    "counts": 23402,
     "has_wrc_req": false
    },
    {
@@ -23,7 +23,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 26,
+    "counts": 95,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 46998
+  "total_counts": 47136
  },
  "100k": {
   "hoc": [
@@ -117,7 +117,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 37480
+    "counts": 37549
    },
    {
     "author": "SubSmartstocks",
@@ -144,6 +144,10 @@
     "counts": 128
    },
    {
+    "author": "noduorg",
+    "counts": 106
+   },
+   {
     "author": "Lonadont",
     "counts": 66
    },
@@ -157,10 +161,6 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 37
-   },
-   {
-    "author": "noduorg",
     "counts": 37
    },
    {
@@ -244,7 +244,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84066
+  "total_counts": 84204
  },
- "latest_count": 33384066
+ "latest_count": 33384204
 }
