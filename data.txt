@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 23309,
+    "counts": 23310,
     "has_wrc_req": false
    },
    {
@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 2,
     "has_wrc_req": false
@@ -79,11 +84,6 @@
    {
     "author": "SubSmartstocks",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 46948
+  "total_counts": 46950
  },
  "100k": {
   "hoc": [
@@ -117,7 +117,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 37456
+    "counts": 37457
    },
    {
     "author": "SubSmartstocks",
@@ -184,11 +184,11 @@
     "counts": 14
    },
    {
-    "author": "Antichess",
-    "counts": 12
+    "author": "noduorg",
+    "counts": 13
    },
    {
-    "author": "noduorg",
+    "author": "Antichess",
     "counts": 12
    },
    {
@@ -244,7 +244,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84016
+  "total_counts": 84018
  },
- "latest_count": 33384016
+ "latest_count": 33384018
 }
