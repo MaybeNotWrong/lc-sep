@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
@@ -67,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15448
+  "total_counts": 15449
  },
  "100k": {
   "hoc": [
@@ -92,6 +97,10 @@
     "counts": 1
    },
    {
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
     "author": "vovker1",
     "counts": 1
    },
@@ -104,7 +113,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 11
+  "total_counts": 12
  },
- "latest_count": 33400011
+ "latest_count": 33400012
 }
