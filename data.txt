@@ -8,7 +8,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 7210,
+    "counts": 7212,
     "has_wrc_req": true
    },
    {
@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "naimagawa",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrGally75",
     "counts": 7,
     "has_wrc_req": false
@@ -39,11 +44,6 @@
    {
     "author": "davidjl123",
     "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -132,7 +132,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15549
+  "total_counts": 15552
  },
  "100k": {
   "hoc": [
@@ -149,12 +149,12 @@
     "counts": 14
    },
    {
-    "author": "MrGally75",
+    "author": "naimagawa",
     "counts": 7
    },
    {
-    "author": "naimagawa",
-    "counts": 6
+    "author": "MrGally75",
+    "counts": 7
    },
    {
     "author": "davidjl123",
@@ -163,6 +163,10 @@
    {
     "author": "Trial-Name",
     "counts": 6
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 5
    },
    {
     "author": "Chalupa_Grandpa",
@@ -179,10 +183,6 @@
    {
     "author": "Antichess",
     "counts": 4
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 3
    },
    {
     "author": "ddodd69",
@@ -233,7 +233,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 112
+  "total_counts": 115
  },
- "latest_count": 33400112
+ "latest_count": 33400115
 }
