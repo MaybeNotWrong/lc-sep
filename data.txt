@@ -3,11 +3,16 @@
   "hoc": [
    {
     "author": "greenpeppercat",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -17,7 +22,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 25595
+    "counts": 25596
    },
    {
     "author": "MrGally75",
@@ -88,6 +93,10 @@
     "counts": 4
    },
    {
+    "author": "Cox_1920",
+    "counts": 4
+   },
+   {
     "author": "treje",
     "counts": 3
    },
@@ -101,10 +110,6 @@
    },
    {
     "author": "noduorg",
-    "counts": 3
-   },
-   {
-    "author": "Cox_1920",
     "counts": 3
    },
    {
@@ -144,7 +149,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53005
+  "total_counts": 53007
  },
- "latest_count": 33453005
+ "latest_count": 33453007
 }
