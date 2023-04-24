@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "greenpeppercat",
+    "author": "amazingpikachu_38",
     "counts": 9525,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 9523,
+    "author": "greenpeppercat",
+    "counts": 9525,
     "has_wrc_req": false
    },
    {
@@ -18,12 +18,12 @@
    },
    {
     "author": "treje",
-    "counts": 47,
+    "counts": 49,
     "has_wrc_req": false
    },
    {
     "author": "Trial-Name",
-    "counts": 40,
+    "counts": 42,
     "has_wrc_req": false
    },
    {
@@ -33,12 +33,12 @@
    },
    {
     "author": "MrGally75",
-    "counts": 21,
+    "counts": 22,
     "has_wrc_req": false
    },
    {
     "author": "andrewtheredditor",
-    "counts": 17,
+    "counts": 19,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "slyby",
+    "counts": 11,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 11,
     "has_wrc_req": false
@@ -64,11 +69,6 @@
    {
     "author": "LeinadSpoon",
     "counts": 11,
-    "has_wrc_req": false
-   },
-   {
-    "author": "slyby",
-    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 19382
+  "total_counts": 19392
  },
  "100k": {
   "hoc": [
@@ -127,7 +127,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 37585
+    "counts": 37587
    },
    {
     "author": "Splash30ah",
@@ -135,7 +135,7 @@
    },
    {
     "author": "slyby",
-    "counts": 226
+    "counts": 227
    },
    {
     "author": "vovker1",
@@ -147,7 +147,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 97
+    "counts": 99
    },
    {
     "author": "Chalupa_Grandpa",
@@ -155,15 +155,15 @@
    },
    {
     "author": "andrewtheredditor",
-    "counts": 86
+    "counts": 88
    },
    {
     "author": "MrGally75",
-    "counts": 65
+    "counts": 66
    },
    {
     "author": "treje",
-    "counts": 61
+    "counts": 63
    },
    {
     "author": "LeinadSpoon",
@@ -322,7 +322,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79410
+  "total_counts": 79420
  },
- "latest_count": 33779410
+ "latest_count": 33779420
 }
