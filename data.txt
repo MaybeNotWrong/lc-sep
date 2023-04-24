@@ -18,17 +18,17 @@
    },
    {
     "author": "treje",
-    "counts": 24,
+    "counts": 25,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 22,
     "has_wrc_req": false
    },
    {
     "author": "Antichess",
     "counts": 22,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 20,
     "has_wrc_req": false
    },
    {
@@ -73,12 +73,12 @@
    },
    {
     "author": "slyby",
-    "counts": 5,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "andrewtheredditor",
-    "counts": 3,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -117,7 +117,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 19255
+  "total_counts": 19261
  },
  "100k": {
   "hoc": [
@@ -135,7 +135,7 @@
    },
    {
     "author": "slyby",
-    "counts": 221
+    "counts": 222
    },
    {
     "author": "vovker1",
@@ -146,16 +146,16 @@
     "counts": 133
    },
    {
+    "author": "Trial-Name",
+    "counts": 79
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 77
    },
    {
-    "author": "Trial-Name",
-    "counts": 77
-   },
-   {
     "author": "andrewtheredditor",
-    "counts": 72
+    "counts": 74
    },
    {
     "author": "MrGally75",
@@ -174,11 +174,11 @@
     "counts": 40
    },
    {
-    "author": "Antichess",
-    "counts": 38
+    "author": "treje",
+    "counts": 39
    },
    {
-    "author": "treje",
+    "author": "Antichess",
     "counts": 38
    },
    {
@@ -242,11 +242,11 @@
     "counts": 5
    },
    {
-    "author": "litzzza",
+    "author": "Blue_boomer",
     "counts": 5
    },
    {
-    "author": "Blue_boomer",
+    "author": "litzzza",
     "counts": 5
    },
    {
@@ -322,7 +322,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79283
+  "total_counts": 79289
  },
- "latest_count": 33779283
+ "latest_count": 33779289
 }
