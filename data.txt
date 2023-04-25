@@ -18,12 +18,17 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 61,
+    "counts": 203,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 162,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 57,
+    "counts": 58,
     "has_wrc_req": false
    },
    {
@@ -34,11 +39,6 @@
    {
     "author": "MrGally75",
     "counts": 23,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 20,
     "has_wrc_req": false
    },
    {
@@ -137,7 +137,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11995
+  "total_counts": 12280
  },
  "100k": {
   "hoc": [
@@ -154,8 +154,16 @@
     "counts": 2172
    },
    {
+    "author": "Trial-Name",
+    "counts": 345
+   },
+   {
     "author": "slyby",
     "counts": 251
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 231
    },
    {
     "author": "andrewtheredditor",
@@ -163,15 +171,11 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 208
+    "counts": 209
    },
    {
     "author": "MrGally75",
     "counts": 205
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 203
    },
    {
     "author": "vovker1",
@@ -184,10 +188,6 @@
    {
     "author": "treje",
     "counts": 126
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 89
    },
    {
     "author": "Lonadont",
@@ -278,11 +278,11 @@
     "counts": 5
    },
    {
-    "author": "dominodan123",
+    "author": "Countletics",
     "counts": 4
    },
    {
-    "author": "Countletics",
+    "author": "dominodan123",
     "counts": 4
    },
    {
@@ -290,11 +290,11 @@
     "counts": 4
    },
    {
-    "author": "gordonpt8",
+    "author": "dragonpro9827",
     "counts": 3
    },
    {
-    "author": "dragonpro9827",
+    "author": "gordonpt8",
     "counts": 3
    },
    {
@@ -302,11 +302,11 @@
     "counts": 3
    },
    {
-    "author": "e-xz",
+    "author": "TheNitromeFan",
     "counts": 3
    },
    {
-    "author": "TheNitromeFan",
+    "author": "e-xz",
     "counts": 3
    },
    {
@@ -318,11 +318,11 @@
     "counts": 2
    },
    {
-    "author": "Sharpeye468",
+    "author": "NikinCZ",
     "counts": 2
    },
    {
-    "author": "NikinCZ",
+    "author": "Sharpeye468",
     "counts": 2
    },
    {
@@ -338,11 +338,11 @@
     "counts": 1
    },
    {
-    "author": "IM_LAGGING_IN_LC",
+    "author": "SSoto_21",
     "counts": 1
    },
    {
-    "author": "SSoto_21",
+    "author": "IM_LAGGING_IN_LC",
     "counts": 1
    },
    {
@@ -354,7 +354,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93236
+  "total_counts": 93521
  },
- "latest_count": 33793236
+ "latest_count": 33793521
 }
