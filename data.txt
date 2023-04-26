@@ -77,13 +77,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "slyby",
+    "author": "rideride",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 2,
+    "author": "slyby",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -102,17 +102,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -130,9 +125,14 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 36757
+  "total_counts": 36758
  },
  "100k": {
   "hoc": [
@@ -217,16 +217,16 @@
     "counts": 4
    },
    {
+    "author": "rideride",
+    "counts": 4
+   },
+   {
     "author": "naimagawa",
     "counts": 4
    },
    {
     "author": "Christmas_Missionary",
     "counts": 4
-   },
-   {
-    "author": "rideride",
-    "counts": 3
    },
    {
     "author": "Cox_1920",
@@ -265,7 +265,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37005
+  "total_counts": 37006
  },
- "latest_count": 33837005
+ "latest_count": 33837006
 }
