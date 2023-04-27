@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 9728,
+    "counts": 9877,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 4585,
+    "counts": 4734,
     "has_wrc_req": true
    },
    {
@@ -107,11 +107,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -132,22 +127,27 @@
     "has_wrc_req": false
    },
    {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21678
+  "total_counts": 21976
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 27086
+    "counts": 27235
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 23131
+    "counts": 23280
    },
    {
     "author": "naimagawa",
@@ -222,6 +222,10 @@
     "counts": 8
    },
    {
+    "author": "artbn",
+    "counts": 6
+   },
+   {
     "author": "slyby",
     "counts": 6
    },
@@ -230,16 +234,8 @@
     "counts": 6
    },
    {
-    "author": "artbn",
-    "counts": 6
-   },
-   {
     "author": "Antichess",
     "counts": 5
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 4
    },
    {
     "author": "Christmas_Missionary",
@@ -247,6 +243,10 @@
    },
    {
     "author": "ingpik",
+    "counts": 4
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
@@ -286,7 +286,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58932
+  "total_counts": 59230
  },
- "latest_count": 33858932
+ "latest_count": 33859230
 }
