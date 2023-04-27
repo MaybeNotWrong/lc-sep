@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Splash30ah",
+    "counts": 945,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 944,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 877,
     "has_wrc_req": false
@@ -9,16 +19,6 @@
    {
     "author": "naimagawa",
     "counts": 873,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 803,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 802,
     "has_wrc_req": false
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "vovker1",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
+    "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -52,17 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3383
+  "total_counts": 3667
  },
  "100k": {
   "hoc": [
@@ -72,15 +72,15 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 18160
+    "counts": 18302
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 950
    },
    {
     "author": "naimagawa",
     "counts": 877
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 808
    },
    {
     "author": "SubSmartstocks",
@@ -175,6 +175,10 @@
     "counts": 3
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 2
+   },
+   {
     "author": "noduorg",
     "counts": 2
    },
@@ -184,10 +188,6 @@
    },
    {
     "author": "andrew_wayne12",
-    "counts": 2
-   },
-   {
-    "author": "Tranquilsunrise",
     "counts": 2
    },
    {
@@ -203,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 40637
+  "total_counts": 40921
  },
- "latest_count": 33840637
+ "latest_count": 33840921
 }
