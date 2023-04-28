@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 12749,
+    "counts": 12750,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5894,
+    "counts": 5895,
     "has_wrc_req": true
    },
    {
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Cox_1920",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 4,
     "has_wrc_req": false
@@ -88,11 +93,6 @@
    },
    {
     "author": "ingpik",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Cox_1920",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -127,12 +127,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
+    "author": "numbermaniac",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -142,23 +137,28 @@
     "has_wrc_req": false
    },
    {
-    "author": "numbermaniac",
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27748
+  "total_counts": 27750
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 30107
+    "counts": 30108
    },
    {
     "author": "amazingpikachu_38",
@@ -166,7 +166,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5898
+    "counts": 5899
    },
    {
     "author": "Splash30ah",
@@ -229,11 +229,11 @@
     "counts": 10
    },
    {
-    "author": "dragonpro9827",
+    "author": "artbn",
     "counts": 9
    },
    {
-    "author": "artbn",
+    "author": "dragonpro9827",
     "counts": 9
    },
    {
@@ -261,15 +261,15 @@
     "counts": 5
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 4
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 4
    },
    {
     "author": "ingpik",
+    "counts": 4
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
@@ -309,7 +309,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65002
+  "total_counts": 65004
  },
- "latest_count": 33865002
+ "latest_count": 33865004
 }
