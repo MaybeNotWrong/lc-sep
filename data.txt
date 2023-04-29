@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 18118,
+    "counts": 18313,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 16179,
+    "counts": 16375,
     "has_wrc_req": true
    },
    {
@@ -112,6 +112,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -122,27 +127,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 38608
+  "total_counts": 38999
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 7646
+    "counts": 7841
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 6298
+    "counts": 6494
    },
    {
     "author": "naimagawa",
@@ -173,11 +173,15 @@
     "counts": 2
    },
    {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1
    },
    {
-    "author": "Blue_boomer",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -189,15 +193,11 @@
     "counts": 1
    },
    {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1
    }
   ],
-  "total_counts": 15609
+  "total_counts": 16000
  },
- "latest_count": 33915609
+ "latest_count": 33916000
 }
