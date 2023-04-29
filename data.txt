@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 31,
+    "author": "greenpeppercat",
+    "counts": 252,
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
-    "counts": 31,
+    "author": "amazingpikachu_38",
+    "counts": 251,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,17 +27,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 66
+  "total_counts": 508
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11870
+    "counts": 12091
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10547
+    "counts": 10767
    },
    {
     "author": "naimagawa",
@@ -80,6 +80,10 @@
     "counts": 2
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 2
+   },
+   {
     "author": "artbn",
     "counts": 2
    },
@@ -108,10 +112,6 @@
     "counts": 1
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1
-   },
-   {
     "author": "Baron-von-Baroff",
     "counts": 1
    },
@@ -120,7 +120,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24114
+  "total_counts": 24556
  },
- "latest_count": 33924114
+ "latest_count": 33924556
 }
