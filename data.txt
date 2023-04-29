@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "noduorg",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "ddodd69",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -97,12 +97,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -110,9 +110,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 22020
+  "total_counts": 22021
  },
  "100k": {
   "hoc": [
@@ -235,9 +240,13 @@
    {
     "author": "Baron-von-Baroff",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    }
   ],
-  "total_counts": 46063
+  "total_counts": 46064
  },
- "latest_count": 33946064
+ "latest_count": 33946065
 }
