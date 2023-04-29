@@ -2,41 +2,46 @@
  "day": {
   "hoc": [
    {
-    "author": "greenpeppercat",
-    "counts": 3,
+    "author": "amazingpikachu_38",
+    "counts": 31,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "greenpeppercat",
+    "counts": 31,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 7
+  "total_counts": 66
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11842
+    "counts": 11870
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10518
+    "counts": 10547
    },
    {
     "author": "naimagawa",
-    "counts": 1500
+    "counts": 1501
    },
    {
     "author": "Antichess",
@@ -63,6 +68,22 @@
     "counts": 6
    },
    {
+    "author": "Blue_boomer",
+    "counts": 2
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 2
+   },
+   {
+    "author": "dragonpro9827",
+    "counts": 2
+   },
+   {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "andrewtheredditor",
     "counts": 2
    },
@@ -75,23 +96,7 @@
     "counts": 2
    },
    {
-    "author": "artbn",
-    "counts": 2
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 2
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 2
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 2
-   },
-   {
-    "author": "rideride",
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
@@ -99,19 +104,23 @@
     "counts": 1
    },
    {
-    "author": "Baron-von-Baroff",
-    "counts": 1
-   },
-   {
     "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "Chalupa_Grandpa",
+    "counts": 1
+   },
+   {
+    "author": "Baron-von-Baroff",
+    "counts": 1
+   },
+   {
+    "author": "rideride",
     "counts": 1
    }
   ],
-  "total_counts": 24055
+  "total_counts": 24114
  },
- "latest_count": 33924055
+ "latest_count": 33924114
 }
