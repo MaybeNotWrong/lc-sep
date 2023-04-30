@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -30,14 +35,9 @@
     "author": "antechiss",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 8487
+  "total_counts": 8488
  },
  "100k": {
   "hoc": [
@@ -99,7 +99,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 11
+    "counts": 12
    },
    {
     "author": "artbn",
@@ -174,7 +174,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60007
+  "total_counts": 60008
  },
- "latest_count": 33960008
+ "latest_count": 33960009
 }
