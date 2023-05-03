@@ -3,11 +3,16 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 12,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -18,11 +23,6 @@
    },
    {
     "author": "MrGally75",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Cox_1920",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,13 +62,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29
+  "total_counts": 31
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 34723
+    "counts": 34724
    },
    {
     "author": "greenpeppercat",
@@ -167,6 +167,10 @@
     "counts": 11
    },
    {
+    "author": "Cox_1920",
+    "counts": 10
+   },
+   {
     "author": "noduorg",
     "counts": 10
    },
@@ -175,19 +179,15 @@
     "counts": 10
    },
    {
-    "author": "Cox_1920",
-    "counts": 9
-   },
-   {
     "author": "Baron-von-Baroff",
     "counts": 8
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "antechiss",
     "counts": 7
    },
    {
-    "author": "antechiss",
+    "author": "Tranquilsunrise",
     "counts": 7
    },
    {
@@ -223,15 +223,15 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "livecounting",
     "counts": 1
    },
    {
-    "author": "livecounting",
+    "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 73090
+  "total_counts": 73092
  },
- "latest_count": 33973090
+ "latest_count": 33973092
 }
