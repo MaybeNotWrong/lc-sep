@@ -12,6 +12,11 @@
     "has_wrc_req": true
    },
    {
+    "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -23,11 +28,6 @@
    },
    {
     "author": "Antichess",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 32010
+  "total_counts": 32011
  },
  "100k": {
   "hoc": [
@@ -104,7 +104,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "artbn",
@@ -171,7 +171,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65013
+  "total_counts": 65014
  },
- "latest_count": 34065013
+ "latest_count": 34065014
 }
