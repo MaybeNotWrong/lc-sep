@@ -1,17 +1,33 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1336,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 1334,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2671
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 34991
+    "counts": 36980
    },
    {
     "author": "greenpeppercat",
-    "counts": 30356
+    "counts": 32345
    },
    {
     "author": "naimagawa",
@@ -47,7 +63,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 16
+    "counts": 17
    },
    {
     "author": "artbn",
@@ -70,7 +86,7 @@
     "counts": 5
    },
    {
-    "author": "noduorg",
+    "author": "Blue_boomer",
     "counts": 3
    },
    {
@@ -78,23 +94,11 @@
     "counts": 3
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 2
+    "author": "noduorg",
+    "counts": 3
    },
    {
     "author": "antechiss",
-    "counts": 2
-   },
-   {
-    "author": "dominodan123",
-    "counts": 2
-   },
-   {
-    "author": "Blue_boomer",
     "counts": 2
    },
    {
@@ -102,8 +106,16 @@
     "counts": 2
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
+    "author": "andrewtheredditor",
+    "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 2
+   },
+   {
+    "author": "dominodan123",
+    "counts": 2
    },
    {
     "author": "Cox_1920",
@@ -112,9 +124,17 @@
    {
     "author": "treje",
     "counts": 1
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "rideride",
+    "counts": 1
    }
   ],
-  "total_counts": 73113
+  "total_counts": 77094
  },
- "latest_count": 34073113
+ "latest_count": 34077094
 }
