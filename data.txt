@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 8926,
+    "counts": 8996,
     "has_wrc_req": true
    },
    {
@@ -13,8 +13,8 @@
    },
    {
     "author": "naimagawa",
-    "counts": 1645,
-    "has_wrc_req": false
+    "counts": 1716,
+    "has_wrc_req": true
    },
    {
     "author": "Chalupa_Grandpa",
@@ -57,22 +57,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "rideride",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 3,
+    "author": "Trial-Name",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -82,12 +82,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Blue_boomer",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -97,18 +92,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Blue_boomer",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 18133
+  "total_counts": 18274
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 32763
+    "counts": 32833
    },
    {
     "author": "greenpeppercat",
@@ -116,7 +116,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 1962
+    "counts": 2033
    },
    {
     "author": "Splash30ah",
@@ -187,11 +187,11 @@
     "counts": 5
    },
    {
-    "author": "artbn",
+    "author": "dragonpro9827",
     "counts": 5
    },
    {
-    "author": "dragonpro9827",
+    "author": "artbn",
     "counts": 5
    },
    {
@@ -219,10 +219,6 @@
     "counts": 1
    },
    {
-    "author": "antechiss",
-    "counts": 1
-   },
-   {
     "author": "TehVulpez",
     "counts": 1
    },
@@ -237,9 +233,13 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
+   },
+   {
+    "author": "antechiss",
+    "counts": 1
    }
   ],
-  "total_counts": 66558
+  "total_counts": 66699
  },
- "latest_count": 34166557
+ "latest_count": 34166698
 }
