@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6933,
+    "counts": 7056,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 5760,
+    "counts": 5884,
     "has_wrc_req": false
    },
    {
@@ -32,11 +32,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -45,19 +40,24 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 13881
+  "total_counts": 14128
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 40243
+    "counts": 40366
    },
    {
     "author": "greenpeppercat",
-    "counts": 35991
+    "counts": 36115
    },
    {
     "author": "naimagawa",
@@ -128,7 +128,7 @@
     "counts": 6
    },
    {
-    "author": "dragonpro9827",
+    "author": "treje",
     "counts": 5
    },
    {
@@ -136,7 +136,7 @@
     "counts": 5
    },
    {
-    "author": "treje",
+    "author": "dragonpro9827",
     "counts": 5
    },
    {
@@ -152,16 +152,12 @@
     "counts": 3
    },
    {
-    "author": "noduorg",
-    "counts": 3
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 3
    },
    {
-    "author": "dominodan123",
-    "counts": 1
+    "author": "noduorg",
+    "counts": 3
    },
    {
     "author": "PaleRepresentative",
@@ -180,15 +176,19 @@
     "counts": 1
    },
    {
-    "author": "antechiss",
+    "author": "dominodan123",
     "counts": 1
    },
    {
     "author": "MrUnderdawg",
     "counts": 1
+   },
+   {
+    "author": "antechiss",
+    "counts": 1
    }
   ],
-  "total_counts": 81535
+  "total_counts": 81782
  },
- "latest_count": 34181534
+ "latest_count": 34181781
 }
