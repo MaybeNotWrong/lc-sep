@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -19,7 +30,7 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 637
+    "counts": 638
    },
    {
     "author": "rideride",
@@ -27,7 +38,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 103
+    "counts": 105
    },
    {
     "author": "MrGally75",
@@ -78,15 +89,15 @@
     "counts": 8
    },
    {
+    "author": "cuteballgames",
+    "counts": 7
+   },
+   {
     "author": "TheMatsValk",
     "counts": 7
    },
    {
     "author": "VitaminB16",
-    "counts": 7
-   },
-   {
-    "author": "cuteballgames",
     "counts": 7
    },
    {
@@ -130,11 +141,11 @@
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -150,7 +161,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 97829
+  "total_counts": 97832
  },
- "latest_count": 34197827
+ "latest_count": 34197830
 }
