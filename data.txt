@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "greenpeppercat",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -77,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4222
+  "total_counts": 4223
  },
  "100k": {
   "hoc": [
@@ -118,11 +123,15 @@
     "counts": 1
    },
    {
+    "author": "greenpeppercat",
+    "counts": 1
+   },
+   {
     "author": "Trial-Name",
     "counts": 1
    }
   ],
-  "total_counts": 2049
+  "total_counts": 2050
  },
- "latest_count": 34202049
+ "latest_count": 34202050
 }
