@@ -28,6 +28,11 @@
    },
    {
     "author": "naimagawa",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "StopPokingTheDog",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -37,18 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "StopPokingTheDog",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "Lonadont",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -60,9 +55,14 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 20061
+  "total_counts": 20063
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 1019
+    "counts": 1020
    },
    {
     "author": "Trial-Name",
@@ -116,7 +116,7 @@
    },
    {
     "author": "StopPokingTheDog",
-    "counts": 3
+    "counts": 4
    },
    {
     "author": "artbn",
@@ -159,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 42456
+  "total_counts": 42458
  },
- "latest_count": 34242457
+ "latest_count": 34242459
 }
