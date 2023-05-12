@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 10009,
+    "counts": 10016,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 213,
+    "counts": 220,
     "has_wrc_req": false
    },
    {
@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -40,14 +45,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 20036
+  "total_counts": 20051
  },
  "100k": {
   "hoc": [
@@ -57,11 +57,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 20156
+    "counts": 20163
    },
    {
     "author": "naimagawa",
-    "counts": 1016
+    "counts": 1017
    },
    {
     "author": "Trial-Name",
@@ -69,7 +69,7 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 214
+    "counts": 221
    },
    {
     "author": "Chalupa_Grandpa",
@@ -100,15 +100,15 @@
     "counts": 5
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "StopPokingTheDog",
     "counts": 2
    },
    {
     "author": "Cox_1920",
-    "counts": 2
-   },
-   {
-    "author": "artbn",
     "counts": 2
    },
    {
@@ -124,11 +124,11 @@
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
+    "author": "cuteballgames",
     "counts": 1
    },
    {
-    "author": "cuteballgames",
+    "author": "LeinadSpoon",
     "counts": 1
    },
    {
@@ -136,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 42431
+  "total_counts": 42446
  },
- "latest_count": 34242432
+ "latest_count": 34242447
 }
