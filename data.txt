@@ -57,12 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "Antichess",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -82,8 +82,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -100,19 +110,9 @@
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 20136
+  "total_counts": 20137
  },
  "100k": {
   "hoc": [
@@ -157,11 +157,11 @@
     "counts": 12
    },
    {
-    "author": "TheMatsValk",
-    "counts": 6
+    "author": "SubSmartstocks",
+    "counts": 7
    },
    {
-    "author": "SubSmartstocks",
+    "author": "TheMatsValk",
     "counts": 6
    },
    {
@@ -221,7 +221,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 42531
+  "total_counts": 42532
  },
- "latest_count": 34242532
+ "latest_count": 34242533
 }
