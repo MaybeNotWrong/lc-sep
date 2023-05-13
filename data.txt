@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 3460,
+    "counts": 3637,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 3460,
+    "counts": 3637,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -25,24 +30,19 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6926
+  "total_counts": 7281
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 28421
+    "counts": 28598
    },
    {
     "author": "greenpeppercat",
-    "counts": 27904
+    "counts": 28081
    },
    {
     "author": "naimagawa",
@@ -70,7 +70,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "Lonadont",
@@ -93,6 +93,10 @@
     "counts": 5
    },
    {
+    "author": "StopPokingTheDog",
+    "counts": 4
+   },
+   {
     "author": "noduorg",
     "counts": 4
    },
@@ -101,15 +105,11 @@
     "counts": 4
    },
    {
-    "author": "StopPokingTheDog",
-    "counts": 4
-   },
-   {
-    "author": "VitaminB16",
+    "author": "cuteballgames",
     "counts": 3
    },
    {
-    "author": "cuteballgames",
+    "author": "VitaminB16",
     "counts": 3
    },
    {
@@ -123,10 +123,6 @@
    {
     "author": "treje",
     "counts": 2
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 1
    },
    {
     "author": "dominodan123",
@@ -147,9 +143,13 @@
    {
     "author": "rideride",
     "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
    }
   ],
-  "total_counts": 58248
+  "total_counts": 58603
  },
- "latest_count": 34258249
+ "latest_count": 34258604
 }
