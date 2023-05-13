@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
@@ -47,12 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "MrGally75",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "Antichess",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -63,11 +68,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30727
+  "total_counts": 30729
  },
  "100k": {
   "hoc": [
@@ -105,7 +105,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 390
+    "counts": 391
    },
    {
     "author": "Splash30ah",
@@ -117,7 +117,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 47
+    "counts": 48
    },
    {
     "author": "Chalupa_Grandpa",
@@ -204,7 +204,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82049
+  "total_counts": 82051
  },
- "latest_count": 34282050
+ "latest_count": 34282052
 }
