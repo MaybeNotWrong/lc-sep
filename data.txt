@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -42,8 +42,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Antichess",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30708
+  "total_counts": 30709
  },
  "100k": {
   "hoc": [
@@ -115,15 +120,15 @@
     "counts": 8
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 6
+   },
+   {
     "author": "Antichess",
     "counts": 6
    },
    {
     "author": "artbn",
-    "counts": 5
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 5
    },
    {
@@ -155,10 +160,6 @@
     "counts": 2
    },
    {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
     "author": "dominodan123",
     "counts": 1
    },
@@ -177,9 +178,13 @@
    {
     "author": "rideride",
     "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
    }
   ],
-  "total_counts": 82030
+  "total_counts": 82031
  },
- "latest_count": 34282031
+ "latest_count": 34282032
 }
