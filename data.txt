@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 144,
+    "counts": 341,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 201,
     "has_wrc_req": false
    },
    {
@@ -15,24 +20,23 @@
     "author": "ddodd69",
     "counts": 5,
     "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 5,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 289
+  "total_counts": 682
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6504
+    "counts": 6701
    },
    {
     "author": "naimagawa",
     "counts": 6493
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 201
    },
    {
     "author": "cuteballgames",
@@ -43,23 +47,11 @@
     "counts": 5
    },
    {
-    "author": "greenpeppercat",
-    "counts": 5
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2
    },
    {
-    "author": "antechiss",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartstocks",
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -67,11 +59,19 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "SubSmartstocks",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
+    "author": "antechiss",
     "counts": 1
    }
   ],
-  "total_counts": 13021
+  "total_counts": 13414
  },
- "latest_count": 34313021
+ "latest_count": 34313414
 }
