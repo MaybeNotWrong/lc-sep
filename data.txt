@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24598,
+    "counts": 24608,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 23935,
+    "counts": 23945,
     "has_wrc_req": true
    },
    {
@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
@@ -68,11 +73,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -112,17 +112,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 49251
+  "total_counts": 49272
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 30958
+    "counts": 30968
    },
    {
     "author": "greenpeppercat",
-    "counts": 23935
+    "counts": 23945
    },
    {
     "author": "naimagawa",
@@ -157,6 +157,10 @@
     "counts": 5
    },
    {
+    "author": "artbn",
+    "counts": 4
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 4
    },
@@ -167,14 +171,6 @@
    {
     "author": "TheMatsValk",
     "counts": 3
-   },
-   {
-    "author": "artbn",
-    "counts": 3
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 2
    },
    {
     "author": "antechiss",
@@ -197,6 +193,10 @@
     "counts": 2
    },
    {
+    "author": "VitaminB16",
+    "counts": 2
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    },
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 61983
+  "total_counts": 62004
  },
- "latest_count": 34361982
+ "latest_count": 34362003
 }
