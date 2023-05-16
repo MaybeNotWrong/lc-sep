@@ -3,7 +3,17 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -15,14 +25,9 @@
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -36,7 +41,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 7042
+    "counts": 7043
    },
    {
     "author": "Splash30ah",
@@ -91,12 +96,20 @@
     "counts": 6
    },
    {
+    "author": "TheMatsValk",
+    "counts": 4
+   },
+   {
     "author": "treje",
     "counts": 4
    },
    {
-    "author": "TheMatsValk",
-    "counts": 4
+    "author": "Cox_1920",
+    "counts": 3
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 3
    },
    {
     "author": "VitaminB16",
@@ -107,19 +120,11 @@
     "counts": 3
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 3
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 3
-   },
-   {
-    "author": "antechiss",
+    "author": "Tranquilsunrise",
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "antechiss",
     "counts": 2
    },
    {
@@ -131,11 +136,15 @@
     "counts": 1
    },
    {
+    "author": "gordonpt8",
+    "counts": 1
+   },
+   {
     "author": "noduorg",
     "counts": 1
    }
   ],
-  "total_counts": 90203
+  "total_counts": 90205
  },
- "latest_count": 34390203
+ "latest_count": 34390205
 }
