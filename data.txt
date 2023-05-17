@@ -18,7 +18,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 13,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -92,12 +92,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 43945
+  "total_counts": 43947
  },
  "100k": {
   "hoc": [
@@ -115,7 +120,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "davidjl123",
@@ -176,9 +181,13 @@
    {
     "author": "Cox_1920",
     "counts": 1
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
    }
   ],
-  "total_counts": 41007
+  "total_counts": 41009
  },
- "latest_count": 34441006
+ "latest_count": 34441008
 }
