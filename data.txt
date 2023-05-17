@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 598,
+    "counts": 606,
     "has_wrc_req": false
    },
    {
@@ -24,6 +24,11 @@
    {
     "author": "Lonadont",
     "counts": 12,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -82,11 +87,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
@@ -127,7 +127,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1327
+  "total_counts": 1343
  },
  "100k": {
   "hoc": [
@@ -137,7 +137,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 38538
+    "counts": 38546
    },
    {
     "author": "naimagawa",
@@ -180,6 +180,10 @@
     "counts": 15
    },
    {
+    "author": "TheMatsValk",
+    "counts": 14
+   },
+   {
     "author": "cuteballgames",
     "counts": 9
    },
@@ -194,10 +198,6 @@
    {
     "author": "Trial-Name",
     "counts": 7
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 6
    },
    {
     "author": "VitaminB16",
@@ -256,7 +256,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 91525
+  "total_counts": 91541
  },
- "latest_count": 34391525
+ "latest_count": 34391541
 }
