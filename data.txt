@@ -3,13 +3,18 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10367,
+    "counts": 10368,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 10236,
+    "counts": 10332,
     "has_wrc_req": true
+   },
+   {
+    "author": "naimagawa",
+    "counts": 167,
+    "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
@@ -19,11 +24,6 @@
    {
     "author": "Trial-Name",
     "counts": 113,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 70,
     "has_wrc_req": false
    },
    {
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "MrGally75",
     "counts": 13,
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
+    "author": "SubSmartstocks",
     "counts": 13,
     "has_wrc_req": false
    },
@@ -67,17 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -87,8 +82,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1,
+    "author": "TheMatsValk",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -97,7 +92,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrew_wayne12",
+    "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -105,19 +100,28 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "andrew_wayne12",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 21016
+  "total_counts": 21210
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 7600
+    "counts": 7601
    },
    {
     "author": "greenpeppercat",
-    "counts": 7469
+    "counts": 7565
+   },
+   {
+    "author": "naimagawa",
+    "counts": 167
    },
    {
     "author": "Chalupa_Grandpa",
@@ -126,10 +130,6 @@
    {
     "author": "Trial-Name",
     "counts": 113
-   },
-   {
-    "author": "naimagawa",
-    "counts": 70
    },
    {
     "author": "andrewtheredditor",
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 15479
+  "total_counts": 15673
  },
- "latest_count": 34615478
+ "latest_count": 34615672
 }
