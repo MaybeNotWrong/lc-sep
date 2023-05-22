@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10285,
+    "counts": 10289,
     "has_wrc_req": true
    },
    {
@@ -13,12 +13,12 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 114,
+    "counts": 116,
     "has_wrc_req": false
    },
    {
     "author": "Trial-Name",
-    "counts": 102,
+    "counts": 103,
     "has_wrc_req": false
    },
    {
@@ -27,13 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 14,
+    "author": "andrewtheredditor",
+    "counts": 15,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 13,
+    "author": "Lonadont",
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -42,8 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 12,
+    "author": "SubSmartstocks",
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
@@ -77,23 +82,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20829
+  "total_counts": 20839
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 7518
+    "counts": 7522
    },
    {
     "author": "greenpeppercat",
@@ -101,15 +101,19 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 112
+    "counts": 114
    },
    {
     "author": "Trial-Name",
-    "counts": 102
+    "counts": 103
    },
    {
     "author": "naimagawa",
     "counts": 16
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 15
    },
    {
     "author": "Lonadont",
@@ -122,10 +126,6 @@
    {
     "author": "SubSmartstocks",
     "counts": 13
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 12
    },
    {
     "author": "LeinadSpoon",
@@ -160,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 15292
+  "total_counts": 15302
  },
- "latest_count": 34615291
+ "latest_count": 34615301
 }
