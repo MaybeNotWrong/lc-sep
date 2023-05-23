@@ -18,22 +18,17 @@
    },
    {
     "author": "davidjl123",
-    "counts": 5,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "ddodd69",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -47,12 +42,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14475
+  "total_counts": 14478
  },
  "100k": {
   "hoc": [
@@ -82,7 +87,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 17
+    "counts": 18
    },
    {
     "author": "Blue_boomer",
@@ -93,28 +98,24 @@
     "counts": 14
    },
    {
-    "author": "MrGally75",
+    "author": "davidjl123",
     "counts": 13
    },
    {
-    "author": "davidjl123",
-    "counts": 12
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 10
+    "author": "MrGally75",
+    "counts": 13
    },
    {
     "author": "ddodd69",
     "counts": 10
    },
    {
-    "author": "rschaosid",
-    "counts": 9
+    "author": "LeinadSpoon",
+    "counts": 10
    },
    {
-    "author": "Cox_1920",
-    "counts": 5
+    "author": "rschaosid",
+    "counts": 9
    },
    {
     "author": "Splash30ah",
@@ -125,11 +126,15 @@
     "counts": 5
    },
    {
-    "author": "gordonpt8",
-    "counts": 4
+    "author": "Cox_1920",
+    "counts": 5
    },
    {
     "author": "treje",
+    "counts": 4
+   },
+   {
+    "author": "gordonpt8",
     "counts": 4
    },
    {
@@ -141,11 +146,7 @@
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "e-xz",
+    "author": "andrew_wayne12",
     "counts": 1
    },
    {
@@ -153,19 +154,27 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
     "author": "dominodan123",
     "counts": 1
    },
    {
-    "author": "andrew_wayne12",
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
+    "author": "e-xz",
+    "counts": 1
+   },
+   {
+    "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 34020
+  "total_counts": 34023
  },
- "latest_count": 34634019
+ "latest_count": 34634022
 }
