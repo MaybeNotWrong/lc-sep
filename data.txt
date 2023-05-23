@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 10948,
+    "counts": 11070,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10810,
+    "counts": 10932,
     "has_wrc_req": true
    },
    {
@@ -77,12 +77,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "gordonpt8",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
+    "author": "ddodd69",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -92,23 +92,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
+    "author": "Christmas_Missionary",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -122,22 +112,32 @@
     "has_wrc_req": false
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "andrew_wayne12",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 22474
+  "total_counts": 22718
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 8181
+    "counts": 8303
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 8043
+    "counts": 8165
    },
    {
     "author": "naimagawa",
@@ -188,11 +188,11 @@
     "counts": 5
    },
    {
-    "author": "gordonpt8",
+    "author": "Cox_1920",
     "counts": 4
    },
    {
-    "author": "Cox_1920",
+    "author": "gordonpt8",
     "counts": 4
    },
    {
@@ -204,11 +204,11 @@
     "counts": 4
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "artbn",
     "counts": 2
    },
    {
-    "author": "artbn",
+    "author": "Christmas_Missionary",
     "counts": 2
    },
    {
@@ -220,11 +220,11 @@
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -232,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16937
+  "total_counts": 17181
  },
- "latest_count": 34616936
+ "latest_count": 34617180
 }
