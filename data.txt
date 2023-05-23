@@ -28,7 +28,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -40,14 +45,9 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 14473
+  "total_counts": 14474
  },
  "100k": {
   "hoc": [
@@ -76,11 +76,11 @@
     "counts": 28
    },
    {
-    "author": "Blue_boomer",
-    "counts": 16
+    "author": "Lonadont",
+    "counts": 17
    },
    {
-    "author": "Lonadont",
+    "author": "Blue_boomer",
     "counts": 16
    },
    {
@@ -96,11 +96,11 @@
     "counts": 12
    },
    {
-    "author": "ddodd69",
+    "author": "LeinadSpoon",
     "counts": 10
    },
    {
-    "author": "LeinadSpoon",
+    "author": "ddodd69",
     "counts": 10
    },
    {
@@ -136,18 +136,6 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "noduorg",
     "counts": 1
    },
@@ -156,11 +144,23 @@
     "counts": 1
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "andrew_wayne12",
     "counts": 1
    }
   ],
-  "total_counts": 34018
+  "total_counts": 34019
  },
- "latest_count": 34634017
+ "latest_count": 34634018
 }
