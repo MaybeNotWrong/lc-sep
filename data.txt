@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Cox_1920",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 4,
     "has_wrc_req": false
@@ -77,23 +82,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
-    "counts": 3,
+    "author": "Christmas_Missionary",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "treje",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -107,17 +107,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrew_wayne12",
+    "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "andrew_wayne12",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21563
+  "total_counts": 21565
  },
  "100k": {
   "hoc": [
@@ -182,16 +182,24 @@
     "counts": 3
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2
+    "author": "Cox_1920",
+    "counts": 3
    },
    {
-    "author": "Cox_1920",
+    "author": "Christmas_Missionary",
     "counts": 2
    },
    {
     "author": "treje",
     "counts": 2
+   },
+   {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    },
    {
     "author": "noduorg",
@@ -202,19 +210,11 @@
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
     "author": "andrew_wayne12",
     "counts": 1
    }
   ],
-  "total_counts": 16026
+  "total_counts": 16028
  },
- "latest_count": 34616025
+ "latest_count": 34616027
 }
