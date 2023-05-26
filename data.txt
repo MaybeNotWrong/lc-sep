@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 4472,
+    "counts": 4499,
     "has_wrc_req": false
    },
    {
     "author": "anamee",
-    "counts": 2485,
+    "counts": 2511,
     "has_wrc_req": false
    },
    {
@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Trial-Name",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -57,32 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Fivure",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,7 +67,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "andrewtheredditor",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -100,9 +90,19 @@
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Fivure",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 9192
+  "total_counts": 9245
  },
  "100k": {
   "hoc": [
@@ -116,11 +116,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 18883
+    "counts": 18910
    },
    {
     "author": "anamee",
-    "counts": 4583
+    "counts": 4609
    },
    {
     "author": "Splash30ah",
@@ -263,7 +263,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78270
+  "total_counts": 78323
  },
- "latest_count": 34678268
+ "latest_count": 34678321
 }
