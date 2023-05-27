@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
@@ -62,17 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Blue_boomer",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 18902
+  "total_counts": 18903
  },
  "100k": {
   "hoc": [
@@ -83,9 +83,13 @@
    {
     "author": "amazingpikachu_38",
     "counts": 2
+   },
+   {
+    "author": "treje",
+    "counts": 1
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
- "latest_count": 34700004
+ "latest_count": 34700005
 }
