@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3117,
+    "counts": 3193,
     "has_wrc_req": false
    },
    {
     "author": "naimagawa",
-    "counts": 2662,
+    "counts": 2738,
     "has_wrc_req": false
    },
    {
@@ -22,17 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Blue_boomer",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,19 +40,29 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 6235
+  "total_counts": 6387
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 38222
+    "counts": 38298
    },
    {
     "author": "naimagawa",
-    "counts": 21666
+    "counts": 21742
    },
    {
     "author": "greenpeppercat",
@@ -153,15 +153,11 @@
     "counts": 6
    },
    {
-    "author": "andrew_wayne12",
-    "counts": 5
-   },
-   {
     "author": "noduorg",
     "counts": 5
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "andrew_wayne12",
     "counts": 5
    },
    {
@@ -169,11 +165,15 @@
     "counts": 5
    },
    {
-    "author": "Periodist",
-    "counts": 3
+    "author": "Christmas_Missionary",
+    "counts": 5
    },
    {
     "author": "Tranquilsunrise",
+    "counts": 3
+   },
+   {
+    "author": "Periodist",
     "counts": 3
    },
    {
@@ -181,7 +181,7 @@
     "counts": 3
    },
    {
-    "author": "rideride",
+    "author": "dominodan123",
     "counts": 2
    },
    {
@@ -189,12 +189,20 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
+    "author": "rideride",
     "counts": 2
    },
    {
     "author": "MaybeNotWrong",
     "counts": 2
+   },
+   {
+    "author": "eddebbboi",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    },
    {
     "author": "Christian230102",
@@ -207,17 +215,9 @@
    {
     "author": "antechiss",
     "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "eddebbboi",
-    "counts": 1
    }
   ],
-  "total_counts": 87339
+  "total_counts": 87491
  },
- "latest_count": 34687337
+ "latest_count": 34687489
 }
