@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "gordonpt8",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -22,17 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 907
+  "total_counts": 908
  },
  "100k": {
   "hoc": [
@@ -101,11 +101,11 @@
     "counts": 24
    },
    {
-    "author": "artbn",
-    "counts": 17
+    "author": "gordonpt8",
+    "counts": 18
    },
    {
-    "author": "gordonpt8",
+    "author": "artbn",
     "counts": 17
    },
    {
@@ -197,7 +197,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82011
+  "total_counts": 82012
  },
- "latest_count": 34682009
+ "latest_count": 34682010
 }
