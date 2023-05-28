@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
@@ -39,16 +44,6 @@
    {
     "author": "davidjl123",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,12 +57,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11628
+  "total_counts": 11629
  },
  "100k": {
   "hoc": [
@@ -168,11 +173,15 @@
     "counts": 1
    },
    {
+    "author": "TheMatsValk",
+    "counts": 1
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    }
   ],
-  "total_counts": 36019
+  "total_counts": 36020
  },
- "latest_count": 34736020
+ "latest_count": 34736021
 }
