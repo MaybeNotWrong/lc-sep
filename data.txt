@@ -18,12 +18,17 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 15,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -57,11 +62,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10204
+  "total_counts": 10208
  },
  "100k": {
   "hoc": [
@@ -117,7 +117,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 33
+    "counts": 35
    },
    {
     "author": "MrGally75",
@@ -144,6 +144,10 @@
     "counts": 10
    },
    {
+    "author": "Trial-Name",
+    "counts": 8
+   },
+   {
     "author": "Antichess",
     "counts": 7
    },
@@ -154,10 +158,6 @@
    {
     "author": "Splash30ah",
     "counts": 7
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 6
    },
    {
     "author": "Tranquilsunrise",
@@ -248,7 +248,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 83044
+  "total_counts": 83048
  },
- "latest_count": 34783035
+ "latest_count": 34783039
 }
