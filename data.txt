@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 7372,
+    "counts": 7489,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 1844,
+    "counts": 1961,
     "has_wrc_req": false
    },
    {
@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Lonadont",
     "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "artbn",
     "counts": 11,
     "has_wrc_req": false
    },
@@ -47,13 +47,28 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
+    "author": "Blue_boomer",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -67,27 +82,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "throwaway70338",
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "throwaway70338",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -97,7 +97,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "swinub_time",
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -117,22 +122,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
+    "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15320
+  "total_counts": 15554
  },
  "100k": {
   "hoc": [
@@ -142,11 +142,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 27011
+    "counts": 27128
    },
    {
     "author": "greenpeppercat",
-    "counts": 10209
+    "counts": 10326
    },
    {
     "author": "SubSmartstocks",
@@ -293,7 +293,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 88160
+  "total_counts": 88394
  },
- "latest_count": 34788151
+ "latest_count": 34788385
 }
