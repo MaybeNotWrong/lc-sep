@@ -3,13 +3,13 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 25902,
-    "has_wrc_req": false
+    "counts": 25960,
+    "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 21412,
-    "has_wrc_req": false
+    "counts": 21470,
+    "has_wrc_req": true
    },
    {
     "author": "naimagawa",
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "LeinadSpoon",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "davidjl123",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -67,17 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dominodan123",
+    "author": "Splash30ah",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,22 +77,32 @@
     "has_wrc_req": false
    },
    {
-    "author": "Splash30ah",
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 53884
+  "total_counts": 54000
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 20905
+    "counts": 20963
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 16414
+    "counts": 16472
    },
    {
     "author": "naimagawa",
@@ -125,11 +125,11 @@
     "counts": 12
    },
    {
-    "author": "LeinadSpoon",
+    "author": "davidjl123",
     "counts": 6
    },
    {
-    "author": "davidjl123",
+    "author": "LeinadSpoon",
     "counts": 6
    },
    {
@@ -149,7 +149,7 @@
     "counts": 2
    },
    {
-    "author": "rideride",
+    "author": "treje",
     "counts": 1
    },
    {
@@ -157,11 +157,11 @@
     "counts": 1
    },
    {
-    "author": "treje",
+    "author": "rideride",
     "counts": 1
    }
   ],
-  "total_counts": 43885
+  "total_counts": 44001
  },
- "latest_count": 34843885
+ "latest_count": 34844001
 }
