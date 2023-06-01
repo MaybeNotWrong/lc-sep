@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -102,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5643
+  "total_counts": 5644
  },
  "100k": {
   "hoc": [
@@ -155,11 +160,11 @@
     "counts": 5
    },
    {
-    "author": "artbn",
+    "author": "Trial-Name",
     "counts": 5
    },
    {
-    "author": "Trial-Name",
+    "author": "artbn",
     "counts": 5
    },
    {
@@ -168,18 +173,10 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 3
+    "counts": 4
    },
    {
     "author": "TheMatsValk",
-    "counts": 2
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 2
-   },
-   {
-    "author": "andrewtheredditor",
     "counts": 2
    },
    {
@@ -187,19 +184,19 @@
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1
+    "author": "andrewtheredditor",
+    "counts": 2
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 2
    },
    {
     "author": "MaybeNotWrong",
     "counts": 1
    },
    {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "rideride",
+    "author": "Blue_boomer",
     "counts": 1
    },
    {
@@ -207,11 +204,19 @@
     "counts": 1
    },
    {
-    "author": "Blue_boomer",
+    "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 50092
+  "total_counts": 50093
  },
- "latest_count": 34850092
+ "latest_count": 34850093
 }
