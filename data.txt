@@ -38,7 +38,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 3,
     "has_wrc_req": false
@@ -67,17 +72,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "MaybeNotWrong",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "andrewtheredditor",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -87,22 +82,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -112,12 +102,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7569
+  "total_counts": 7570
  },
  "100k": {
   "hoc": [
@@ -135,7 +135,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 500
+    "counts": 501
    },
    {
     "author": "Splash30ah",
@@ -178,11 +178,11 @@
     "counts": 6
    },
    {
-    "author": "VitaminB16",
+    "author": "TehVulpez",
     "counts": 4
    },
    {
-    "author": "TehVulpez",
+    "author": "VitaminB16",
     "counts": 4
    },
    {
@@ -194,7 +194,7 @@
     "counts": 3
    },
    {
-    "author": "treje",
+    "author": "andrewtheredditor",
     "counts": 2
    },
    {
@@ -202,19 +202,19 @@
     "counts": 2
    },
    {
-    "author": "Blue_boomer",
-    "counts": 2
-   },
-   {
     "author": "Antichess",
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
+    "author": "Blue_boomer",
     "counts": 2
    },
    {
-    "author": "rideride",
+    "author": "treje",
+    "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -222,11 +222,11 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "rideride",
     "counts": 1
    }
   ],
-  "total_counts": 52018
+  "total_counts": 52019
  },
- "latest_count": 34852018
+ "latest_count": 34852019
 }
