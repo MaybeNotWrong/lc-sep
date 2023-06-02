@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "greenpeppercat",
-    "counts": 5533,
+    "author": "amazingpikachu_38",
+    "counts": 5672,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 5533,
+    "author": "greenpeppercat",
+    "counts": 5671,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -20,24 +25,19 @@
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 11071
+  "total_counts": 11350
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 29364
+    "counts": 29502
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 28831
+    "counts": 28970
    },
    {
     "author": "naimagawa",
@@ -85,18 +85,18 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 6
+    "counts": 8
    },
    {
     "author": "Trial-Name",
     "counts": 6
    },
    {
-    "author": "TehVulpez",
+    "author": "VitaminB16",
     "counts": 4
    },
    {
-    "author": "VitaminB16",
+    "author": "TehVulpez",
     "counts": 4
    },
    {
@@ -104,7 +104,7 @@
     "counts": 3
    },
    {
-    "author": "andrewtheredditor",
+    "author": "treje",
     "counts": 2
    },
    {
@@ -112,19 +112,19 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
-    "counts": 2
-   },
-   {
     "author": "Blue_boomer",
     "counts": 2
    },
    {
-    "author": "treje",
+    "author": "Antichess",
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "andrewtheredditor",
+    "counts": 2
+   },
+   {
+    "author": "rideride",
     "counts": 1
    },
    {
@@ -132,11 +132,11 @@
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 69818
+  "total_counts": 70097
  },
- "latest_count": 34869818
+ "latest_count": 34870097
 }
