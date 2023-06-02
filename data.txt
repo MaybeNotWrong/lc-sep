@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 4809,
+    "counts": 4885,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 1070,
+    "counts": 1146,
     "has_wrc_req": false
    },
    {
@@ -67,12 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
+    "author": "Trial-Name",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "gordonpt8",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -87,27 +87,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Blue_boomer",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 1,
+    "author": "andrewtheredditor",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -117,22 +107,32 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10702
+  "total_counts": 10854
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 22034
+    "counts": 22110
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 21500
+    "counts": 21576
    },
    {
     "author": "naimagawa",
@@ -187,11 +187,11 @@
     "counts": 4
    },
    {
-    "author": "VitaminB16",
+    "author": "TehVulpez",
     "counts": 4
    },
    {
-    "author": "TehVulpez",
+    "author": "VitaminB16",
     "counts": 4
    },
    {
@@ -199,7 +199,7 @@
     "counts": 3
    },
    {
-    "author": "treje",
+    "author": "andrewtheredditor",
     "counts": 2
    },
    {
@@ -207,19 +207,19 @@
     "counts": 2
    },
    {
-    "author": "Blue_boomer",
-    "counts": 2
-   },
-   {
     "author": "Antichess",
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
+    "author": "Blue_boomer",
     "counts": 2
    },
    {
-    "author": "rideride",
+    "author": "treje",
+    "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -227,11 +227,11 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "rideride",
     "counts": 1
    }
   ],
-  "total_counts": 55151
+  "total_counts": 55303
  },
- "latest_count": 34855151
+ "latest_count": 34855303
 }
