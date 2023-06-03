@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
@@ -97,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30264
+  "total_counts": 30265
  },
  "100k": {
   "hoc": [
@@ -170,11 +175,11 @@
     "counts": 5
    },
    {
-    "author": "gordonpt8",
-    "counts": 4
+    "author": "TehVulpez",
+    "counts": 5
    },
    {
-    "author": "TehVulpez",
+    "author": "gordonpt8",
     "counts": 4
    },
    {
@@ -218,7 +223,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 89011
+  "total_counts": 89012
  },
- "latest_count": 34889010
+ "latest_count": 34889011
 }
