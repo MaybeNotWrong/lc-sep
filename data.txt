@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13170,
+    "counts": 13226,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4559,
+    "counts": 4616,
     "has_wrc_req": true
    },
    {
@@ -37,17 +37,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "TheMatsValk",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -72,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "throwaway70338",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
@@ -95,15 +90,20 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "throwaway70338",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27384
+  "total_counts": 27497
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 37001
+    "counts": 37057
    },
    {
     "author": "amazingpikachu_38",
@@ -111,7 +111,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 14730
+    "counts": 14787
    },
    {
     "author": "SubSmartstocks",
@@ -162,11 +162,11 @@
     "counts": 8
    },
    {
-    "author": "VitaminB16",
+    "author": "andrewtheredditor",
     "counts": 5
    },
    {
-    "author": "andrewtheredditor",
+    "author": "VitaminB16",
     "counts": 5
    },
    {
@@ -198,11 +198,15 @@
     "counts": 2
    },
    {
+    "author": "throwaway70338",
+    "counts": 1
+   },
+   {
     "author": "rideride",
     "counts": 1
    },
    {
-    "author": "throwaway70338",
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -212,13 +216,9 @@
    {
     "author": "dragonpro9827",
     "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
    }
   ],
-  "total_counts": 86131
+  "total_counts": 86244
  },
- "latest_count": 34886130
+ "latest_count": 34886243
 }
