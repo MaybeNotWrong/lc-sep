@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 16438,
+    "counts": 16496,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 7835,
+    "counts": 7892,
     "has_wrc_req": true
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "LeinadSpoon",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "davidjl123",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "swinub_time",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -72,28 +72,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "swinub_time",
+    "author": "Trial-Name",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "throwaway70338",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -105,15 +85,35 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "dragonpro9827",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "throwaway70338",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 33944
+  "total_counts": 34059
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 40269
+    "counts": 40327
    },
    {
     "author": "amazingpikachu_38",
@@ -121,7 +121,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 18006
+    "counts": 18063
    },
    {
     "author": "SubSmartstocks",
@@ -228,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92691
+  "total_counts": 92806
  },
- "latest_count": 34892690
+ "latest_count": 34892805
 }
