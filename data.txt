@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 14692,
+    "counts": 14784,
     "has_wrc_req": true
    },
    {
@@ -13,8 +13,8 @@
    },
    {
     "author": "naimagawa",
-    "counts": 6689,
-    "has_wrc_req": false
+    "counts": 6782,
+    "has_wrc_req": true
    },
    {
     "author": "Lonadont",
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 33462
+  "total_counts": 33647
  },
  "100k": {
   "hoc": [
@@ -102,11 +102,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 11871
+    "counts": 11963
    },
    {
     "author": "naimagawa",
-    "counts": 3871
+    "counts": 3964
    },
    {
     "author": "Lonadont",
@@ -125,12 +125,20 @@
     "counts": 3
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 3
+   },
+   {
     "author": "artbn",
     "counts": 3
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 3
+    "author": "TheMatsValk",
+    "counts": 2
+   },
+   {
+    "author": "MrGally75",
+    "counts": 2
    },
    {
     "author": "LeinadSpoon",
@@ -141,23 +149,7 @@
     "counts": 2
    },
    {
-    "author": "MrGally75",
-    "counts": 2
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 2
-   },
-   {
-    "author": "swinub_time",
-    "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "VitaminB16",
+    "author": "Fivure",
     "counts": 1
    },
    {
@@ -165,11 +157,19 @@
     "counts": 1
    },
    {
-    "author": "Fivure",
+    "author": "VitaminB16",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "swinub_time",
     "counts": 1
    }
   ],
-  "total_counts": 27816
+  "total_counts": 28001
  },
- "latest_count": 34927817
+ "latest_count": 34928002
 }
