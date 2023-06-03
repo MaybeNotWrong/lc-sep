@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
@@ -25,14 +30,9 @@
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 3,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 31657
+  "total_counts": 31658
  },
  "100k": {
   "hoc": [
@@ -49,11 +49,11 @@
     "counts": 3002
    },
    {
-    "author": "davidjl123",
-    "counts": 3
+    "author": "Lonadont",
+    "counts": 4
    },
    {
-    "author": "Lonadont",
+    "author": "davidjl123",
     "counts": 3
    },
    {
@@ -61,7 +61,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26011
+  "total_counts": 26012
  },
- "latest_count": 34926012
+ "latest_count": 34926013
 }
