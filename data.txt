@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13876,
+    "counts": 13911,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5876,
+    "counts": 5910,
     "has_wrc_req": false
    },
    {
@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
@@ -42,8 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
+    "author": "TheMatsValk",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -57,22 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "swinub_time",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
+    "author": "Fivure",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,17 +77,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Fivure",
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31828
+  "total_counts": 31900
  },
  "100k": {
   "hoc": [
@@ -102,11 +102,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 11055
+    "counts": 11090
    },
    {
     "author": "naimagawa",
-    "counts": 3058
+    "counts": 3092
    },
    {
     "author": "Lonadont",
@@ -125,8 +125,16 @@
     "counts": 3
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 3
+   },
+   {
     "author": "artbn",
     "counts": 3
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 2
    },
    {
     "author": "MrGally75",
@@ -141,10 +149,6 @@
     "counts": 2
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
     "author": "Fivure",
     "counts": 1
    },
@@ -157,10 +161,6 @@
     "counts": 1
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1
-   },
-   {
     "author": "noduorg",
     "counts": 1
    },
@@ -169,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26182
+  "total_counts": 26254
  },
- "latest_count": 34926183
+ "latest_count": 34926255
 }
