@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 4970,
+    "counts": 5057,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "swinub_time",
-    "counts": 15,
+    "counts": 102,
     "has_wrc_req": false
    },
    {
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9957
+  "total_counts": 10131
  },
  "100k": {
   "hoc": [
@@ -61,7 +61,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 8942
+    "counts": 9029
+   },
+   {
+    "author": "swinub_time",
+    "counts": 103
    },
    {
     "author": "Lonadont",
@@ -69,10 +73,6 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 16
-   },
-   {
-    "author": "swinub_time",
     "counts": 16
    },
    {
@@ -88,19 +88,19 @@
     "counts": 9
    },
    {
-    "author": "artbn",
-    "counts": 8
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 8
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3
+    "author": "artbn",
+    "counts": 8
    },
    {
     "author": "LeinadSpoon",
+    "counts": 3
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 3
    },
    {
@@ -108,28 +108,12 @@
     "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 2
-   },
-   {
     "author": "TehVulpez",
     "counts": 2
    },
    {
-    "author": "Fivure",
-    "counts": 1
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
-    "author": "anamee",
-    "counts": 1
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 1
+    "author": "VitaminB16",
+    "counts": 2
    },
    {
     "author": "noduorg",
@@ -142,9 +126,25 @@
    {
     "author": "gordonpt8",
     "counts": 1
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 1
+   },
+   {
+    "author": "anamee",
+    "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "Fivure",
+    "counts": 1
    }
   ],
-  "total_counts": 38025
+  "total_counts": 38199
  },
- "latest_count": 34938026
+ "latest_count": 34938200
 }
