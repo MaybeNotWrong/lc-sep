@@ -3,22 +3,22 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 7914,
+    "counts": 7980,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 6963,
+    "counts": 6964,
     "has_wrc_req": true
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 521,
+    "has_wrc_req": false
    },
    {
     "author": "swinub_time",
     "counts": 506,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 457,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "andrewtheredditor",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,26 +72,26 @@
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15887
+  "total_counts": 16018
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 18999
+    "counts": 19000
    },
    {
     "author": "greenpeppercat",
-    "counts": 12426
+    "counts": 12490
    },
    {
     "author": "naimagawa",
-    "counts": 11886
+    "counts": 11952
    },
    {
     "author": "swinub_time",
@@ -142,6 +142,10 @@
     "counts": 2
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 2
+   },
+   {
     "author": "TehVulpez",
     "counts": 2
    },
@@ -150,8 +154,16 @@
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 2
+    "author": "Fivure",
+    "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "anamee",
+    "counts": 1
    },
    {
     "author": "noduorg",
@@ -160,21 +172,9 @@
    {
     "author": "gordonpt8",
     "counts": 1
-   },
-   {
-    "author": "anamee",
-    "counts": 1
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
-    "author": "Fivure",
-    "counts": 1
    }
   ],
-  "total_counts": 43955
+  "total_counts": 44086
  },
- "latest_count": 34943956
+ "latest_count": 34944087
 }
