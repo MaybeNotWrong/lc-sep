@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 7980,
+    "counts": 8040,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 521,
+    "counts": 581,
     "has_wrc_req": false
    },
    {
@@ -47,22 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "anamee",
-    "counts": 1,
+    "author": "VitaminB16",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "andrewtheredditor",
+    "author": "anamee",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -75,9 +70,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 16018
+  "total_counts": 16138
  },
  "100k": {
   "hoc": [
@@ -87,11 +87,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 12490
+    "counts": 12550
    },
    {
     "author": "naimagawa",
-    "counts": 11952
+    "counts": 12012
    },
    {
     "author": "swinub_time",
@@ -142,10 +142,6 @@
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 2
-   },
-   {
     "author": "TehVulpez",
     "counts": 2
    },
@@ -154,16 +150,8 @@
     "counts": 2
    },
    {
-    "author": "Fivure",
-    "counts": 1
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
-    "author": "anamee",
-    "counts": 1
+    "author": "andrewtheredditor",
+    "counts": 2
    },
    {
     "author": "noduorg",
@@ -172,9 +160,21 @@
    {
     "author": "gordonpt8",
     "counts": 1
+   },
+   {
+    "author": "anamee",
+    "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "Fivure",
+    "counts": 1
    }
   ],
-  "total_counts": 44086
+  "total_counts": 44206
  },
- "latest_count": 34944087
+ "latest_count": 34944207
 }
