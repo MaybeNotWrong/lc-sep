@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 7668,
+    "counts": 7716,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 6962,
+    "counts": 6963,
     "has_wrc_req": true
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 212,
+    "counts": 259,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "anamee",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "andrewtheredditor",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -70,28 +75,23 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 15395
+  "total_counts": 15491
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 18998
+    "counts": 18999
    },
    {
     "author": "greenpeppercat",
-    "counts": 12181
+    "counts": 12228
    },
    {
     "author": "naimagawa",
-    "counts": 11640
+    "counts": 11688
    },
    {
     "author": "swinub_time",
@@ -142,10 +142,6 @@
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 2
-   },
-   {
     "author": "TehVulpez",
     "counts": 2
    },
@@ -154,16 +150,8 @@
     "counts": 2
    },
    {
-    "author": "Fivure",
-    "counts": 1
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
-    "author": "anamee",
-    "counts": 1
+    "author": "andrewtheredditor",
+    "counts": 2
    },
    {
     "author": "noduorg",
@@ -172,9 +160,21 @@
    {
     "author": "gordonpt8",
     "counts": 1
+   },
+   {
+    "author": "anamee",
+    "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "Fivure",
+    "counts": 1
    }
   ],
-  "total_counts": 43463
+  "total_counts": 43559
  },
- "latest_count": 34943464
+ "latest_count": 34943560
 }
