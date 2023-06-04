@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 8040,
+    "counts": 8090,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 581,
+    "counts": 630,
     "has_wrc_req": false
    },
    {
@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
@@ -67,17 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "andrewtheredditor",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 16138
+  "total_counts": 16238
  },
  "100k": {
   "hoc": [
@@ -87,11 +87,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 12550
+    "counts": 12599
    },
    {
     "author": "naimagawa",
-    "counts": 12012
+    "counts": 12062
    },
    {
     "author": "swinub_time",
@@ -123,7 +123,7 @@
    },
    {
     "author": "artbn",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "LeinadSpoon",
@@ -142,6 +142,10 @@
     "counts": 2
    },
    {
+    "author": "andrewtheredditor",
+    "counts": 2
+   },
+   {
     "author": "TehVulpez",
     "counts": 2
    },
@@ -150,8 +154,16 @@
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
-    "counts": 2
+    "author": "Fivure",
+    "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "anamee",
+    "counts": 1
    },
    {
     "author": "noduorg",
@@ -160,21 +172,9 @@
    {
     "author": "gordonpt8",
     "counts": 1
-   },
-   {
-    "author": "anamee",
-    "counts": 1
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
-    "author": "Fivure",
-    "counts": 1
    }
   ],
-  "total_counts": 44206
+  "total_counts": 44306
  },
- "latest_count": 34944207
+ "latest_count": 34944307
 }
