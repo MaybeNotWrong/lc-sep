@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "greenpeppercat",
     "counts": 1,
     "has_wrc_req": false
@@ -40,14 +45,9 @@
     "author": "anamee",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 14938
+  "total_counts": 14939
  },
  "100k": {
   "hoc": [
@@ -69,7 +69,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 20
+    "counts": 21
    },
    {
     "author": "Christmas_Missionary",
@@ -88,19 +88,19 @@
     "counts": 10
    },
    {
-    "author": "artbn",
-    "counts": 8
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 8
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3
+    "author": "artbn",
+    "counts": 8
    },
    {
     "author": "LeinadSpoon",
+    "counts": 3
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 3
    },
    {
@@ -108,28 +108,12 @@
     "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 2
-   },
-   {
     "author": "TehVulpez",
     "counts": 2
    },
    {
-    "author": "Fivure",
-    "counts": 1
-   },
-   {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
-    "author": "anamee",
-    "counts": 1
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 1
+    "author": "VitaminB16",
+    "counts": 2
    },
    {
     "author": "noduorg",
@@ -142,9 +126,25 @@
    {
     "author": "gordonpt8",
     "counts": 1
+   },
+   {
+    "author": "andrewtheredditor",
+    "counts": 1
+   },
+   {
+    "author": "anamee",
+    "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "Fivure",
+    "counts": 1
    }
   ],
-  "total_counts": 43006
+  "total_counts": 43007
  },
- "latest_count": 34943007
+ "latest_count": 34943008
 }
