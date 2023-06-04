@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "naimagawa",
-    "counts": 2176,
+    "author": "amazingpikachu_38",
+    "counts": 2276,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 2175,
+    "author": "naimagawa",
+    "counts": 2275,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,23 +32,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "anamee",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4358
+  "total_counts": 4559
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 14211
+    "counts": 14312
    },
    {
     "author": "greenpeppercat",
@@ -51,7 +51,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 6148
+    "counts": 6247
    },
    {
     "author": "Lonadont",
@@ -62,19 +62,19 @@
     "counts": 16
    },
    {
+    "author": "ddodd69",
+    "counts": 10
+   },
+   {
     "author": "davidjl123",
     "counts": 10
    },
    {
-    "author": "ddodd69",
-    "counts": 9
-   },
-   {
-    "author": "artbn",
+    "author": "SubSmartstocks",
     "counts": 8
    },
    {
-    "author": "SubSmartstocks",
+    "author": "artbn",
     "counts": 8
    },
    {
@@ -82,11 +82,11 @@
     "counts": 7
    },
    {
-    "author": "TheMatsValk",
+    "author": "LeinadSpoon",
     "counts": 3
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 3
    },
    {
@@ -94,27 +94,15 @@
     "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 2
-   },
-   {
     "author": "TehVulpez",
     "counts": 2
    },
    {
-    "author": "Fivure",
-    "counts": 1
+    "author": "VitaminB16",
+    "counts": 2
    },
    {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
-    "author": "anamee",
-    "counts": 1
-   },
-   {
-    "author": "andrewtheredditor",
+    "author": "swinub_time",
     "counts": 1
    },
    {
@@ -130,11 +118,23 @@
     "counts": 1
    },
    {
-    "author": "swinub_time",
+    "author": "andrewtheredditor",
+    "counts": 1
+   },
+   {
+    "author": "anamee",
+    "counts": 1
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "Fivure",
     "counts": 1
    }
   ],
-  "total_counts": 32426
+  "total_counts": 32627
  },
- "latest_count": 34932427
+ "latest_count": 34932628
 }
