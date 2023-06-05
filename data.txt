@@ -13,7 +13,12 @@
    },
    {
     "author": "naimagawa",
-    "counts": 3497,
+    "counts": 3505,
+    "has_wrc_req": false
+   },
+   {
+    "author": "KalockSwig",
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -32,11 +37,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26386
+  "total_counts": 26403
  },
  "100k": {
   "hoc": [
@@ -66,7 +66,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 15918
+    "counts": 15926
    },
    {
     "author": "swinub_time",
@@ -97,15 +97,19 @@
     "counts": 17
    },
    {
+    "author": "KalockSwig",
+    "counts": 13
+   },
+   {
     "author": "artbn",
     "counts": 10
    },
    {
-    "author": "VitaminB16",
+    "author": "LeinadSpoon",
     "counts": 6
    },
    {
-    "author": "LeinadSpoon",
+    "author": "VitaminB16",
     "counts": 6
    },
    {
@@ -113,15 +117,11 @@
     "counts": 4
    },
    {
-    "author": "KalockSwig",
-    "counts": 4
-   },
-   {
-    "author": "Splash30ah",
+    "author": "Tranquilsunrise",
     "counts": 3
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Splash30ah",
     "counts": 3
    },
    {
@@ -129,15 +129,7 @@
     "counts": 2
    },
    {
-    "author": "Blue_boomer",
-    "counts": 2
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2
-   },
-   {
-    "author": "andrewtheredditor",
+    "author": "TehVulpez",
     "counts": 2
    },
    {
@@ -145,11 +137,19 @@
     "counts": 2
    },
    {
-    "author": "TehVulpez",
+    "author": "andrewtheredditor",
     "counts": 2
    },
    {
-    "author": "Fivure",
+    "author": "Trial-Name",
+    "counts": 2
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 2
+   },
+   {
+    "author": "gordonpt8",
     "counts": 1
    },
    {
@@ -161,11 +161,11 @@
     "counts": 1
    },
    {
-    "author": "gordonpt8",
+    "author": "Fivure",
     "counts": 1
    }
   ],
-  "total_counts": 75018
+  "total_counts": 75035
  },
- "latest_count": 34975019
+ "latest_count": 34975036
 }
