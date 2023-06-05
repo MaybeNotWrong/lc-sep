@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 8440,
+    "counts": 8441,
     "has_wrc_req": true
    },
    {
@@ -57,6 +57,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -67,27 +77,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "anamee",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -97,12 +92,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 16992
+  "total_counts": 16993
  },
  "100k": {
   "hoc": [
@@ -116,7 +116,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 12412
+    "counts": 12413
    },
    {
     "author": "swinub_time",
@@ -167,15 +167,7 @@
     "counts": 2
    },
    {
-    "author": "Trial-Name",
-    "counts": 2
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 2
-   },
-   {
-    "author": "andrewtheredditor",
+    "author": "TehVulpez",
     "counts": 2
    },
    {
@@ -183,19 +175,23 @@
     "counts": 2
    },
    {
-    "author": "TehVulpez",
-    "counts": 2
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 2
    },
    {
-    "author": "Fivure",
-    "counts": 1
+    "author": "andrewtheredditor",
+    "counts": 2
    },
    {
-    "author": "Blue_boomer",
+    "author": "Splash30ah",
+    "counts": 2
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 2
+   },
+   {
+    "author": "gordonpt8",
     "counts": 1
    },
    {
@@ -207,11 +203,15 @@
     "counts": 1
    },
    {
-    "author": "gordonpt8",
+    "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "Fivure",
     "counts": 1
    }
   ],
-  "total_counts": 45060
+  "total_counts": 45061
  },
- "latest_count": 34945061
+ "latest_count": 34945062
 }
