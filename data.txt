@@ -3,18 +3,13 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5697,
+    "counts": 5864,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 5693,
+    "counts": 5861,
     "has_wrc_req": true
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
    },
    {
     "author": "davidjl123",
@@ -22,7 +17,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -30,19 +25,24 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 11394
+  "total_counts": 11729
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 38453
+    "counts": 38620
    },
    {
     "author": "greenpeppercat",
-    "counts": 35025
+    "counts": 35193
    },
    {
     "author": "naimagawa",
@@ -89,11 +89,11 @@
     "counts": 12
    },
    {
-    "author": "Antichess",
+    "author": "Trial-Name",
     "counts": 10
    },
    {
-    "author": "Trial-Name",
+    "author": "Antichess",
     "counts": 10
    },
    {
@@ -137,15 +137,11 @@
     "counts": 2
    },
    {
-    "author": "throwaway70338",
-    "counts": 1
-   },
-   {
     "author": "anamee",
     "counts": 1
    },
    {
-    "author": "gordonpt8",
+    "author": "throwaway70338",
     "counts": 1
    },
    {
@@ -153,11 +149,15 @@
     "counts": 1
    },
    {
+    "author": "gordonpt8",
+    "counts": 1
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1
    }
   ],
-  "total_counts": 93395
+  "total_counts": 93730
  },
- "latest_count": 34993398
+ "latest_count": 34993733
 }
