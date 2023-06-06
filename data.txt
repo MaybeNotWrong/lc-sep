@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10929,
+    "counts": 10948,
     "has_wrc_req": true
    },
    {
@@ -13,8 +13,8 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1627,
-    "has_wrc_req": false
+    "counts": 1646,
+    "has_wrc_req": true
    },
    {
     "author": "naimagawa",
@@ -97,17 +97,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21963
+  "total_counts": 22001
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1935
+    "counts": 1954
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1627
+    "counts": 1646
    },
    {
     "author": "naimagawa",
@@ -126,11 +126,11 @@
     "counts": 42
    },
    {
-    "author": "Lonadont",
+    "author": "Chalupa_Grandpa",
     "counts": 14
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Lonadont",
     "counts": 14
    },
    {
@@ -138,11 +138,11 @@
     "counts": 4
    },
    {
-    "author": "davidjl123",
+    "author": "Blue_boomer",
     "counts": 2
    },
    {
-    "author": "Blue_boomer",
+    "author": "davidjl123",
     "counts": 2
    },
    {
@@ -150,15 +150,11 @@
     "counts": 1
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
     "author": "MrGally75",
-    "counts": 1
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
     "counts": 1
    },
    {
@@ -170,11 +166,15 @@
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1
    }
   ],
-  "total_counts": 3968
+  "total_counts": 4006
  },
- "latest_count": 35003967
+ "latest_count": 35004005
 }
