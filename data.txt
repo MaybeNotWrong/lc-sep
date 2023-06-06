@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10681,
+    "counts": 10708,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1378,
+    "counts": 1406,
     "has_wrc_req": false
    },
    {
@@ -47,18 +47,28 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 4,
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Blue_boomer",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -68,16 +78,6 @@
    },
    {
     "author": "MrGally75",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,22 +92,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21465
+  "total_counts": 21521
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1687
+    "counts": 1714
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1378
+    "counts": 1406
    },
    {
     "author": "naimagawa",
@@ -126,11 +126,11 @@
     "counts": 42
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Lonadont",
     "counts": 14
    },
    {
-    "author": "Lonadont",
+    "author": "Chalupa_Grandpa",
     "counts": 14
    },
    {
@@ -138,11 +138,11 @@
     "counts": 4
    },
    {
-    "author": "Blue_boomer",
+    "author": "davidjl123",
     "counts": 2
    },
    {
-    "author": "davidjl123",
+    "author": "Blue_boomer",
     "counts": 2
    },
    {
@@ -150,11 +150,15 @@
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
+    "author": "MrGally75",
     "counts": 1
    },
    {
-    "author": "MrGally75",
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -166,11 +170,11 @@
     "counts": 1
    },
    {
-    "author": "Trial-Name",
+    "author": "LeinadSpoon",
     "counts": 1
    }
   ],
-  "total_counts": 3470
+  "total_counts": 3526
  },
- "latest_count": 35003469
+ "latest_count": 35003525
 }
