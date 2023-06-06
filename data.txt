@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13608,
+    "counts": 13609,
     "has_wrc_req": true
    },
    {
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "davidjl123",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Antichess",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -82,6 +82,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Splash30ah",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2,
     "has_wrc_req": false
@@ -92,32 +97,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Splash30ah",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Blue_boomer",
+    "author": "throwaway70338",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -127,12 +107,32 @@
     "has_wrc_req": false
    },
    {
-    "author": "throwaway70338",
+    "author": "MrGally75",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31389
+  "total_counts": 31391
  },
  "100k": {
   "hoc": [
@@ -142,7 +142,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 28341
+    "counts": 28342
    },
    {
     "author": "naimagawa",
@@ -210,7 +210,7 @@
    },
    {
     "author": "Splash30ah",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "Tranquilsunrise",
@@ -237,15 +237,11 @@
     "counts": 2
    },
    {
-    "author": "anamee",
-    "counts": 1
-   },
-   {
     "author": "throwaway70338",
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "anamee",
     "counts": 1
    },
    {
@@ -253,11 +249,15 @@
     "counts": 1
    },
    {
+    "author": "Cox_1920",
+    "counts": 1
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1
    }
   ],
-  "total_counts": 80021
+  "total_counts": 80023
  },
- "latest_count": 34980022
+ "latest_count": 34980024
 }
