@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 11460,
+    "counts": 11461,
     "has_wrc_req": true
    },
    {
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Tranquilsunrise",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -62,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "swinub_time",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "rschaosid",
+    "author": "Blue_boomer",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,7 +77,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Blue_boomer",
+    "author": "rschaosid",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -97,11 +97,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -110,15 +105,20 @@
     "author": "haykam821",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 23031
+  "total_counts": 23033
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2466
+    "counts": 2467
    },
    {
     "author": "SubSmartstocks",
@@ -157,15 +157,11 @@
     "counts": 3
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2
-   },
-   {
     "author": "swinub_time",
-    "counts": 2
+    "counts": 3
    },
    {
-    "author": "rschaosid",
+    "author": "davidjl123",
     "counts": 2
    },
    {
@@ -173,19 +169,19 @@
     "counts": 2
    },
    {
-    "author": "davidjl123",
+    "author": "rschaosid",
     "counts": 2
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1
+   },
+   {
     "author": "MrGally75",
-    "counts": 1
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
     "counts": 1
    },
    {
@@ -197,11 +193,15 @@
     "counts": 1
    },
    {
-    "author": "TheMatsValk",
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
+    "author": "gordonpt8",
     "counts": 1
    }
   ],
-  "total_counts": 5036
+  "total_counts": 5038
  },
- "latest_count": 35005035
+ "latest_count": 35005037
 }
