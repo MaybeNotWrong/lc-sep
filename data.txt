@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -15,7 +21,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 700
+    "counts": 701
    },
    {
     "author": "Christmas_Missionary",
@@ -58,11 +64,7 @@
     "counts": 3
    },
    {
-    "author": "davidjl123",
-    "counts": 2
-   },
-   {
-    "author": "Blue_boomer",
+    "author": "LeinadSpoon",
     "counts": 2
    },
    {
@@ -70,7 +72,11 @@
     "counts": 2
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Blue_boomer",
+    "counts": 2
+   },
+   {
+    "author": "davidjl123",
     "counts": 2
    },
    {
@@ -82,23 +88,23 @@
     "counts": 1
    },
    {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
-    "author": "haykam821",
-    "counts": 1
-   },
-   {
     "author": "gordonpt8",
     "counts": 1
    },
    {
     "author": "Cox_1920",
     "counts": 1
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
+    "author": "haykam821",
+    "counts": 1
    }
   ],
-  "total_counts": 5165
+  "total_counts": 5166
  },
- "latest_count": 35005164
+ "latest_count": 35005165
 }
