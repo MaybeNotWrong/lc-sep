@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10747,
+    "counts": 10817,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
-    "counts": 10125,
+    "counts": 10196,
     "has_wrc_req": false
    },
    {
@@ -47,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
@@ -62,12 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 2,
+    "author": "LeinadSpoon",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,22 +82,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -107,22 +92,37 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21952
+  "total_counts": 22093
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 13269
+    "counts": 13339
    },
    {
     "author": "naimagawa",
-    "counts": 10825
+    "counts": 10896
    },
    {
     "author": "SubSmartstocks",
@@ -209,7 +209,7 @@
     "counts": 1
    },
    {
-    "author": "noduorg",
+    "author": "gordonpt8",
     "counts": 1
    },
    {
@@ -217,7 +217,7 @@
     "counts": 1
    },
    {
-    "author": "gordonpt8",
+    "author": "noduorg",
     "counts": 1
    },
    {
@@ -229,11 +229,11 @@
     "counts": 1
    },
    {
-    "author": "TehVulpez",
+    "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
@@ -241,7 +241,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 27117
+  "total_counts": 27258
  },
- "latest_count": 35027117
+ "latest_count": 35027258
 }
