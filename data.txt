@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "naimagawa",
+    "author": "amazingpikachu_38",
     "counts": 2784,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "naimagawa",
     "counts": 2784,
     "has_wrc_req": false
    },
@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Ezekiel134",
+    "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Ezekiel134",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -52,17 +52,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "TehVulpez",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5621
+  "total_counts": 5622
  },
  "100k": {
   "hoc": [
@@ -170,6 +170,10 @@
     "counts": 4
    },
    {
+    "author": "TehVulpez",
+    "counts": 4
+   },
+   {
     "author": "Blue_boomer",
     "counts": 3
    },
@@ -187,10 +191,6 @@
    },
    {
     "author": "rschaosid",
-    "counts": 3
-   },
-   {
-    "author": "TehVulpez",
     "counts": 3
    },
    {
@@ -238,7 +238,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43062
+  "total_counts": 43063
  },
- "latest_count": 35043063
+ "latest_count": 35043064
 }
