@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "naimagawa",
+    "author": "amazingpikachu_38",
     "counts": 2784,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "naimagawa",
     "counts": 2784,
     "has_wrc_req": false
    },
@@ -27,18 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
+    "author": "Chalupa_Grandpa",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -47,8 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -57,8 +52,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
+    "author": "VitaminB16",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -72,12 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
+    "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Particular-Jaguar616",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,12 +82,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Particular-Jaguar616",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5616
+  "total_counts": 5617
  },
  "100k": {
   "hoc": [
@@ -197,6 +202,10 @@
     "counts": 2
    },
    {
+    "author": "TehVulpez",
+    "counts": 2
+   },
+   {
     "author": "MrGally75",
     "counts": 2
    },
@@ -225,15 +234,11 @@
     "counts": 1
    },
    {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
     "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 43057
+  "total_counts": 43058
  },
- "latest_count": 35043058
+ "latest_count": 35043059
 }
