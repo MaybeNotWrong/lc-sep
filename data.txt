@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 4626,
+    "counts": 4649,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 4614,
+    "counts": 4637,
     "has_wrc_req": false
    },
    {
@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "LeinadSpoon",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "SubSmartstocks",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -57,12 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Baron-von-Baroff",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Baron-von-Baroff",
+    "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -72,12 +72,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lifeofchrome",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
+    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -87,7 +82,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "MrUnderdawg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lifeofchrome",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -107,22 +107,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Particular-Jaguar616",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -135,19 +130,24 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 9514
+  "total_counts": 9560
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 23029
+    "counts": 23052
    },
    {
     "author": "naimagawa",
-    "counts": 20602
+    "counts": 20625
    },
    {
     "author": "SubSmartstocks",
@@ -294,7 +294,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46954
+  "total_counts": 47000
  },
- "latest_count": 35046956
+ "latest_count": 35047002
 }
