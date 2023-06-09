@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 5949,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 5936,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 5926,
+    "author": "LeinadSpoon",
+    "counts": 43,
     "has_wrc_req": false
    },
    {
@@ -19,11 +24,6 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 23,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 19,
     "has_wrc_req": false
    },
    {
@@ -97,18 +97,23 @@
     "has_wrc_req": false
    },
    {
+    "author": "abplows",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12009
+  "total_counts": 12057
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 32248
+    "counts": 32271
    },
    {
     "author": "naimagawa",
@@ -143,16 +148,16 @@
     "counts": 91
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 55
+   },
+   {
     "author": "Lonadont",
     "counts": 55
    },
    {
     "author": "abplows",
-    "counts": 51
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 31
+    "counts": 52
    },
    {
     "author": "swinub_time",
@@ -203,11 +208,11 @@
     "counts": 5
    },
    {
-    "author": "TheMatsValk",
+    "author": "Baron-von-Baroff",
     "counts": 4
    },
    {
-    "author": "Baron-von-Baroff",
+    "author": "TheMatsValk",
     "counts": 4
    },
    {
@@ -215,11 +220,11 @@
     "counts": 3
    },
    {
-    "author": "noduorg",
+    "author": "Cox_1920",
     "counts": 3
    },
    {
-    "author": "Cox_1920",
+    "author": "noduorg",
     "counts": 3
    },
    {
@@ -263,7 +268,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65554
+  "total_counts": 65602
  },
- "latest_count": 35065218
+ "latest_count": 35065266
 }
