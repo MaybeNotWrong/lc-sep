@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
@@ -57,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11897
+  "total_counts": 11898
  },
  "100k": {
   "hoc": [
@@ -162,6 +167,10 @@
     "counts": 3
    },
    {
+    "author": "Trial-Name",
+    "counts": 3
+   },
+   {
     "author": "Cox_1920",
     "counts": 3
    },
@@ -176,10 +185,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 3
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2
    },
    {
     "author": "noduorg",
@@ -218,7 +223,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65442
+  "total_counts": 65443
  },
- "latest_count": 35065106
+ "latest_count": 35065107
 }
