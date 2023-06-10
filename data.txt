@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TehVulpez",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
@@ -48,11 +53,6 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14024
+  "total_counts": 14025
  },
  "100k": {
   "hoc": [
@@ -181,11 +181,11 @@
     "counts": 21
    },
    {
-    "author": "artbn",
-    "counts": 15
+    "author": "TehVulpez",
+    "counts": 16
    },
    {
-    "author": "TehVulpez",
+    "author": "artbn",
     "counts": 15
    },
    {
@@ -285,7 +285,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82404
+  "total_counts": 82405
  },
- "latest_count": 35082067
+ "latest_count": 35082068
 }
