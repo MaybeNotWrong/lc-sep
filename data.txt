@@ -60,9 +60,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 12984
+  "total_counts": 12985
  },
  "100k": {
   "hoc": [
@@ -148,7 +153,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 7
+    "counts": 8
    },
    {
     "author": "TheMatsValk",
@@ -231,7 +236,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 81364
+  "total_counts": 81365
  },
- "latest_count": 35081027
+ "latest_count": 35081028
 }
