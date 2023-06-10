@@ -32,13 +32,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "rideride",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 4,
+    "author": "cuteballgames",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -47,22 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -77,13 +67,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "dominodan123",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -95,9 +90,14 @@
     "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 13026
+  "total_counts": 13027
  },
  "100k": {
   "hoc": [
@@ -218,6 +218,10 @@
     "counts": 3
    },
    {
+    "author": "cuteballgames",
+    "counts": 3
+   },
+   {
     "author": "Cox_1920",
     "counts": 3
    },
@@ -236,10 +240,6 @@
    {
     "author": "MaybeNotWrong",
     "counts": 3
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2
    },
    {
     "author": "gordonpt8",
@@ -266,7 +266,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 81406
+  "total_counts": 81407
  },
- "latest_count": 35081069
+ "latest_count": 35081070
 }
