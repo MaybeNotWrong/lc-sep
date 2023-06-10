@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
@@ -57,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12986
+  "total_counts": 12987
  },
  "100k": {
   "hoc": [
@@ -148,11 +148,11 @@
     "counts": 10
    },
    {
-    "author": "Blue_boomer",
-    "counts": 8
+    "author": "Trial-Name",
+    "counts": 9
    },
    {
-    "author": "Trial-Name",
+    "author": "Blue_boomer",
     "counts": 8
    },
    {
@@ -184,11 +184,11 @@
     "counts": 3
    },
    {
-    "author": "noduorg",
+    "author": "Cox_1920",
     "counts": 3
    },
    {
-    "author": "Cox_1920",
+    "author": "noduorg",
     "counts": 3
    },
    {
@@ -236,7 +236,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 81366
+  "total_counts": 81367
  },
- "latest_count": 35081029
+ "latest_count": 35081030
 }
