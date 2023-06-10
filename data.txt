@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Splash30ah",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -22,7 +27,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 30319
+    "counts": 30320
    },
    {
     "author": "SubSmartstocks",
@@ -149,6 +154,10 @@
     "counts": 2
    },
    {
+    "author": "Splash30ah",
+    "counts": 2
+   },
+   {
     "author": "anamee",
     "counts": 1
    },
@@ -167,13 +176,9 @@
    {
     "author": "dominodan123",
     "counts": 1
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 1
    }
   ],
-  "total_counts": 68382
+  "total_counts": 68384
  },
- "latest_count": 35068046
+ "latest_count": 35068048
 }
