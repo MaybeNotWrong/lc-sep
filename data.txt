@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "naimagawa",
+    "author": "amazingpikachu_38",
     "counts": 1713,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 1712,
+    "author": "naimagawa",
+    "counts": 1713,
     "has_wrc_req": false
    },
    {
@@ -25,15 +25,20 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 3429
+  "total_counts": 3431
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 44072
+    "counts": 44073
    },
    {
     "author": "naimagawa",
@@ -124,11 +129,11 @@
     "counts": 5
    },
    {
-    "author": "gordonpt8",
+    "author": "noduorg",
     "counts": 5
    },
    {
-    "author": "noduorg",
+    "author": "gordonpt8",
     "counts": 5
    },
    {
@@ -145,6 +150,10 @@
    },
    {
     "author": "Baron-von-Baroff",
+    "counts": 4
+   },
+   {
+    "author": "Splash30ah",
     "counts": 4
    },
    {
@@ -165,10 +174,6 @@
    },
    {
     "author": "rschaosid",
-    "counts": 3
-   },
-   {
-    "author": "Splash30ah",
     "counts": 3
    },
    {
@@ -200,7 +205,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 89340
+  "total_counts": 89342
  },
- "latest_count": 35089003
+ "latest_count": 35089005
 }
