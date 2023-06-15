@@ -33,6 +33,11 @@
    },
    {
     "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,14 +50,9 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 27732
+  "total_counts": 27733
  },
  "100k": {
   "hoc": [
@@ -109,12 +109,12 @@
     "counts": 5
    },
    {
-    "author": "MrGally75",
+    "author": "Trial-Name",
     "counts": 4
    },
    {
-    "author": "Trial-Name",
-    "counts": 3
+    "author": "MrGally75",
+    "counts": 4
    },
    {
     "author": "Tranquilsunrise",
@@ -125,7 +125,7 @@
     "counts": 2
    },
    {
-    "author": "Splash30ah",
+    "author": "Idk-a-nymore",
     "counts": 1
    },
    {
@@ -133,15 +133,15 @@
     "counts": 1
    },
    {
-    "author": "Blue_boomer",
+    "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "Idk-a-nymore",
+    "author": "Blue_boomer",
     "counts": 1
    }
   ],
-  "total_counts": 62018
+  "total_counts": 62019
  },
- "latest_count": 35262015
+ "latest_count": 35262016
 }
