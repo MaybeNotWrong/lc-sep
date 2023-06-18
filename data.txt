@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "cuteballgames",
+    "author": "naaaiii_",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "naaaiii_",
+    "author": "cuteballgames",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -22,12 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,17 +37,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 24
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
@@ -124,6 +129,10 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "TheMatsValk",
     "counts": 2
    },
@@ -136,7 +145,7 @@
     "counts": 1
    },
    {
-    "author": "artbn",
+    "author": "andrewtheredditor",
     "counts": 1
    },
    {
@@ -146,13 +155,9 @@
    {
     "author": "TehVulpez",
     "counts": 1
-   },
-   {
-    "author": "andrewtheredditor",
-    "counts": 1
    }
   ],
-  "total_counts": 53027
+  "total_counts": 53028
  },
- "latest_count": 35353026
+ "latest_count": 35353027
 }
