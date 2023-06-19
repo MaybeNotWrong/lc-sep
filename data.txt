@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "naaaiii_",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -15,7 +26,7 @@
    },
    {
     "author": "naaaiii_",
-    "counts": 9127
+    "counts": 9128
    },
    {
     "author": "SubSmartstocks",
@@ -31,7 +42,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 65
+    "counts": 66
    },
    {
     "author": "Lonadont",
@@ -86,11 +97,11 @@
     "counts": 2
    },
    {
-    "author": "TheMatsValk",
+    "author": "andrewtheredditor",
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
+    "author": "TheMatsValk",
     "counts": 2
    },
    {
@@ -98,23 +109,23 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "InfernoHot",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
     "counts": 1
    },
    {
     "author": "vovker1",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "TehVulpez",
+    "counts": 1
    }
   ],
-  "total_counts": 56032
+  "total_counts": 56034
  },
- "latest_count": 35356029
+ "latest_count": 35356031
 }
