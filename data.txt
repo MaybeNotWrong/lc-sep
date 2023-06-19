@@ -23,7 +23,17 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,19 +45,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 8976
+  "total_counts": 8978
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 48
+    "counts": 49
    },
    {
     "author": "dragonpro9827",
@@ -93,7 +93,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 23
+    "counts": 24
    },
    {
     "author": "ddodd69",
@@ -132,7 +132,7 @@
     "counts": 2
    },
    {
-    "author": "vovker1",
+    "author": "TheMatsValk",
     "counts": 2
    },
    {
@@ -140,7 +140,7 @@
     "counts": 2
    },
    {
-    "author": "TheMatsValk",
+    "author": "vovker1",
     "counts": 2
    },
    {
@@ -148,11 +148,11 @@
     "counts": 2
    },
    {
-    "author": "InfernoHot",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "InfernoHot",
     "counts": 1
    },
    {
@@ -160,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65008
+  "total_counts": 65010
  },
- "latest_count": 35365004
+ "latest_count": 35365006
 }
