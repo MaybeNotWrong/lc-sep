@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
@@ -57,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "abplows",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9030
+  "total_counts": 9031
  },
  "100k": {
   "hoc": [
@@ -171,6 +176,10 @@
     "counts": 1
    },
    {
+    "author": "abplows",
+    "counts": 1
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1
    },
@@ -179,7 +188,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65062
+  "total_counts": 65063
  },
- "latest_count": 35365058
+ "latest_count": 35365059
 }
