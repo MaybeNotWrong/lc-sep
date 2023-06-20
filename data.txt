@@ -3,17 +3,22 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2753,
+    "counts": 2885,
     "has_wrc_req": true
    },
    {
     "author": "naaaiii_",
-    "counts": 2735,
+    "counts": 2868,
     "has_wrc_req": true
    },
    {
     "author": "cuteballgames",
     "counts": 27,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -25,20 +30,15 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5518
+  "total_counts": 5783
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 34721
+    "counts": 34853
    },
    {
     "author": "greenpeppercat",
@@ -46,7 +46,7 @@
    },
    {
     "author": "naaaiii_",
-    "counts": 17630
+    "counts": 17763
    },
    {
     "author": "SubSmartstocks",
@@ -121,11 +121,11 @@
     "counts": 3
    },
    {
-    "author": "vovker1",
+    "author": "andrewtheredditor",
     "counts": 2
    },
    {
-    "author": "andrewtheredditor",
+    "author": "vovker1",
     "counts": 2
    },
    {
@@ -133,19 +133,15 @@
     "counts": 2
    },
    {
-    "author": "abplows",
-    "counts": 2
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2
    },
    {
-    "author": "MrGally75",
-    "counts": 1
+    "author": "abplows",
+    "counts": 2
    },
    {
-    "author": "dominodan123",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -153,7 +149,11 @@
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
+    "author": "MrGally75",
     "counts": 1
    },
    {
@@ -161,7 +161,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73204
+  "total_counts": 73469
  },
- "latest_count": 35373200
+ "latest_count": 35373465
 }
