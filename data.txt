@@ -27,21 +27,26 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 37359
+  "total_counts": 37360
  },
  "100k": {
   "hoc": [
    {
-    "author": "greenpeppercat",
+    "author": "amazingpikachu_38",
     "counts": 6502
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "greenpeppercat",
     "counts": 6502
    },
    {
@@ -51,9 +56,13 @@
    {
     "author": "naimagawa",
     "counts": 1
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
    }
   ],
-  "total_counts": 13007
+  "total_counts": 13008
  },
- "latest_count": 35513007
+ "latest_count": 35513008
 }
