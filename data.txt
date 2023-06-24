@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 20169,
+    "counts": 20172,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 18677,
+    "counts": 18680,
     "has_wrc_req": true
    },
    {
@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -47,27 +52,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40381
+  "total_counts": 40387
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 8000
+    "counts": 8003
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 6507
+    "counts": 6510
    },
    {
     "author": "naimagawa",
@@ -86,15 +86,11 @@
     "counts": 2
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1
-   },
-   {
     "author": "Christmas_Missionary",
+    "counts": 1
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 1
    },
    {
@@ -104,9 +100,13 @@
    {
     "author": "noduorg",
     "counts": 1
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1
    }
   ],
-  "total_counts": 16029
+  "total_counts": 16035
  },
- "latest_count": 35516029
+ "latest_count": 35516035
 }
