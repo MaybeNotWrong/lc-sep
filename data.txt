@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 24054,
+    "counts": 24150,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 22563,
+    "counts": 22658,
     "has_wrc_req": true
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,27 +47,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 48154
+  "total_counts": 48345
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11885
+    "counts": 11981
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10393
+    "counts": 10488
    },
    {
     "author": "naimagawa",
@@ -82,19 +82,15 @@
     "counts": 4
    },
    {
-    "author": "Trial-Name",
-    "counts": 2
-   },
-   {
     "author": "noduorg",
     "counts": 2
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1
+    "author": "Trial-Name",
+    "counts": 2
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -102,11 +98,15 @@
     "counts": 1
    },
    {
-    "author": "artbn",
+    "author": "Chalupa_Grandpa",
+    "counts": 1
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 1
    }
   ],
-  "total_counts": 23802
+  "total_counts": 23993
  },
- "latest_count": 35523802
+ "latest_count": 35523993
 }
