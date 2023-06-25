@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 31486,
+    "counts": 31604,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 29993,
+    "counts": 30111,
     "has_wrc_req": true
    },
    {
@@ -47,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -60,19 +55,24 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 63020
+  "total_counts": 63256
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 19317
+    "counts": 19435
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 17823
+    "counts": 17941
    },
    {
     "author": "naimagawa",
@@ -91,12 +91,16 @@
     "counts": 4
    },
    {
+    "author": "noduorg",
+    "counts": 2
+   },
+   {
     "author": "Trial-Name",
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 2
+    "author": "SubSmartstocks",
+    "counts": 1
    },
    {
     "author": "artbn",
@@ -109,13 +113,9 @@
    {
     "author": "VitaminB16",
     "counts": 1
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1
    }
   ],
-  "total_counts": 38668
+  "total_counts": 38904
  },
- "latest_count": 35538668
+ "latest_count": 35538904
 }
