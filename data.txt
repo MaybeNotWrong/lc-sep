@@ -13,7 +13,12 @@
    },
    {
     "author": "naimagawa",
-    "counts": 8503,
+    "counts": 8530,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 30,
     "has_wrc_req": false
    },
    {
@@ -27,27 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,22 +42,37 @@
     "has_wrc_req": false
    },
    {
-    "author": "dominodan123",
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 46245
+  "total_counts": 46298
  },
  "100k": {
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 8
+    "counts": 35
    },
    {
     "author": "noduorg",
-    "counts": 4
+    "counts": 30
    },
    {
     "author": "Lonadont",
@@ -95,7 +95,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 20
+  "total_counts": 73
  },
- "latest_count": 35600021
+ "latest_count": 35600074
 }
