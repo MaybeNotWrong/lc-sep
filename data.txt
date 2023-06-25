@@ -23,7 +23,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -32,17 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,9 +50,19 @@
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 46242
+  "total_counts": 46243
  },
  "100k": {
   "hoc": [
@@ -76,11 +76,15 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2
+    "counts": 3
    },
    {
     "author": "greenpeppercat",
     "counts": 2
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1
    },
    {
     "author": "artbn",
@@ -89,13 +93,9 @@
    {
     "author": "VitaminB16",
     "counts": 1
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1
    }
   ],
-  "total_counts": 17
+  "total_counts": 18
  },
- "latest_count": 35600018
+ "latest_count": 35600019
 }
