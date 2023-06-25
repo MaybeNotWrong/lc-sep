@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 34532,
+    "counts": 34648,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 33041,
+    "counts": 33158,
     "has_wrc_req": true
    },
    {
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,32 +47,32 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Trial-Name",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 69119
+  "total_counts": 69352
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 22363
+    "counts": 22479
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 20871
+    "counts": 20988
    },
    {
     "author": "naimagawa",
@@ -95,16 +95,12 @@
     "counts": 2
    },
    {
-    "author": "Trial-Name",
-    "counts": 2
-   },
-   {
     "author": "noduorg",
     "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 1
+    "author": "Trial-Name",
+    "counts": 2
    },
    {
     "author": "artbn",
@@ -113,9 +109,13 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
    }
   ],
-  "total_counts": 44767
+  "total_counts": 45000
  },
- "latest_count": 35544767
+ "latest_count": 35545000
 }
