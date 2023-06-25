@@ -27,7 +27,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "dominodan123",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,17 +37,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "dominodan123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 46231
+  "total_counts": 46232
  },
  "100k": {
   "hoc": [
@@ -64,11 +69,15 @@
     "counts": 1
    },
    {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
     "author": "Lonadont",
     "counts": 1
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
- "latest_count": 35600007
+ "latest_count": 35600008
 }
