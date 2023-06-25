@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 8499,
+    "counts": 8500,
     "has_wrc_req": false
    },
    {
@@ -24,6 +24,11 @@
    {
     "author": "Lonadont",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -42,17 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,17 +62,25 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 46236
+  "total_counts": 46237
  },
  "100k": {
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "greenpeppercat",
     "counts": 2
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    },
    {
     "author": "artbn",
@@ -85,17 +93,9 @@
    {
     "author": "davidjl123",
     "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1
    }
   ],
-  "total_counts": 11
+  "total_counts": 12
  },
- "latest_count": 35600012
+ "latest_count": 35600013
 }
