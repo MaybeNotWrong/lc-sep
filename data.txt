@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 30210,
+    "counts": 30221,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 22386,
+    "counts": 22387,
     "has_wrc_req": true
    },
    {
@@ -29,6 +29,11 @@
    {
     "author": "Christmas_Missionary",
     "counts": 12,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -82,11 +87,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Blue_boomer",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
@@ -107,17 +107,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 64232
+  "total_counts": 64253
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 7772
+    "counts": 7773
    },
    {
     "author": "greenpeppercat",
-    "counts": 7105
+    "counts": 7116
    },
    {
     "author": "naimagawa",
@@ -134,6 +134,10 @@
    {
     "author": "Christmas_Missionary",
     "counts": 12
+   },
+   {
+    "author": "Blue_boomer",
+    "counts": 10
    },
    {
     "author": "ddodd69",
@@ -172,10 +176,6 @@
     "counts": 1
    },
    {
-    "author": "Blue_boomer",
-    "counts": 1
-   },
-   {
     "author": "abplows",
     "counts": 1
    },
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18007
+  "total_counts": 18028
  },
- "latest_count": 35618008
+ "latest_count": 35618029
 }
