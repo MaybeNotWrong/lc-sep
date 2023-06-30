@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 12479,
+    "counts": 12480,
     "has_wrc_req": true
    },
    {
@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ralgrado",
     "counts": 1,
     "has_wrc_req": false
@@ -77,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25005
+  "total_counts": 25007
  },
  "100k": {
   "hoc": [
@@ -87,7 +92,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1504
+    "counts": 1505
    },
    {
     "author": "Lonadont",
@@ -102,15 +107,23 @@
     "counts": 3
    },
    {
-    "author": "dragonpro9827",
-    "counts": 3
-   },
-   {
     "author": "davidjl123",
     "counts": 3
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "dragonpro9827",
+    "counts": 3
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1
    },
    {
@@ -118,19 +131,15 @@
     "counts": 1
    },
    {
-    "author": "SubSmartstocks",
+    "author": "Chalupa_Grandpa",
     "counts": 1
    },
    {
     "author": "noduorg",
     "counts": 1
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1
    }
   ],
-  "total_counts": 3044
+  "total_counts": 3046
  },
- "latest_count": 35803044
+ "latest_count": 35803046
 }
