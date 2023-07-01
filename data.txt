@@ -2,22 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 10775,
-    "has_wrc_req": true
-   },
-   {
     "author": "greenpeppercat",
-    "counts": 10775,
+    "counts": 10963,
     "has_wrc_req": true
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "amazingpikachu_38",
+    "counts": 10962,
+    "has_wrc_req": true
+   },
+   {
+    "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -27,17 +27,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21557
+  "total_counts": 21932
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 20754
+    "counts": 20941
    },
    {
     "author": "greenpeppercat",
-    "counts": 10775
+    "counts": 10963
    },
    {
     "author": "naimagawa",
@@ -88,15 +88,11 @@
     "counts": 1
    },
    {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
     "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "ralgrado",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -104,7 +100,7 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "ralgrado",
     "counts": 1
    },
    {
@@ -112,11 +108,15 @@
     "counts": 1
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "Antichess",
     "counts": 1
    }
   ],
-  "total_counts": 41566
+  "total_counts": 41941
  },
- "latest_count": 35841566
+ "latest_count": 35841941
 }
