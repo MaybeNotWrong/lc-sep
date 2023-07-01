@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
+    "author": "greenpeppercat",
     "counts": 15493,
     "has_wrc_req": true
    },
    {
-    "author": "greenpeppercat",
+    "author": "amazingpikachu_38",
     "counts": 15493,
     "has_wrc_req": true
    },
@@ -17,22 +17,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
     "author": "Lonadont",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 3,
+    "author": "Chalupa_Grandpa",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -42,8 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1,
+    "author": "Christmas_Missionary",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -57,12 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31026
+  "total_counts": 31028
  },
  "100k": {
   "hoc": [
@@ -96,11 +101,15 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "davidjl123",
     "counts": 7
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 5
    },
    {
     "author": "MrGally75",
@@ -108,10 +117,6 @@
    },
    {
     "author": "dragonpro9827",
-    "counts": 4
-   },
-   {
-    "author": "TheMatsValk",
     "counts": 4
    },
    {
@@ -123,11 +128,11 @@
     "counts": 2
    },
    {
-    "author": "treje",
+    "author": "VitaminB16",
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "treje",
     "counts": 1
    },
    {
@@ -135,11 +140,11 @@
     "counts": 1
    },
    {
-    "author": "artbn",
+    "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "Trial-Name",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -155,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51035
+  "total_counts": 51037
  },
- "latest_count": 35851035
+ "latest_count": 35851037
 }
