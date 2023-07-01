@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
-    "author": "greenpeppercat",
-    "counts": 5,
+    "author": "amazingpikachu_38",
+    "counts": 16,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 4,
+    "author": "greenpeppercat",
+    "counts": 16,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 9983
+    "counts": 9995
    },
    {
     "author": "naimagawa",
@@ -33,6 +33,10 @@
     "counts": 17
    },
    {
+    "author": "greenpeppercat",
+    "counts": 16
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 14
    },
@@ -43,10 +47,6 @@
    {
     "author": "Christmas_Missionary",
     "counts": 8
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 5
    },
    {
     "author": "MrGally75",
@@ -73,15 +73,11 @@
     "counts": 1
    },
    {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
     "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "ralgrado",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -89,7 +85,7 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "ralgrado",
     "counts": 1
    },
    {
@@ -97,11 +93,15 @@
     "counts": 1
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "Antichess",
     "counts": 1
    }
   ],
-  "total_counts": 20018
+  "total_counts": 20041
  },
- "latest_count": 35820018
+ "latest_count": 35820041
 }
