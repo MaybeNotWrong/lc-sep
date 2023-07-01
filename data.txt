@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 15499,
+    "counts": 15500,
     "has_wrc_req": true
    },
    {
@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TehVulpez",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -75,20 +80,15 @@
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 31048
+  "total_counts": 31050
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 25478
+    "counts": 25479
    },
    {
     "author": "greenpeppercat",
@@ -147,6 +147,10 @@
     "counts": 2
    },
    {
+    "author": "TehVulpez",
+    "counts": 2
+   },
+   {
     "author": "VitaminB16",
     "counts": 1
    },
@@ -155,11 +159,11 @@
     "counts": 1
    },
    {
-    "author": "artbn",
+    "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "Trial-Name",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -171,15 +175,11 @@
     "counts": 1
    },
    {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
     "author": "Antichess",
     "counts": 1
    }
   ],
-  "total_counts": 51057
+  "total_counts": 51059
  },
- "latest_count": 35851057
+ "latest_count": 35851059
 }
