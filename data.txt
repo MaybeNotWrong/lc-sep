@@ -1,13 +1,29 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "naimagawa",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 15
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16853
+    "counts": 16891
    },
    {
     "author": "greenpeppercat",
@@ -15,11 +31,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 1972
+    "counts": 2011
    },
    {
     "author": "cuteballgames",
-    "counts": 518
+    "counts": 520
    },
    {
     "author": "MrGally75",
@@ -78,7 +94,7 @@
     "counts": 1
    },
    {
-    "author": "TheMatsValk",
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -86,7 +102,7 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -94,11 +110,11 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "TheMatsValk",
     "counts": 1
    }
   ],
-  "total_counts": 34780
+  "total_counts": 34859
  },
- "latest_count": 35934780
+ "latest_count": 35934859
 }
