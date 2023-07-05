@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21583
+  "total_counts": 21584
  },
  "100k": {
   "hoc": [
@@ -160,16 +165,16 @@
     "counts": 5
    },
    {
+    "author": "Trial-Name",
+    "counts": 4
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 4
    },
    {
     "author": "TheMatsValk",
     "counts": 4
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 3
    },
    {
     "author": "Tranquilsunrise",
@@ -196,7 +201,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 87074
+  "total_counts": 87075
  },
- "latest_count": 35987073
+ "latest_count": 35987074
 }
