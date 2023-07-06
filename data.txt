@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 9918,
+    "counts": 10110,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 9545,
+    "counts": 9737,
     "has_wrc_req": false
    },
    {
@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -35,24 +40,19 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 19842
+  "total_counts": 20226
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10556
+    "counts": 10748
    },
    {
     "author": "greenpeppercat",
-    "counts": 9545
+    "counts": 9737
    },
    {
     "author": "naimagawa",
@@ -63,15 +63,23 @@
     "counts": 13
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2
-   },
-   {
     "author": "davidjl123",
     "counts": 2
    },
    {
+    "author": "TheMatsValk",
+    "counts": 2
+   },
+   {
     "author": "Blue_boomer",
+    "counts": 1
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1
+   },
+   {
+    "author": "treje",
     "counts": 1
    },
    {
@@ -81,17 +89,9 @@
    {
     "author": "Antichess",
     "counts": 1
-   },
-   {
-    "author": "treje",
-    "counts": 1
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1
    }
   ],
-  "total_counts": 21123
+  "total_counts": 21507
  },
- "latest_count": 36021123
+ "latest_count": 36021507
 }
