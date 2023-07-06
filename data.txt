@@ -42,12 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
+    "author": "TehVulpez",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,17 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23756
+  "total_counts": 23757
  },
  "100k": {
   "hoc": [
@@ -129,11 +129,15 @@
     "counts": 3
    },
    {
+    "author": "treje",
+    "counts": 2
+   },
+   {
     "author": "VitaminB16",
     "counts": 2
    },
    {
-    "author": "treje",
+    "author": "TehVulpez",
     "counts": 2
    },
    {
@@ -153,15 +157,11 @@
     "counts": 1
    },
    {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
     "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
     "counts": 1
    },
    {
@@ -173,7 +173,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 25037
+  "total_counts": 25038
  },
- "latest_count": 36025037
+ "latest_count": 36025038
 }
