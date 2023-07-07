@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 5121,
+    "author": "greenpeppercat",
+    "counts": 5235,
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
-    "counts": 5120,
+    "author": "amazingpikachu_38",
+    "counts": 5234,
     "has_wrc_req": false
    },
    {
     "author": "Christmas_Missionary",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,27 +32,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Splash30ah",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10248
+  "total_counts": 10477
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 27016
+    "counts": 27129
    },
    {
     "author": "greenpeppercat",
-    "counts": 25483
+    "counts": 25598
    },
    {
     "author": "naimagawa",
@@ -79,7 +79,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "TehVulpez",
@@ -94,11 +94,11 @@
     "counts": 4
    },
    {
-    "author": "treje",
+    "author": "VitaminB16",
     "counts": 2
    },
    {
-    "author": "VitaminB16",
+    "author": "treje",
     "counts": 2
    },
    {
@@ -122,6 +122,10 @@
     "counts": 1
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
     "author": "noduorg",
     "counts": 1
    },
@@ -132,13 +136,9 @@
    {
     "author": "Antichess",
     "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
    }
   ],
-  "total_counts": 54108
+  "total_counts": 54337
  },
- "latest_count": 36054108
+ "latest_count": 36054337
 }
