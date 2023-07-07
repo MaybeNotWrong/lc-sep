@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 20099,
+    "counts": 20159,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 19207,
+    "counts": 19266,
     "has_wrc_req": true
    },
    {
@@ -102,6 +102,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "dominodan123",
     "counts": 1,
     "has_wrc_req": false
@@ -110,24 +115,19 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 40264
+  "total_counts": 40383
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 20737
+    "counts": 20797
    },
    {
     "author": "greenpeppercat",
-    "counts": 19207
+    "counts": 19266
    },
    {
     "author": "naimagawa",
@@ -194,19 +194,15 @@
     "counts": 1
    },
    {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
     "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "noduorg",
+    "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "noduorg",
     "counts": 1
    },
    {
@@ -216,9 +212,13 @@
    {
     "author": "Antichess",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    }
   ],
-  "total_counts": 41545
+  "total_counts": 41664
  },
- "latest_count": 36041545
+ "latest_count": 36041664
 }
