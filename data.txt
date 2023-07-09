@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "andrew_wayne12",
     "counts": 2,
     "has_wrc_req": false
@@ -64,11 +69,6 @@
    {
     "author": "LeinadSpoon",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6053
+  "total_counts": 6054
  },
  "100k": {
   "hoc": [
@@ -171,12 +171,12 @@
     "counts": 6
    },
    {
-    "author": "MrUnderdawg",
+    "author": "treje",
     "counts": 5
    },
    {
-    "author": "treje",
-    "counts": 4
+    "author": "MrUnderdawg",
+    "counts": 5
    },
    {
     "author": "SubSmartstocks",
@@ -191,11 +191,11 @@
     "counts": 2
    },
    {
-    "author": "TheMatsValk",
+    "author": "andrew_wayne12",
     "counts": 2
    },
    {
-    "author": "andrew_wayne12",
+    "author": "TheMatsValk",
     "counts": 2
    },
    {
@@ -207,7 +207,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33123
+  "total_counts": 33124
  },
- "latest_count": 36133123
+ "latest_count": 36133124
 }
