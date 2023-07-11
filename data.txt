@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16477,
+    "counts": 16533,
     "has_wrc_req": false
    },
    {
@@ -14,6 +14,11 @@
    {
     "author": "naimagawa",
     "counts": 3495,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Fudgel3r",
+    "counts": 60,
     "has_wrc_req": false
    },
    {
@@ -38,11 +43,6 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Fudgel3r",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
@@ -107,28 +112,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 33024
+  "total_counts": 33135
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 43705
+    "counts": 43761
    },
    {
     "author": "greenpeppercat",
@@ -144,7 +144,7 @@
    },
    {
     "author": "Fudgel3r",
-    "counts": 1443
+    "counts": 1498
    },
    {
     "author": "Splash30ah",
@@ -243,19 +243,19 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "KalockSwig",
     "counts": 1
    },
    {
     "author": "Antichess",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 91048
+  "total_counts": 91159
  },
- "latest_count": 36191048
+ "latest_count": 36191159
 }
