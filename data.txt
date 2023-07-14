@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2001,
+    "counts": 2008,
     "has_wrc_req": true
    },
    {
@@ -13,6 +13,11 @@
    },
    {
     "author": "cuteballgames",
+    "counts": 16,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 11,
     "has_wrc_req": false
    },
@@ -22,33 +27,28 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
     "author": "naimagawa",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 4019
+  "total_counts": 4035
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 25325
+    "counts": 25332
    },
    {
     "author": "greenpeppercat",
@@ -60,7 +60,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 658
+    "counts": 663
    },
    {
     "author": "Splash30ah",
@@ -83,6 +83,10 @@
     "counts": 15
    },
    {
+    "author": "Antichess",
+    "counts": 12
+   },
+   {
     "author": "treje",
     "counts": 11
    },
@@ -97,10 +101,6 @@
    {
     "author": "dragonpro9827",
     "counts": 9
-   },
-   {
-    "author": "Antichess",
-    "counts": 8
    },
    {
     "author": "artbn",
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51050
+  "total_counts": 51066
  },
- "latest_count": 36251050
+ "latest_count": 36251066
 }
