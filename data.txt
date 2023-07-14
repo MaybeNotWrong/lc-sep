@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 4907,
+    "counts": 4962,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 4349,
+    "counts": 4399,
     "has_wrc_req": true
    },
    {
@@ -33,17 +33,17 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 16,
+    "counts": 18,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Ezekiel134",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
     "author": "vovker1",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Ezekiel134",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -72,17 +72,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9871
+  "total_counts": 9983
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 28231
+    "counts": 28286
    },
    {
     "author": "greenpeppercat",
-    "counts": 17010
+    "counts": 17060
    },
    {
     "author": "naimagawa",
@@ -97,11 +97,11 @@
     "counts": 168
    },
    {
-    "author": "Antichess",
-    "counts": 41
+    "author": "Chalupa_Grandpa",
+    "counts": 43
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Antichess",
     "counts": 41
    },
    {
@@ -133,6 +133,10 @@
     "counts": 9
    },
    {
+    "author": "Ezekiel134",
+    "counts": 8
+   },
+   {
     "author": "artbn",
     "counts": 8
    },
@@ -151,10 +155,6 @@
    {
     "author": "vovker1",
     "counts": 4
-   },
-   {
-    "author": "Ezekiel134",
-    "counts": 3
    },
    {
     "author": "TheMatsValk",
@@ -185,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56902
+  "total_counts": 57014
  },
- "latest_count": 36256902
+ "latest_count": 36257014
 }
