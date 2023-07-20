@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 36545
+    "counts": 36546
    },
    {
     "author": "naimagawa",
@@ -51,7 +62,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "LeinadSpoon",
@@ -90,16 +101,20 @@
     "counts": 3
    },
    {
-    "author": "dominodan123",
-    "counts": 2
-   },
-   {
     "author": "dragonpro9827",
     "counts": 2
    },
    {
     "author": "Tranquilsunrise",
     "counts": 2
+   },
+   {
+    "author": "dominodan123",
+    "counts": 2
+   },
+   {
+    "author": "The1RGood",
+    "counts": 1
    },
    {
     "author": "AntichessSideThread",
@@ -120,13 +135,9 @@
    {
     "author": "TehVulpez",
     "counts": 1
-   },
-   {
-    "author": "The1RGood",
-    "counts": 1
    }
   ],
-  "total_counts": 74011
+  "total_counts": 74013
  },
- "latest_count": 36374012
+ "latest_count": 36374014
 }
