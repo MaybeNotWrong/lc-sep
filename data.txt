@@ -27,18 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
+    "author": "treje",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -57,12 +52,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -80,14 +85,9 @@
     "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 26510
+  "total_counts": 26511
  },
  "100k": {
   "hoc": [
@@ -140,6 +140,10 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "davidjl123",
     "counts": 1
    },
@@ -154,13 +158,9 @@
    {
     "author": "TehVulpez",
     "counts": 1
-   },
-   {
-    "author": "artbn",
-    "counts": 1
    }
   ],
-  "total_counts": 525
+  "total_counts": 526
  },
- "latest_count": 36400525
+ "latest_count": 36400526
 }
