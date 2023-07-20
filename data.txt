@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
@@ -72,17 +77,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26494
+  "total_counts": 26495
  },
  "100k": {
   "hoc": [
@@ -111,6 +111,10 @@
     "counts": 3
    },
    {
+    "author": "Trial-Name",
+    "counts": 2
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2
    },
@@ -119,12 +123,16 @@
     "counts": 2
    },
    {
+    "author": "treje",
+    "counts": 2
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 2
    },
    {
-    "author": "treje",
-    "counts": 2
+    "author": "davidjl123",
+    "counts": 1
    },
    {
     "author": "Tranquilsunrise",
@@ -135,15 +143,7 @@
     "counts": 1
    },
    {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
     "author": "VitaminB16",
-    "counts": 1
-   },
-   {
-    "author": "davidjl123",
     "counts": 1
    },
    {
@@ -151,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 509
+  "total_counts": 510
  },
- "latest_count": 36400509
+ "latest_count": 36400510
 }
