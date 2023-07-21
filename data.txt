@@ -67,8 +67,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -85,19 +95,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 30542
+  "total_counts": 30543
  },
  "100k": {
   "hoc": [
@@ -150,16 +150,16 @@
     "counts": 6
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 4
+   },
+   {
     "author": "VitaminB16",
     "counts": 4
    },
    {
     "author": "artbn",
     "counts": 4
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 3
    },
    {
     "author": "Antichess",
@@ -182,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31082
+  "total_counts": 31083
  },
- "latest_count": 36431087
+ "latest_count": 36431088
 }
