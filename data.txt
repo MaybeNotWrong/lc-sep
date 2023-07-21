@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
@@ -54,11 +59,6 @@
    {
     "author": "dragonpro9827",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26516
+  "total_counts": 26517
  },
  "100k": {
   "hoc": [
@@ -120,6 +120,10 @@
     "counts": 4
    },
    {
+    "author": "Trial-Name",
+    "counts": 3
+   },
+   {
     "author": "cuteballgames",
     "counts": 3
    },
@@ -128,19 +132,15 @@
     "counts": 3
    },
    {
-    "author": "davidjl123",
-    "counts": 2
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 2
    },
    {
     "author": "VitaminB16",
+    "counts": 2
+   },
+   {
+    "author": "davidjl123",
     "counts": 2
    },
    {
@@ -160,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 531
+  "total_counts": 532
  },
- "latest_count": 36400531
+ "latest_count": 36400532
 }
