@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 15228,
+    "counts": 15229,
     "has_wrc_req": false
    },
    {
@@ -77,11 +77,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -95,9 +90,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 30544
+  "total_counts": 30545
  },
  "100k": {
   "hoc": [
@@ -107,7 +107,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 15223
+    "counts": 15224
    },
    {
     "author": "naimagawa",
@@ -182,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31084
+  "total_counts": 31085
  },
- "latest_count": 36431089
+ "latest_count": 36431090
 }
