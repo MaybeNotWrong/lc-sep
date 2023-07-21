@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 4,
+    "author": "davidjl123",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Trial-Name",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -90,14 +95,9 @@
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 30540
+  "total_counts": 30541
  },
  "100k": {
   "hoc": [
@@ -135,7 +135,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "Trial-Name",
@@ -182,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31080
+  "total_counts": 31081
  },
- "latest_count": 36431085
+ "latest_count": 36431086
 }
