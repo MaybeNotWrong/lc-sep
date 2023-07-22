@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -95,14 +100,9 @@
     "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 30571
+  "total_counts": 30572
  },
  "100k": {
   "hoc": [
@@ -163,11 +163,11 @@
     "counts": 6
    },
    {
-    "author": "VitaminB16",
-    "counts": 4
+    "author": "artbn",
+    "counts": 5
    },
    {
-    "author": "artbn",
+    "author": "VitaminB16",
     "counts": 4
    },
    {
@@ -187,7 +187,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 31111
+  "total_counts": 31112
  },
- "latest_count": 36431116
+ "latest_count": 36431117
 }
