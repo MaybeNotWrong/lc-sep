@@ -17,13 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Lonadont",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 3,
+    "author": "treje",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -39,6 +39,11 @@
    {
     "author": "Multiconcepted",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -60,14 +65,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 40
+  "total_counts": 41
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 48
+    "counts": 49
    },
    {
     "author": "Chalupa_Grandpa",
@@ -172,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 57695
+  "total_counts": 57696
  },
- "latest_count": 36467705
+ "latest_count": 36467706
 }
