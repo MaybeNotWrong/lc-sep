@@ -38,7 +38,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
@@ -67,12 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,14 +85,9 @@
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 27037
+  "total_counts": 27039
  },
  "100k": {
   "hoc": [
@@ -120,8 +120,20 @@
     "counts": 3
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 2
+   },
+   {
     "author": "VitaminB16",
     "counts": 2
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1
    },
    {
     "author": "Trial-Name",
@@ -132,19 +144,11 @@
     "counts": 1
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 1
    }
   ],
-  "total_counts": 1047
+  "total_counts": 1049
  },
- "latest_count": 36501048
+ "latest_count": 36501050
 }
