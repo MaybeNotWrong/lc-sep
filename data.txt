@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -11,7 +22,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 35047
+    "counts": 35048
    },
    {
     "author": "dragonpro9827",
@@ -27,7 +38,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 46
+    "counts": 47
    },
    {
     "author": "Chalupa_Grandpa",
@@ -114,7 +125,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 74044
+  "total_counts": 74046
  },
- "latest_count": 36474002
+ "latest_count": 36474004
 }
