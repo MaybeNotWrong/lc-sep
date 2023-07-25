@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
@@ -82,12 +87,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -97,17 +102,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27119
+  "total_counts": 27120
  },
  "100k": {
   "hoc": [
@@ -156,6 +156,10 @@
     "counts": 3
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2
    },
@@ -172,10 +176,6 @@
     "counts": 1
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1
-   },
-   {
     "author": "Trial-Name",
     "counts": 1
    },
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1129
+  "total_counts": 1130
  },
- "latest_count": 36501130
+ "latest_count": 36501131
 }
