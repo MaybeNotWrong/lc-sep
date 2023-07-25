@@ -13,12 +13,17 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4590,
+    "counts": 4602,
     "has_wrc_req": true
    },
    {
     "author": "dragonpro9827",
-    "counts": 1551,
+    "counts": 1552,
+    "has_wrc_req": false
+   },
+   {
+    "author": "eghgkhwrg",
+    "counts": 12,
     "has_wrc_req": false
    },
    {
@@ -47,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "eghgkhwrg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 24199
+  "total_counts": 24223
  },
  "100k": {
   "hoc": [
@@ -86,11 +86,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5964
+    "counts": 5976
    },
    {
     "author": "dragonpro9827",
-    "counts": 2070
+    "counts": 2071
    },
    {
     "author": "Christmas_Missionary",
@@ -99,6 +99,10 @@
    {
     "author": "LeinadSpoon",
     "counts": 13
+   },
+   {
+    "author": "eghgkhwrg",
+    "counts": 12
    },
    {
     "author": "davidjl123",
@@ -149,10 +153,6 @@
     "counts": 2
    },
    {
-    "author": "eghgkhwrg",
-    "counts": 1
-   },
-   {
     "author": "noduorg",
     "counts": 1
    },
@@ -169,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28055
+  "total_counts": 28079
  },
- "latest_count": 36528058
+ "latest_count": 36528082
 }
