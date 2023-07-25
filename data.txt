@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 2,
     "has_wrc_req": false
@@ -74,11 +79,6 @@
    {
     "author": "SubSmartstocks",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -107,7 +107,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27342
+  "total_counts": 27343
  },
  "100k": {
   "hoc": [
@@ -156,16 +156,16 @@
     "counts": 3
    },
    {
+    "author": "Antichess",
+    "counts": 2
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2
    },
    {
     "author": "Multiconcepted",
     "counts": 2
-   },
-   {
-    "author": "Antichess",
-    "counts": 1
    },
    {
     "author": "buy_me_a_pint",
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1350
+  "total_counts": 1351
  },
- "latest_count": 36501350
+ "latest_count": 36501351
 }
