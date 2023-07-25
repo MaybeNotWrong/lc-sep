@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -90,14 +95,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 26180
+  "total_counts": 26181
  },
  "100k": {
   "hoc": [
@@ -170,11 +170,11 @@
     "counts": 2
    },
    {
-    "author": "SubSmartstocks",
+    "author": "Multiconcepted",
     "counts": 2
    },
    {
-    "author": "Multiconcepted",
+    "author": "SubSmartstocks",
     "counts": 2
    },
    {
@@ -183,11 +183,7 @@
    },
    {
     "author": "artbn",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
+    "counts": 2
    },
    {
     "author": "buy_me_a_pint",
@@ -198,11 +194,15 @@
     "counts": 1
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
     "author": "Trial-Name",
     "counts": 1
    }
   ],
-  "total_counts": 30036
+  "total_counts": 30037
  },
- "latest_count": 36530038
+ "latest_count": 36530039
 }
