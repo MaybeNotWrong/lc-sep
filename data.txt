@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
@@ -59,11 +64,6 @@
    {
     "author": "VitaminB16",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27345
+  "total_counts": 27346
  },
  "100k": {
   "hoc": [
@@ -157,12 +157,12 @@
     "counts": 4
    },
    {
-    "author": "VitaminB16",
+    "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "Antichess",
-    "counts": 2
+    "author": "VitaminB16",
+    "counts": 3
    },
    {
     "author": "SubSmartstocks",
@@ -193,7 +193,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1353
+  "total_counts": 1354
  },
  "latest_count": 36501353
 }
