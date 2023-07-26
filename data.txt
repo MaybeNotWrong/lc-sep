@@ -1,128 +1,7 @@
 {
  "day": {
-  "hoc": [
-   {
-    "author": "greenpeppercat",
-    "counts": 12435,
-    "has_wrc_req": true
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 11462,
-    "has_wrc_req": true
-   },
-   {
-    "author": "naimagawa",
-    "counts": 7449,
-    "has_wrc_req": true
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 3439,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1480,
-    "has_wrc_req": false
-   },
-   {
-    "author": "eghgkhwrg",
-    "counts": 970,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 609,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 13,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 12,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 11,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rschaosid",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   }
-  ],
-  "total_counts": 37946
+  "hoc": [],
+  "total_counts": 0
  },
  "100k": {
   "hoc": [
@@ -132,11 +11,11 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 12399
+    "counts": 12495
    },
    {
     "author": "naimagawa",
-    "counts": 8823
+    "counts": 8920
    },
    {
     "author": "dragonpro9827",
@@ -231,7 +110,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41802
+  "total_counts": 41995
  },
- "latest_count": 36541800
+ "latest_count": 36541993
 }
