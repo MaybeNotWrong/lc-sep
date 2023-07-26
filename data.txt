@@ -63,7 +63,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -74,11 +74,6 @@
    {
     "author": "Antichess",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -97,18 +92,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -120,9 +115,14 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27069
+  "total_counts": 27070
  },
  "100k": {
   "hoc": [
@@ -199,15 +199,15 @@
     "counts": 9
    },
    {
+    "author": "Multiconcepted",
+    "counts": 8
+   },
+   {
     "author": "artbn",
     "counts": 8
    },
    {
     "author": "Trial-Name",
-    "counts": 7
-   },
-   {
-    "author": "Multiconcepted",
     "counts": 7
    },
    {
@@ -243,7 +243,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69094
+  "total_counts": 69095
  },
- "latest_count": 36569093
+ "latest_count": 36569094
 }
