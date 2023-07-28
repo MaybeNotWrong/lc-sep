@@ -72,12 +72,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "MolhCD",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6718
+  "total_counts": 6719
  },
  "100k": {
   "hoc": [
@@ -122,11 +127,15 @@
     "counts": 2
    },
    {
-    "author": "Trial-Name",
+    "author": "Antichess",
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "MolhCD",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1
    },
    {
@@ -134,7 +143,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 3065
+  "total_counts": 3066
  },
- "latest_count": 36603065
+ "latest_count": 36603066
 }
