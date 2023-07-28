@@ -48,6 +48,11 @@
    },
    {
     "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -55,14 +60,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6678
+  "total_counts": 6679
  },
  "100k": {
   "hoc": [
@@ -91,23 +91,23 @@
     "counts": 2
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1
+    "author": "Lonadont",
+    "counts": 2
    },
    {
     "author": "davidjl123",
     "counts": 1
    },
    {
-    "author": "Lonadont",
+    "author": "noduorg",
     "counts": 1
    },
    {
-    "author": "noduorg",
+    "author": "Chalupa_Grandpa",
     "counts": 1
    }
   ],
-  "total_counts": 3025
+  "total_counts": 3026
  },
- "latest_count": 36603025
+ "latest_count": 36603026
 }
