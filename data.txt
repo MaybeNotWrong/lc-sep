@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 9063,
+    "counts": 9157,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 8523,
+    "counts": 8617,
     "has_wrc_req": true
    },
    {
@@ -87,11 +87,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "MolhCD",
     "counts": 1,
     "has_wrc_req": false
@@ -100,19 +95,24 @@
     "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 18270
+  "total_counts": 18458
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 7237
+    "counts": 7331
    },
    {
     "author": "greenpeppercat",
-    "counts": 6806
+    "counts": 6900
    },
    {
     "author": "dragonpro9827",
@@ -167,16 +167,12 @@
     "counts": 3
    },
    {
-    "author": "treje",
-    "counts": 2
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 1
+    "author": "treje",
+    "counts": 2
    },
    {
     "author": "MolhCD",
@@ -185,9 +181,13 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
    }
   ],
-  "total_counts": 14617
+  "total_counts": 14805
  },
- "latest_count": 36614617
+ "latest_count": 36614805
 }
