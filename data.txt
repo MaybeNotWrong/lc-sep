@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5,
+    "counts": 38,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 34,
     "has_wrc_req": false
    },
    {
@@ -12,23 +17,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 76
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 11300
+    "counts": 11333
    },
    {
     "author": "greenpeppercat",
@@ -44,7 +44,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 149
+    "counts": 182
    },
    {
     "author": "LeinadSpoon",
@@ -115,15 +115,11 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
-    "counts": 1
-   },
-   {
     "author": "artbn",
     "counts": 1
    },
    {
-    "author": "TehVulpez",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -135,11 +131,15 @@
     "counts": 1
    },
    {
+    "author": "TehVulpez",
+    "counts": 1
+   },
+   {
     "author": "rschaosid",
     "counts": 1
    }
   ],
-  "total_counts": 22835
+  "total_counts": 22901
  },
- "latest_count": 36622835
+ "latest_count": 36622901
 }
