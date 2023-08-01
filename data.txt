@@ -38,7 +38,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -48,6 +48,11 @@
    },
    {
     "author": "Christmas_Missionary",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -75,14 +80,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 967
+  "total_counts": 969
  },
  "100k": {
   "hoc": [
@@ -120,14 +120,14 @@
    },
    {
     "author": "noduorg",
-    "counts": 42
-   },
-   {
-    "author": "treje",
-    "counts": 30
+    "counts": 43
    },
    {
     "author": "davidjl123",
+    "counts": 31
+   },
+   {
+    "author": "treje",
     "counts": 30
    },
    {
@@ -215,7 +215,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51070
+  "total_counts": 51072
  },
- "latest_count": 36651070
+ "latest_count": 36651072
 }
