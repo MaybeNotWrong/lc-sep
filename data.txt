@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -20,20 +25,15 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24869
+    "counts": 24871
    },
    {
     "author": "greenpeppercat",
@@ -49,7 +49,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 239
+    "counts": 241
    },
    {
     "author": "cuteballgames",
@@ -156,7 +156,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50111
+  "total_counts": 50115
  },
- "latest_count": 36650111
+ "latest_count": 36650115
 }
