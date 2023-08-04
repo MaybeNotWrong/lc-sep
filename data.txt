@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "TheMatsValk",
-    "counts": 1805,
+    "author": "amazingpikachu_38",
+    "counts": 1910,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 1804,
+    "author": "TheMatsValk",
+    "counts": 1910,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -22,23 +27,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3613
+  "total_counts": 3825
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 42616
+    "counts": 42722
    },
    {
     "author": "greenpeppercat",
@@ -46,11 +46,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 13554
+    "counts": 13555
    },
    {
     "author": "TheMatsValk",
-    "counts": 3721
+    "counts": 3826
    },
    {
     "author": "Multiconcepted",
@@ -125,11 +125,11 @@
     "counts": 10
    },
    {
-    "author": "gordonpt8",
+    "author": "george1233223121",
     "counts": 10
    },
    {
-    "author": "george1233223121",
+    "author": "gordonpt8",
     "counts": 10
    },
    {
@@ -185,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 88532
+  "total_counts": 88744
  },
- "latest_count": 36688532
+ "latest_count": 36688744
 }
