@@ -47,17 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dominodan123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +55,24 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 16117
+  "total_counts": 16118
  },
  "100k": {
   "hoc": [
@@ -96,11 +101,15 @@
     "counts": 2
    },
    {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
     "author": "treje",
     "counts": 1
    }
   ],
-  "total_counts": 1036
+  "total_counts": 1037
  },
- "latest_count": 36701036
+ "latest_count": 36701037
 }
