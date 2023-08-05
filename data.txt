@@ -37,7 +37,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -48,16 +58,6 @@
    },
    {
     "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 131
+  "total_counts": 133
  },
  "100k": {
   "hoc": [
@@ -120,31 +120,35 @@
    },
    {
     "author": "treje",
-    "counts": 13
+    "counts": 14
+   },
+   {
+    "author": "artbn",
+    "counts": 8
    },
    {
     "author": "davidjl123",
     "counts": 8
    },
    {
-    "author": "artbn",
-    "counts": 7
+    "author": "vovker1",
+    "counts": 6
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 6
    },
    {
-    "author": "vovker1",
-    "counts": 6
+    "author": "noduorg",
+    "counts": 5
    },
    {
     "author": "Christmas_Missionary",
     "counts": 5
    },
    {
-    "author": "noduorg",
-    "counts": 5
+    "author": "Splash30ah",
+    "counts": 4
    },
    {
     "author": "MrUnderdawg",
@@ -152,10 +156,6 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 4
-   },
-   {
-    "author": "Splash30ah",
     "counts": 4
    },
    {
@@ -175,15 +175,15 @@
     "counts": 1
    },
    {
-    "author": "andrew_wayne12",
+    "author": "VitaminB16",
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "andrew_wayne12",
     "counts": 1
    }
   ],
-  "total_counts": 2454
+  "total_counts": 2456
  },
- "latest_count": 36702454
+ "latest_count": 36702456
 }
