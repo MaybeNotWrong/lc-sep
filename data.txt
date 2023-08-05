@@ -37,6 +37,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -47,17 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "ilovewoofwoofs",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 135
+  "total_counts": 137
  },
  "100k": {
   "hoc": [
@@ -134,14 +134,22 @@
    },
    {
     "author": "artbn",
-    "counts": 8
+    "counts": 9
    },
    {
     "author": "davidjl123",
     "counts": 8
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 6
+   },
+   {
     "author": "vovker1",
+    "counts": 6
+   },
+   {
+    "author": "noduorg",
     "counts": 6
    },
    {
@@ -149,23 +157,15 @@
     "counts": 6
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 6
-   },
-   {
-    "author": "noduorg",
-    "counts": 5
-   },
-   {
-    "author": "Splash30ah",
-    "counts": 4
-   },
-   {
     "author": "MrUnderdawg",
     "counts": 4
    },
    {
     "author": "SubSmartstocks",
+    "counts": 4
+   },
+   {
+    "author": "Splash30ah",
     "counts": 4
    },
    {
@@ -193,7 +193,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2458
+  "total_counts": 2460
  },
- "latest_count": 36702458
+ "latest_count": 36702460
 }
