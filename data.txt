@@ -32,17 +32,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Antichess",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10433
+  "total_counts": 10434
  },
  "100k": {
   "hoc": [
@@ -147,11 +147,11 @@
     "counts": 11
    },
    {
-    "author": "vovker1",
-    "counts": 7
+    "author": "MrUnderdawg",
+    "counts": 8
    },
    {
-    "author": "MrUnderdawg",
+    "author": "vovker1",
     "counts": 7
    },
    {
@@ -183,10 +183,6 @@
     "counts": 4
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -205,9 +201,13 @@
    {
     "author": "TehVulpez",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 27600
+  "total_counts": 27601
  },
- "latest_count": 36727600
+ "latest_count": 36727601
 }
