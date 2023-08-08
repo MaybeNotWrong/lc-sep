@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 5688,
+    "author": "naimagawa",
+    "counts": 5689,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 5686,
+    "author": "amazingpikachu_38",
+    "counts": 5688,
     "has_wrc_req": false
    },
    {
@@ -23,6 +23,16 @@
    },
    {
     "author": "Sotp_Sign",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -32,13 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 2,
+    "author": "Antichess",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -47,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -55,14 +60,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 11402
+  "total_counts": 11407
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 21680
+    "counts": 21683
    },
    {
     "author": "swinub_time",
@@ -84,7 +84,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 88
+    "counts": 89
    },
    {
     "author": "artbn",
@@ -168,11 +168,7 @@
    },
    {
     "author": "Sotp_Sign",
-    "counts": 2
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
+    "counts": 3
    },
    {
     "author": "AntichessSideThread",
@@ -193,9 +189,13 @@
    {
     "author": "TehVulpez",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 44798
+  "total_counts": 44803
  },
- "latest_count": 36744798
+ "latest_count": 36744803
 }
