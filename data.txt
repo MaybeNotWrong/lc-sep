@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 5695,
+    "counts": 5696,
     "has_wrc_req": false
    },
    {
@@ -42,11 +42,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -62,12 +57,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11423
+  "total_counts": 11424
  },
  "100k": {
   "hoc": [
@@ -77,7 +77,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 21689
+    "counts": 21690
    },
    {
     "author": "swinub_time",
@@ -200,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44819
+  "total_counts": 44820
  },
- "latest_count": 36744819
+ "latest_count": 36744820
 }
