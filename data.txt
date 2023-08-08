@@ -22,11 +22,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Sotp_Sign",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
@@ -37,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
+    "author": "Sotp_Sign",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,12 +47,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11399
+  "total_counts": 11400
  },
  "100k": {
   "hoc": [
@@ -79,7 +84,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 86
+    "counts": 87
    },
    {
     "author": "artbn",
@@ -190,7 +195,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44795
+  "total_counts": 44796
  },
- "latest_count": 36744795
+ "latest_count": 36744796
 }
