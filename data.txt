@@ -35,9 +35,14 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 11384
+  "total_counts": 11385
  },
  "100k": {
   "hoc": [
@@ -139,7 +144,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2
+    "counts": 3
    },
    {
     "author": "dominodan123",
@@ -166,7 +171,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44780
+  "total_counts": 44781
  },
- "latest_count": 36744780
+ "latest_count": 36744781
 }
