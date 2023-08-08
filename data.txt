@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 2,
     "has_wrc_req": false
@@ -57,11 +62,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11454
+  "total_counts": 11455
  },
  "100k": {
   "hoc": [
@@ -103,7 +103,7 @@
    },
    {
     "author": "artbn",
-    "counts": 77
+    "counts": 78
    },
    {
     "author": "Lonadont",
@@ -170,10 +170,6 @@
     "counts": 5
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 4
-   },
-   {
     "author": "Trial-Name",
     "counts": 4
    },
@@ -182,8 +178,16 @@
     "counts": 4
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 4
+   },
+   {
     "author": "TheMatsValk",
     "counts": 4
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    },
    {
     "author": "AntichessSideThread",
@@ -204,13 +208,9 @@
    {
     "author": "TehVulpez",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 44850
+  "total_counts": 44851
  },
- "latest_count": 36744850
+ "latest_count": 36744851
 }
