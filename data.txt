@@ -13,7 +13,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -27,17 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -55,9 +50,14 @@
     "author": "Sotp_Sign",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 11394
+  "total_counts": 11395
  },
  "100k": {
   "hoc": [
@@ -86,11 +86,11 @@
     "counts": 76
    },
    {
-    "author": "Multiconcepted",
-    "counts": 62
+    "author": "Lonadont",
+    "counts": 63
    },
    {
-    "author": "Lonadont",
+    "author": "Multiconcepted",
     "counts": 62
    },
    {
@@ -162,10 +162,6 @@
     "counts": 4
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -188,9 +184,13 @@
    {
     "author": "Sotp_Sign",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 44790
+  "total_counts": 44791
  },
- "latest_count": 36744790
+ "latest_count": 36744791
 }
