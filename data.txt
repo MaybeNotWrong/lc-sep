@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -55,14 +60,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 21015
+  "total_counts": 21016
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 106
+    "counts": 107
    },
    {
     "author": "artbn",
@@ -199,7 +199,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71021
+  "total_counts": 71022
  },
- "latest_count": 36771021
+ "latest_count": 36771022
 }
