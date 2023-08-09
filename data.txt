@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5,
+    "counts": 19,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24806
+    "counts": 24820
    },
    {
     "author": "naimagawa",
@@ -31,7 +36,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 1792
+    "counts": 1807
    },
    {
     "author": "swinub_time",
@@ -130,6 +135,10 @@
     "counts": 4
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -148,13 +157,9 @@
    {
     "author": "TehVulpez",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 50016
+  "total_counts": 50045
  },
- "latest_count": 36750016
+ "latest_count": 36750045
 }
