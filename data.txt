@@ -42,7 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,12 +62,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21022
+  "total_counts": 21023
  },
  "100k": {
   "hoc": [
@@ -164,12 +169,12 @@
     "counts": 6
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Trial-Name",
     "counts": 5
    },
    {
-    "author": "Trial-Name",
-    "counts": 4
+    "author": "Tranquilsunrise",
+    "counts": 5
    },
    {
     "author": "solidgolfmagikarp",
@@ -204,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71028
+  "total_counts": 71029
  },
- "latest_count": 36771028
+ "latest_count": 36771029
 }
