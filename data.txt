@@ -42,12 +42,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21005
+  "total_counts": 21006
  },
  "100k": {
   "hoc": [
@@ -117,7 +122,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 14
+    "counts": 15
    },
    {
     "author": "SubSmartstocks",
@@ -160,10 +165,6 @@
     "counts": 4
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -182,9 +183,13 @@
    {
     "author": "TehVulpez",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 71011
+  "total_counts": 71012
  },
- "latest_count": 36771011
+ "latest_count": 36771012
 }
