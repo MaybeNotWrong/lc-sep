@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Sotp_Sign",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -52,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21007
+  "total_counts": 21008
  },
  "100k": {
   "hoc": [
@@ -141,11 +146,11 @@
     "counts": 7
    },
    {
-    "author": "Splash30ah",
-    "counts": 6
+    "author": "Sotp_Sign",
+    "counts": 7
    },
    {
-    "author": "Sotp_Sign",
+    "author": "Splash30ah",
     "counts": 6
    },
    {
@@ -189,7 +194,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71013
+  "total_counts": 71014
  },
- "latest_count": 36771013
+ "latest_count": 36771014
 }
