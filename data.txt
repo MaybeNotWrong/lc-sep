@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Antichess",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 5,
     "has_wrc_req": false
@@ -44,11 +49,6 @@
    {
     "author": "davidjl123",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21079
+  "total_counts": 21080
  },
  "100k": {
   "hoc": [
@@ -169,11 +169,11 @@
     "counts": 12
    },
    {
-    "author": "VitaminB16",
-    "counts": 10
+    "author": "Antichess",
+    "counts": 11
    },
    {
-    "author": "Antichess",
+    "author": "VitaminB16",
     "counts": 10
    },
    {
@@ -229,7 +229,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71085
+  "total_counts": 71086
  },
- "latest_count": 36771085
+ "latest_count": 36771086
 }
