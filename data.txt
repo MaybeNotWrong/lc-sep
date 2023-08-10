@@ -28,7 +28,12 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 9,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "anamee",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -52,13 +57,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "anamee",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
-    "counts": 5,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -112,7 +112,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2940
+  "total_counts": 2942
  },
  "100k": {
   "hoc": [
@@ -158,7 +158,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 95
+    "counts": 96
    },
    {
     "author": "davidjl123",
@@ -170,7 +170,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 44
+    "counts": 45
    },
    {
     "author": "treje",
@@ -241,6 +241,10 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -259,13 +263,9 @@
    {
     "author": "MrGally75",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 74104
+  "total_counts": 74106
  },
- "latest_count": 36774104
+ "latest_count": 36774106
 }
