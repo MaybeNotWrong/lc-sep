@@ -8,7 +8,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 10500,
+    "counts": 10501,
     "has_wrc_req": true
    },
    {
@@ -87,16 +87,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
@@ -110,9 +100,19 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 21108
+  "total_counts": 21109
  },
  "100k": {
   "hoc": [
@@ -126,7 +126,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 12292
+    "counts": 12293
    },
    {
     "author": "swinub_time",
@@ -209,11 +209,11 @@
     "counts": 6
    },
    {
-    "author": "Trial-Name",
+    "author": "Tranquilsunrise",
     "counts": 6
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Trial-Name",
     "counts": 6
    },
    {
@@ -227,10 +227,6 @@
    {
     "author": "Cox_1920",
     "counts": 2
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    },
    {
     "author": "AntichessSideThread",
@@ -247,9 +243,13 @@
    {
     "author": "TehVulpez",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 71114
+  "total_counts": 71115
  },
- "latest_count": 36771114
+ "latest_count": 36771115
 }
