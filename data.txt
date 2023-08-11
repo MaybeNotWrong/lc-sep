@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 55
+    "counts": 56
    },
    {
     "author": "Chalupa_Grandpa",
@@ -134,10 +140,6 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -156,9 +158,13 @@
    {
     "author": "MrGally75",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 74148
+  "total_counts": 74149
  },
- "latest_count": 36774148
+ "latest_count": 36774149
 }
