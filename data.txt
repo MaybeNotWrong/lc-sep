@@ -12,12 +12,12 @@
     "has_wrc_req": true
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 9,
+    "author": "Sotp_Sign",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
-    "author": "Sotp_Sign",
+    "author": "Chalupa_Grandpa",
     "counts": 9,
     "has_wrc_req": false
    },
@@ -32,11 +32,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -47,7 +42,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "swinub_time",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,14 +65,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 11884
+  "total_counts": 11885
  },
  "100k": {
   "hoc": [
@@ -145,7 +145,7 @@
    },
    {
     "author": "Sotp_Sign",
-    "counts": 22
+    "counts": 23
    },
    {
     "author": "SubSmartstocks",
@@ -200,6 +200,10 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -218,13 +222,9 @@
    {
     "author": "MrGally75",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 86032
+  "total_counts": 86033
  },
- "latest_count": 36786032
+ "latest_count": 36786033
 }
