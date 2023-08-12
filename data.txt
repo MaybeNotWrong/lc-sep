@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2957,
+    "counts": 3111,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 2956,
+    "counts": 3111,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -25,20 +30,15 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5917
+  "total_counts": 6227
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 45719
+    "counts": 45873
    },
    {
     "author": "naimagawa",
@@ -46,7 +46,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 21719
+    "counts": 21874
    },
    {
     "author": "rideride",
@@ -82,7 +82,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 68
+    "counts": 69
    },
    {
     "author": "Chalupa_Grandpa",
@@ -165,10 +165,6 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "AntichessSideThread",
     "counts": 1
    },
@@ -187,9 +183,13 @@
    {
     "author": "MrGally75",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 93225
+  "total_counts": 93535
  },
- "latest_count": 36793225
+ "latest_count": 36793535
 }
