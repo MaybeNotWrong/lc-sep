@@ -8,12 +8,17 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 7343,
+    "counts": 7345,
     "has_wrc_req": true
    },
    {
     "author": "Lonadont",
     "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -27,8 +32,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 4,
+    "author": "naimagawa",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -37,13 +42,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "dragonpro9827",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -58,16 +68,6 @@
    },
    {
     "author": "swinub_time",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14737
+  "total_counts": 14741
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 1003
+    "counts": 1005
    },
    {
     "author": "Lonadont",
@@ -107,7 +107,19 @@
     "counts": 3
    },
    {
+    "author": "dragonpro9827",
+    "counts": 3
+   },
+   {
+    "author": "davidjl123",
+    "counts": 3
+   },
+   {
     "author": "naimagawa",
+    "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 2
    },
    {
@@ -119,10 +131,6 @@
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2
-   },
-   {
     "author": "swinub_time",
     "counts": 2
    },
@@ -131,19 +139,11 @@
     "counts": 2
    },
    {
-    "author": "dragonpro9827",
-    "counts": 2
-   },
-   {
-    "author": "davidjl123",
-    "counts": 2
-   },
-   {
     "author": "MrUnderdawg",
     "counts": 1
    }
   ],
-  "total_counts": 2045
+  "total_counts": 2049
  },
- "latest_count": 36802045
+ "latest_count": 36802049
 }
