@@ -12,22 +12,22 @@
     "has_wrc_req": true
    },
    {
+    "author": "Lonadont",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
+    "author": "Sotp_Sign",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Sotp_Sign",
+    "author": "naimagawa",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -39,11 +39,6 @@
    {
     "author": "artbn",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -67,17 +62,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
+    "author": "VitaminB16",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 14721
+  "total_counts": 14722
  },
  "100k": {
   "hoc": [
@@ -91,7 +91,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "Sotp_Sign",
@@ -134,7 +134,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2029
+  "total_counts": 2030
  },
- "latest_count": 36802029
+ "latest_count": 36802030
 }
