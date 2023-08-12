@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "rideride",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 3,
     "has_wrc_req": false
@@ -64,11 +69,6 @@
    {
     "author": "Multiconcepted",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11950
+  "total_counts": 11951
  },
  "100k": {
   "hoc": [
@@ -115,7 +115,7 @@
    },
    {
     "author": "rideride",
-    "counts": 1030
+    "counts": 1031
    },
    {
     "author": "Multiconcepted",
@@ -254,7 +254,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86098
+  "total_counts": 86099
  },
- "latest_count": 36786098
+ "latest_count": 36786099
 }
