@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 3,
     "has_wrc_req": false
@@ -38,11 +43,6 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14732
+  "total_counts": 14733
  },
  "100k": {
   "hoc": [
@@ -103,11 +103,15 @@
     "counts": 3
    },
    {
+    "author": "artbn",
+    "counts": 3
+   },
+   {
     "author": "naimagawa",
     "counts": 2
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "noduorg",
     "counts": 2
    },
    {
@@ -115,7 +119,7 @@
     "counts": 2
    },
    {
-    "author": "noduorg",
+    "author": "Christmas_Missionary",
     "counts": 2
    },
    {
@@ -135,15 +139,11 @@
     "counts": 2
    },
    {
-    "author": "artbn",
-    "counts": 2
-   },
-   {
     "author": "MrUnderdawg",
     "counts": 1
    }
   ],
-  "total_counts": 2040
+  "total_counts": 2041
  },
- "latest_count": 36802040
+ "latest_count": 36802041
 }
