@@ -17,13 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "naimagawa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -39,16 +39,6 @@
    {
     "author": "Lonadont",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -72,12 +67,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14711
+  "total_counts": 14712
  },
  "100k": {
   "hoc": [
@@ -88,6 +88,10 @@
    {
     "author": "greenpeppercat",
     "counts": 1001
+   },
+   {
+    "author": "naimagawa",
+    "counts": 2
    },
    {
     "author": "Sotp_Sign",
@@ -110,10 +114,6 @@
     "counts": 1
    },
    {
-    "author": "naimagawa",
-    "counts": 1
-   },
-   {
     "author": "davidjl123",
     "counts": 1
    },
@@ -126,7 +126,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2019
+  "total_counts": 2020
  },
- "latest_count": 36802019
+ "latest_count": 36802020
 }
