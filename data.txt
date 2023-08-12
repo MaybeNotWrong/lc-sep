@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Sotp_Sign",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 3,
     "has_wrc_req": false
@@ -24,11 +29,6 @@
    {
     "author": "davidjl123",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Sotp_Sign",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14712
+  "total_counts": 14713
  },
  "100k": {
   "hoc": [
@@ -90,11 +90,11 @@
     "counts": 1001
    },
    {
-    "author": "naimagawa",
-    "counts": 2
+    "author": "Sotp_Sign",
+    "counts": 3
    },
    {
-    "author": "Sotp_Sign",
+    "author": "naimagawa",
     "counts": 2
    },
    {
@@ -126,7 +126,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2020
+  "total_counts": 2021
  },
- "latest_count": 36802020
+ "latest_count": 36802021
 }
