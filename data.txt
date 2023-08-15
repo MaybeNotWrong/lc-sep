@@ -72,12 +72,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11773
+  "total_counts": 11774
  },
  "100k": {
   "hoc": [
@@ -171,18 +176,18 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 2
+    "counts": 3
    },
    {
     "author": "ralgrado",
     "counts": 1
    },
    {
-    "author": "TehVulpez",
+    "author": "TheMatsValk",
     "counts": 1
    },
    {
-    "author": "TheMatsValk",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
@@ -198,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41251
+  "total_counts": 41252
  },
- "latest_count": 36841251
+ "latest_count": 36841252
 }
