@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Sotp_Sign",
     "counts": 1,
     "has_wrc_req": false
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11794
+  "total_counts": 11795
  },
  "100k": {
   "hoc": [
@@ -120,7 +120,7 @@
    },
    {
     "author": "artbn",
-    "counts": 31
+    "counts": 32
    },
    {
     "author": "davidjl123",
@@ -203,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41272
+  "total_counts": 41273
  },
- "latest_count": 36841272
+ "latest_count": 36841273
 }
