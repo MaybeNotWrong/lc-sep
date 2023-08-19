@@ -22,12 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 3,
+    "author": "Lonadont",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "Multiconcepted",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -52,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2913
+  "total_counts": 2914
  },
  "100k": {
   "hoc": [
@@ -96,7 +96,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 100
+    "counts": 101
    },
    {
     "author": "artbn",
@@ -179,10 +179,6 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "cuteballgames",
     "counts": 1
    },
@@ -199,11 +195,11 @@
     "counts": 1
    },
    {
-    "author": "eddebbboi",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
-    "author": "TehVulpez",
+    "author": "eddebbboi",
     "counts": 1
    },
    {
@@ -213,9 +209,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 59013
+  "total_counts": 59014
  },
- "latest_count": 36859013
+ "latest_count": 36859014
 }
