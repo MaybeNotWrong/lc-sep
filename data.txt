@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -57,7 +62,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 53
+    "counts": 54
    },
    {
     "author": "MrUnderdawg",
@@ -80,11 +85,11 @@
     "counts": 21
    },
    {
-    "author": "noduorg",
+    "author": "Tranquilsunrise",
     "counts": 14
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "noduorg",
     "counts": 14
    },
    {
@@ -92,11 +97,11 @@
     "counts": 12
    },
    {
-    "author": "VitaminB16",
+    "author": "treje",
     "counts": 11
    },
    {
-    "author": "treje",
+    "author": "VitaminB16",
     "counts": 11
    },
    {
@@ -124,6 +129,10 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "cuteballgames",
     "counts": 1
    },
@@ -140,11 +149,11 @@
     "counts": 1
    },
    {
-    "author": "TehVulpez",
+    "author": "eddebbboi",
     "counts": 1
    },
    {
-    "author": "eddebbboi",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
@@ -154,13 +163,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 59123
+  "total_counts": 59124
  },
- "latest_count": 36859123
+ "latest_count": 36859124
 }
