@@ -1,13 +1,29 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "swinub_time",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 30369
+    "counts": 30374
    },
    {
     "author": "naimagawa",
@@ -59,7 +75,7 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 49
+    "counts": 50
    },
    {
     "author": "Chalupa_Grandpa",
@@ -74,12 +90,12 @@
     "counts": 22
    },
    {
-    "author": "noduorg",
-    "counts": 15
+    "author": "swinub_time",
+    "counts": 19
    },
    {
-    "author": "swinub_time",
-    "counts": 14
+    "author": "noduorg",
+    "counts": 15
    },
    {
     "author": "Tranquilsunrise",
@@ -118,10 +134,6 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "cuteballgames",
     "counts": 1
    },
@@ -152,9 +164,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 61380
+  "total_counts": 61391
  },
- "latest_count": 36861380
+ "latest_count": 36861391
 }
