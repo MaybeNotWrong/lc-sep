@@ -2,28 +2,33 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 16
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 31272
+    "counts": 31277
    },
    {
     "author": "naimagawa",
@@ -71,7 +76,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 66
+    "counts": 67
    },
    {
     "author": "MrUnderdawg",
@@ -114,16 +119,16 @@
     "counts": 12
    },
    {
+    "author": "cuteballgames",
+    "counts": 8
+   },
+   {
     "author": "TheMatsValk",
     "counts": 7
    },
    {
     "author": "Antichess",
     "counts": 5
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 4
    },
    {
     "author": "MrGally75",
@@ -174,7 +179,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 63256
+  "total_counts": 63266
  },
- "latest_count": 36863256
+ "latest_count": 36863266
 }
