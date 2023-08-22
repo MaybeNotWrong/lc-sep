@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "cuteballgames",
-    "counts": 8,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "vovker1",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Sotp_Sign",
     "counts": 2,
     "has_wrc_req": false
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 22
+  "total_counts": 26
  },
  "100k": {
   "hoc": [
@@ -120,12 +125,12 @@
     "counts": 13
    },
    {
-    "author": "Trial-Name",
-    "counts": 12
+    "author": "cuteballgames",
+    "counts": 13
    },
    {
-    "author": "cuteballgames",
-    "counts": 11
+    "author": "Trial-Name",
+    "counts": 12
    },
    {
     "author": "TheMatsValk",
@@ -144,19 +149,15 @@
     "counts": 2
    },
    {
+    "author": "vovker1",
+    "counts": 2
+   },
+   {
     "author": "KalockSwig",
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
     "author": "Christian230102",
-    "counts": 1
-   },
-   {
-    "author": "half_split",
     "counts": 1
    },
    {
@@ -164,15 +165,19 @@
     "counts": 1
    },
    {
+    "author": "half_split",
+    "counts": 1
+   },
+   {
     "author": "ralgrado",
     "counts": 1
    },
    {
-    "author": "eddebbboi",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
-    "author": "TehVulpez",
+    "author": "eddebbboi",
     "counts": 1
    },
    {
@@ -182,9 +187,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
    }
   ],
-  "total_counts": 63272
+  "total_counts": 63276
  },
- "latest_count": 36863272
+ "latest_count": 36863276
 }
