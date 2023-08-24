@@ -38,11 +38,16 @@
    },
    {
     "author": "davidjl123",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 71
+  "total_counts": 73
  },
  "100k": {
   "hoc": [
@@ -132,7 +132,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 103
+    "counts": 104
    },
    {
     "author": "Christmas_Missionary",
@@ -160,7 +160,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 27
+    "counts": 28
    },
    {
     "author": "VitaminB16",
@@ -203,15 +203,15 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 2
-   },
-   {
     "author": "KalockSwig",
     "counts": 2
    },
    {
     "author": "brbin20mins",
+    "counts": 2
+   },
+   {
+    "author": "dominodan123",
     "counts": 2
    },
    {
@@ -247,7 +247,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67158
+  "total_counts": 67160
  },
- "latest_count": 36867158
+ "latest_count": 36867160
 }
