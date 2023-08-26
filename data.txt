@@ -23,6 +23,11 @@
    },
    {
     "author": "VitaminB16",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -33,11 +38,6 @@
    },
    {
     "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 61
+  "total_counts": 62
  },
  "100k": {
   "hoc": [
@@ -153,7 +153,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 21
+    "counts": 22
    },
    {
     "author": "treje",
@@ -192,10 +192,6 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 2
-   },
-   {
     "author": "KalockSwig",
     "counts": 2
    },
@@ -208,11 +204,11 @@
     "counts": 2
    },
    {
-    "author": "Christian230102",
-    "counts": 1
+    "author": "dominodan123",
+    "counts": 2
    },
    {
-    "author": "half_split",
+    "author": "Christian230102",
     "counts": 1
    },
    {
@@ -220,11 +216,11 @@
     "counts": 1
    },
    {
-    "author": "ralgrado",
+    "author": "half_split",
     "counts": 1
    },
    {
-    "author": "eddebbboi",
+    "author": "ralgrado",
     "counts": 1
    },
    {
@@ -232,11 +228,15 @@
     "counts": 1
    },
    {
+    "author": "eddebbboi",
+    "counts": 1
+   },
+   {
     "author": "Playing_2",
     "counts": 1
    }
   ],
-  "total_counts": 67566
+  "total_counts": 67567
  },
- "latest_count": 36867563
+ "latest_count": 36867564
 }
