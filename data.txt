@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
@@ -38,11 +43,6 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 57
+  "total_counts": 58
  },
  "100k": {
   "hoc": [
@@ -145,7 +145,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "amazingpiakchu_38",
@@ -192,10 +192,6 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 2
-   },
-   {
     "author": "KalockSwig",
     "counts": 2
    },
@@ -208,11 +204,11 @@
     "counts": 2
    },
    {
-    "author": "Christian230102",
-    "counts": 1
+    "author": "dominodan123",
+    "counts": 2
    },
    {
-    "author": "half_split",
+    "author": "Christian230102",
     "counts": 1
    },
    {
@@ -220,11 +216,11 @@
     "counts": 1
    },
    {
-    "author": "ralgrado",
+    "author": "half_split",
     "counts": 1
    },
    {
-    "author": "eddebbboi",
+    "author": "ralgrado",
     "counts": 1
    },
    {
@@ -232,11 +228,15 @@
     "counts": 1
    },
    {
+    "author": "eddebbboi",
+    "counts": 1
+   },
+   {
     "author": "Playing_2",
     "counts": 1
    }
   ],
-  "total_counts": 67562
+  "total_counts": 67563
  },
- "latest_count": 36867559
+ "latest_count": 36867560
 }
