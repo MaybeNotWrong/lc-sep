@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -20,20 +25,15 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 14
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 33223
+    "counts": 33224
    },
    {
     "author": "naimagawa",
@@ -53,7 +53,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 500
+    "counts": 501
    },
    {
     "author": "LeinadSpoon",
@@ -152,10 +152,6 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 2
-   },
-   {
     "author": "KalockSwig",
     "counts": 2
    },
@@ -165,6 +161,10 @@
    },
    {
     "author": "rschaosid",
+    "counts": 2
+   },
+   {
+    "author": "dominodan123",
     "counts": 2
    },
    {
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67517
+  "total_counts": 67519
  },
- "latest_count": 36867514
+ "latest_count": 36867516
 }
