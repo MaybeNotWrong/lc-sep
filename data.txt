@@ -13,17 +13,17 @@
    },
    {
     "author": "noduorg",
-    "counts": 9,
+    "counts": 11,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 103
+  "total_counts": 107
  },
  "100k": {
   "hoc": [
@@ -118,7 +118,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 518
+    "counts": 520
    },
    {
     "author": "LeinadSpoon",
@@ -157,15 +157,15 @@
     "counts": 70
    },
    {
+    "author": "noduorg",
+    "counts": 47
+   },
+   {
     "author": "swinub_time",
     "counts": 45
    },
    {
     "author": "SubSmartstocks",
-    "counts": 45
-   },
-   {
-    "author": "noduorg",
     "counts": 45
    },
    {
@@ -265,7 +265,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67732
+  "total_counts": 67736
  },
- "latest_count": 36867729
+ "latest_count": 36867733
 }
