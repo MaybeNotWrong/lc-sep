@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 33253
+    "counts": 33254
    },
    {
     "author": "naimagawa",
@@ -63,7 +74,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 64
+    "counts": 65
    },
    {
     "author": "SubSmartstocks",
@@ -126,6 +137,10 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 2
+   },
+   {
     "author": "KalockSwig",
     "counts": 2
    },
@@ -135,10 +150,6 @@
    },
    {
     "author": "rschaosid",
-    "counts": 2
-   },
-   {
-    "author": "dominodan123",
     "counts": 2
    },
    {
@@ -170,7 +181,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67629
+  "total_counts": 67631
  },
- "latest_count": 36867626
+ "latest_count": 36867628
 }
