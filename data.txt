@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "naimagawa",
+    "counts": 44,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 33,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 16,
+    "author": "rideride",
+    "counts": 29,
     "has_wrc_req": false
    },
    {
@@ -102,17 +107,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 146
+  "total_counts": 202
  },
  "100k": {
   "hoc": [
@@ -122,7 +122,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 18849
+    "counts": 18877
    },
    {
     "author": "greenpeppercat",
@@ -134,7 +134,7 @@
    },
    {
     "author": "rideride",
-    "counts": 1259
+    "counts": 1287
    },
    {
     "author": "Multiconcepted",
@@ -237,11 +237,11 @@
     "counts": 4
    },
    {
-    "author": "dominodan123",
+    "author": "TehVulpez",
     "counts": 3
    },
    {
-    "author": "TehVulpez",
+    "author": "dominodan123",
     "counts": 3
    },
    {
@@ -269,11 +269,11 @@
     "counts": 1
    },
    {
-    "author": "half_split",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "half_split",
     "counts": 1
    },
    {
@@ -289,7 +289,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68205
+  "total_counts": 68261
  },
- "latest_count": 36868202
+ "latest_count": 36868258
 }
