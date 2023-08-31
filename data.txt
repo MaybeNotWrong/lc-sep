@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
@@ -95,14 +100,9 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 57
+  "total_counts": 58
  },
  "100k": {
   "hoc": [
@@ -144,7 +144,7 @@
    },
    {
     "author": "artbn",
-    "counts": 278
+    "counts": 279
    },
    {
     "author": "noduorg",
@@ -279,7 +279,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71632
+  "total_counts": 71633
  },
- "latest_count": 36871630
+ "latest_count": 36871631
 }
