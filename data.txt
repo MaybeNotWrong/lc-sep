@@ -5,9 +5,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -136,15 +141,19 @@
     "counts": 3
    },
    {
-    "author": "TehVulpez",
-    "counts": 3
-   },
-   {
     "author": "dominodan123",
     "counts": 3
    },
    {
+    "author": "TehVulpez",
+    "counts": 3
+   },
+   {
     "author": "KalockSwig",
+    "counts": 2
+   },
+   {
+    "author": "Cox_1920",
     "counts": 2
    },
    {
@@ -168,10 +177,6 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
-    "counts": 1
-   },
-   {
     "author": "ralgrado",
     "counts": 1
    },
@@ -184,7 +189,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71576
+  "total_counts": 71577
  },
- "latest_count": 36871574
+ "latest_count": 36871575
 }
