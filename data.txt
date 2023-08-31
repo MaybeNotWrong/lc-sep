@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 2,
     "has_wrc_req": false
@@ -42,18 +47,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -67,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,17 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -100,9 +90,19 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 58
+  "total_counts": 59
  },
  "100k": {
   "hoc": [
@@ -156,7 +156,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 167
+    "counts": 168
    },
    {
     "author": "Christmas_Missionary",
@@ -279,7 +279,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71633
+  "total_counts": 71634
  },
- "latest_count": 36871631
+ "latest_count": 36871632
 }
