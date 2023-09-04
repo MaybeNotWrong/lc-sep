@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "noduorg",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5222
+  "total_counts": 5223
  },
  "100k": {
   "hoc": [
@@ -129,7 +129,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 125
+    "counts": 126
    },
    {
     "author": "Chalupa_Grandpa",
@@ -252,7 +252,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 85037
+  "total_counts": 85038
  },
- "latest_count": 36885034
+ "latest_count": 36885035
 }
