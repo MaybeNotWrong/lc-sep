@@ -1,13 +1,19 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 41344
+    "counts": 41345
    },
    {
     "author": "naimagawa",
@@ -186,7 +192,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86014
+  "total_counts": 86015
  },
- "latest_count": 36886011
+ "latest_count": 36886012
 }
