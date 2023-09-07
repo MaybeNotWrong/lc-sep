@@ -32,7 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -42,13 +42,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7955
+  "total_counts": 7956
  },
  "100k": {
   "hoc": [
@@ -121,6 +121,10 @@
     "counts": 2
    },
    {
+    "author": "TheMatsValk",
+    "counts": 2
+   },
+   {
     "author": "noduorg",
     "counts": 2
    },
@@ -131,10 +135,6 @@
    {
     "author": "treje",
     "counts": 2
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1
    },
    {
     "author": "abplows",
@@ -165,7 +165,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1052
+  "total_counts": 1053
  },
- "latest_count": 36901052
+ "latest_count": 36901053
 }
