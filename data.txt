@@ -47,13 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "abplows",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "abplows",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7959
+  "total_counts": 7960
  },
  "100k": {
   "hoc": [
@@ -129,16 +129,16 @@
     "counts": 2
    },
    {
+    "author": "abplows",
+    "counts": 2
+   },
+   {
     "author": "noduorg",
     "counts": 2
    },
    {
     "author": "treje",
     "counts": 2
-   },
-   {
-    "author": "abplows",
-    "counts": 1
    },
    {
     "author": "Trial-Name",
@@ -165,7 +165,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1056
+  "total_counts": 1057
  },
- "latest_count": 36901056
+ "latest_count": 36901057
 }
