@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
@@ -47,17 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "abplows",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7966
+  "total_counts": 7967
  },
  "100k": {
   "hoc": [
@@ -125,6 +125,10 @@
     "counts": 3
    },
    {
+    "author": "Multiconcepted",
+    "counts": 3
+   },
+   {
     "author": "artbn",
     "counts": 3
    },
@@ -133,15 +137,11 @@
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 2
-   },
-   {
     "author": "abplows",
     "counts": 2
    },
    {
-    "author": "Multiconcepted",
+    "author": "noduorg",
     "counts": 2
    },
    {
@@ -165,7 +165,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1063
+  "total_counts": 1064
  },
- "latest_count": 36901063
+ "latest_count": 36901064
 }
