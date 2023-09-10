@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -10,19 +20,9 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -48,7 +48,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 23
+    "counts": 24
    },
    {
     "author": "LeinadSpoon",
@@ -131,7 +131,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1347
+  "total_counts": 1348
  },
- "latest_count": 36901312
+ "latest_count": 36901313
 }
