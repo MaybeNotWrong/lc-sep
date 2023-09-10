@@ -2,17 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "Multiconcepted",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -25,15 +25,20 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 589
+    "counts": 590
    },
    {
     "author": "naimagawa",
@@ -49,7 +54,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 31
+    "counts": 32
    },
    {
     "author": "Multiconcepted",
@@ -84,11 +89,11 @@
     "counts": 8
    },
    {
-    "author": "dragonpro9827",
+    "author": "treje",
     "counts": 7
    },
    {
-    "author": "treje",
+    "author": "dragonpro9827",
     "counts": 7
    },
    {
@@ -112,15 +117,15 @@
     "counts": 3
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 3
+   },
+   {
     "author": "MrGally75",
     "counts": 2
    },
    {
     "author": "abplows",
-    "counts": 2
-   },
-   {
-    "author": "Tranquilsunrise",
     "counts": 2
    },
    {
@@ -136,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1351
+  "total_counts": 1354
  },
- "latest_count": 36901316
+ "latest_count": 36901319
 }
