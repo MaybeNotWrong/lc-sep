@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
@@ -77,17 +82,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 90
+  "total_counts": 91
  },
  "100k": {
   "hoc": [
@@ -132,11 +132,11 @@
     "counts": 10
    },
    {
-    "author": "VitaminB16",
-    "counts": 9
+    "author": "SubSmartstocks",
+    "counts": 10
    },
    {
-    "author": "SubSmartstocks",
+    "author": "VitaminB16",
     "counts": 9
    },
    {
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1433
+  "total_counts": 1434
  },
- "latest_count": 36901398
+ "latest_count": 36901399
 }
