@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -27,7 +33,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 38
+    "counts": 39
    },
    {
     "author": "artbn",
@@ -114,7 +120,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1570
+  "total_counts": 1571
  },
- "latest_count": 36901535
+ "latest_count": 36901536
 }
