@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
@@ -37,27 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "rschaosid",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -70,9 +60,19 @@
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 37
+  "total_counts": 38
  },
  "100k": {
   "hoc": [
@@ -102,7 +102,7 @@
    },
    {
     "author": "artbn",
-    "counts": 24
+    "counts": 25
    },
    {
     "author": "LeinadSpoon",
@@ -177,6 +177,10 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
     "author": "kugelblitzka",
     "counts": 1
    },
@@ -187,13 +191,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
    }
   ],
-  "total_counts": 1607
+  "total_counts": 1608
  },
- "latest_count": 36901572
+ "latest_count": 36901573
 }
