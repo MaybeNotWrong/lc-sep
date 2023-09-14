@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -17,7 +22,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 546
+    "counts": 547
    },
    {
     "author": "Lonadont",
@@ -128,7 +133,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1751
+  "total_counts": 1752
  },
- "latest_count": 36901716
+ "latest_count": 36901717
 }
