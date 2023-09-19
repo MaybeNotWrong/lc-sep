@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -32,16 +37,16 @@
     "counts": 63
    },
    {
+    "author": "Multiconcepted",
+    "counts": 62
+   },
+   {
     "author": "artbn",
     "counts": 62
    },
    {
     "author": "LeinadSpoon",
     "counts": 62
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 61
    },
    {
     "author": "ddodd69",
@@ -140,7 +145,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4373
+  "total_counts": 4374
  },
- "latest_count": 36904327
+ "latest_count": 36904328
 }
