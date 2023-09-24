@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -47,7 +53,7 @@
    },
    {
     "author": "treje",
-    "counts": 42
+    "counts": 43
    },
    {
     "author": "noduorg",
@@ -142,7 +148,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17376
+  "total_counts": 17377
  },
- "latest_count": 36917320
+ "latest_count": 36917321
 }
