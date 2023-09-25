@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -39,7 +50,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 82
+    "counts": 83
    },
    {
     "author": "SubSmartstocks",
@@ -47,7 +58,7 @@
    },
    {
     "author": "treje",
-    "counts": 43
+    "counts": 44
    },
    {
     "author": "noduorg",
@@ -146,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17521
+  "total_counts": 17523
  },
- "latest_count": 36917465
+ "latest_count": 36917467
 }
