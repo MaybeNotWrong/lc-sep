@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 108
+    "counts": 109
    },
    {
     "author": "treje",
@@ -86,27 +92,27 @@
     "counts": 28
    },
    {
-    "author": "MrGally75",
-    "counts": 17
-   },
-   {
     "author": "TheLatios381",
     "counts": 17
    },
    {
-    "author": "Christian230102",
-    "counts": 13
+    "author": "MrGally75",
+    "counts": 17
    },
    {
     "author": "FelipePlayz9",
     "counts": 13
    },
    {
-    "author": "Cox_1920",
-    "counts": 11
+    "author": "Christian230102",
+    "counts": 13
    },
    {
     "author": "TheMatsValk",
+    "counts": 11
+   },
+   {
+    "author": "Cox_1920",
     "counts": 11
    },
    {
@@ -114,7 +120,7 @@
     "counts": 8
    },
    {
-    "author": "rideride",
+    "author": "dominodan123",
     "counts": 4
    },
    {
@@ -122,11 +128,11 @@
     "counts": 4
    },
    {
-    "author": "dominodan123",
+    "author": "rideride",
     "counts": 4
    },
    {
-    "author": "vovker1",
+    "author": "Helloim0_0",
     "counts": 3
    },
    {
@@ -134,11 +140,11 @@
     "counts": 3
    },
    {
-    "author": "Helloim0_0",
+    "author": "vovker1",
     "counts": 3
    },
    {
-    "author": "kugelblitzka",
+    "author": "Fortnite_Skin_Leaker",
     "counts": 2
    },
    {
@@ -146,7 +152,7 @@
     "counts": 2
    },
    {
-    "author": "Fortnite_Skin_Leaker",
+    "author": "kugelblitzka",
     "counts": 2
    },
    {
@@ -154,11 +160,7 @@
     "counts": 1
    },
    {
-    "author": "Botw_enjoyer",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
@@ -166,11 +168,15 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "TehVulpez",
+    "counts": 1
+   },
+   {
+    "author": "Botw_enjoyer",
     "counts": 1
    }
   ],
-  "total_counts": 20204
+  "total_counts": 20205
  },
- "latest_count": 36920151
+ "latest_count": 36920152
 }
