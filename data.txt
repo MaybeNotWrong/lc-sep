@@ -13,7 +13,12 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 990,
+    "counts": 1005,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 16,
     "has_wrc_req": false
    },
    {
@@ -52,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12908
+  "total_counts": 12938
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1429
+    "counts": 1444
    },
    {
     "author": "Splash30ah",
@@ -131,12 +131,12 @@
     "counts": 58
    },
    {
-    "author": "VitaminB16",
-    "counts": 40
+    "author": "Trial-Name",
+    "counts": 54
    },
    {
-    "author": "Trial-Name",
-    "counts": 39
+    "author": "VitaminB16",
+    "counts": 40
    },
    {
     "author": "Tranquilsunrise",
@@ -231,7 +231,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36062
+  "total_counts": 36092
  },
- "latest_count": 36936009
+ "latest_count": 36936039
 }
