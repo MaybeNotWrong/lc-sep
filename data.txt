@@ -27,18 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -50,9 +45,14 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 185
+  "total_counts": 186
  },
  "100k": {
   "hoc": [
@@ -109,11 +109,11 @@
     "counts": 119
    },
    {
-    "author": "treje",
-    "counts": 109
+    "author": "cuteballgames",
+    "counts": 110
    },
    {
-    "author": "cuteballgames",
+    "author": "treje",
     "counts": 109
    },
    {
@@ -177,15 +177,15 @@
     "counts": 4
    },
    {
-    "author": "Helloim0_0",
-    "counts": 3
-   },
-   {
     "author": "vovker1",
     "counts": 3
    },
    {
     "author": "buy_me_a_pint",
+    "counts": 3
+   },
+   {
+    "author": "Helloim0_0",
     "counts": 3
    },
    {
@@ -221,7 +221,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49288
+  "total_counts": 49289
  },
- "latest_count": 36949235
+ "latest_count": 36949236
 }
