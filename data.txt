@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 3071,
+    "author": "naimagawa",
+    "counts": 3088,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 3071,
+    "author": "amazingpikachu_38",
+    "counts": 3086,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6161
+  "total_counts": 6196
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 47490
+    "counts": 47505
    },
    {
     "author": "naimagawa",
-    "counts": 43477
+    "counts": 43494
    },
    {
     "author": "LeinadSpoon",
@@ -85,7 +85,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 253
+    "counts": 255
    },
    {
     "author": "artbn",
@@ -105,7 +105,7 @@
    },
    {
     "author": "treje",
-    "counts": 124
+    "counts": 125
    },
    {
     "author": "cuteballgames",
@@ -176,6 +176,10 @@
     "counts": 4
    },
    {
+    "author": "Helloim0_0",
+    "counts": 3
+   },
+   {
     "author": "sakima11",
     "counts": 3
    },
@@ -185,10 +189,6 @@
    },
    {
     "author": "buy_me_a_pint",
-    "counts": 3
-   },
-   {
-    "author": "Helloim0_0",
     "counts": 3
    },
    {
@@ -224,7 +224,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 99030
+  "total_counts": 99065
  },
- "latest_count": 36998976
+ "latest_count": 36999011
 }
