@@ -47,13 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
+    "author": "Trial-Name",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 92
+  "total_counts": 93
  },
  "100k": {
   "hoc": [
@@ -137,10 +137,6 @@
     "counts": 8
    },
    {
-    "author": "Cox_1920",
-    "counts": 6
-   },
-   {
     "author": "Multiconcepted",
     "counts": 6
    },
@@ -149,16 +145,24 @@
     "counts": 6
    },
    {
+    "author": "Cox_1920",
+    "counts": 6
+   },
+   {
     "author": "artbn",
     "counts": 5
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 4
    },
    {
     "author": "treje",
     "counts": 4
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 4
+    "author": "VitaminB16",
+    "counts": 3
    },
    {
     "author": "noduorg",
@@ -169,23 +173,19 @@
     "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 2
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Christmas_Missionary",
     "counts": 1
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "NobodyL0vesMe",
     "counts": 1
    }
   ],
-  "total_counts": 464
+  "total_counts": 465
  },
- "latest_count": 37000463
+ "latest_count": 37000464
 }
