@@ -3,17 +3,22 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10,
+    "counts": 13,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "naimagawa",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -32,13 +37,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 22
+  "total_counts": 31
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 147
+    "counts": 150
    },
    {
     "author": "naimagawa",
@@ -46,7 +51,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 43
+    "counts": 45
    },
    {
     "author": "LeinadSpoon",
@@ -73,15 +78,19 @@
     "counts": 8
    },
    {
-    "author": "Trial-Name",
-    "counts": 6
-   },
-   {
     "author": "Cox_1920",
     "counts": 6
    },
    {
+    "author": "Trial-Name",
+    "counts": 6
+   },
+   {
     "author": "Multiconcepted",
+    "counts": 5
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 5
    },
    {
@@ -109,23 +118,19 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "NobodyL0vesMe",
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "VitaminB16",
     "counts": 1
    },
    {
     "author": "Christmas_Missionary",
     "counts": 1
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1
    }
   ],
-  "total_counts": 394
+  "total_counts": 403
  },
- "latest_count": 37000393
+ "latest_count": 37000402
 }
