@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -15,7 +21,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 40
+    "counts": 41
    },
    {
     "author": "LeinadSpoon",
@@ -42,11 +48,11 @@
     "counts": 8
    },
    {
-    "author": "Cox_1920",
+    "author": "Trial-Name",
     "counts": 6
    },
    {
-    "author": "Trial-Name",
+    "author": "Cox_1920",
     "counts": 6
    },
    {
@@ -54,11 +60,11 @@
     "counts": 5
    },
    {
-    "author": "treje",
+    "author": "MrUnderdawg",
     "counts": 3
    },
    {
-    "author": "MrUnderdawg",
+    "author": "treje",
     "counts": 3
    },
    {
@@ -78,10 +84,6 @@
     "counts": 1
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1
-   },
-   {
     "author": "VitaminB16",
     "counts": 1
    },
@@ -92,9 +94,13 @@
    {
     "author": "Christmas_Missionary",
     "counts": 1
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1
    }
   ],
-  "total_counts": 372
+  "total_counts": 373
  },
- "latest_count": 37000371
+ "latest_count": 37000372
 }
