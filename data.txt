@@ -35,9 +35,14 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 26
  },
  "100k": {
   "hoc": [
@@ -82,6 +87,10 @@
     "counts": 13
    },
    {
+    "author": "Trial-Name",
+    "counts": 10
+   },
+   {
     "author": "artbn",
     "counts": 10
    },
@@ -90,8 +99,8 @@
     "counts": 9
    },
    {
-    "author": "Trial-Name",
-    "counts": 9
+    "author": "treje",
+    "counts": 7
    },
    {
     "author": "noduorg",
@@ -99,10 +108,6 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 7
-   },
-   {
-    "author": "treje",
     "counts": 7
    },
    {
@@ -130,7 +135,11 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
+    "author": "NobodyL0vesMe",
+    "counts": 1
+   },
+   {
+    "author": "Splash30ah",
     "counts": 1
    },
    {
@@ -138,15 +147,11 @@
     "counts": 1
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1
-   },
-   {
-    "author": "Splash30ah",
+    "author": "dominodan123",
     "counts": 1
    }
   ],
-  "total_counts": 2075
+  "total_counts": 2076
  },
- "latest_count": 37002074
+ "latest_count": 37002075
 }
