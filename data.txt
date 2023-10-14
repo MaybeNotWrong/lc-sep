@@ -47,8 +47,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -57,17 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1552
+  "total_counts": 1553
  },
  "100k": {
   "hoc": [
@@ -136,12 +136,12 @@
     "counts": 10
    },
    {
-    "author": "Trial-Name",
+    "author": "Multiconcepted",
     "counts": 9
    },
    {
-    "author": "Multiconcepted",
-    "counts": 8
+    "author": "Trial-Name",
+    "counts": 9
    },
    {
     "author": "treje",
@@ -192,7 +192,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2037
+  "total_counts": 2038
  },
- "latest_count": 37002036
+ "latest_count": 37002037
 }
