@@ -22,11 +22,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
@@ -37,22 +32,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1,
+    "author": "VitaminB16",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 48
+  "total_counts": 49
  },
  "100k": {
   "hoc": [
@@ -117,6 +117,10 @@
     "counts": 9
    },
    {
+    "author": "VitaminB16",
+    "counts": 8
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 8
    },
@@ -126,10 +130,6 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 7
-   },
-   {
-    "author": "VitaminB16",
     "counts": 7
    },
    {
@@ -145,12 +145,16 @@
     "counts": 2
    },
    {
+    "author": "dominodan123",
+    "counts": 2
+   },
+   {
     "author": "TheMatsValk",
     "counts": 2
    },
    {
-    "author": "dominodan123",
-    "counts": 2
+    "author": "vovker1",
+    "counts": 1
    },
    {
     "author": "NobodyL0vesMe",
@@ -159,13 +163,9 @@
    {
     "author": "Splash30ah",
     "counts": 1
-   },
-   {
-    "author": "vovker1",
-    "counts": 1
    }
   ],
-  "total_counts": 2404
+  "total_counts": 2405
  },
- "latest_count": 37002403
+ "latest_count": 37002404
 }
