@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 6,
     "has_wrc_req": false
@@ -37,28 +42,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "guynamedkarl0923",
     "counts": 4,
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "KalockSwig",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,9 +70,14 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 10065
+  "total_counts": 10067
  },
  "100k": {
   "hoc": [
@@ -91,7 +91,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 636
+    "counts": 637
    },
    {
     "author": "KalockSwig",
@@ -111,7 +111,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 81
+    "counts": 82
    },
    {
     "author": "ddodd69",
@@ -130,19 +130,19 @@
     "counts": 17
    },
    {
-    "author": "Trial-Name",
-    "counts": 13
-   },
-   {
     "author": "noduorg",
     "counts": 13
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 12
+    "author": "Trial-Name",
+    "counts": 13
    },
    {
     "author": "Tranquilsunrise",
+    "counts": 12
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 12
    },
    {
@@ -150,11 +150,11 @@
     "counts": 10
    },
    {
-    "author": "Cox_1920",
+    "author": "VitaminB16",
     "counts": 9
    },
    {
-    "author": "VitaminB16",
+    "author": "Cox_1920",
     "counts": 9
    },
    {
@@ -174,7 +174,7 @@
     "counts": 3
    },
    {
-    "author": "dominodan123",
+    "author": "andrew_wayne12",
     "counts": 2
    },
    {
@@ -182,16 +182,8 @@
     "counts": 2
    },
    {
-    "author": "andrew_wayne12",
+    "author": "dominodan123",
     "counts": 2
-   },
-   {
-    "author": "Antichess",
-    "counts": 1
-   },
-   {
-    "author": "OscarTheChocolateBoi",
-    "counts": 1
    },
    {
     "author": "NobodyL0vesMe",
@@ -200,9 +192,17 @@
    {
     "author": "Splash30ah",
     "counts": 1
+   },
+   {
+    "author": "OscarTheChocolateBoi",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
+    "counts": 1
    }
   ],
-  "total_counts": 14080
+  "total_counts": 14082
  },
- "latest_count": 37014079
+ "latest_count": 37014081
 }
