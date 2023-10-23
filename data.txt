@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5233,
+    "counts": 5235,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1482,
+    "counts": 1483,
     "has_wrc_req": false
    },
    {
@@ -52,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -67,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "PrinterPrintingPaper",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "PrinterPrintingPaper",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,15 +75,20 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 10901
+  "total_counts": 10904
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 17052
+    "counts": 17054
    },
    {
     "author": "naimagawa",
@@ -96,7 +96,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3370
+    "counts": 3371
    },
    {
     "author": "noduorg",
@@ -167,11 +167,11 @@
     "counts": 9
    },
    {
-    "author": "dragonpro9827",
+    "author": "vovker1",
     "counts": 6
    },
    {
-    "author": "vovker1",
+    "author": "dragonpro9827",
     "counts": 6
    },
    {
@@ -179,15 +179,15 @@
     "counts": 4
    },
    {
-    "author": "trebvv",
-    "counts": 3
-   },
-   {
     "author": "TheMatsValk",
     "counts": 3
    },
    {
-    "author": "dominodan123",
+    "author": "trebvv",
+    "counts": 3
+   },
+   {
+    "author": "Splash30ah",
     "counts": 2
    },
    {
@@ -195,19 +195,11 @@
     "counts": 2
    },
    {
-    "author": "Splash30ah",
+    "author": "dominodan123",
     "counts": 2
    },
    {
-    "author": "Antichess",
-    "counts": 1
-   },
-   {
-    "author": "PrinterPrintingPaper",
-    "counts": 1
-   },
-   {
-    "author": "LeinadMachete",
+    "author": "NobodyL0vesMe",
     "counts": 1
    },
    {
@@ -219,11 +211,19 @@
     "counts": 1
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "LeinadMachete",
+    "counts": 1
+   },
+   {
+    "author": "PrinterPrintingPaper",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    }
   ],
-  "total_counts": 40024
+  "total_counts": 40027
  },
- "latest_count": 37040023
+ "latest_count": 37040026
 }
