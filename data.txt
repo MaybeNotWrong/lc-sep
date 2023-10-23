@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 3981,
+    "has_wrc_req": true
+   },
+   {
     "author": "naimagawa",
     "counts": 3940,
     "has_wrc_req": true
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 3937,
-    "has_wrc_req": true
+    "author": "LeinadSpoon",
+    "counts": 223,
+    "has_wrc_req": false
    },
    {
     "author": "KalockSwig",
     "counts": 193,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 179,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8289
+  "total_counts": 8377
  },
  "100k": {
   "hoc": [
@@ -87,7 +87,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 15756
+    "counts": 15800
    },
    {
     "author": "noduorg",
@@ -95,7 +95,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 2067
+    "counts": 2111
    },
    {
     "author": "KalockSwig",
@@ -162,11 +162,11 @@
     "counts": 9
    },
    {
-    "author": "vovker1",
+    "author": "dragonpro9827",
     "counts": 6
    },
    {
-    "author": "dragonpro9827",
+    "author": "vovker1",
     "counts": 6
    },
    {
@@ -174,15 +174,15 @@
     "counts": 4
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3
-   },
-   {
     "author": "trebvv",
     "counts": 3
    },
    {
-    "author": "Splash30ah",
+    "author": "TheMatsValk",
+    "counts": 3
+   },
+   {
+    "author": "dominodan123",
     "counts": 2
    },
    {
@@ -190,19 +190,11 @@
     "counts": 2
    },
    {
-    "author": "dominodan123",
+    "author": "Splash30ah",
     "counts": 2
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1
-   },
-   {
-    "author": "OscarTheChocolateBoi",
-    "counts": 1
-   },
-   {
-    "author": "FelipePlayz9",
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -210,11 +202,19 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "FelipePlayz9",
+    "counts": 1
+   },
+   {
+    "author": "OscarTheChocolateBoi",
+    "counts": 1
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1
    }
   ],
-  "total_counts": 37412
+  "total_counts": 37500
  },
- "latest_count": 37037411
+ "latest_count": 37037499
 }
