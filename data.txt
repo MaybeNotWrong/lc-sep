@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
@@ -87,17 +92,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3968
+  "total_counts": 3969
  },
  "100k": {
   "hoc": [
@@ -163,7 +163,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 24
+    "counts": 25
    },
    {
     "author": "Trial-Name",
@@ -242,7 +242,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44026
+  "total_counts": 44027
  },
- "latest_count": 37044025
+ "latest_count": 37044026
 }
