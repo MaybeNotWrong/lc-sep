@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 10,
+    "author": "KalockSwig",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
-    "counts": 9,
+    "author": "Lonadont",
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 45
+  "total_counts": 48
  },
  "100k": {
   "hoc": [
@@ -98,11 +98,11 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 430
+    "counts": 432
    },
    {
     "author": "Lonadont",
-    "counts": 278
+    "counts": 279
    },
    {
     "author": "MrUnderdawg",
@@ -161,11 +161,11 @@
     "counts": 11
    },
    {
-    "author": "dragonpro9827",
+    "author": "vovker1",
     "counts": 6
    },
    {
-    "author": "vovker1",
+    "author": "dragonpro9827",
     "counts": 6
    },
    {
@@ -177,7 +177,7 @@
     "counts": 4
    },
    {
-    "author": "trebvv",
+    "author": "TheMatsValk",
     "counts": 3
    },
    {
@@ -185,7 +185,7 @@
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
+    "author": "trebvv",
     "counts": 3
    },
    {
@@ -193,27 +193,7 @@
     "counts": 2
    },
    {
-    "author": "Sotp_Sign",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
-    "counts": 1
-   },
-   {
-    "author": "PrinterPrintingPaper",
-    "counts": 1
-   },
-   {
-    "author": "LeinadMachete",
-    "counts": 1
-   },
-   {
-    "author": "Fortnite_Skin_Leaker",
-    "counts": 1
-   },
-   {
-    "author": "OscarTheChocolateBoi",
+    "author": "NobodyL0vesMe",
     "counts": 1
    },
    {
@@ -221,11 +201,31 @@
     "counts": 1
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "OscarTheChocolateBoi",
+    "counts": 1
+   },
+   {
+    "author": "Fortnite_Skin_Leaker",
+    "counts": 1
+   },
+   {
+    "author": "LeinadMachete",
+    "counts": 1
+   },
+   {
+    "author": "PrinterPrintingPaper",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
+    "counts": 1
+   },
+   {
+    "author": "Sotp_Sign",
     "counts": 1
    }
   ],
-  "total_counts": 50070
+  "total_counts": 50073
  },
- "latest_count": 37050069
+ "latest_count": 37050072
 }
