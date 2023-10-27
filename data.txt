@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -15,14 +20,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -32,7 +32,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 18874
+    "counts": 18875
    },
    {
     "author": "LeinadSpoon",
@@ -179,7 +179,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50166
+  "total_counts": 50167
  },
- "latest_count": 37050165
+ "latest_count": 37050166
 }
