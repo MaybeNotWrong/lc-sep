@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 3751,
-    "has_wrc_req": false
-   },
-   {
     "author": "naimagawa",
-    "counts": 3750,
+    "counts": 3959,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
+    "author": "amazingpikachu_38",
+    "counts": 3959,
     "has_wrc_req": false
    },
    {
@@ -25,19 +20,24 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 7504
+  "total_counts": 7921
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 25741
+    "counts": 25949
    },
    {
     "author": "naimagawa",
-    "counts": 22622
+    "counts": 22831
    },
    {
     "author": "LeinadSpoon",
@@ -116,15 +116,15 @@
     "counts": 11
    },
    {
-    "author": "dragonpro9827",
-    "counts": 6
-   },
-   {
     "author": "vovker1",
     "counts": 6
    },
    {
-    "author": "TheMatsValk",
+    "author": "dragonpro9827",
+    "counts": 6
+   },
+   {
+    "author": "guynamedkarl0923",
     "counts": 4
    },
    {
@@ -132,47 +132,27 @@
     "counts": 4
    },
    {
-    "author": "guynamedkarl0923",
+    "author": "TheMatsValk",
     "counts": 4
-   },
-   {
-    "author": "trebvv",
-    "counts": 3
    },
    {
     "author": "dominodan123",
     "counts": 3
    },
    {
-    "author": "Antichess",
-    "counts": 2
+    "author": "trebvv",
+    "counts": 3
    },
    {
     "author": "andrew_wayne12",
     "counts": 2
    },
    {
-    "author": "Sotp_Sign",
-    "counts": 1
+    "author": "Antichess",
+    "counts": 2
    },
    {
-    "author": "FelipePlayz8",
-    "counts": 1
-   },
-   {
-    "author": "PrinterPrintingPaper",
-    "counts": 1
-   },
-   {
-    "author": "LeinadMachete",
-    "counts": 1
-   },
-   {
-    "author": "Fortnite_Skin_Leaker",
-    "counts": 1
-   },
-   {
-    "author": "OscarTheChocolateBoi",
+    "author": "NobodyL0vesMe",
     "counts": 1
    },
    {
@@ -180,11 +160,31 @@
     "counts": 1
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "OscarTheChocolateBoi",
+    "counts": 1
+   },
+   {
+    "author": "Fortnite_Skin_Leaker",
+    "counts": 1
+   },
+   {
+    "author": "LeinadMachete",
+    "counts": 1
+   },
+   {
+    "author": "PrinterPrintingPaper",
+    "counts": 1
+   },
+   {
+    "author": "FelipePlayz8",
+    "counts": 1
+   },
+   {
+    "author": "Sotp_Sign",
     "counts": 1
    }
   ],
-  "total_counts": 57665
+  "total_counts": 58082
  },
- "latest_count": 37057663
+ "latest_count": 37058080
 }
