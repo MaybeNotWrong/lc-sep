@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -39,7 +45,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 257
+    "counts": 258
    },
    {
     "author": "MrUnderdawg",
@@ -51,7 +57,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 205
+    "counts": 206
    },
    {
     "author": "artbn",
@@ -170,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 83563
+  "total_counts": 83565
  },
- "latest_count": 37083550
+ "latest_count": 37083551
 }
