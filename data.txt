@@ -18,6 +18,11 @@
    },
    {
     "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -30,20 +35,19 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 9727
+  "total_counts": 9729
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
     "counts": 4
+   },
+   {
+    "author": "Lonadont",
+    "counts": 2
    },
    {
     "author": "noduorg",
@@ -58,11 +62,11 @@
     "counts": 1
    },
    {
-    "author": "Lonadont",
+    "author": "davidjl123",
     "counts": 1
    }
   ],
-  "total_counts": 8
+  "total_counts": 10
  },
- "latest_count": 37100008
+ "latest_count": 37100010
 }
