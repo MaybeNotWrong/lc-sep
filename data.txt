@@ -28,7 +28,7 @@
    },
    {
     "author": "abplows",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -42,11 +42,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -57,12 +52,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9759
+  "total_counts": 9760
  },
  "100k": {
   "hoc": [
@@ -80,7 +80,7 @@
    },
    {
     "author": "abplows",
-    "counts": 3
+    "counts": 4
    },
    {
     "author": "Chalupa_Grandpa",
@@ -91,10 +91,6 @@
     "counts": 2
    },
    {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
     "author": "noduorg",
     "counts": 1
    },
@@ -103,15 +99,19 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "artbn",
     "counts": 1
    },
    {
     "author": "naimagawa",
     "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
    }
   ],
-  "total_counts": 40
+  "total_counts": 41
  },
- "latest_count": 37100040
+ "latest_count": 37100041
 }
