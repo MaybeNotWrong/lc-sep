@@ -23,7 +23,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 21,
+    "counts": 22,
     "has_wrc_req": false
    },
    {
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -52,13 +52,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Chalupa_Grandpa",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -70,9 +65,14 @@
     "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 11740
+  "total_counts": 11741
  },
  "100k": {
   "hoc": [
@@ -90,7 +90,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 21
+    "counts": 22
    },
    {
     "author": "davidjl123",
@@ -101,7 +101,7 @@
     "counts": 4
    },
    {
-    "author": "treje",
+    "author": "Chalupa_Grandpa",
     "counts": 2
    },
    {
@@ -117,8 +117,12 @@
     "counts": 2
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 2
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
    },
    {
     "author": "noduorg",
@@ -127,13 +131,9 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1
    }
   ],
-  "total_counts": 2021
+  "total_counts": 2022
  },
- "latest_count": 37102021
+ "latest_count": 37102022
 }
