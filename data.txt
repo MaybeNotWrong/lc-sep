@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 31,
+    "counts": 32,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "artbn",
-    "counts": 7,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "PaleRepresentative",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -70,20 +75,15 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 98
+  "total_counts": 100
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1024
+    "counts": 1025
    },
    {
     "author": "LeinadSpoon",
@@ -102,12 +102,12 @@
     "counts": 38
    },
    {
-    "author": "davidjl123",
+    "author": "artbn",
     "counts": 14
    },
    {
-    "author": "artbn",
-    "counts": 13
+    "author": "davidjl123",
+    "counts": 14
    },
    {
     "author": "naimagawa",
@@ -122,11 +122,11 @@
     "counts": 7
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 6
    },
    {
-    "author": "treje",
+    "author": "Chalupa_Grandpa",
     "counts": 6
    },
    {
@@ -142,19 +142,19 @@
     "counts": 3
    },
    {
-    "author": "VitaminB16",
-    "counts": 2
-   },
-   {
     "author": "noduorg",
     "counts": 2
    },
    {
     "author": "Multiconcepted",
     "counts": 2
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 2
    }
   ],
-  "total_counts": 2189
+  "total_counts": 2191
  },
- "latest_count": 37102186
+ "latest_count": 37102188
 }
