@@ -3,17 +3,22 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1,
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 2,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 7895
+    "counts": 7896
    },
    {
     "author": "naimagawa",
@@ -36,12 +41,12 @@
     "counts": 68
    },
    {
-    "author": "davidjl123",
-    "counts": 53
+    "author": "artbn",
+    "counts": 54
    },
    {
-    "author": "artbn",
-    "counts": 52
+    "author": "davidjl123",
+    "counts": 53
    },
    {
     "author": "Chalupa_Grandpa",
@@ -116,7 +121,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16215
+  "total_counts": 16218
  },
- "latest_count": 37116090
+ "latest_count": 37116093
 }
