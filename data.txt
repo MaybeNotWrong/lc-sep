@@ -40,9 +40,14 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 103
+  "total_counts": 104
  },
  "100k": {
   "hoc": [
@@ -60,7 +65,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 148
+    "counts": 149
    },
    {
     "author": "artbn",
@@ -107,20 +112,16 @@
     "counts": 17
    },
    {
-    "author": "PaleRepresentative",
+    "author": "VitaminB16",
     "counts": 13
    },
    {
-    "author": "VitaminB16",
+    "author": "PaleRepresentative",
     "counts": 13
    },
    {
     "author": "Trial-Name",
     "counts": 10
-   },
-   {
-    "author": "KalockSwig",
-    "counts": 8
    },
    {
     "author": "Tranquilsunrise",
@@ -131,15 +132,15 @@
     "counts": 8
    },
    {
+    "author": "KalockSwig",
+    "counts": 8
+   },
+   {
     "author": "Cox_1920",
     "counts": 7
    },
    {
-    "author": "dominodan123",
-    "counts": 2
-   },
-   {
-    "author": "TheMatsValk",
+    "author": "FelipePlayz9",
     "counts": 2
    },
    {
@@ -147,11 +148,15 @@
     "counts": 2
    },
    {
-    "author": "FelipePlayz9",
+    "author": "TheMatsValk",
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "dominodan123",
+    "counts": 2
+   },
+   {
+    "author": "vovker1",
     "counts": 1
    },
    {
@@ -159,11 +164,11 @@
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "Antichess",
     "counts": 1
    }
   ],
-  "total_counts": 34644
+  "total_counts": 34645
  },
- "latest_count": 37134517
+ "latest_count": 37134518
 }
