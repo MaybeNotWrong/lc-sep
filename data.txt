@@ -23,7 +23,17 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -32,8 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
+    "author": "VitaminB16",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,22 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 120
+  "total_counts": 122
  },
  "100k": {
   "hoc": [
@@ -91,11 +91,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 2040
+    "counts": 2041
    },
    {
     "author": "Lonadont",
-    "counts": 152
+    "counts": 153
    },
    {
     "author": "artbn",
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34661
+  "total_counts": 34663
  },
- "latest_count": 37134534
+ "latest_count": 37134536
 }
