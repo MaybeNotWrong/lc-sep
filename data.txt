@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 17,
+    "counts": 117,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 109,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 13,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -47,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
@@ -65,15 +60,20 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 70
+  "total_counts": 269
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 35351
+    "counts": 35451
    },
    {
     "author": "naimagawa",
@@ -81,7 +81,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 2096
+    "counts": 2195
    },
    {
     "author": "Lonadont",
@@ -176,11 +176,11 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "piyushsharma301",
     "counts": 2
    },
    {
-    "author": "piyushsharma301",
+    "author": "Antichess",
     "counts": 2
    },
    {
@@ -200,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71525
+  "total_counts": 71724
  },
- "latest_count": 37171386
+ "latest_count": 37171585
 }
