@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -22,18 +27,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -45,9 +40,14 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 24
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
@@ -61,7 +61,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 2087
+    "counts": 2088
    },
    {
     "author": "Lonadont",
@@ -144,15 +144,11 @@
     "counts": 5
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 2
-   },
-   {
     "author": "dominodan123",
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "FelipePlayz9",
     "counts": 2
    },
    {
@@ -160,11 +156,11 @@
     "counts": 2
    },
    {
-    "author": "alienth",
-    "counts": 1
+    "author": "Antichess",
+    "counts": 2
    },
    {
-    "author": "dragonpro9827",
+    "author": "alienth",
     "counts": 1
    },
    {
@@ -172,15 +168,19 @@
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "dragonpro9827",
     "counts": 1
    },
    {
     "author": "Christian230102",
     "counts": 1
+   },
+   {
+    "author": "vovker1",
+    "counts": 1
    }
   ],
-  "total_counts": 71481
+  "total_counts": 71482
  },
- "latest_count": 37171342
+ "latest_count": 37171343
 }
