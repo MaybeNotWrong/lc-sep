@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -27,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 9
  },
  "100k": {
   "hoc": [
@@ -79,7 +79,7 @@
    },
    {
     "author": "treje",
-    "counts": 52
+    "counts": 53
    },
    {
     "author": "SubSmartstocks",
@@ -98,11 +98,11 @@
     "counts": 31
    },
    {
-    "author": "Multiconcepted",
+    "author": "noduorg",
     "counts": 26
    },
    {
-    "author": "noduorg",
+    "author": "Multiconcepted",
     "counts": 26
    },
    {
@@ -146,11 +146,11 @@
     "counts": 2
    },
    {
-    "author": "piyushsharma301",
+    "author": "Antichess",
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "piyushsharma301",
     "counts": 2
    },
    {
@@ -170,7 +170,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73210
+  "total_counts": 73211
  },
- "latest_count": 37173069
+ "latest_count": 37173070
 }
