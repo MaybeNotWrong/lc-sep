@@ -28,7 +28,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 7,
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -47,22 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 210
+  "total_counts": 211
  },
  "100k": {
   "hoc": [
@@ -116,7 +116,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 31
+    "counts": 32
    },
    {
     "author": "SubSmartstocks",
@@ -175,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30225
+  "total_counts": 30226
  },
- "latest_count": 37230225
+ "latest_count": 37230226
 }
