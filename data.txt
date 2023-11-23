@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -35,18 +46,18 @@
    },
    {
     "author": "davidjl123",
-    "counts": 44
+    "counts": 45
    },
    {
     "author": "SubSmartstocks",
     "counts": 28
    },
    {
-    "author": "cuteballgames",
+    "author": "artbn",
     "counts": 17
    },
    {
-    "author": "artbn",
+    "author": "cuteballgames",
     "counts": 17
    },
    {
@@ -55,18 +66,18 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 8
+    "counts": 9
    },
    {
     "author": "Christmas_Missionary",
     "counts": 7
    },
    {
-    "author": "VitaminB16",
+    "author": "Cox_1920",
     "counts": 6
    },
    {
-    "author": "Cox_1920",
+    "author": "VitaminB16",
     "counts": 6
    },
    {
@@ -98,7 +109,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39089
+  "total_counts": 39091
  },
- "latest_count": 37239089
+ "latest_count": 37239091
 }
