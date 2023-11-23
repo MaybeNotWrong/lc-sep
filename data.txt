@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -67,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1047
+  "total_counts": 1048
  },
  "100k": {
   "hoc": [
@@ -133,11 +133,15 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 15
+    "counts": 16
    },
    {
     "author": "treje",
     "counts": 14
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 6
    },
    {
     "author": "Multiconcepted",
@@ -145,10 +149,6 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 6
-   },
-   {
-    "author": "VitaminB16",
     "counts": 6
    },
    {
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39057
+  "total_counts": 39058
  },
- "latest_count": 37239057
+ "latest_count": 37239058
 }
