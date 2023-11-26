@@ -1,13 +1,19 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 22451
+    "counts": 22452
    },
    {
     "author": "naimagawa",
@@ -50,11 +56,11 @@
     "counts": 36
    },
    {
-    "author": "treje",
+    "author": "cuteballgames",
     "counts": 30
    },
    {
-    "author": "cuteballgames",
+    "author": "treje",
     "counts": 30
    },
    {
@@ -102,7 +108,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47331
+  "total_counts": 47332
  },
- "latest_count": 37247300
+ "latest_count": 37247301
 }
