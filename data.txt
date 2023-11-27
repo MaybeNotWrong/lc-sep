@@ -42,17 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,12 +77,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 218
+  "total_counts": 219
  },
  "100k": {
   "hoc": [
@@ -151,19 +156,19 @@
     "counts": 11
    },
    {
+    "author": "Cox_1920",
+    "counts": 9
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 9
    },
    {
-    "author": "VitaminB16",
-    "counts": 8
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 8
-   },
-   {
     "author": "Trial-Name",
+    "counts": 8
+   },
+   {
+    "author": "VitaminB16",
     "counts": 8
    },
    {
@@ -191,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52339
+  "total_counts": 52340
  },
- "latest_count": 37252305
+ "latest_count": 37252306
 }
