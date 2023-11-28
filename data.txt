@@ -3,7 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -12,23 +22,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24910
+    "counts": 24912
    },
    {
     "author": "naimagawa",
@@ -60,7 +65,7 @@
    },
    {
     "author": "artbn",
-    "counts": 47
+    "counts": 48
    },
    {
     "author": "SubSmartstocks",
@@ -84,7 +89,7 @@
    },
    {
     "author": "MrUnderdawg",
-    "counts": 12
+    "counts": 14
    },
    {
     "author": "Christmas_Missionary",
@@ -131,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52359
+  "total_counts": 52364
  },
- "latest_count": 37252325
+ "latest_count": 37252330
 }
