@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -31,7 +42,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 129
+    "counts": 130
    },
    {
     "author": "PaleRepresentative",
@@ -59,7 +70,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 19
+    "counts": 20
    },
    {
     "author": "Christmas_Missionary",
@@ -122,7 +133,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70139
+  "total_counts": 70141
  },
- "latest_count": 37270102
+ "latest_count": 37270104
 }
