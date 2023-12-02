@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
@@ -12,13 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "naimagawa",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -32,11 +32,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
@@ -45,9 +40,14 @@
     "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 14
  },
  "100k": {
   "hoc": [
@@ -57,7 +57,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 32865
+    "counts": 32866
    },
    {
     "author": "noduorg",
@@ -77,7 +77,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 131
+    "counts": 132
    },
    {
     "author": "PaleRepresentative",
@@ -168,7 +168,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70150
+  "total_counts": 70152
  },
- "latest_count": 37270113
+ "latest_count": 37270115
 }
