@@ -18,7 +18,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 5,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -32,8 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
+    "author": "MrUnderdawg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -47,22 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 56
+  "total_counts": 57
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 47
+    "counts": 48
    },
    {
     "author": "LeinadSpoon",
@@ -163,7 +163,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12090
+  "total_counts": 12091
  },
- "latest_count": 37312090
+ "latest_count": 37312091
 }
