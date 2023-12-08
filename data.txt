@@ -1,17 +1,28 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 25,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 24,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 49
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6602
+    "counts": 6627
    },
    {
     "author": "naimagawa",
-    "counts": 2989
+    "counts": 3013
    },
    {
     "author": "Lonadont",
@@ -106,7 +117,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14056
+  "total_counts": 14105
  },
- "latest_count": 37314056
+ "latest_count": 37314105
 }
