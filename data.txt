@@ -47,12 +47,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 22
+  "total_counts": 23
  },
  "100k": {
   "hoc": [
@@ -74,7 +79,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 767
+    "counts": 768
    },
    {
     "author": "Chalupa_Grandpa",
@@ -161,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24391
+  "total_counts": 24392
  },
- "latest_count": 37324391
+ "latest_count": 37324392
 }
