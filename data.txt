@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 49,
+    "counts": 124,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 71,
     "has_wrc_req": false
    },
    {
     "author": "treje",
-    "counts": 30,
+    "counts": 32,
     "has_wrc_req": false
    },
    {
@@ -57,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -68,11 +78,6 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,13 +97,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 162
+  "total_counts": 311
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 11731
+    "counts": 11806
    },
    {
     "author": "naimagawa",
@@ -126,7 +131,11 @@
    },
    {
     "author": "treje",
-    "counts": 83
+    "counts": 85
+   },
+   {
+    "author": "vovker1",
+    "counts": 74
    },
    {
     "author": "davidjl123",
@@ -138,7 +147,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 25
+    "counts": 27
    },
    {
     "author": "artbn",
@@ -181,10 +190,6 @@
     "counts": 5
    },
    {
-    "author": "vovker1",
-    "counts": 4
-   },
-   {
     "author": "dragonpro9827",
     "counts": 3
    },
@@ -197,15 +202,15 @@
     "counts": 1
    },
    {
-    "author": "andrew_wayne12",
+    "author": "TheMatsValk",
     "counts": 1
    },
    {
-    "author": "TheMatsValk",
+    "author": "andrew_wayne12",
     "counts": 1
    }
   ],
-  "total_counts": 24531
+  "total_counts": 24680
  },
- "latest_count": 37324531
+ "latest_count": 37324680
 }
