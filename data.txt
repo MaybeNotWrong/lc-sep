@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3030,
+    "counts": 3057,
     "has_wrc_req": true
    },
    {
@@ -23,7 +23,12 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 103,
+    "counts": 104,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 27,
     "has_wrc_req": false
    },
    {
@@ -42,12 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,25 +70,15 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6085
+  "total_counts": 6139
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 15021
+    "counts": 15048
    },
    {
     "author": "naimagawa",
@@ -94,7 +94,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 1432
+    "counts": 1458
    },
    {
     "author": "Trial-Name",
@@ -106,7 +106,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 285
+    "counts": 286
    },
    {
     "author": "treje",
@@ -149,11 +149,11 @@
     "counts": 13
    },
    {
-    "author": "PaleRepresentative",
+    "author": "Multiconcepted",
     "counts": 13
    },
    {
-    "author": "Multiconcepted",
+    "author": "PaleRepresentative",
     "counts": 13
    },
    {
@@ -193,7 +193,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31246
+  "total_counts": 31300
  },
- "latest_count": 37331245
+ "latest_count": 37331299
 }
