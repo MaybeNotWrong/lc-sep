@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 21876
+    "counts": 21877
    },
    {
     "author": "naimagawa",
@@ -71,7 +82,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 25
+    "counts": 26
    },
    {
     "author": "Cox_1920",
@@ -126,7 +137,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47203
+  "total_counts": 47205
  },
- "latest_count": 37347196
+ "latest_count": 37347198
 }
