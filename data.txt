@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
@@ -25,14 +30,9 @@
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -46,7 +46,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 5367
+    "counts": 5368
    },
    {
     "author": "LeinadSpoon",
@@ -157,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47215
+  "total_counts": 47216
  },
- "latest_count": 37347208
+ "latest_count": 37347209
 }
