@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -35,14 +40,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 46
+  "total_counts": 47
  },
  "100k": {
   "hoc": [
@@ -80,7 +80,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 191
+    "counts": 192
    },
    {
     "author": "SubSmartstocks",
@@ -167,7 +167,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48100
+  "total_counts": 48101
  },
- "latest_count": 37348093
+ "latest_count": 37348094
 }
