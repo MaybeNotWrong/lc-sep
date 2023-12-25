@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 25,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 24,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 24,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -22,7 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "davidjl123",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -32,7 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -42,13 +42,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
+    "author": "Trial-Name",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -60,20 +65,15 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 74
+  "total_counts": 75
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 22294
+    "counts": 22295
    },
    {
     "author": "naimagawa",
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48128
+  "total_counts": 48129
  },
- "latest_count": 37348121
+ "latest_count": 37348122
 }
