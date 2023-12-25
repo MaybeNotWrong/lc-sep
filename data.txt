@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -42,17 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +60,14 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 71
+  "total_counts": 72
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 2326
+    "counts": 2327
    },
    {
     "author": "Chalupa_Chad",
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48125
+  "total_counts": 48126
  },
- "latest_count": 37348118
+ "latest_count": 37348119
 }
