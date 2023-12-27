@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 1296,
+    "counts": 1297,
     "has_wrc_req": false
    },
    {
@@ -22,17 +22,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
+    "author": "davidjl123",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -42,12 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2616
+  "total_counts": 2618
  },
  "100k": {
   "hoc": [
@@ -57,11 +62,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 9755
+    "counts": 9756
    },
    {
     "author": "Lonadont",
-    "counts": 7128
+    "counts": 7129
    },
    {
     "author": "LeinadSpoon",
@@ -176,7 +181,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 51020
+  "total_counts": 51022
  },
- "latest_count": 37351013
+ "latest_count": 37351015
 }
