@@ -2,17 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "treje",
-    "counts": 1,
+    "author": "naimagawa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -22,7 +22,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 10234
+    "counts": 10235
    },
    {
     "author": "Lonadont",
@@ -65,11 +65,11 @@
     "counts": 168
    },
    {
-    "author": "artbn",
+    "author": "vovker1",
     "counts": 75
    },
    {
-    "author": "vovker1",
+    "author": "artbn",
     "counts": 75
    },
    {
@@ -141,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52019
+  "total_counts": 52020
  },
- "latest_count": 37352012
+ "latest_count": 37352013
 }
