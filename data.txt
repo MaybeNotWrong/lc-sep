@@ -2,23 +2,28 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24430
+    "counts": 24431
    },
    {
     "author": "naimagawa",
@@ -42,7 +47,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1867
+    "counts": 1868
    },
    {
     "author": "Trial-Name",
@@ -149,7 +154,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56073
+  "total_counts": 56075
  },
- "latest_count": 37356066
+ "latest_count": 37356068
 }
