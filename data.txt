@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 459,
+    "counts": 460,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
-    "counts": 452,
+    "counts": 453,
     "has_wrc_req": false
    },
    {
@@ -32,12 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -47,12 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 941
+  "total_counts": 943
  },
  "100k": {
   "hoc": [
@@ -66,11 +66,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 7611
+    "counts": 7612
    },
    {
     "author": "LeinadSpoon",
-    "counts": 4132
+    "counts": 4133
    },
    {
     "author": "noduorg",
@@ -189,7 +189,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 57012
+  "total_counts": 57014
  },
- "latest_count": 37357005
+ "latest_count": 37357007
 }
