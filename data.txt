@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 14,
+    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
@@ -27,17 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,8 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 1,
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -60,9 +55,14 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 48
+  "total_counts": 49
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 7649
+    "counts": 7650
    },
    {
     "author": "LeinadSpoon",
@@ -199,7 +199,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58343
+  "total_counts": 58344
  },
- "latest_count": 37358336
+ "latest_count": 37358337
 }
