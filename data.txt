@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 24,
+    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -47,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
@@ -70,9 +65,14 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 73
+  "total_counts": 74
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 7659
+    "counts": 7660
    },
    {
     "author": "LeinadSpoon",
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58368
+  "total_counts": 58369
  },
- "latest_count": 37358361
+ "latest_count": 37358362
 }
