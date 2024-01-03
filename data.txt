@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -38,7 +43,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 2469
+    "counts": 2470
    },
    {
     "author": "Chalupa_Chad",
@@ -157,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65041
+  "total_counts": 65042
  },
- "latest_count": 37365034
+ "latest_count": 37365035
 }
