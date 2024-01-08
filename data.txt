@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 4728,
+    "counts": 4929,
     "has_wrc_req": true
    },
    {
@@ -13,12 +13,17 @@
    },
    {
     "author": "noduorg",
-    "counts": 740,
+    "counts": 940,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -30,20 +35,15 @@
     "author": "Lonadont",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 2,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 9474
+  "total_counts": 9875
  },
  "100k": {
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 7726
+    "counts": 7927
    },
    {
     "author": "amazingpikachu_38",
@@ -51,7 +51,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 1241
+    "counts": 1441
    },
    {
     "author": "Chalupa_Grandpa",
@@ -66,6 +66,10 @@
     "counts": 3
    },
    {
+    "author": "Cox_1920",
+    "counts": 2
+   },
+   {
     "author": "treje",
     "counts": 2
    },
@@ -74,19 +78,15 @@
     "counts": 2
    },
    {
-    "author": "Cox_1920",
-    "counts": 2
+    "author": "Multiconcepted",
+    "counts": 1
    },
    {
     "author": "Christmas_Missionary",
     "counts": 1
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1
    }
   ],
-  "total_counts": 15498
+  "total_counts": 15899
  },
- "latest_count": 37415497
+ "latest_count": 37415898
 }
