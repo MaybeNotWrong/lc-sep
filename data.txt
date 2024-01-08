@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 5426,
+    "counts": 5481,
     "has_wrc_req": true
    },
    {
@@ -13,12 +13,17 @@
    },
    {
     "author": "noduorg",
-    "counts": 1438,
+    "counts": 1492,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 10,
+    "counts": 13,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -30,20 +35,15 @@
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 10870
+  "total_counts": 10982
  },
  "100k": {
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 8424
+    "counts": 8479
    },
    {
     "author": "amazingpikachu_38",
@@ -51,11 +51,11 @@
    },
    {
     "author": "noduorg",
-    "counts": 1939
+    "counts": 1993
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 18
+    "counts": 21
    },
    {
     "author": "davidjl123",
@@ -66,15 +66,15 @@
     "counts": 3
    },
    {
-    "author": "Lonadont",
-    "counts": 2
-   },
-   {
     "author": "Cox_1920",
     "counts": 2
    },
    {
     "author": "treje",
+    "counts": 2
+   },
+   {
+    "author": "Lonadont",
     "counts": 2
    },
    {
@@ -86,7 +86,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16894
+  "total_counts": 17006
  },
- "latest_count": 37416893
+ "latest_count": 37417005
 }
