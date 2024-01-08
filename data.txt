@@ -23,11 +23,16 @@
    },
    {
     "author": "Lonadont",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -42,17 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +60,14 @@
     "author": "KalockSwig",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 11000
+  "total_counts": 11002
  },
  "100k": {
   "hoc": [
@@ -89,19 +89,19 @@
    },
    {
     "author": "Lonadont",
-    "counts": 6
+    "counts": 7
    },
    {
     "author": "davidjl123",
     "counts": 5
    },
    {
-    "author": "SubSmartstocks",
+    "author": "LeinadSpoon",
     "counts": 3
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2
+    "author": "SubSmartstocks",
+    "counts": 3
    },
    {
     "author": "Cox_1920",
@@ -114,6 +114,10 @@
    {
     "author": "treje",
     "counts": 2
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1
    },
    {
     "author": "Multiconcepted",
@@ -134,13 +138,9 @@
    {
     "author": "VitaminB16",
     "counts": 1
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1
    }
   ],
-  "total_counts": 17024
+  "total_counts": 17026
  },
- "latest_count": 37417023
+ "latest_count": 37417025
 }
