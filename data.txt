@@ -17,12 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -34,11 +34,6 @@
    {
     "author": "Trial-Name",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -55,9 +50,19 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 38
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -118,6 +123,10 @@
     "counts": 4
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 2
+   },
+   {
     "author": "Thinking_Demon",
     "counts": 2
    },
@@ -128,13 +137,9 @@
    {
     "author": "KalockSwig",
     "counts": 1
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1
    }
   ],
-  "total_counts": 18706
+  "total_counts": 18707
  },
- "latest_count": 37418705
+ "latest_count": 37418706
 }
