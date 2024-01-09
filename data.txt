@@ -7,7 +7,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -17,7 +17,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -30,9 +30,14 @@
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 18
+  "total_counts": 19
  },
  "100k": {
   "hoc": [
@@ -73,11 +78,11 @@
     "counts": 15
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 11
+    "author": "Trial-Name",
+    "counts": 12
    },
    {
-    "author": "Trial-Name",
+    "author": "SubSmartstocks",
     "counts": 11
    },
    {
@@ -109,7 +114,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 18686
+  "total_counts": 18687
  },
- "latest_count": 37418685
+ "latest_count": 37418686
 }
