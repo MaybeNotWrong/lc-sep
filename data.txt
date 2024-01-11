@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -30,14 +35,9 @@
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 20
+  "total_counts": 21
  },
  "100k": {
   "hoc": [
@@ -75,7 +75,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 63
+    "counts": 64
    },
    {
     "author": "treje",
@@ -142,7 +142,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 32077
+  "total_counts": 32078
  },
- "latest_count": 37432038
+ "latest_count": 37432039
 }
