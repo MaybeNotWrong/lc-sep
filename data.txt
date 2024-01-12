@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "LeinadSpoon",
+    "counts": 152,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 146,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 143,
     "has_wrc_req": false
@@ -13,11 +23,6 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -52,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 306
+  "total_counts": 596
  },
  "100k": {
   "hoc": [
@@ -87,16 +87,20 @@
     "counts": 745
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 693
+   },
+   {
     "author": "Splash30ah",
     "counts": 638
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 548
-   },
-   {
     "author": "Lonadont",
     "counts": 275
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 161
    },
    {
     "author": "Chalupa_Grandpa",
@@ -113,10 +117,6 @@
    {
     "author": "SubSmartstocks",
     "counts": 33
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 16
    },
    {
     "author": "Cox_1920",
@@ -167,7 +167,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34147
+  "total_counts": 34437
  },
- "latest_count": 37434105
+ "latest_count": 37434395
 }
