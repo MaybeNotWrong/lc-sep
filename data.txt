@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,13 +17,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 18244
+    "counts": 18245
    },
    {
     "author": "naimagawa",
@@ -34,7 +39,7 @@
    },
    {
     "author": "artbn",
-    "counts": 1515
+    "counts": 1516
    },
    {
     "author": "Lonadont",
@@ -121,7 +126,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45058
+  "total_counts": 45060
  },
- "latest_count": 37445015
+ "latest_count": 37445017
 }
