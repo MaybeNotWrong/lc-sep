@@ -8,16 +8,21 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -51,7 +56,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1026
+    "counts": 1027
    },
    {
     "author": "NobodyL0vesMe",
@@ -110,6 +115,10 @@
     "counts": 2
    },
    {
+    "author": "Antichess",
+    "counts": 2
+   },
+   {
     "author": "nobody_loves_me",
     "counts": 2
    },
@@ -126,10 +135,6 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
-    "counts": 1
-   },
-   {
     "author": "MaybeNotWrong",
     "counts": 1
    },
@@ -138,7 +143,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 54104
+  "total_counts": 54106
  },
- "latest_count": 37454061
+ "latest_count": 37454063
 }
