@@ -60,9 +60,14 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 447
+  "total_counts": 448
  },
  "100k": {
   "hoc": [
@@ -112,7 +117,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 482
+    "counts": 483
    },
    {
     "author": "treje",
@@ -183,7 +188,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58596
+  "total_counts": 58597
  },
- "latest_count": 37458553
+ "latest_count": 37458554
 }
