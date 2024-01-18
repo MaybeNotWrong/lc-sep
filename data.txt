@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 428,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 337,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 329,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
-    "counts": 214,
+    "counts": 313,
     "has_wrc_req": false
    },
    {
@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
@@ -65,14 +70,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 1350
+  "total_counts": 1549
  },
  "100k": {
   "hoc": [
@@ -82,7 +82,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 13084
+    "counts": 13183
    },
    {
     "author": "naimagawa",
@@ -90,11 +90,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3998
+    "counts": 3999
    },
    {
     "author": "Lonadont",
-    "counts": 2004
+    "counts": 2103
    },
    {
     "author": "cuteballgames",
@@ -201,7 +201,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 64749
+  "total_counts": 64948
  },
- "latest_count": 37464704
+ "latest_count": 37464903
 }
