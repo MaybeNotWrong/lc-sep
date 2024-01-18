@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
@@ -10,14 +15,9 @@
     "author": "Cox_1920",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -71,7 +71,7 @@
    },
    {
     "author": "treje",
-    "counts": 367
+    "counts": 368
    },
    {
     "author": "SubSmartstocks",
@@ -146,7 +146,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 63404
+  "total_counts": 63405
  },
- "latest_count": 37463359
+ "latest_count": 37463360
 }
