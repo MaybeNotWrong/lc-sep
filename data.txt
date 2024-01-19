@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -43,7 +54,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 669
+    "counts": 670
    },
    {
     "author": "Splash30ah",
@@ -63,7 +74,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 101
+    "counts": 102
    },
    {
     "author": "Cox_1920",
@@ -130,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70081
+  "total_counts": 70083
  },
- "latest_count": 37470036
+ "latest_count": 37470038
 }
