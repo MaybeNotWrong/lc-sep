@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "cuteballgames",
+    "counts": 632,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 490,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 473,
+    "author": "amazingpikachu_38",
+    "counts": 448,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
     "counts": 363,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 290,
     "has_wrc_req": false
    },
    {
@@ -67,11 +67,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
@@ -85,15 +80,20 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 1968
+  "total_counts": 2285
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 26820
+    "counts": 26978
    },
    {
     "author": "noduorg",
@@ -108,12 +108,12 @@
     "counts": 4003
    },
    {
-    "author": "Lonadont",
-    "counts": 2165
+    "author": "cuteballgames",
+    "counts": 2232
    },
    {
-    "author": "cuteballgames",
-    "counts": 2073
+    "author": "Lonadont",
+    "counts": 2165
    },
    {
     "author": "artbn",
@@ -216,7 +216,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 65367
+  "total_counts": 65684
  },
- "latest_count": 37465322
+ "latest_count": 37465639
 }
