@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -22,13 +27,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 29170
+    "counts": 29172
    },
    {
     "author": "noduorg",
@@ -72,7 +77,7 @@
    },
    {
     "author": "treje",
-    "counts": 576
+    "counts": 577
    },
    {
     "author": "Trial-Name",
@@ -151,7 +156,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70090
+  "total_counts": 70093
  },
- "latest_count": 37470045
+ "latest_count": 37470048
 }
