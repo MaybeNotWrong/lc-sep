@@ -13,7 +13,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 30,
+    "counts": 31,
     "has_wrc_req": false
    },
    {
@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -60,14 +65,9 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 205
+  "total_counts": 207
  },
  "100k": {
   "hoc": [
@@ -93,11 +93,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2195
+    "counts": 2196
    },
    {
     "author": "artbn",
-    "counts": 1544
+    "counts": 1545
    },
    {
     "author": "livecounting",
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70286
+  "total_counts": 70288
  },
- "latest_count": 37470241
+ "latest_count": 37470243
 }
