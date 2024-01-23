@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -10,20 +15,15 @@
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 40410
+    "counts": 40411
    },
    {
     "author": "noduorg",
@@ -146,7 +146,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92832
+  "total_counts": 92833
  },
- "latest_count": 37492785
+ "latest_count": 37492786
 }
