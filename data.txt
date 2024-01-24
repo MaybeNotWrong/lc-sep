@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -55,14 +60,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 479
+  "total_counts": 480
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2362
+    "counts": 2363
    },
    {
     "author": "artbn",
@@ -191,7 +191,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93587
+  "total_counts": 93588
  },
- "latest_count": 37493539
+ "latest_count": 37493540
 }
