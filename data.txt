@@ -57,22 +57,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Cox_1920",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -85,9 +80,14 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 535
+  "total_counts": 536
  },
  "100k": {
   "hoc": [
@@ -141,7 +141,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 515
+    "counts": 516
    },
    {
     "author": "SubSmartstocks",
@@ -216,7 +216,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93643
+  "total_counts": 93644
  },
- "latest_count": 37493595
+ "latest_count": 37493596
 }
