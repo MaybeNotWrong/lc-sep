@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -23,11 +28,6 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 26
  },
  "100k": {
   "hoc": [
@@ -109,7 +109,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 171
+    "counts": 172
    },
    {
     "author": "Cox_1920",
@@ -176,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93718
+  "total_counts": 93719
  },
- "latest_count": 37493670
+ "latest_count": 37493671
 }
