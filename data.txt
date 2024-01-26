@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "treje",
-    "counts": 760
+    "counts": 761
    },
    {
     "author": "Trial-Name",
@@ -130,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93813
+  "total_counts": 93814
  },
- "latest_count": 37493765
+ "latest_count": 37493766
 }
