@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
-    "counts": 1,
+    "counts": 3,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 40738
+    "counts": 40741
    },
    {
     "author": "noduorg",
@@ -57,7 +62,7 @@
    },
    {
     "author": "treje",
-    "counts": 761
+    "counts": 763
    },
    {
     "author": "Trial-Name",
@@ -136,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93814
+  "total_counts": 93819
  },
- "latest_count": 37493766
+ "latest_count": 37493771
 }
