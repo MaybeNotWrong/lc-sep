@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -22,19 +27,19 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 12
+    "counts": 13
    },
    {
     "author": "PaleRepresentative",
     "counts": 8
    },
    {
-    "author": "SubSmartstocks",
+    "author": "davidjl123",
     "counts": 6
    },
    {
-    "author": "davidjl123",
-    "counts": 5
+    "author": "SubSmartstocks",
+    "counts": 6
    },
    {
     "author": "artbn",
@@ -69,7 +74,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 59
+  "total_counts": 61
  },
- "latest_count": 37500059
+ "latest_count": 37500061
 }
