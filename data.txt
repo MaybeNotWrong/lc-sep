@@ -42,12 +42,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 77
+  "total_counts": 78
  },
  "100k": {
   "hoc": [
@@ -100,7 +105,7 @@
     "counts": 3
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Trial-Name",
     "counts": 3
    },
    {
@@ -108,16 +113,12 @@
     "counts": 3
    },
    {
-    "author": "Trial-Name",
-    "counts": 2
+    "author": "LeinadSpoon",
+    "counts": 3
    },
    {
     "author": "Multiconcepted",
     "counts": 2
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1
    },
    {
     "author": "Tranquilsunrise",
@@ -126,9 +127,13 @@
    {
     "author": "Christmas_Missionary",
     "counts": 1
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1
    }
   ],
-  "total_counts": 327
+  "total_counts": 328
  },
- "latest_count": 37500327
+ "latest_count": 37500328
 }
