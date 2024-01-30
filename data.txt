@@ -52,12 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -70,9 +70,14 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 155
+  "total_counts": 156
  },
  "100k": {
   "hoc": [
@@ -142,11 +147,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 2
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1
+    "counts": 3
    },
    {
     "author": "Tranquilsunrise",
@@ -155,9 +156,13 @@
    {
     "author": "Cox_1920",
     "counts": 1
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1
    }
   ],
-  "total_counts": 405
+  "total_counts": 406
  },
- "latest_count": 37500405
+ "latest_count": 37500406
 }
