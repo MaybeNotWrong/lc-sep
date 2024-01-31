@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -15,7 +21,7 @@
    },
    {
     "author": "treje",
-    "counts": 54
+    "counts": 55
    },
    {
     "author": "cuteballgames",
@@ -62,10 +68,6 @@
     "counts": 6
    },
    {
-    "author": "naimagawa",
-    "counts": 4
-   },
-   {
     "author": "ddodd69",
     "counts": 4
    },
@@ -75,6 +77,10 @@
    },
    {
     "author": "Multiconcepted",
+    "counts": 4
+   },
+   {
+    "author": "naimagawa",
     "counts": 4
    },
    {
@@ -94,7 +100,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 730
+  "total_counts": 731
  },
- "latest_count": 37500730
+ "latest_count": 37500731
 }
