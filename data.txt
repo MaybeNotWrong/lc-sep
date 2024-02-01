@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -47,12 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,14 +70,9 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 39
+  "total_counts": 41
  },
  "100k": {
   "hoc": [
@@ -82,11 +82,11 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 214
+    "counts": 215
    },
    {
     "author": "Lonadont",
-    "counts": 76
+    "counts": 77
    },
    {
     "author": "treje",
@@ -165,7 +165,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 894
+  "total_counts": 896
  },
- "latest_count": 37500894
+ "latest_count": 37500896
 }
