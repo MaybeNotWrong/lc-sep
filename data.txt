@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -31,7 +37,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 49
+    "counts": 50
    },
    {
     "author": "artbn",
@@ -70,11 +76,11 @@
     "counts": 7
    },
    {
-    "author": "ddodd69",
+    "author": "naimagawa",
     "counts": 6
    },
    {
-    "author": "naimagawa",
+    "author": "ddodd69",
     "counts": 6
    },
    {
@@ -102,7 +108,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 957
+  "total_counts": 958
  },
- "latest_count": 37500957
+ "latest_count": 37500958
 }
