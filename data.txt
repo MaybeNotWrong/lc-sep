@@ -12,17 +12,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -35,9 +35,14 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 13
+  "total_counts": 14
  },
  "100k": {
   "hoc": [
@@ -126,11 +131,11 @@
     "counts": 3
    },
    {
-    "author": "rideride",
-    "counts": 2
+    "author": "Antichess",
+    "counts": 3
    },
    {
-    "author": "Antichess",
+    "author": "rideride",
     "counts": 2
    },
    {
@@ -154,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4354
+  "total_counts": 4355
  },
- "latest_count": 37504353
+ "latest_count": 37504354
 }
