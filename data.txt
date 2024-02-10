@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16,
+    "counts": 24,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -37,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
@@ -47,32 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,18 +72,28 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 75
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2251
+    "counts": 2259
    },
    {
     "author": "artbn",
@@ -101,7 +101,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 486
+    "counts": 494
    },
    {
     "author": "Lonadont",
@@ -208,7 +208,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 5280
+  "total_counts": 5296
  },
- "latest_count": 37505263
+ "latest_count": 37505279
 }
