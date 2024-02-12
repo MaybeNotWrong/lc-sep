@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -39,7 +45,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 93
+    "counts": 94
    },
    {
     "author": "cuteballgames",
@@ -134,7 +140,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7214
+  "total_counts": 7215
  },
- "latest_count": 37507196
+ "latest_count": 37507197
 }
