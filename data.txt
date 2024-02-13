@@ -40,9 +40,14 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 36
+  "total_counts": 37
  },
  "100k": {
   "hoc": [
@@ -100,7 +105,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 28
+    "counts": 29
    },
    {
     "author": "VitaminB16",
@@ -183,7 +188,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7403
+  "total_counts": 7404
  },
- "latest_count": 37507385
+ "latest_count": 37507386
 }
