@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 22,
+    "counts": 64,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 57,
     "has_wrc_req": false
    },
    {
@@ -12,22 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 14,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Cox_1920",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "artbn",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -52,23 +52,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 92
+  "total_counts": 177
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3245
+    "counts": 3287
    },
    {
     "author": "noduorg",
@@ -103,6 +103,10 @@
     "counts": 118
    },
    {
+    "author": "Trial-Name",
+    "counts": 85
+   },
+   {
     "author": "cuteballgames",
     "counts": 84
    },
@@ -113,10 +117,6 @@
    {
     "author": "LeinadSpoon",
     "counts": 62
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 42
    },
    {
     "author": "Multiconcepted",
@@ -203,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7459
+  "total_counts": 7544
  },
- "latest_count": 37507441
+ "latest_count": 37507526
 }
