@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "dragonpro9827",
+    "counts": 18,
+    "has_wrc_req": false
+   },
+   {
+    "author": "brbin20mins",
+    "counts": 17,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 16,
     "has_wrc_req": false
@@ -22,22 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "dragonpro9827",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "vovker1",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "treje",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "brbin20mins",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 62
+  "total_counts": 90
  },
  "100k": {
   "hoc": [
@@ -133,12 +133,12 @@
     "counts": 111
    },
    {
-    "author": "Gameknight046",
-    "counts": 70
+    "author": "dragonpro9827",
+    "counts": 82
    },
    {
-    "author": "dragonpro9827",
-    "counts": 68
+    "author": "Gameknight046",
+    "counts": 70
    },
    {
     "author": "Multiconcepted",
@@ -161,6 +161,10 @@
     "counts": 24
    },
    {
+    "author": "brbin20mins",
+    "counts": 17
+   },
+   {
     "author": "ddodd69",
     "counts": 12
    },
@@ -178,10 +182,6 @@
    },
    {
     "author": "Iwillfightforme",
-    "counts": 3
-   },
-   {
-    "author": "brbin20mins",
     "counts": 3
    },
    {
@@ -221,7 +221,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30181
+  "total_counts": 30209
  },
- "latest_count": 37530160
+ "latest_count": 37530188
 }
