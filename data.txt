@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 22,
+    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -29,11 +34,6 @@
    {
     "author": "cuteballgames",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -47,18 +47,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 45
+  "total_counts": 47
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 29326
+    "counts": 29327
    },
    {
     "author": "noduorg",
@@ -82,7 +82,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 703
+    "counts": 704
    },
    {
     "author": "gabrielgsr",
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 61201
+  "total_counts": 61203
  },
- "latest_count": 37561176
+ "latest_count": 37561178
 }
