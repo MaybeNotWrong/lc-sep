@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
@@ -70,14 +75,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 60
  },
  "100k": {
   "hoc": [
@@ -163,7 +163,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 55
+    "counts": 56
    },
    {
     "author": "Tranquilsunrise",
@@ -234,7 +234,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79566
+  "total_counts": 79567
  },
- "latest_count": 37579539
+ "latest_count": 37579540
 }
