@@ -2,12 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "Gameknight046",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -25,7 +35,7 @@
    },
    {
     "author": "Gameknight046",
-    "counts": 3416
+    "counts": 3417
    },
    {
     "author": "Trial-Name",
@@ -65,7 +75,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 280
+    "counts": 281
    },
    {
     "author": "cuteballgames",
@@ -164,7 +174,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92247
+  "total_counts": 92249
  },
- "latest_count": 37592218
+ "latest_count": 37592220
 }
