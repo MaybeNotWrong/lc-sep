@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -55,11 +66,11 @@
    },
    {
     "author": "davidjl123",
-    "counts": 380
+    "counts": 381
    },
    {
     "author": "Cox_1920",
-    "counts": 304
+    "counts": 305
    },
    {
     "author": "cuteballgames",
@@ -158,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92544
+  "total_counts": 92546
  },
- "latest_count": 37592514
+ "latest_count": 37592516
 }
