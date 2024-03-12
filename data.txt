@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 7,
     "has_wrc_req": false
@@ -12,23 +17,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 6,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 35
+  "total_counts": 37
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 46
+    "counts": 47
    },
    {
     "author": "Cox_1920",
@@ -113,14 +113,14 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 7
-   },
-   {
-    "author": "artbn",
-    "counts": 6
+    "counts": 8
    },
    {
     "author": "Multiconcepted",
+    "counts": 6
+   },
+   {
+    "author": "artbn",
     "counts": 6
    },
    {
@@ -140,6 +140,10 @@
     "counts": 2
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "MrUnderdawg",
     "counts": 1
    },
@@ -150,13 +154,9 @@
    {
     "author": "Antichess",
     "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
    }
   ],
-  "total_counts": 18195
+  "total_counts": 18197
  },
- "latest_count": 37618195
+ "latest_count": 37618197
 }
