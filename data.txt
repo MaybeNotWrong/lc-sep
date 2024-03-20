@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -43,11 +54,11 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 105
+    "counts": 106
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 92
+    "counts": 93
    },
    {
     "author": "Christmas_Missionary",
@@ -110,7 +121,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26771
+  "total_counts": 26773
  },
- "latest_count": 37626771
+ "latest_count": 37626773
 }
