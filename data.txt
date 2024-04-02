@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
@@ -53,11 +58,6 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 992
+  "total_counts": 993
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 24884
+    "counts": 24885
    },
    {
     "author": "Gameknight046",
@@ -211,19 +211,7 @@
     "counts": 2
    },
    {
-    "author": "Chalupa_14MillionGET",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "Dandelion212",
-    "counts": 1
-   },
-   {
-    "author": "Chaduorg",
     "counts": 1
    },
    {
@@ -231,15 +219,27 @@
     "counts": 1
    },
    {
-    "author": "couscous666",
+    "author": "Chaduorg",
+    "counts": 1
+   },
+   {
+    "author": "Dandelion212",
     "counts": 1
    },
    {
     "author": "MrGally75",
     "counts": 1
+   },
+   {
+    "author": "couscous666",
+    "counts": 1
+   },
+   {
+    "author": "Chalupa_14MillionGET",
+    "counts": 1
    }
   ],
-  "total_counts": 68042
+  "total_counts": 68043
  },
- "latest_count": 37668040
+ "latest_count": 37668041
 }
