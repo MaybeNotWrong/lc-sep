@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 20,
+    "author": "SubSmartstocks",
+    "counts": 21,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "amazingpikachu_38",
     "counts": 20,
     "has_wrc_req": false
    },
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,9 +60,14 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 86
+  "total_counts": 88
  },
  "100k": {
   "hoc": [
@@ -92,7 +97,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 498
+    "counts": 499
    },
    {
     "author": "dragonpro9827",
@@ -152,7 +157,7 @@
    },
    {
     "author": "treje",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "Tranquilsunrise",
@@ -195,19 +200,7 @@
     "counts": 2
    },
    {
-    "author": "Chalupa_14MillionGET",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "Dandelion212",
-    "counts": 1
-   },
-   {
-    "author": "Chaduorg",
     "counts": 1
    },
    {
@@ -215,11 +208,23 @@
     "counts": 1
    },
    {
+    "author": "Chaduorg",
+    "counts": 1
+   },
+   {
+    "author": "Dandelion212",
+    "counts": 1
+   },
+   {
     "author": "MrGally75",
+    "counts": 1
+   },
+   {
+    "author": "Chalupa_14MillionGET",
     "counts": 1
    }
   ],
-  "total_counts": 74124
+  "total_counts": 74126
  },
- "latest_count": 37674122
+ "latest_count": 37674124
 }
