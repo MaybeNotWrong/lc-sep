@@ -1,13 +1,34 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 36046
+    "counts": 36047
    },
    {
     "author": "noduorg",
@@ -31,7 +52,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 506
+    "counts": 508
    },
    {
     "author": "dragonpro9827",
@@ -51,11 +72,11 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 269
+    "counts": 270
    },
    {
     "author": "davidjl123",
-    "counts": 248
+    "counts": 249
    },
    {
     "author": "Christmas_Missionary",
@@ -134,15 +155,11 @@
     "counts": 2
    },
    {
+    "author": "Chalupa_14MillionGET",
+    "counts": 1
+   },
+   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "smarving6689",
-    "counts": 1
-   },
-   {
-    "author": "Chaduorg",
     "counts": 1
    },
    {
@@ -150,15 +167,19 @@
     "counts": 1
    },
    {
-    "author": "MrGally75",
+    "author": "Chaduorg",
     "counts": 1
    },
    {
-    "author": "Chalupa_14MillionGET",
+    "author": "smarving6689",
+    "counts": 1
+   },
+   {
+    "author": "MrGally75",
     "counts": 1
    }
   ],
-  "total_counts": 74156
+  "total_counts": 74161
  },
- "latest_count": 37674154
+ "latest_count": 37674159
 }
