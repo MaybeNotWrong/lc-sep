@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 14,
+    "counts": 51,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 40,
     "has_wrc_req": false
    },
    {
@@ -18,11 +23,6 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -42,13 +42,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 34
+  "total_counts": 109
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 37425
+    "counts": 37462
    },
    {
     "author": "noduorg",
@@ -60,7 +60,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 2757
+    "counts": 2795
    },
    {
     "author": "Lonadont",
@@ -203,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 77048
+  "total_counts": 77123
  },
- "latest_count": 37677045
+ "latest_count": 37677120
 }
