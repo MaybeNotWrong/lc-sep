@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -13,11 +13,16 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 4,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "Cox_1920",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -35,20 +40,15 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 27
+  "total_counts": 34
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 37421
+    "counts": 37425
    },
    {
     "author": "noduorg",
@@ -60,7 +60,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 2756
+    "counts": 2757
    },
    {
     "author": "Lonadont",
@@ -80,7 +80,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 364
+    "counts": 366
    },
    {
     "author": "Dawidluna",
@@ -175,23 +175,7 @@
     "counts": 2
    },
    {
-    "author": "Chalupa_14MillionGET",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "Dandelion212",
-    "counts": 1
-   },
-   {
-    "author": "Chaduorg",
-    "counts": 1
-   },
-   {
-    "author": "smarving6689",
     "counts": 1
    },
    {
@@ -199,11 +183,27 @@
     "counts": 1
    },
    {
+    "author": "smarving6689",
+    "counts": 1
+   },
+   {
+    "author": "Chaduorg",
+    "counts": 1
+   },
+   {
+    "author": "Dandelion212",
+    "counts": 1
+   },
+   {
     "author": "MrGally75",
+    "counts": 1
+   },
+   {
+    "author": "Chalupa_14MillionGET",
     "counts": 1
    }
   ],
-  "total_counts": 77041
+  "total_counts": 77048
  },
- "latest_count": 37677038
+ "latest_count": 37677045
 }
