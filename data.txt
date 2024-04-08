@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Cox_1920",
+    "author": "amazingpikachu_38",
     "counts": 10,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "Cox_1920",
     "counts": 10,
     "has_wrc_req": false
    },
@@ -18,7 +18,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -47,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "penguin9541",
     "counts": 1,
     "has_wrc_req": false
@@ -65,9 +60,14 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 55
+  "total_counts": 56
  },
  "100k": {
   "hoc": [
@@ -101,7 +101,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 8
+    "counts": 9
    },
    {
     "author": "artbn",
@@ -110,6 +110,10 @@
    {
     "author": "Tranquilsunrise",
     "counts": 4
+   },
+   {
+    "author": "treje",
+    "counts": 2
    },
    {
     "author": "noduorg",
@@ -128,11 +132,7 @@
     "counts": 2
    },
    {
-    "author": "treje",
-    "counts": 2
-   },
-   {
-    "author": "penguin9541",
+    "author": "cuteballgames",
     "counts": 1
    },
    {
@@ -140,15 +140,15 @@
     "counts": 1
    },
    {
-    "author": "cuteballgames",
+    "author": "rideride",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "penguin9541",
     "counts": 1
    }
   ],
-  "total_counts": 13072
+  "total_counts": 13073
  },
- "latest_count": 37713071
+ "latest_count": 37713072
 }
