@@ -13,17 +13,17 @@
    },
    {
     "author": "Lonadont",
-    "counts": 9,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
     "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "penguin9541",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,12 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -75,14 +80,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "penguin9541",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 67
+  "total_counts": 69
  },
  "100k": {
   "hoc": [
@@ -96,7 +96,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "Cox_1920",
@@ -116,7 +116,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "artbn",
@@ -167,7 +167,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13084
+  "total_counts": 13086
  },
- "latest_count": 37713083
+ "latest_count": 37713085
 }
