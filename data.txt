@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 387,
+    "counts": 389,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 385,
+    "counts": 386,
     "has_wrc_req": false
    },
    {
@@ -23,12 +23,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "KalockSwig",
-    "counts": 4,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -37,8 +32,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
+    "author": "KalockSwig",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -52,8 +47,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -62,7 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -70,15 +65,20 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 825
+  "total_counts": 829
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6904
+    "counts": 6906
    },
    {
     "author": "naimagawa",
@@ -86,18 +86,18 @@
    },
    {
     "author": "Lonadont",
-    "counts": 434
+    "counts": 435
    },
    {
     "author": "SubSmartstocks",
     "counts": 59
    },
    {
-    "author": "Cox_1920",
-    "counts": 29
+    "author": "davidjl123",
+    "counts": 30
    },
    {
-    "author": "davidjl123",
+    "author": "Cox_1920",
     "counts": 29
    },
    {
@@ -137,6 +137,10 @@
     "counts": 4
    },
    {
+    "author": "cuteballgames",
+    "counts": 3
+   },
+   {
     "author": "noduorg",
     "counts": 3
    },
@@ -145,16 +149,8 @@
     "counts": 3
    },
    {
-    "author": "cuteballgames",
-    "counts": 3
-   },
-   {
     "author": "VitaminB16",
     "counts": 2
-   },
-   {
-    "author": "penguin9541",
-    "counts": 1
    },
    {
     "author": "ddodd69",
@@ -163,9 +159,13 @@
    {
     "author": "rideride",
     "counts": 1
+   },
+   {
+    "author": "penguin9541",
+    "counts": 1
    }
   ],
-  "total_counts": 14011
+  "total_counts": 14015
  },
- "latest_count": 37714008
+ "latest_count": 37714012
 }
