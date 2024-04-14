@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "naimagawa",
+    "counts": 623,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 621,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 469,
     "has_wrc_req": false
@@ -9,16 +19,6 @@
    {
     "author": "Lonadont",
     "counts": 453,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 425,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 423,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1790
+  "total_counts": 2186
  },
  "100k": {
   "hoc": [
@@ -67,7 +67,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 27531
+    "counts": 27729
    },
    {
     "author": "Lonadont",
@@ -75,7 +75,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 432
+    "counts": 630
    },
    {
     "author": "Trial-Name",
@@ -154,7 +154,7 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "rideride",
     "counts": 1
    },
    {
@@ -162,15 +162,15 @@
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "dragonpro9827",
     "counts": 1
    },
    {
-    "author": "dragonpro9827",
+    "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 58868
+  "total_counts": 59264
  },
- "latest_count": 37758859
+ "latest_count": 37759255
 }
