@@ -28,7 +28,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -37,18 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
+    "author": "Lonadont",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -65,9 +60,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 2683
+  "total_counts": 2684
  },
  "100k": {
   "hoc": [
@@ -88,6 +88,10 @@
     "counts": 9
    },
    {
+    "author": "Cox_1920",
+    "counts": 4
+   },
+   {
     "author": "davidjl123",
     "counts": 4
    },
@@ -98,14 +102,6 @@
    {
     "author": "treje",
     "counts": 3
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 3
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1
    },
    {
     "author": "cuteballgames",
@@ -122,9 +118,13 @@
    {
     "author": "artbn",
     "counts": 1
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1
    }
   ],
-  "total_counts": 76
+  "total_counts": 77
  },
- "latest_count": 37800076
+ "latest_count": 37800077
 }
