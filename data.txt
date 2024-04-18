@@ -67,12 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
+    "author": "artbn",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2788
+  "total_counts": 2789
  },
  "100k": {
   "hoc": [
@@ -135,6 +135,10 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "naimagawa",
     "counts": 2
    },
@@ -143,15 +147,11 @@
     "counts": 1
    },
    {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
     "author": "Antichess",
     "counts": 1
    }
   ],
-  "total_counts": 181
+  "total_counts": 182
  },
- "latest_count": 37800181
+ "latest_count": 37800182
 }
