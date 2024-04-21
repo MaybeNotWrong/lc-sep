@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Cox_1920",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -44,11 +49,6 @@
    {
     "author": "treje",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 42
+  "total_counts": 43
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 31
+    "counts": 32
    },
    {
     "author": "Christmas_Missionary",
@@ -163,7 +163,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7128
+  "total_counts": 7129
  },
- "latest_count": 37807126
+ "latest_count": 37807127
 }
