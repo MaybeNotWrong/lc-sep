@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Cox_1920",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 2,
     "has_wrc_req": false
@@ -12,22 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -55,7 +55,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1305
+    "counts": 1306
    },
    {
     "author": "SubSmartstocks",
@@ -67,7 +67,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 48
+    "counts": 49
    },
    {
     "author": "cuteballgames",
@@ -122,11 +122,11 @@
     "counts": 3
    },
    {
-    "author": "PaleRepresentative",
+    "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "Trial-Name",
+    "author": "PaleRepresentative",
     "counts": 1
    },
    {
@@ -138,7 +138,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21086
+  "total_counts": 21088
  },
- "latest_count": 37821081
+ "latest_count": 37821083
 }
