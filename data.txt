@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -83,14 +89,14 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 2
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1
+    "counts": 3
    },
    {
     "author": "Trial-Name",
+    "counts": 1
+   },
+   {
+    "author": "PaleRepresentative",
     "counts": 1
    },
    {
@@ -102,7 +108,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21076
+  "total_counts": 21077
  },
- "latest_count": 37821071
+ "latest_count": 37821072
 }
