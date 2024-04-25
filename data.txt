@@ -50,9 +50,19 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 41
+  "total_counts": 43
  },
  "100k": {
   "hoc": [
@@ -125,12 +135,16 @@
     "counts": 12
    },
    {
+    "author": "VitaminB16",
+    "counts": 9
+   },
+   {
     "author": "Trial-Name",
     "counts": 9
    },
    {
-    "author": "VitaminB16",
-    "counts": 8
+    "author": "Tranquilsunrise",
+    "counts": 6
    },
    {
     "author": "vovker1",
@@ -139,10 +153,6 @@
    {
     "author": "Antichess",
     "counts": 6
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 5
    },
    {
     "author": "PaleRepresentative",
@@ -157,7 +167,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34654
+  "total_counts": 34656
  },
- "latest_count": 37834648
+ "latest_count": 37834650
 }
