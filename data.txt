@@ -1,13 +1,29 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 18058
+    "counts": 18061
    },
    {
     "author": "Gameknight046",
@@ -39,7 +55,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 83
+    "counts": 84
    },
    {
     "author": "cuteballgames",
@@ -51,7 +67,7 @@
    },
    {
     "author": "treje",
-    "counts": 35
+    "counts": 37
    },
    {
     "author": "noduorg",
@@ -86,11 +102,11 @@
     "counts": 8
    },
    {
-    "author": "Antichess",
+    "author": "vovker1",
     "counts": 6
    },
    {
-    "author": "vovker1",
+    "author": "Antichess",
     "counts": 6
    },
    {
@@ -106,19 +122,19 @@
     "counts": 1
    },
    {
-    "author": "eddebbboi",
-    "counts": 1
-   },
-   {
     "author": "co3_carbonate",
     "counts": 1
    },
    {
     "author": "colby6666",
     "counts": 1
+   },
+   {
+    "author": "eddebbboi",
+    "counts": 1
    }
   ],
-  "total_counts": 37555
+  "total_counts": 37561
  },
- "latest_count": 37837534
+ "latest_count": 37837540
 }
