@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 22845
+    "counts": 22846
    },
    {
     "author": "Gameknight046",
@@ -63,7 +68,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 51
+    "counts": 52
    },
    {
     "author": "treje",
@@ -102,11 +107,11 @@
     "counts": 10
    },
    {
-    "author": "vovker1",
+    "author": "Antichess",
     "counts": 6
    },
    {
-    "author": "Antichess",
+    "author": "vovker1",
     "counts": 6
    },
    {
@@ -122,6 +127,10 @@
     "counts": 1
    },
    {
+    "author": "eddebbboi",
+    "counts": 1
+   },
+   {
     "author": "FelipePlayz9",
     "counts": 1
    },
@@ -132,13 +141,9 @@
    {
     "author": "colby6666",
     "counts": 1
-   },
-   {
-    "author": "eddebbboi",
-    "counts": 1
    }
   ],
-  "total_counts": 47304
+  "total_counts": 47306
  },
- "latest_count": 37847273
+ "latest_count": 37847275
 }
