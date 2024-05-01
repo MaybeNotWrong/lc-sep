@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 60,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
-    "counts": 57,
+    "counts": 162,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 28,
+    "counts": 133,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 60,
     "has_wrc_req": false
    },
    {
@@ -52,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Gameknight046",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
@@ -80,15 +75,20 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Gameknight046",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 188
+  "total_counts": 398
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 22871
+    "counts": 22976
    },
    {
     "author": "Gameknight046",
@@ -96,7 +96,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 7462
+    "counts": 7567
    },
    {
     "author": "naimagawa",
@@ -171,11 +171,11 @@
     "counts": 11
    },
    {
-    "author": "vovker1",
+    "author": "Antichess",
     "counts": 6
    },
    {
-    "author": "Antichess",
+    "author": "vovker1",
     "counts": 6
    },
    {
@@ -191,6 +191,10 @@
     "counts": 1
    },
    {
+    "author": "eddebbboi",
+    "counts": 1
+   },
+   {
     "author": "FelipePlayz9",
     "counts": 1
    },
@@ -201,13 +205,9 @@
    {
     "author": "colby6666",
     "counts": 1
-   },
-   {
-    "author": "eddebbboi",
-    "counts": 1
    }
   ],
-  "total_counts": 47488
+  "total_counts": 47698
  },
- "latest_count": 37847457
+ "latest_count": 37847667
 }
