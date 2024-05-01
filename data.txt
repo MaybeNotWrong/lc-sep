@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -62,17 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2749
+  "total_counts": 2750
  },
  "100k": {
   "hoc": [
@@ -166,7 +166,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 14
+    "counts": 15
    },
    {
     "author": "claire_lair",
@@ -181,11 +181,11 @@
     "counts": 11
    },
    {
-    "author": "vovker1",
+    "author": "Antichess",
     "counts": 6
    },
    {
-    "author": "Antichess",
+    "author": "vovker1",
     "counts": 6
    },
    {
@@ -201,6 +201,10 @@
     "counts": 1
    },
    {
+    "author": "eddebbboi",
+    "counts": 1
+   },
+   {
     "author": "FelipePlayz9",
     "counts": 1
    },
@@ -211,13 +215,9 @@
    {
     "author": "colby6666",
     "counts": 1
-   },
-   {
-    "author": "eddebbboi",
-    "counts": 1
    }
   ],
-  "total_counts": 50049
+  "total_counts": 50050
  },
- "latest_count": 37850017
+ "latest_count": 37850018
 }
