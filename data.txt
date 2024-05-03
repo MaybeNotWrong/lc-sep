@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "LeinadSpoon",
-    "counts": 14,
+    "counts": 47,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 37,
     "has_wrc_req": false
    },
    {
     "author": "KalockSwig",
-    "counts": 11,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -24,11 +29,6 @@
    {
     "author": "amazingpikachu_38",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 79
+  "total_counts": 144
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 8768
+    "counts": 8801
    },
    {
     "author": "naimagawa",
@@ -94,7 +94,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1924
+    "counts": 1954
    },
    {
     "author": "SubSmartstocks",
@@ -126,7 +126,7 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 33
+    "counts": 35
    },
    {
     "author": "noduorg",
@@ -153,11 +153,11 @@
     "counts": 13
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "rideride",
     "counts": 12
    },
    {
-    "author": "rideride",
+    "author": "Tranquilsunrise",
     "counts": 12
    },
    {
@@ -165,11 +165,11 @@
     "counts": 8
    },
    {
-    "author": "Antichess",
+    "author": "vovker1",
     "counts": 6
    },
    {
-    "author": "vovker1",
+    "author": "Antichess",
     "counts": 6
    },
    {
@@ -185,19 +185,19 @@
     "counts": 1
    },
    {
-    "author": "eddebbboi",
-    "counts": 1
-   },
-   {
     "author": "co3_carbonate",
     "counts": 1
    },
    {
     "author": "colby6666",
     "counts": 1
+   },
+   {
+    "author": "eddebbboi",
+    "counts": 1
    }
   ],
-  "total_counts": 50387
+  "total_counts": 50452
  },
- "latest_count": 37850355
+ "latest_count": 37850420
 }
