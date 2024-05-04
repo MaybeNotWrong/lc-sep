@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 11,
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -29,11 +34,6 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 986
+  "total_counts": 988
  },
  "100k": {
   "hoc": [
@@ -84,7 +84,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2766
+    "counts": 2767
    },
    {
     "author": "vovker1",
@@ -128,7 +128,7 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 29
+    "counts": 30
    },
    {
     "author": "artbn",
@@ -143,11 +143,11 @@
     "counts": 16
    },
    {
-    "author": "claire_lair",
+    "author": "Tranquilsunrise",
     "counts": 13
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "claire_lair",
     "counts": 13
    },
    {
@@ -179,19 +179,19 @@
     "counts": 1
    },
    {
+    "author": "eddebbboi",
+    "counts": 1
+   },
+   {
     "author": "co3_carbonate",
     "counts": 1
    },
    {
     "author": "colby6666",
     "counts": 1
-   },
-   {
-    "author": "eddebbboi",
-    "counts": 1
    }
   ],
-  "total_counts": 55055
+  "total_counts": 55057
  },
- "latest_count": 37855023
+ "latest_count": 37855025
 }
