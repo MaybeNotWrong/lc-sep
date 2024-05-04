@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,7 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1029
+  "total_counts": 1030
  },
  "100k": {
   "hoc": [
@@ -166,15 +171,11 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 27
+    "counts": 28
    },
    {
     "author": "Trial-Name",
     "counts": 17
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 13
    },
    {
     "author": "claire_lair",
@@ -182,6 +183,10 @@
    },
    {
     "author": "rideride",
+    "counts": 13
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 13
    },
    {
@@ -209,19 +214,19 @@
     "counts": 1
    },
    {
-    "author": "eddebbboi",
-    "counts": 1
-   },
-   {
     "author": "co3_carbonate",
     "counts": 1
    },
    {
     "author": "colby6666",
     "counts": 1
+   },
+   {
+    "author": "eddebbboi",
+    "counts": 1
    }
   ],
-  "total_counts": 55098
+  "total_counts": 55099
  },
- "latest_count": 37855066
+ "latest_count": 37855067
 }
