@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Cox_1920",
     "counts": 2,
     "has_wrc_req": false
@@ -59,11 +64,6 @@
    {
     "author": "treje",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11953
+  "total_counts": 11954
  },
  "100k": {
   "hoc": [
@@ -139,7 +139,7 @@
    },
    {
     "author": "artbn",
-    "counts": 33
+    "counts": 34
    },
    {
     "author": "noduorg",
@@ -206,7 +206,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67088
+  "total_counts": 67089
  },
- "latest_count": 37867056
+ "latest_count": 37867057
 }
