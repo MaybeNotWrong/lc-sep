@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
@@ -57,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 80
+  "total_counts": 81
  },
  "100k": {
   "hoc": [
@@ -132,12 +132,12 @@
     "counts": 35
    },
    {
-    "author": "noduorg",
+    "author": "Multiconcepted",
     "counts": 34
    },
    {
-    "author": "Multiconcepted",
-    "counts": 33
+    "author": "noduorg",
+    "counts": 34
    },
    {
     "author": "VitaminB16",
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82140
+  "total_counts": 82141
  },
- "latest_count": 37882100
+ "latest_count": 37882101
 }
