@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Cox_1920",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -19,7 +25,7 @@
    },
    {
     "author": "Cox_1920",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "Chalupa_Grandpa",
@@ -34,7 +40,7 @@
     "counts": 2
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Multiconcepted",
     "counts": 1
    },
    {
@@ -42,11 +48,11 @@
     "counts": 1
    },
    {
-    "author": "Multiconcepted",
+    "author": "LeinadSpoon",
     "counts": 1
    }
   ],
-  "total_counts": 8034
+  "total_counts": 8035
  },
- "latest_count": 37908035
+ "latest_count": 37908036
 }
