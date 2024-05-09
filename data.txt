@@ -47,17 +47,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "vovker1",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 35989
+  "total_counts": 35990
  },
  "100k": {
   "hoc": [
@@ -132,11 +132,11 @@
     "counts": 4
    },
    {
-    "author": "noduorg",
-    "counts": 3
+    "author": "vovker1",
+    "counts": 4
    },
    {
-    "author": "vovker1",
+    "author": "noduorg",
     "counts": 3
    },
    {
@@ -160,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44023
+  "total_counts": 44024
  },
- "latest_count": 37944010
+ "latest_count": 37944011
 }
