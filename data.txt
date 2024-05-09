@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 1,
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -17,17 +22,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 14
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 21834
+    "counts": 21839
    },
    {
     "author": "naimagawa",
-    "counts": 14249
+    "counts": 14255
    },
    {
     "author": "Gameknight046",
@@ -94,7 +99,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44061
+  "total_counts": 44072
  },
- "latest_count": 37944048
+ "latest_count": 37944059
 }
