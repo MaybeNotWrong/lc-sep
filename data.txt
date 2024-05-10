@@ -23,6 +23,11 @@
    },
    {
     "author": "Lonadont",
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -34,11 +39,6 @@
    {
     "author": "davidjl123",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 13626
+  "total_counts": 13630
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 6267
+    "counts": 6269
    },
    {
     "author": "Gameknight046",
@@ -93,7 +93,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 170
+    "counts": 172
    },
    {
     "author": "SubSmartstocks",
@@ -156,7 +156,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 83049
+  "total_counts": 83053
  },
- "latest_count": 37983031
+ "latest_count": 37983035
 }
