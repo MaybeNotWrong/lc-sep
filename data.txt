@@ -38,7 +38,17 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -55,19 +65,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 13625
+  "total_counts": 13626
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 6266
+    "counts": 6267
    },
    {
     "author": "Gameknight046",
@@ -156,7 +156,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 83048
+  "total_counts": 83049
  },
- "latest_count": 37983030
+ "latest_count": 37983031
 }
