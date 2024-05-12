@@ -23,7 +23,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 12,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "LeinadSpoon",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "SubSmartstocks",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 100017
+  "total_counts": 100018
  },
  "100k": {
   "hoc": [
@@ -94,11 +94,15 @@
     "counts": 4
    },
    {
+    "author": "Multiconcepted",
+    "counts": 1
+   },
+   {
     "author": "cuteballgames",
     "counts": 1
    }
   ],
-  "total_counts": 3030
+  "total_counts": 3031
  },
- "latest_count": 38103030
+ "latest_count": 38103031
 }
