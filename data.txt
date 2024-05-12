@@ -27,13 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Lonadont",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 4,
+    "author": "davidjl123",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 114
+  "total_counts": 116
  },
  "100k": {
   "hoc": [
@@ -98,18 +103,22 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4
+    "counts": 5
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "Trial-Name",
     "counts": 1
    },
    {
     "author": "treje",
     "counts": 1
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1
    }
   ],
-  "total_counts": 4142
+  "total_counts": 4144
  },
- "latest_count": 38104142
+ "latest_count": 38104144
 }
