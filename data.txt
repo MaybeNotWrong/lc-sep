@@ -8,12 +8,17 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 5048,
+    "counts": 5076,
     "has_wrc_req": true
    },
    {
     "author": "Lonadont",
     "counts": 404,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Gameknight046",
+    "counts": 38,
     "has_wrc_req": false
    },
    {
@@ -24,11 +29,6 @@
    {
     "author": "KalockSwig",
     "counts": 19,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Gameknight046",
-    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -92,13 +92,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10751
+  "total_counts": 10808
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 7164
+    "counts": 7192
    },
    {
     "author": "LeinadSpoon",
@@ -117,6 +117,10 @@
     "counts": 60
    },
    {
+    "author": "Gameknight046",
+    "counts": 49
+   },
+   {
     "author": "artbn",
     "counts": 33
    },
@@ -127,10 +131,6 @@
    {
     "author": "Multiconcepted",
     "counts": 24
-   },
-   {
-    "author": "Gameknight046",
-    "counts": 20
    },
    {
     "author": "davidjl123",
@@ -173,11 +173,11 @@
     "counts": 2
    },
    {
-    "author": "Trial-Name",
+    "author": "noduorg",
     "counts": 1
    },
    {
-    "author": "noduorg",
+    "author": "Trial-Name",
     "counts": 1
    },
    {
@@ -185,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 15126
+  "total_counts": 15183
  },
- "latest_count": 38115124
+ "latest_count": 38115181
 }
