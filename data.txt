@@ -3,13 +3,18 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 17252,
+    "counts": 17333,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
     "counts": 17234,
     "has_wrc_req": true
+   },
+   {
+    "author": "Gameknight046",
+    "counts": 86,
+    "has_wrc_req": false
    },
    {
     "author": "Lonadont",
@@ -39,11 +44,6 @@
    {
     "author": "MrGally75",
     "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Gameknight046",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -82,13 +82,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 34570
+  "total_counts": 34732
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 17
+    "counts": 98
+   },
+   {
+    "author": "Gameknight046",
+    "counts": 84
    },
    {
     "author": "LeinadSpoon",
@@ -107,23 +111,19 @@
     "counts": 3
    },
    {
-    "author": "Gameknight046",
-    "counts": 3
-   },
-   {
     "author": "Lonadont",
     "counts": 3
    },
    {
-    "author": "naimagawa",
+    "author": "VitaminB16",
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "naimagawa",
     "counts": 1
    }
   ],
-  "total_counts": 47
+  "total_counts": 209
  },
- "latest_count": 38200047
+ "latest_count": 38200209
 }
