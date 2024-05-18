@@ -2,22 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "naimagawa",
-    "counts": 13540,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 13540,
+    "counts": 15247,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
+    "author": "naimagawa",
+    "counts": 15245,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -30,19 +30,24 @@
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27089
+  "total_counts": 30502
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 44056
+    "counts": 45763
    },
    {
     "author": "naimagawa",
-    "counts": 32146
+    "counts": 33851
    },
    {
     "author": "LeinadSpoon",
@@ -121,6 +126,10 @@
     "counts": 6
    },
    {
+    "author": "Trial-Name",
+    "counts": 2
+   },
+   {
     "author": "TheNitromeFan",
     "counts": 2
    },
@@ -133,15 +142,11 @@
     "counts": 1
    },
    {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
     "author": "gordonpt8",
     "counts": 1
    }
   ],
-  "total_counts": 92575
+  "total_counts": 95988
  },
- "latest_count": 38192567
+ "latest_count": 38195979
 }
