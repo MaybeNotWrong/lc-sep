@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
@@ -49,11 +54,6 @@
    {
     "author": "artbn",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11935
+  "total_counts": 11936
  },
  "100k": {
   "hoc": [
@@ -129,7 +129,7 @@
    },
    {
     "author": "treje",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "cuteballgames",
@@ -160,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17038
+  "total_counts": 17039
  },
- "latest_count": 38217036
+ "latest_count": 38217037
 }
