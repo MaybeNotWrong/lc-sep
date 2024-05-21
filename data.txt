@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -39,7 +45,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 112
+    "counts": 113
    },
    {
     "author": "davidjl123",
@@ -94,7 +100,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 27066
+  "total_counts": 27067
  },
- "latest_count": 38227062
+ "latest_count": 38227063
 }
