@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -31,7 +42,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 508
+    "counts": 509
    },
    {
     "author": "Trial-Name",
@@ -47,7 +58,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 47
+    "counts": 48
    },
    {
     "author": "treje",
@@ -114,7 +125,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49096
+  "total_counts": 49098
  },
- "latest_count": 38249091
+ "latest_count": 38249093
 }
