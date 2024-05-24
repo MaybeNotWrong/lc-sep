@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "KalockSwig",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -75,14 +80,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "KalockSwig",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 2876
+  "total_counts": 2877
  },
  "100k": {
   "hoc": [
@@ -175,15 +175,15 @@
     "counts": 2
    },
    {
+    "author": "KalockSwig",
+    "counts": 2
+   },
+   {
     "author": "Antichess",
     "counts": 1
    },
    {
     "author": "Leinadont",
-    "counts": 1
-   },
-   {
-    "author": "KalockSwig",
     "counts": 1
    },
    {
@@ -203,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60035
+  "total_counts": 60036
  },
- "latest_count": 38260029
+ "latest_count": 38260030
 }
