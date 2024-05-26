@@ -23,7 +23,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 32,
+    "counts": 33,
     "has_wrc_req": false
    },
    {
@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Gameknight046",
     "counts": 2,
     "has_wrc_req": false
@@ -67,17 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41503
+  "total_counts": 41506
  },
  "100k": {
   "hoc": [
@@ -99,7 +99,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 32
+    "counts": 33
    },
    {
     "author": "naimagawa",
@@ -114,11 +114,15 @@
     "counts": 3
    },
    {
-    "author": "VitaminB16",
-    "counts": 2
+    "author": "Trial-Name",
+    "counts": 3
    },
    {
     "author": "Gameknight046",
+    "counts": 2
+   },
+   {
+    "author": "VitaminB16",
     "counts": 2
    },
    {
@@ -126,15 +130,11 @@
     "counts": 1
    },
    {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1
    }
   ],
-  "total_counts": 21160
+  "total_counts": 21163
  },
- "latest_count": 38321158
+ "latest_count": 38321161
 }
