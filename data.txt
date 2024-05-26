@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 19256,
+    "counts": 19510,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 19034,
+    "counts": 19288,
     "has_wrc_req": true
    },
    {
@@ -47,37 +47,37 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
+    "author": "VitaminB16",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 39560
+  "total_counts": 40068
  },
  "100k": {
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 9123
+    "counts": 9377
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 8878
+    "counts": 9132
    },
    {
     "author": "Lonadont",
@@ -92,16 +92,20 @@
     "counts": 5
    },
    {
-    "author": "davidjl123",
+    "author": "Chalupa_Grandpa",
     "counts": 3
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "davidjl123",
     "counts": 3
    },
    {
     "author": "VitaminB16",
     "counts": 2
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    },
    {
     "author": "LeinadSpoon",
@@ -110,13 +114,9 @@
    {
     "author": "Trial-Name",
     "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 19217
+  "total_counts": 19725
  },
- "latest_count": 38319215
+ "latest_count": 38319723
 }
