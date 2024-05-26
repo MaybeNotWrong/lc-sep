@@ -37,13 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
+    "author": "Lonadont",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23361
+  "total_counts": 23362
  },
  "100k": {
   "hoc": [
@@ -83,9 +83,13 @@
    {
     "author": "noduorg",
     "counts": 1
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1
    }
   ],
-  "total_counts": 3018
+  "total_counts": 3019
  },
- "latest_count": 38303018
+ "latest_count": 38303019
 }
