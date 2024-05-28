@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "KalockSwig",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
@@ -57,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10350
+  "total_counts": 10351
  },
  "100k": {
   "hoc": [
@@ -144,6 +144,10 @@
     "counts": 3
    },
    {
+    "author": "KalockSwig",
+    "counts": 2
+   },
+   {
     "author": "Trial-Name",
     "counts": 1
    },
@@ -154,13 +158,9 @@
    {
     "author": "Tranquilsunrise",
     "counts": 1
-   },
-   {
-    "author": "KalockSwig",
-    "counts": 1
    }
   ],
-  "total_counts": 61356
+  "total_counts": 61357
  },
- "latest_count": 38461349
+ "latest_count": 38461350
 }
