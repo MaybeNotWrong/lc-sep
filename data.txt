@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
@@ -55,14 +60,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 16199
+  "total_counts": 16200
  },
  "100k": {
   "hoc": [
@@ -89,9 +89,13 @@
    {
     "author": "naimagawa",
     "counts": 1
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1
    }
   ],
-  "total_counts": 41
+  "total_counts": 42
  },
- "latest_count": 38500041
+ "latest_count": 38500042
 }
