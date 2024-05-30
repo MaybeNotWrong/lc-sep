@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 2886,
+    "counts": 2901,
     "has_wrc_req": true
    },
    {
@@ -14,6 +14,11 @@
    {
     "author": "noduorg",
     "counts": 879,
+    "has_wrc_req": false
+   },
+   {
+    "author": "anonreaderxD",
+    "counts": 20,
     "has_wrc_req": false
    },
    {
@@ -32,13 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "anonreaderxD",
-    "counts": 5,
+    "author": "davidjl123",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 4,
+    "author": "Gameknight046",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -60,24 +65,19 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Gameknight046",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5805
+  "total_counts": 5835
  },
  "100k": {
   "hoc": [
    {
-    "author": "NobodyL0vesMe",
-    "counts": 12014
+    "author": "naimagawa",
+    "counts": 12024
    },
    {
-    "author": "naimagawa",
-    "counts": 12009
+    "author": "NobodyL0vesMe",
+    "counts": 12014
    },
    {
     "author": "noduorg",
@@ -120,16 +120,16 @@
     "counts": 27
    },
    {
+    "author": "anonreaderxD",
+    "counts": 22
+   },
+   {
     "author": "Multiconcepted",
     "counts": 17
    },
    {
     "author": "davidjl123",
     "counts": 12
-   },
-   {
-    "author": "anonreaderxD",
-    "counts": 7
    },
    {
     "author": "SubSmartspoons",
@@ -160,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33032
+  "total_counts": 33062
  },
- "latest_count": 38533024
+ "latest_count": 38533054
 }
