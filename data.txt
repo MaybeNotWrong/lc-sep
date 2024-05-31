@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "eddebbboi",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -72,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 229
+  "total_counts": 230
  },
  "100k": {
   "hoc": [
@@ -175,9 +180,13 @@
    {
     "author": "artbn",
     "counts": 1
+   },
+   {
+    "author": "eddebbboi",
+    "counts": 1
    }
   ],
-  "total_counts": 54095
+  "total_counts": 54096
  },
- "latest_count": 38554086
+ "latest_count": 38554087
 }
