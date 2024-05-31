@@ -28,12 +28,17 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 5,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -45,14 +50,9 @@
     "author": "Gameknight046",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 207
+  "total_counts": 208
  },
  "100k": {
   "hoc": [
@@ -121,11 +121,11 @@
     "counts": 19
    },
    {
-    "author": "VitaminB16",
-    "counts": 5
+    "author": "gordonpt8",
+    "counts": 6
    },
    {
-    "author": "gordonpt8",
+    "author": "VitaminB16",
     "counts": 5
    },
    {
@@ -153,7 +153,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 54073
+  "total_counts": 54074
  },
- "latest_count": 38554064
+ "latest_count": 38554065
 }
