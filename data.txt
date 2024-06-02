@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Gameknight046",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -93,7 +98,7 @@
    },
    {
     "author": "Gameknight046",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "artbn",
@@ -120,7 +125,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84079
+  "total_counts": 84080
  },
- "latest_count": 38584068
+ "latest_count": 38584069
 }
