@@ -22,12 +22,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -56,11 +61,15 @@
     "counts": 2
    },
    {
+    "author": "gordonpt8",
+    "counts": 1
+   },
+   {
     "author": "davidjl123",
     "counts": 1
    }
   ],
-  "total_counts": 3034
+  "total_counts": 3035
  },
- "latest_count": 38603033
+ "latest_count": 38603034
 }
