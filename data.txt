@@ -3,22 +3,22 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3943,
+    "counts": 3944,
     "has_wrc_req": true
    },
    {
-    "author": "noduorg",
-    "counts": 1950,
-    "has_wrc_req": false
-   },
-   {
     "author": "naimagawa",
-    "counts": 1923,
+    "counts": 2147,
     "has_wrc_req": false
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 1816,
+    "counts": 2041,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1950,
     "has_wrc_req": false
    },
    {
@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -69,11 +74,6 @@
    {
     "author": "cuteballgames",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -112,21 +112,21 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11575
+  "total_counts": 12026
  },
  "100k": {
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 29267
+    "counts": 29492
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 28538
+    "counts": 28539
    },
    {
     "author": "naimagawa",
-    "counts": 22959
+    "counts": 23183
    },
    {
     "author": "noduorg",
@@ -170,7 +170,7 @@
    },
    {
     "author": "treje",
-    "counts": 80
+    "counts": 81
    },
    {
     "author": "gordonpt8",
@@ -237,7 +237,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 95654
+  "total_counts": 96105
  },
- "latest_count": 38595641
+ "latest_count": 38596092
 }
