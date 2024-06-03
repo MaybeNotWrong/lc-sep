@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -15,7 +21,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "SubSmartstocks",
@@ -26,7 +32,7 @@
     "counts": 3
    }
   ],
-  "total_counts": 3022
+  "total_counts": 3023
  },
- "latest_count": 38603021
+ "latest_count": 38603022
 }
