@@ -62,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,9 +75,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 92
+  "total_counts": 93
  },
  "100k": {
   "hoc": [
@@ -128,7 +128,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 40
+    "counts": 41
    },
    {
     "author": "gordonpt8",
@@ -159,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14141
+  "total_counts": 14142
  },
- "latest_count": 38614140
+ "latest_count": 38614141
 }
