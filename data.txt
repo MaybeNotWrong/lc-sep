@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Gameknight046",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -26,11 +31,11 @@
    },
    {
     "author": "noduorg",
-    "counts": 1517
+    "counts": 1519
    },
    {
     "author": "Gameknight046",
-    "counts": 1007
+    "counts": 1009
    },
    {
     "author": "LeinadSpoon",
@@ -89,7 +94,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14051
+  "total_counts": 14055
  },
- "latest_count": 38614050
+ "latest_count": 38614054
 }
