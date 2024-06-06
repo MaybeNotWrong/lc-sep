@@ -3,13 +3,13 @@
   "hoc": [
    {
     "author": "LeinadSpoon",
-    "counts": 2610,
+    "counts": 2688,
     "has_wrc_req": true
    },
    {
     "author": "Lonadont",
-    "counts": 1413,
-    "has_wrc_req": false
+    "counts": 1493,
+    "has_wrc_req": true
    },
    {
     "author": "LeinadTOP_10",
@@ -23,7 +23,7 @@
    },
    {
     "author": "MatsTOP_11",
-    "counts": 141,
+    "counts": 142,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5818
+  "total_counts": 5977
  },
  "100k": {
   "hoc": [
@@ -106,11 +106,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3003
+    "counts": 3081
    },
    {
     "author": "Lonadont",
-    "counts": 2464
+    "counts": 2544
    },
    {
     "author": "noduorg",
@@ -146,7 +146,7 @@
    },
    {
     "author": "MatsTOP_11",
-    "counts": 141
+    "counts": 142
    },
    {
     "author": "Trial-Name",
@@ -201,7 +201,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23577
+  "total_counts": 23736
  },
- "latest_count": 38623561
+ "latest_count": 38623720
 }
