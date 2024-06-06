@@ -3,11 +3,16 @@
   "hoc": [
    {
     "author": "gordonpt8",
-    "counts": 7,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -17,17 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -35,9 +30,14 @@
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 19
+  "total_counts": 23
  },
  "100k": {
   "hoc": [
@@ -71,7 +71,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 236
+    "counts": 238
    },
    {
     "author": "SubSmartstocks",
@@ -79,7 +79,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 91
+    "counts": 93
    },
    {
     "author": "Trial-Name",
@@ -134,7 +134,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17765
+  "total_counts": 17769
  },
- "latest_count": 38617762
+ "latest_count": 38617766
 }
