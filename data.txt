@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "SubSmartstocks",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -59,7 +64,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 84
+    "counts": 85
    },
    {
     "author": "Trial-Name",
@@ -114,7 +119,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17749
+  "total_counts": 17750
  },
- "latest_count": 38617746
+ "latest_count": 38617747
 }
