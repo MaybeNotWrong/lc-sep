@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 14,
+    "counts": 116,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 110,
     "has_wrc_req": false
    },
    {
@@ -17,11 +22,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 4,
     "has_wrc_req": false
@@ -32,27 +32,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "anonreaderxD",
-    "counts": 1,
+    "author": "artbn",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "anonreaderxD",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 54
+  "total_counts": 258
  },
  "100k": {
   "hoc": [
@@ -66,11 +66,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3336
+    "counts": 3438
    },
    {
     "author": "Lonadont",
-    "counts": 2817
+    "counts": 2919
    },
    {
     "author": "noduorg",
@@ -145,10 +145,6 @@
     "counts": 2
    },
    {
-    "author": "NeonL1vesMatter",
-    "counts": 1
-   },
-   {
     "author": "anonreaderxD",
     "counts": 1
    },
@@ -167,9 +163,13 @@
    {
     "author": "Christmas_Missionary",
     "counts": 1
+   },
+   {
+    "author": "NeonL1vesMatter",
+    "counts": 1
    }
   ],
-  "total_counts": 24395
+  "total_counts": 24599
  },
- "latest_count": 38624378
+ "latest_count": 38624582
 }
