@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 6,
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -27,17 +32,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,14 +50,9 @@
     "author": "Gameknight046",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 50
+  "total_counts": 53
  },
  "100k": {
   "hoc": [
@@ -66,11 +66,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3579
+    "counts": 3581
    },
    {
     "author": "Lonadont",
-    "counts": 3105
+    "counts": 3106
    },
    {
     "author": "noduorg",
@@ -169,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 25171
+  "total_counts": 25174
  },
- "latest_count": 38625150
+ "latest_count": 38625153
 }
