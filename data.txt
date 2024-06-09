@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
+    "author": "noduorg",
     "counts": 10,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 9,
+    "author": "Lonadont",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -23,6 +23,11 @@
    },
    {
     "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -42,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40
+  "total_counts": 42
  },
  "100k": {
   "hoc": [
@@ -84,7 +84,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 2164
+    "counts": 2165
    },
    {
     "author": "cuteballgames",
@@ -144,7 +144,7 @@
    },
    {
     "author": "artbn",
-    "counts": 11
+    "counts": 12
    },
    {
     "author": "Antichess",
@@ -183,7 +183,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 27134
+  "total_counts": 27136
  },
- "latest_count": 38627113
+ "latest_count": 38627115
 }
