@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 2038,
+    "counts": 2039,
     "has_wrc_req": false
    },
    {
@@ -18,12 +18,17 @@
    },
    {
     "author": "Lonadont",
-    "counts": 661,
+    "counts": 711,
     "has_wrc_req": false
    },
    {
     "author": "cuteballgames",
-    "counts": 366,
+    "counts": 367,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 61,
     "has_wrc_req": false
    },
    {
@@ -44,11 +49,6 @@
    {
     "author": "gordonpt8",
     "counts": 11,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5753
+  "total_counts": 5858
  },
  "100k": {
   "hoc": [
@@ -116,7 +116,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 5382
+    "counts": 5432
    },
    {
     "author": "LeinadSpoon",
@@ -124,15 +124,15 @@
    },
    {
     "author": "noduorg",
-    "counts": 2177
+    "counts": 2230
    },
    {
     "author": "TheMatsValk",
-    "counts": 2134
+    "counts": 2135
    },
    {
     "author": "cuteballgames",
-    "counts": 1799
+    "counts": 1800
    },
    {
     "author": "NeonL1vesMatter",
@@ -223,7 +223,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39399
+  "total_counts": 39504
  },
- "latest_count": 38639377
+ "latest_count": 38639482
 }
