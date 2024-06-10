@@ -28,7 +28,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 8,
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -38,11 +43,6 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2432
+  "total_counts": 2434
  },
  "100k": {
   "hoc": [
@@ -106,7 +106,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4729
+    "counts": 4730
    },
    {
     "author": "LeinadSpoon",
@@ -114,7 +114,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 2173
+    "counts": 2174
    },
    {
     "author": "cuteballgames",
@@ -213,7 +213,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36078
+  "total_counts": 36080
  },
- "latest_count": 38636056
+ "latest_count": 38636058
 }
