@@ -3,13 +3,18 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10060,
+    "counts": 10226,
     "has_wrc_req": true
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 9967,
     "has_wrc_req": true
+   },
+   {
+    "author": "noduorg",
+    "counts": 189,
+    "has_wrc_req": false
    },
    {
     "author": "Lonadont",
@@ -24,11 +29,6 @@
    {
     "author": "Gameknight046",
     "counts": 30,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -57,22 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "ddodd69",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 1,
+    "author": "Multiconcepted",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "pikabot1000",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,22 +77,31 @@
     "has_wrc_req": false
    },
    {
-    "author": "pikabot1000",
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20269
+  "total_counts": 20601
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10562
+    "counts": 10728
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 10467
+   },
+   {
+    "author": "noduorg",
+    "counts": 189
    },
    {
     "author": "Lonadont",
@@ -113,10 +117,6 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 23
-   },
-   {
-    "author": "noduorg",
     "counts": 23
    },
    {
@@ -144,11 +144,7 @@
     "counts": 3
    },
    {
-    "author": "pikabot1000",
-    "counts": 1
-   },
-   {
-    "author": "VitaminB16",
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -156,11 +152,15 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "VitaminB16",
+    "counts": 1
+   },
+   {
+    "author": "pikabot1000",
     "counts": 1
    }
   ],
-  "total_counts": 21279
+  "total_counts": 21611
  },
- "latest_count": 38821277
+ "latest_count": 38821609
 }
