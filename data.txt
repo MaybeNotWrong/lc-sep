@@ -1,118 +1,17 @@
 {
  "day": {
-  "hoc": [
-   {
-    "author": "amazingpikachu_38",
-    "counts": 19274,
-    "has_wrc_req": true
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 16138,
-    "has_wrc_req": true
-   },
-   {
-    "author": "noduorg",
-    "counts": 1885,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Gameknight046",
-    "counts": 1259,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 105,
-    "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 48,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 38,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 36,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 27,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "pikabot1000",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 1,
-    "has_wrc_req": false
-   }
-  ],
-  "total_counts": 38843
+  "hoc": [],
+  "total_counts": 0
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 19776
+    "counts": 19897
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 16638
+    "counts": 16758
    },
    {
     "author": "noduorg",
@@ -131,11 +30,11 @@
     "counts": 48
    },
    {
-    "author": "LeinadSpoon",
+    "author": "SubSmartstocks",
     "counts": 38
    },
    {
-    "author": "SubSmartstocks",
+    "author": "LeinadSpoon",
     "counts": 38
    },
    {
@@ -159,7 +58,7 @@
     "counts": 4
    },
    {
-    "author": "Multiconcepted",
+    "author": "treje",
     "counts": 3
    },
    {
@@ -167,7 +66,7 @@
     "counts": 3
    },
    {
-    "author": "treje",
+    "author": "Multiconcepted",
     "counts": 3
    },
    {
@@ -175,7 +74,7 @@
     "counts": 2
    },
    {
-    "author": "pikabot1000",
+    "author": "rideride",
     "counts": 1
    },
    {
@@ -183,11 +82,11 @@
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "pikabot1000",
     "counts": 1
    }
   ],
-  "total_counts": 39853
+  "total_counts": 40094
  },
- "latest_count": 38839848
+ "latest_count": 38840089
 }
