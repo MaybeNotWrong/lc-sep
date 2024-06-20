@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 18,
+    "counts": 19,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -47,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
@@ -60,9 +55,14 @@
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 65
+  "total_counts": 67
  },
  "100k": {
   "hoc": [
@@ -84,15 +84,15 @@
    },
    {
     "author": "Lonadont",
-    "counts": 162
+    "counts": 163
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 64
    },
    {
     "author": "LeinadSpoon",
     "counts": 64
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 63
    },
    {
     "author": "gordonpt8",
@@ -127,11 +127,11 @@
     "counts": 6
    },
    {
-    "author": "VitaminB16",
+    "author": "TheMatsValk",
     "counts": 4
    },
    {
-    "author": "TheMatsValk",
+    "author": "VitaminB16",
     "counts": 4
    },
    {
@@ -143,15 +143,15 @@
     "counts": 1
    },
    {
-    "author": "pikabot1000",
+    "author": "Antichess",
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "pikabot1000",
     "counts": 1
    }
   ],
-  "total_counts": 50691
+  "total_counts": 50693
  },
- "latest_count": 38850679
+ "latest_count": 38850681
 }
