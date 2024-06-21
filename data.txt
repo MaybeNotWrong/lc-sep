@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 29,
+    "counts": 31,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 13,
     "has_wrc_req": false
    },
    {
     "author": "KalockSwig",
     "counts": 12,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -27,22 +27,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
+    "author": "NobodyL0vesMe",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -52,7 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -62,17 +62,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 89
+  "total_counts": 93
  },
  "100k": {
   "hoc": [
@@ -94,11 +94,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 213
+    "counts": 215
    },
    {
     "author": "SubSmartstocks",
-    "counts": 98
+    "counts": 100
    },
    {
     "author": "LeinadSpoon",
@@ -133,11 +133,11 @@
     "counts": 11
    },
    {
-    "author": "naimagawa",
+    "author": "VitaminB16",
     "counts": 9
    },
    {
-    "author": "VitaminB16",
+    "author": "naimagawa",
     "counts": 9
    },
    {
@@ -165,15 +165,15 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "pikabot1000",
     "counts": 1
    },
    {
-    "author": "pikabot1000",
+    "author": "Antichess",
     "counts": 1
    }
   ],
-  "total_counts": 50839
+  "total_counts": 50843
  },
- "latest_count": 38850821
+ "latest_count": 38850825
 }
