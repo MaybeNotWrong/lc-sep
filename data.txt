@@ -18,6 +18,11 @@
    },
    {
     "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -27,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2672
+  "total_counts": 2673
  },
  "100k": {
   "hoc": [
@@ -63,7 +63,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 317
+    "counts": 318
    },
    {
     "author": "noduorg",
@@ -82,11 +82,11 @@
     "counts": 17
    },
    {
-    "author": "ddodd69",
+    "author": "VitaminB16",
     "counts": 10
    },
    {
-    "author": "VitaminB16",
+    "author": "ddodd69",
     "counts": 10
    },
    {
@@ -102,23 +102,11 @@
     "counts": 3
    },
    {
-    "author": "gordonpt8",
-    "counts": 2
-   },
-   {
-    "author": "artbn",
-    "counts": 2
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 2
-   },
-   {
     "author": "Splash30ah",
+    "counts": 2
+   },
+   {
+    "author": "rideride",
     "counts": 2
    },
    {
@@ -126,11 +114,23 @@
     "counts": 2
    },
    {
-    "author": "rideride",
+    "author": "Tranquilsunrise",
+    "counts": 2
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 2
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 2
+   },
+   {
+    "author": "artbn",
     "counts": 2
    }
   ],
-  "total_counts": 13010
+  "total_counts": 13011
  },
- "latest_count": 38913010
+ "latest_count": 38913011
 }
