@@ -23,7 +23,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 25,
+    "counts": 26,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -32,17 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "davidjl123",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -62,12 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,12 +72,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8708
+  "total_counts": 8710
  },
  "100k": {
   "hoc": [
@@ -112,11 +112,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 341
+    "counts": 342
    },
    {
     "author": "SubSmartstocks",
-    "counts": 129
+    "counts": 130
    },
    {
     "author": "Chalupa_Grandpa",
@@ -143,20 +143,28 @@
     "counts": 8
    },
    {
+    "author": "artbn",
+    "counts": 4
+   },
+   {
     "author": "Multiconcepted",
     "counts": 4
    },
    {
-    "author": "artbn",
-    "counts": 4
+    "author": "gordonpt8",
+    "counts": 3
    },
    {
     "author": "Christmas_Missionary",
     "counts": 3
    },
    {
-    "author": "gordonpt8",
-    "counts": 3
+    "author": "cuteballgames",
+    "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 2
    },
    {
     "author": "Splash30ah",
@@ -167,19 +175,11 @@
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1
    }
   ],
-  "total_counts": 19046
+  "total_counts": 19048
  },
- "latest_count": 38919045
+ "latest_count": 38919047
 }
