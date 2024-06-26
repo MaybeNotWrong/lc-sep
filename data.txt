@@ -28,6 +28,11 @@
    },
    {
     "author": "SubSmartstocks",
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 10,
     "has_wrc_req": false
    },
@@ -38,11 +43,6 @@
    },
    {
     "author": "davidjl123",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8713
+  "total_counts": 8717
  },
  "100k": {
   "hoc": [
@@ -116,11 +116,11 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 131
+    "counts": 133
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 41
+    "counts": 43
    },
    {
     "author": "davidjl123",
@@ -179,7 +179,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19051
+  "total_counts": 19055
  },
- "latest_count": 38919050
+ "latest_count": 38919054
 }
