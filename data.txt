@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 36,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 25,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 17,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 11,
+    "author": "noduorg",
+    "counts": 20,
     "has_wrc_req": false
    },
    {
@@ -22,8 +22,13 @@
     "has_wrc_req": false
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 11,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
-    "counts": 7,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -32,13 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
+    "author": "davidjl123",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 4,
+    "author": "gordonpt8",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -47,17 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,12 +62,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 95
+  "total_counts": 134
  },
  "100k": {
   "hoc": [
@@ -90,7 +90,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 1124
+    "counts": 1142
    },
    {
     "author": "Gameknight046",
@@ -102,11 +102,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 362
+    "counts": 381
    },
    {
     "author": "SubSmartstocks",
-    "counts": 164
+    "counts": 165
    },
    {
     "author": "Chalupa_Grandpa",
@@ -114,7 +114,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 28
+    "counts": 29
    },
    {
     "author": "VitaminB16",
@@ -169,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19216
+  "total_counts": 19255
  },
- "latest_count": 38919215
+ "latest_count": 38919254
 }
