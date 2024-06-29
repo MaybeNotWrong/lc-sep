@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -46,16 +52,16 @@
     "counts": 36
    },
    {
-    "author": "VitaminB16",
-    "counts": 21
-   },
-   {
     "author": "ddodd69",
     "counts": 21
    },
    {
+    "author": "VitaminB16",
+    "counts": 21
+   },
+   {
     "author": "treje",
-    "counts": 17
+    "counts": 18
    },
    {
     "author": "artbn",
@@ -74,7 +80,7 @@
     "counts": 7
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "cuteballgames",
     "counts": 5
    },
    {
@@ -82,7 +88,7 @@
     "counts": 5
    },
    {
-    "author": "cuteballgames",
+    "author": "Christmas_Missionary",
     "counts": 5
    },
    {
@@ -102,7 +108,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19581
+  "total_counts": 19582
  },
- "latest_count": 38919580
+ "latest_count": 38919581
 }
