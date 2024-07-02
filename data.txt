@@ -23,7 +23,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -37,7 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,14 +50,9 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 2767
+  "total_counts": 2768
  },
  "100k": {
   "hoc": [
@@ -94,7 +94,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 59
+    "counts": 60
    },
    {
     "author": "Christmas_Missionary",
@@ -169,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44281
+  "total_counts": 44282
  },
- "latest_count": 38944276
+ "latest_count": 38944277
 }
