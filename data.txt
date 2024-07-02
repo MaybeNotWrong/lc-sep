@@ -1,13 +1,34 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 20030
+    "counts": 20033
    },
    {
     "author": "NobodyL0vesMe",
@@ -35,7 +56,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 365
+    "counts": 366
    },
    {
     "author": "Chalupa_Grandpa",
@@ -43,7 +64,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 56
+    "counts": 57
    },
    {
     "author": "Christmas_Missionary",
@@ -79,7 +100,7 @@
    },
    {
     "author": "gordonpt8",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "The_NecromancerTin",
@@ -118,7 +139,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41514
+  "total_counts": 41520
  },
- "latest_count": 38941509
+ "latest_count": 38941515
 }
