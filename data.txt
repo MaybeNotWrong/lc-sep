@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Gameknight046",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -65,7 +70,7 @@
    },
    {
     "author": "treje",
-    "counts": 22
+    "counts": 23
    },
    {
     "author": "cuteballgames",
@@ -132,7 +137,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44504
+  "total_counts": 44505
  },
- "latest_count": 38944499
+ "latest_count": 38944500
 }
