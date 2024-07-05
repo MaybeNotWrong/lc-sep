@@ -8,7 +8,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 7672,
+    "counts": 7693,
     "has_wrc_req": true
    },
    {
@@ -34,6 +34,11 @@
    {
     "author": "SubSmartstocks",
     "counts": 120,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gabrielgsr",
+    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -87,11 +92,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "gabrielgsr",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
@@ -122,7 +122,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26914
+  "total_counts": 26956
  },
  "100k": {
   "hoc": [
@@ -136,7 +136,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 10169
+    "counts": 10190
    },
    {
     "author": "noduorg",
@@ -191,6 +191,10 @@
     "counts": 25
    },
    {
+    "author": "gabrielgsr",
+    "counts": 23
+   },
+   {
     "author": "artbn",
     "counts": 20
    },
@@ -243,10 +247,6 @@
     "counts": 3
    },
    {
-    "author": "gabrielgsr",
-    "counts": 2
-   },
-   {
     "author": "ralgrado",
     "counts": 2
    },
@@ -259,7 +259,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73409
+  "total_counts": 73451
  },
- "latest_count": 38973404
+ "latest_count": 38973446
 }
