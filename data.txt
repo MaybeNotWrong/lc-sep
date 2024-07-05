@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10806,
+    "counts": 10815,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
-    "counts": 6605,
+    "counts": 6614,
     "has_wrc_req": true
    },
    {
@@ -77,11 +77,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
@@ -93,6 +88,11 @@
    },
    {
     "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -110,15 +110,20 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 23209
+  "total_counts": 23228
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 33214
+    "counts": 33223
    },
    {
     "author": "NobodyL0vesMe",
@@ -126,7 +131,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 9102
+    "counts": 9111
    },
    {
     "author": "noduorg",
@@ -185,12 +190,12 @@
     "counts": 20
    },
    {
-    "author": "KalockSwig",
+    "author": "Multiconcepted",
     "counts": 16
    },
    {
-    "author": "Multiconcepted",
-    "counts": 15
+    "author": "KalockSwig",
+    "counts": 16
    },
    {
     "author": "gordonpt8",
@@ -245,7 +250,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69704
+  "total_counts": 69723
  },
- "latest_count": 38969699
+ "latest_count": 38969718
 }
