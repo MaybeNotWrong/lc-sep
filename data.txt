@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 19,
+    "counts": 39,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gabrielgsr",
+    "counts": 21,
     "has_wrc_req": false
    },
    {
@@ -30,24 +35,19 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "gabrielgsr",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 39
+  "total_counts": 79
  },
  "100k": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 78
+    "author": "amazingpikachu_38",
+    "counts": 95
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 75
+    "author": "Lonadont",
+    "counts": 78
    },
    {
     "author": "naimagawa",
@@ -68,6 +68,10 @@
    {
     "author": "SubSmartstocks",
     "counts": 40
+   },
+   {
+    "author": "gabrielgsr",
+    "counts": 21
    },
    {
     "author": "Gameknight046",
@@ -118,15 +122,11 @@
     "counts": 1
    },
    {
-    "author": "gabrielgsr",
-    "counts": 1
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 473
+  "total_counts": 513
  },
- "latest_count": 39000473
+ "latest_count": 39000513
 }
