@@ -52,6 +52,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -77,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 526
+  "total_counts": 527
  },
  "100k": {
   "hoc": [
@@ -162,16 +167,16 @@
     "counts": 10
    },
    {
+    "author": "artbn",
+    "counts": 4
+   },
+   {
     "author": "gordonpt8",
     "counts": 4
    },
    {
     "author": "Limes_Are_Green",
     "counts": 4
-   },
-   {
-    "author": "artbn",
-    "counts": 3
    },
    {
     "author": "MaybeNotWrong",
@@ -198,7 +203,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43584
+  "total_counts": 43585
  },
- "latest_count": 39043580
+ "latest_count": 39043581
 }
