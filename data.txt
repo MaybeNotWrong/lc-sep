@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2654,
+    "counts": 2811,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
-    "counts": 2552,
-    "has_wrc_req": false
+    "counts": 2709,
+    "has_wrc_req": true
    },
    {
     "author": "Lonadont",
-    "counts": 82,
+    "counts": 83,
     "has_wrc_req": false
    },
    {
@@ -37,16 +37,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
@@ -57,22 +47,32 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5319
+  "total_counts": 5634
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 28094
+    "counts": 28251
    },
    {
     "author": "naimagawa",
-    "counts": 18262
+    "counts": 18419
    },
    {
     "author": "noduorg",
@@ -84,7 +84,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1350
+    "counts": 1351
    },
    {
     "author": "LeinadSpoon",
@@ -175,6 +175,10 @@
     "counts": 2
    },
    {
+    "author": "sodypop",
+    "counts": 1
+   },
+   {
     "author": "Countaholics",
     "counts": 1
    },
@@ -183,15 +187,11 @@
     "counts": 1
    },
    {
-    "author": "sodypop",
-    "counts": 1
-   },
-   {
     "author": "MrUnderdawg",
     "counts": 1
    }
   ],
-  "total_counts": 62619
+  "total_counts": 62934
  },
- "latest_count": 39062612
+ "latest_count": 39062927
 }
