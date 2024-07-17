@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 30537
+    "counts": 30538
    },
    {
     "author": "naimagawa",
@@ -79,7 +90,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 22
+    "counts": 23
    },
    {
     "author": "KalockSwig",
@@ -138,7 +149,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69477
+  "total_counts": 69479
  },
- "latest_count": 39069470
+ "latest_count": 39069472
 }
