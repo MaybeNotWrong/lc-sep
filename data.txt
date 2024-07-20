@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 3,
     "has_wrc_req": false
@@ -33,11 +38,6 @@
    },
    {
     "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,17 +72,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 52
+  "total_counts": 53
  },
  "100k": {
   "hoc": [
@@ -167,12 +167,12 @@
     "counts": 19
    },
    {
-    "author": "KalockSwig",
+    "author": "artbn",
     "counts": 18
    },
    {
-    "author": "artbn",
-    "counts": 17
+    "author": "KalockSwig",
+    "counts": 18
    },
    {
     "author": "gordonpt8",
@@ -223,7 +223,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70724
+  "total_counts": 70725
  },
- "latest_count": 39070716
+ "latest_count": 39070717
 }
