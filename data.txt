@@ -15,9 +15,14 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -91,7 +96,7 @@
    },
    {
     "author": "treje",
-    "counts": 36
+    "counts": 37
    },
    {
     "author": "Multiconcepted",
@@ -138,11 +143,15 @@
     "counts": 3
    },
    {
-    "author": "kugelblitzka",
+    "author": "teeravj",
     "counts": 1
    },
    {
     "author": "sodypop",
+    "counts": 1
+   },
+   {
+    "author": "kugelblitzka",
     "counts": 1
    },
    {
@@ -152,13 +161,9 @@
    {
     "author": "ralgrado",
     "counts": 1
-   },
-   {
-    "author": "teeravj",
-    "counts": 1
    }
   ],
-  "total_counts": 70816
+  "total_counts": 70817
  },
- "latest_count": 39070801
+ "latest_count": 39070802
 }
