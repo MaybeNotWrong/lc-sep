@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 138,
+    "counts": 139,
     "has_wrc_req": false
    },
    {
@@ -62,11 +62,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -77,12 +72,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
+    "author": "Antichess",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -102,13 +102,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 312
+  "total_counts": 313
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 31039
+    "counts": 31040
    },
    {
     "author": "naimagawa",
@@ -223,15 +223,11 @@
     "counts": 3
    },
    {
-    "author": "teeravj",
+    "author": "kugelblitzka",
     "counts": 1
    },
    {
     "author": "sodypop",
-    "counts": 1
-   },
-   {
-    "author": "kugelblitzka",
     "counts": 1
    },
    {
@@ -241,9 +237,13 @@
    {
     "author": "ralgrado",
     "counts": 1
+   },
+   {
+    "author": "teeravj",
+    "counts": 1
    }
   ],
-  "total_counts": 71122
+  "total_counts": 71123
  },
- "latest_count": 39071107
+ "latest_count": 39071108
 }
