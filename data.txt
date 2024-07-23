@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 111,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 99,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 87,
     "has_wrc_req": false
@@ -9,16 +19,6 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 78,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 34,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 21,
     "has_wrc_req": false
    },
    {
@@ -77,13 +77,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 266
+  "total_counts": 421
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 31132
+    "counts": 31210
    },
    {
     "author": "naimagawa",
@@ -99,7 +99,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2630
+    "counts": 2707
    },
    {
     "author": "NobodyL0vesMe",
@@ -198,15 +198,19 @@
     "counts": 3
    },
    {
+    "author": "teeravj",
+    "counts": 1
+   },
+   {
     "author": "reddittheandrewor",
     "counts": 1
    },
    {
-    "author": "kugelblitzka",
+    "author": "sodypop",
     "counts": 1
    },
    {
-    "author": "sodypop",
+    "author": "kugelblitzka",
     "counts": 1
    },
    {
@@ -216,13 +220,9 @@
    {
     "author": "ralgrado",
     "counts": 1
-   },
-   {
-    "author": "teeravj",
-    "counts": 1
    }
   ],
-  "total_counts": 72286
+  "total_counts": 72441
  },
- "latest_count": 39072271
+ "latest_count": 39072426
 }
