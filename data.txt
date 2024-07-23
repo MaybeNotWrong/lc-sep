@@ -22,12 +22,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -38,11 +43,6 @@
    },
    {
     "author": "ddodd69",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 54
+  "total_counts": 56
  },
  "100k": {
   "hoc": [
@@ -85,7 +85,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3216
+    "counts": 3217
    },
    {
     "author": "Lonadont",
@@ -149,7 +149,7 @@
    },
    {
     "author": "artbn",
-    "counts": 25
+    "counts": 26
    },
    {
     "author": "Tranquilsunrise",
@@ -188,19 +188,15 @@
     "counts": 3
    },
    {
-    "author": "teeravj",
-    "counts": 1
-   },
-   {
     "author": "reddittheandrewor",
     "counts": 1
    },
    {
-    "author": "sodypop",
+    "author": "kugelblitzka",
     "counts": 1
    },
    {
-    "author": "kugelblitzka",
+    "author": "sodypop",
     "counts": 1
    },
    {
@@ -210,9 +206,13 @@
    {
     "author": "ralgrado",
     "counts": 1
+   },
+   {
+    "author": "teeravj",
+    "counts": 1
    }
   ],
-  "total_counts": 72074
+  "total_counts": 72076
  },
- "latest_count": 39072059
+ "latest_count": 39072061
 }
