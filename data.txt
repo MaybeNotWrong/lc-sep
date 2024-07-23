@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "noduorg",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "artbn",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -85,9 +85,14 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 3125
+  "total_counts": 3126
  },
  "100k": {
   "hoc": [
@@ -161,7 +166,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 43
+    "counts": 44
    },
    {
     "author": "treje",
@@ -208,15 +213,19 @@
     "counts": 3
    },
    {
+    "author": "teeravj",
+    "counts": 1
+   },
+   {
     "author": "reddittheandrewor",
     "counts": 1
    },
    {
-    "author": "kugelblitzka",
+    "author": "sodypop",
     "counts": 1
    },
    {
-    "author": "sodypop",
+    "author": "kugelblitzka",
     "counts": 1
    },
    {
@@ -226,13 +235,9 @@
    {
     "author": "ralgrado",
     "counts": 1
-   },
-   {
-    "author": "teeravj",
-    "counts": 1
    }
   ],
-  "total_counts": 75145
+  "total_counts": 75146
  },
- "latest_count": 39075130
+ "latest_count": 39075131
 }
