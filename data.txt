@@ -18,7 +18,12 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 5,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -27,8 +32,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 4,
+    "author": "VitaminB16",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -38,11 +43,6 @@
    },
    {
     "author": "artbn",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 62
+  "total_counts": 63
  },
  "100k": {
   "hoc": [
@@ -105,7 +105,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 633
+    "counts": 634
    },
    {
     "author": "gabrielgsr",
@@ -192,11 +192,11 @@
     "counts": 1
    },
    {
-    "author": "kugelblitzka",
+    "author": "sodypop",
     "counts": 1
    },
    {
-    "author": "sodypop",
+    "author": "kugelblitzka",
     "counts": 1
    },
    {
@@ -212,7 +212,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 72082
+  "total_counts": 72083
  },
- "latest_count": 39072067
+ "latest_count": 39072068
 }
