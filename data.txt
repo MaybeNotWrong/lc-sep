@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -37,22 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
+    "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,7 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 231
+  "total_counts": 232
  },
  "100k": {
   "hoc": [
@@ -96,7 +96,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 9145
+    "counts": 9146
    },
    {
     "author": "LeinadSpoon",
@@ -227,7 +227,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 96385
+  "total_counts": 96386
  },
- "latest_count": 39096369
+ "latest_count": 39096370
 }
