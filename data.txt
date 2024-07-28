@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -54,7 +59,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 870
+    "counts": 871
    },
    {
     "author": "gabrielgsr",
@@ -157,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 96156
+  "total_counts": 96157
  },
- "latest_count": 39096140
+ "latest_count": 39096141
 }
