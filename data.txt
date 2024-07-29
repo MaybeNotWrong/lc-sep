@@ -65,9 +65,14 @@
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 4225
+  "total_counts": 4226
  },
  "100k": {
   "hoc": [
@@ -124,6 +129,10 @@
     "counts": 3
    },
    {
+    "author": "treje",
+    "counts": 2
+   },
+   {
     "author": "Limes_Are_Green",
     "counts": 2
    },
@@ -142,13 +151,9 @@
    {
     "author": "Countaholics",
     "counts": 1
-   },
-   {
-    "author": "treje",
-    "counts": 1
    }
   ],
-  "total_counts": 6256
+  "total_counts": 6257
  },
- "latest_count": 39106256
+ "latest_count": 39106257
 }
