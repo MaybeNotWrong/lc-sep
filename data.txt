@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16,
+    "counts": 19,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -12,13 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
-    "counts": 5,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -37,12 +37,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,12 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,13 +67,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 55
+  "total_counts": 62
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3130
+    "counts": 3133
    },
    {
     "author": "naimagawa",
@@ -89,19 +89,19 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 71
+    "counts": 72
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 58
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 27
+    "author": "LeinadSpoon",
+    "counts": 28
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 26
+    "author": "Christmas_Missionary",
+    "counts": 27
    },
    {
     "author": "Lonadont",
@@ -113,7 +113,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "Gameknight046",
@@ -148,11 +148,11 @@
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "artbn",
     "counts": 1
    },
    {
-    "author": "artbn",
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -160,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6408
+  "total_counts": 6415
  },
- "latest_count": 39106408
+ "latest_count": 39106415
 }
