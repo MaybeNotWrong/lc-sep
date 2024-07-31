@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "LeinadSpoon",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +60,14 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 332
+    "counts": 333
    },
    {
     "author": "SubSmartstocks",
@@ -97,7 +97,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 61
+    "counts": 62
    },
    {
     "author": "Christmas_Missionary",
@@ -164,7 +164,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7166
+  "total_counts": 7168
  },
- "latest_count": 39107166
+ "latest_count": 39107168
 }
