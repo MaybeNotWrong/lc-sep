@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -31,7 +42,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 68
+    "counts": 69
    },
    {
     "author": "Lonadont",
@@ -39,7 +50,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 31
+    "counts": 32
    },
    {
     "author": "cuteballgames",
@@ -102,7 +113,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7279
+  "total_counts": 7281
  },
- "latest_count": 39107279
+ "latest_count": 39107281
 }
