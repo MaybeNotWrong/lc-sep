@@ -23,7 +23,12 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -42,17 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Gameknight046",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "Gameknight046",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 50
+  "total_counts": 52
  },
  "100k": {
   "hoc": [
@@ -85,7 +85,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1430
+    "counts": 1431
    },
    {
     "author": "vovker1",
@@ -125,7 +125,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "VitaminB16",
@@ -172,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12085
+  "total_counts": 12087
  },
- "latest_count": 39112085
+ "latest_count": 39112087
 }
