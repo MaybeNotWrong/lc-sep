@@ -28,7 +28,12 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -50,14 +55,9 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 38
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -87,7 +87,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 385
+    "counts": 386
    },
    {
     "author": "Chalupa_Grandpa",
@@ -166,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 20800
+  "total_counts": 20801
  },
- "latest_count": 39120787
+ "latest_count": 39120788
 }
