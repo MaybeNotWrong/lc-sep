@@ -12,23 +12,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "PaleRepresentative",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1,
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -40,9 +30,19 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 26
  },
  "100k": {
   "hoc": [
@@ -143,6 +143,10 @@
     "counts": 5
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 2
+   },
+   {
     "author": "Antichess",
     "counts": 2
    },
@@ -157,13 +161,9 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1
    }
   ],
-  "total_counts": 40064
+  "total_counts": 40065
  },
- "latest_count": 39140050
+ "latest_count": 39140051
 }
