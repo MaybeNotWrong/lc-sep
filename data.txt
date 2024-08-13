@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 39,
+    "counts": 40,
     "has_wrc_req": false
    },
    {
@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
@@ -27,28 +32,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -65,15 +50,30 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 108
+  "total_counts": 109
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16283
+    "counts": 16284
    },
    {
     "author": "naimagawa",
@@ -188,7 +188,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 40147
+  "total_counts": 40148
  },
- "latest_count": 39140133
+ "latest_count": 39140134
 }
