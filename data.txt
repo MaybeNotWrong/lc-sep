@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Gameknight046",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "Gameknight046",
-    "counts": 90
+    "counts": 91
    },
    {
     "author": "ddodd69",
@@ -122,7 +128,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 40229
+  "total_counts": 40230
  },
- "latest_count": 39140215
+ "latest_count": 39140216
 }
