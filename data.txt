@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 7,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -12,18 +12,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "PaleRepresentative",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -32,8 +27,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -50,9 +45,14 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 26
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
@@ -74,7 +74,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1997
+    "counts": 1998
    },
    {
     "author": "vovker1",
@@ -177,7 +177,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50377
+  "total_counts": 50378
  },
- "latest_count": 39150362
+ "latest_count": 39150363
 }
