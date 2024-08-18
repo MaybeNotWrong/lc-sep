@@ -2,7 +2,7 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,12 +12,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -35,7 +40,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 2813
+    "counts": 2814
    },
    {
     "author": "Lonadont",
@@ -142,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50354
+  "total_counts": 50355
  },
- "latest_count": 39150339
+ "latest_count": 39150340
 }
