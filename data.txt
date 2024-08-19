@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 42,
+    "counts": 177,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 127,
     "has_wrc_req": false
    },
    {
@@ -13,7 +18,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 9,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -27,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
@@ -37,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,13 +57,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 85
+  "total_counts": 355
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 21400
+    "counts": 21535
    },
    {
     "author": "naimagawa",
@@ -70,11 +75,11 @@
    },
    {
     "author": "noduorg",
-    "counts": 2816
+    "counts": 2942
    },
    {
     "author": "Lonadont",
-    "counts": 2109
+    "counts": 2117
    },
    {
     "author": "vovker1",
@@ -121,12 +126,12 @@
     "counts": 45
    },
    {
-    "author": "artbn",
+    "author": "VitaminB16",
     "counts": 32
    },
    {
-    "author": "VitaminB16",
-    "counts": 31
+    "author": "artbn",
+    "counts": 32
    },
    {
     "author": "Possible_Photo484",
@@ -177,7 +182,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50768
+  "total_counts": 51038
  },
- "latest_count": 39150751
+ "latest_count": 39151021
 }
