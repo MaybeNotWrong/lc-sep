@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 5,
     "has_wrc_req": false
@@ -17,8 +22,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
+    "author": "Christmas_Missionary",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,17 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,9 +45,14 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 26
  },
  "100k": {
   "hoc": [
@@ -90,7 +90,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 467
+    "counts": 469
    },
    {
     "author": "NobodyL0vesMe",
@@ -102,7 +102,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 112
+    "counts": 113
    },
    {
     "author": "Gameknight046",
@@ -177,7 +177,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58086
+  "total_counts": 58089
  },
- "latest_count": 39158069
+ "latest_count": 39158072
 }
