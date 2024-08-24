@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -31,7 +37,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1410
+    "counts": 1411
    },
    {
     "author": "vovker1",
@@ -126,7 +132,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71157
+  "total_counts": 71158
  },
- "latest_count": 39171140
+ "latest_count": 39171141
 }
