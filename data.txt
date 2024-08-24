@@ -12,7 +12,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Lonadont",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -22,7 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -30,14 +35,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 31
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
@@ -63,7 +63,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2470
+    "counts": 2471
    },
    {
     "author": "SubSmartstocks",
@@ -162,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71188
+  "total_counts": 71189
  },
- "latest_count": 39171171
+ "latest_count": 39171172
 }
