@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 17,
+    "counts": 60,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 55,
     "has_wrc_req": false
    },
    {
@@ -12,22 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 12,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Gameknight046",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "Gameknight046",
+    "author": "noduorg",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
+    "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 86
+  "total_counts": 172
  },
  "100k": {
   "hoc": [
@@ -101,7 +101,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3914
+    "counts": 3957
    },
    {
     "author": "cuteballgames",
@@ -113,7 +113,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2812
+    "counts": 2855
    },
    {
     "author": "SubSmartstocks",
@@ -220,7 +220,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 73860
+  "total_counts": 73946
  },
- "latest_count": 39173843
+ "latest_count": 39173929
 }
