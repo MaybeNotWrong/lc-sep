@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 4,
+    "counts": 25,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gabrielgsr",
+    "counts": 21,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 50
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 32430
+    "counts": 32451
    },
    {
     "author": "naimagawa",
@@ -98,6 +103,10 @@
     "counts": 25
    },
    {
+    "author": "gabrielgsr",
+    "counts": 21
+   },
+   {
     "author": "Possible_Photo484",
     "counts": 19
    },
@@ -150,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 74115
+  "total_counts": 74157
  },
- "latest_count": 39174098
+ "latest_count": 39174140
 }
