@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -47,7 +53,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 615
+    "counts": 616
    },
    {
     "author": "davidjl123",
@@ -138,7 +144,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76239
+  "total_counts": 76240
  },
- "latest_count": 39176222
+ "latest_count": 39176223
 }
