@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 3,
     "has_wrc_req": false
@@ -44,11 +49,6 @@
    {
     "author": "VitaminB16",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -72,17 +72,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 157
+  "total_counts": 158
  },
  "100k": {
   "hoc": [
@@ -100,7 +100,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 3528
+    "counts": 3529
    },
    {
     "author": "noduorg",
@@ -219,7 +219,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76396
+  "total_counts": 76397
  },
- "latest_count": 39176379
+ "latest_count": 39176380
 }
