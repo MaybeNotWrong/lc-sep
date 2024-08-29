@@ -13,17 +13,17 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 14,
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
     "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -42,18 +42,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -70,9 +65,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 112
+  "total_counts": 115
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 4018
+    "counts": 4020
    },
    {
     "author": "cuteballgames",
@@ -118,7 +118,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 629
+    "counts": 630
    },
    {
     "author": "davidjl123",
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76351
+  "total_counts": 76354
  },
- "latest_count": 39176334
+ "latest_count": 39176337
 }
