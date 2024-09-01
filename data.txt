@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 31,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 30,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 30,
+    "author": "davidjl123",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 5,
+    "author": "Christmas_Missionary",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -22,8 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2,
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -40,19 +50,9 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 74
+  "total_counts": 76
  },
  "100k": {
   "hoc": [
@@ -74,7 +74,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3350
+    "counts": 3351
    },
    {
     "author": "noduorg",
@@ -102,7 +102,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 277
+    "counts": 278
    },
    {
     "author": "Christmas_Missionary",
@@ -173,11 +173,11 @@
     "counts": 4
    },
    {
-    "author": "SubSmartspoons",
+    "author": "TheMatsValk",
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
+    "author": "SubSmartspoons",
     "counts": 3
    },
    {
@@ -193,7 +193,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82333
+  "total_counts": 82335
  },
- "latest_count": 39182315
+ "latest_count": 39182317
 }
