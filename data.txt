@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 40692
+    "counts": 40693
    },
    {
     "author": "naimagawa",
@@ -55,7 +66,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 177
+    "counts": 178
    },
    {
     "author": "artbn",
@@ -122,11 +133,11 @@
     "counts": 4
    },
    {
-    "author": "SubSmartspoons",
+    "author": "TheMatsValk",
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
+    "author": "SubSmartspoons",
     "counts": 3
    },
    {
@@ -142,7 +153,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 91107
+  "total_counts": 91109
  },
- "latest_count": 39191089
+ "latest_count": 39191091
 }
