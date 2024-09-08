@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -23,7 +29,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 184
+    "counts": 185
    },
    {
     "author": "cuteballgames",
@@ -86,7 +92,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 8637
+  "total_counts": 8638
  },
- "latest_count": 39208635
+ "latest_count": 39208636
 }
