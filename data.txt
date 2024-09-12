@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 5,
     "has_wrc_req": false
@@ -38,11 +43,6 @@
    },
    {
     "author": "davidjl123",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -72,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -85,9 +80,14 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 13062
+  "total_counts": 13063
  },
  "100k": {
   "hoc": [
@@ -109,7 +109,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 4075
+    "counts": 4076
    },
    {
     "author": "Lonadont",
@@ -180,7 +180,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 77112
+  "total_counts": 77113
  },
- "latest_count": 39277105
+ "latest_count": 39277106
 }
