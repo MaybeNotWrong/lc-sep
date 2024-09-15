@@ -3,17 +3,22 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10298,
+    "counts": 10337,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 6965,
+    "counts": 7004,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
     "counts": 3331,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -27,27 +32,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "Gameknight046",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20604
+  "total_counts": 20682
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 15203
+    "counts": 15242
    },
    {
     "author": "greenpeppercat",
-    "counts": 11969
+    "counts": 12008
    },
    {
     "author": "naimagawa",
@@ -94,19 +94,15 @@
     "counts": 4
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2
-   },
-   {
     "author": "noduorg",
     "counts": 2
    },
    {
-    "author": "Multiconcepted",
+    "author": "Tranquilsunrise",
     "counts": 2
    },
    {
-    "author": "artbn",
+    "author": "Multiconcepted",
     "counts": 2
    },
    {
@@ -118,6 +114,10 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "TehVulpez",
     "counts": 1
    },
@@ -126,7 +126,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33929
+  "total_counts": 34007
  },
- "latest_count": 39333927
+ "latest_count": 39334005
 }
