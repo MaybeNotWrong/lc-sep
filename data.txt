@@ -3,22 +3,22 @@
   "hoc": [
    {
     "author": "cuteballgames",
-    "counts": 129,
+    "counts": 134,
     "has_wrc_req": false
    },
    {
     "author": "treje",
-    "counts": 100,
+    "counts": 101,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 43,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 40,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 38,
     "has_wrc_req": false
    },
    {
@@ -28,12 +28,12 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 25,
+    "counts": 26,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 16,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
@@ -70,14 +75,9 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 410
+  "total_counts": 423
  },
  "100k": {
   "hoc": [
@@ -87,7 +87,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 29695
+    "counts": 29696
    },
    {
     "author": "naimagawa",
@@ -103,7 +103,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1188
+    "counts": 1193
    },
    {
     "author": "NobodyL0vesMe",
@@ -115,7 +115,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 150
+    "counts": 151
    },
    {
     "author": "Splash30ah",
@@ -123,11 +123,11 @@
    },
    {
     "author": "treje",
-    "counts": 107
+    "counts": 108
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 56
+    "counts": 61
    },
    {
     "author": "davidjl123",
@@ -146,19 +146,19 @@
     "counts": 9
    },
    {
-    "author": "Multiconcepted",
-    "counts": 6
-   },
-   {
     "author": "noduorg",
     "counts": 6
    },
    {
-    "author": "artbn",
-    "counts": 4
+    "author": "Multiconcepted",
+    "counts": 6
    },
    {
     "author": "Tranquilsunrise",
+    "counts": 4
+   },
+   {
+    "author": "artbn",
     "counts": 4
    },
    {
@@ -170,7 +170,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78540
+  "total_counts": 78553
  },
- "latest_count": 39378475
+ "latest_count": 39378488
 }
