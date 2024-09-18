@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 74,
+    "author": "LeinadSpoon",
+    "counts": 75,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Lonadont",
     "counts": 74,
     "has_wrc_req": false
    },
@@ -47,7 +47,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -55,14 +65,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 214
+  "total_counts": 216
  },
  "100k": {
   "hoc": [
@@ -84,7 +89,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1687
+    "counts": 1688
    },
    {
     "author": "cuteballgames",
@@ -131,12 +136,12 @@
     "counts": 9
    },
    {
-    "author": "Multiconcepted",
+    "author": "noduorg",
     "counts": 7
    },
    {
-    "author": "noduorg",
-    "counts": 6
+    "author": "Multiconcepted",
+    "counts": 7
    },
    {
     "author": "Tranquilsunrise",
@@ -155,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79325
+  "total_counts": 79327
  },
- "latest_count": 39379260
+ "latest_count": 39379262
 }
