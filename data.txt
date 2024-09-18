@@ -1,7 +1,28 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "cuteballgames",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 9
  },
  "100k": {
   "hoc": [
@@ -27,7 +48,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1407
+    "counts": 1424
    },
    {
     "author": "NobodyL0vesMe",
@@ -35,7 +56,7 @@
    },
    {
     "author": "treje",
-    "counts": 277
+    "counts": 278
    },
    {
     "author": "Gameknight046",
@@ -46,12 +67,12 @@
     "counts": 159
    },
    {
-    "author": "Splash30ah",
-    "counts": 144
+    "author": "Chalupa_Grandpa",
+    "counts": 147
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 132
+    "author": "Splash30ah",
+    "counts": 144
    },
    {
     "author": "ddodd69",
@@ -63,7 +84,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 37
+    "counts": 39
    },
    {
     "author": "VitaminB16",
@@ -94,7 +115,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79085
+  "total_counts": 79120
  },
- "latest_count": 39379020
+ "latest_count": 39379055
 }
