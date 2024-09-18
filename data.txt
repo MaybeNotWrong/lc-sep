@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "cuteballgames",
+    "counts": 70,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 59,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 40,
     "has_wrc_req": false
@@ -12,23 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 30,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 21,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 20,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
-    "counts": 12,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 191
+  "total_counts": 272
  },
  "100k": {
   "hoc": [
@@ -103,7 +103,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1089
+    "counts": 1129
    },
    {
     "author": "NobodyL0vesMe",
@@ -122,16 +122,16 @@
     "counts": 144
    },
    {
+    "author": "treje",
+    "counts": 66
+   },
+   {
     "author": "davidjl123",
     "counts": 44
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 30
-   },
-   {
-    "author": "treje",
-    "counts": 27
+    "counts": 32
    },
    {
     "author": "Christmas_Missionary",
@@ -146,19 +146,19 @@
     "counts": 9
    },
    {
-    "author": "noduorg",
-    "counts": 6
-   },
-   {
     "author": "Multiconcepted",
     "counts": 6
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 4
+    "author": "noduorg",
+    "counts": 6
    },
    {
     "author": "artbn",
+    "counts": 4
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
@@ -170,7 +170,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 78321
+  "total_counts": 78402
  },
- "latest_count": 39378256
+ "latest_count": 39378337
 }
