@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -39,7 +45,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 181
+    "counts": 182
    },
    {
     "author": "Gameknight046",
@@ -66,11 +72,11 @@
     "counts": 44
    },
    {
-    "author": "VitaminB16",
+    "author": "Multiconcepted",
     "counts": 10
    },
    {
-    "author": "Multiconcepted",
+    "author": "VitaminB16",
     "counts": 10
    },
    {
@@ -94,7 +100,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79493
+  "total_counts": 79494
  },
- "latest_count": 39379409
+ "latest_count": 39379410
 }
