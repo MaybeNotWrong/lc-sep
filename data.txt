@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3932,
+    "counts": 4003,
     "has_wrc_req": true
    },
    {
@@ -12,18 +12,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 591,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 578,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 520,
-    "has_wrc_req": false
-   },
-   {
     "author": "Lonadont",
-    "counts": 129,
+    "counts": 131,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -77,11 +77,24 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7966
+  "total_counts": 8110
  },
  "100k": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "cuteballgames",
+    "counts": 71
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 71
+   },
+   {
+    "author": "Lonadont",
+    "counts": 2
+   }
+  ],
+  "total_counts": 144
  },
- "latest_count": 39400000
+ "latest_count": 39400144
 }
