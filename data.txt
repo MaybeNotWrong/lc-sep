@@ -27,7 +27,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,22 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Limes_Are_Green",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5742
+  "total_counts": 5743
  },
  "100k": {
   "hoc": [
@@ -117,15 +117,15 @@
     "counts": 56
    },
    {
+    "author": "noduorg",
+    "counts": 13
+   },
+   {
     "author": "Multiconcepted",
     "counts": 12
    },
    {
     "author": "VitaminB16",
-    "counts": 12
-   },
-   {
-    "author": "noduorg",
     "counts": 12
    },
    {
@@ -145,7 +145,7 @@
     "counts": 3
    }
   ],
-  "total_counts": 97868
+  "total_counts": 97869
  },
- "latest_count": 39397777
+ "latest_count": 39397778
 }
