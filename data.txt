@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 15,
+    "counts": 16,
     "has_wrc_req": false
    },
    {
@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -65,14 +70,9 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 63
+  "total_counts": 65
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 357
+    "counts": 358
    },
    {
     "author": "SubSmartstocks",
@@ -113,6 +113,10 @@
     "counts": 3
    },
    {
+    "author": "noduorg",
+    "counts": 2
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 2
    },
@@ -135,13 +139,9 @@
    {
     "author": "Multiconcepted",
     "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 2833
+  "total_counts": 2835
  },
- "latest_count": 39402831
+ "latest_count": 39402833
 }
