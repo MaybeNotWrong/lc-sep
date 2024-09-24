@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,9 +80,14 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 20282
+  "total_counts": 20283
  },
  "100k": {
   "hoc": [
@@ -131,6 +136,10 @@
     "counts": 1
    },
    {
+    "author": "treje",
+    "counts": 1
+   },
+   {
     "author": "naimagawa",
     "counts": 1
    },
@@ -139,15 +148,15 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "Chalupa_Grandpa",
     "counts": 1
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "VitaminB16",
     "counts": 1
    }
   ],
-  "total_counts": 16107
+  "total_counts": 16108
  },
- "latest_count": 39516107
+ "latest_count": 39516108
 }
