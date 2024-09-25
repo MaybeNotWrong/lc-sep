@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 175,
+    "author": "greenpeppercat",
+    "counts": 408,
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
-    "counts": 175,
+    "author": "amazingpikachu_38",
+    "counts": 408,
     "has_wrc_req": false
    },
    {
@@ -17,17 +17,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 351
+  "total_counts": 817
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 8261
+    "counts": 8494
    },
    {
     "author": "greenpeppercat",
-    "counts": 8184
+    "counts": 8417
    },
    {
     "author": "Lonadont",
@@ -58,10 +58,6 @@
     "counts": 3
    },
    {
-    "author": "artbn",
-    "counts": 2
-   },
-   {
     "author": "treje",
     "counts": 2
    },
@@ -70,19 +66,11 @@
     "counts": 2
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1
+    "author": "artbn",
+    "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 1
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1
-   },
-   {
-    "author": "Chalupa_Grandpa",
+    "author": "LeinadSpoon",
     "counts": 1
    },
    {
@@ -90,11 +78,23 @@
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Multiconcepted",
+    "counts": 1
+   },
+   {
+    "author": "PaleRepresentative",
+    "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 1
    }
   ],
-  "total_counts": 16642
+  "total_counts": 17108
  },
- "latest_count": 39516642
+ "latest_count": 39517108
 }
