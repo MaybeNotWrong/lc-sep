@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 13354,
-    "has_wrc_req": true
-   },
-   {
     "author": "greenpeppercat",
     "counts": 13354,
     "has_wrc_req": true
    },
    {
+    "author": "amazingpikachu_38",
+    "counts": 13354,
+    "has_wrc_req": true
+   },
+   {
     "author": "Lonadont",
-    "counts": 36,
+    "counts": 37,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26808
+  "total_counts": 26809
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 132
+    "counts": 133
    },
    {
     "author": "SubSmartstocks",
@@ -103,11 +103,11 @@
     "counts": 8
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "NobodyL0vesMe",
     "counts": 5
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Tranquilsunrise",
     "counts": 5
    },
    {
@@ -115,16 +115,12 @@
     "counts": 3
    },
    {
-    "author": "treje",
-    "counts": 2
-   },
-   {
     "author": "artbn",
     "counts": 2
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1
+    "author": "treje",
+    "counts": 2
    },
    {
     "author": "Multiconcepted",
@@ -145,9 +141,13 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1
    }
   ],
-  "total_counts": 43099
+  "total_counts": 43100
  },
- "latest_count": 39543099
+ "latest_count": 39543100
 }
