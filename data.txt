@@ -12,13 +12,18 @@
     "has_wrc_req": true
    },
    {
+    "author": "KalockSwig",
+    "counts": 40,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 38,
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
-    "counts": 24,
+    "author": "LeinadSpoon",
+    "counts": 18,
     "has_wrc_req": false
    },
    {
@@ -47,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26814
+  "total_counts": 26846
  },
  "100k": {
   "hoc": [
@@ -84,6 +84,10 @@
     "counts": 134
    },
    {
+    "author": "KalockSwig",
+    "counts": 42
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 42
    },
@@ -92,8 +96,8 @@
     "counts": 37
    },
    {
-    "author": "KalockSwig",
-    "counts": 26
+    "author": "LeinadSpoon",
+    "counts": 19
    },
    {
     "author": "noduorg",
@@ -117,10 +121,6 @@
    },
    {
     "author": "naimagawa",
-    "counts": 3
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 3
    },
    {
@@ -152,7 +152,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43105
+  "total_counts": 43137
  },
- "latest_count": 39543105
+ "latest_count": 39543137
 }
