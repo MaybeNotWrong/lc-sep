@@ -1,109 +1,13 @@
 {
  "day": {
-  "hoc": [
-   {
-    "author": "amazingpikachu_38",
-    "counts": 10171,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 10093,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 96,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 33,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 31,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 12,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "KalockSwig",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   }
-  ],
-  "total_counts": 20465
+  "hoc": [],
+  "total_counts": 0
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 8085
+    "counts": 8086
    },
    {
     "author": "greenpeppercat",
@@ -130,15 +34,15 @@
     "counts": 7
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 3
-   },
-   {
     "author": "naimagawa",
     "counts": 3
    },
    {
-    "author": "artbn",
+    "author": "NobodyL0vesMe",
+    "counts": 3
+   },
+   {
+    "author": "treje",
     "counts": 2
    },
    {
@@ -146,7 +50,7 @@
     "counts": 2
    },
    {
-    "author": "treje",
+    "author": "artbn",
     "counts": 2
    },
    {
@@ -158,7 +62,7 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "Multiconcepted",
     "counts": 1
    },
    {
@@ -170,11 +74,11 @@
     "counts": 1
    },
    {
-    "author": "Multiconcepted",
+    "author": "VitaminB16",
     "counts": 1
    }
   ],
-  "total_counts": 16290
+  "total_counts": 16291
  },
- "latest_count": 39516290
+ "latest_count": 39516291
 }
