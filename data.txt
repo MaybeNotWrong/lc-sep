@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
@@ -42,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
@@ -57,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 64
+  "total_counts": 65
  },
  "100k": {
   "hoc": [
@@ -110,11 +110,11 @@
     "counts": 8
    },
    {
-    "author": "naimagawa",
+    "author": "Tranquilsunrise",
     "counts": 7
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "naimagawa",
     "counts": 7
    },
    {
@@ -126,15 +126,15 @@
     "counts": 6
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 3
+   },
+   {
     "author": "VitaminB16",
     "counts": 3
    },
    {
     "author": "Multiconcepted",
-    "counts": 2
-   },
-   {
-    "author": "PaleRepresentative",
     "counts": 2
    },
    {
@@ -146,7 +146,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43529
+  "total_counts": 43530
  },
- "latest_count": 39543529
+ "latest_count": 39543530
 }
