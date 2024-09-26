@@ -3,22 +3,27 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 19,
+    "counts": 20,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
     "counts": 18,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 37
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 21551
+    "counts": 21552
    },
    {
     "author": "greenpeppercat",
@@ -45,11 +50,11 @@
     "counts": 39
    },
    {
-    "author": "artbn",
-    "counts": 21
+    "author": "davidjl123",
+    "counts": 22
    },
    {
-    "author": "davidjl123",
+    "author": "artbn",
     "counts": 21
    },
    {
@@ -69,11 +74,11 @@
     "counts": 7
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "naimagawa",
     "counts": 6
    },
    {
-    "author": "naimagawa",
+    "author": "Chalupa_Grandpa",
     "counts": 6
    },
    {
@@ -85,11 +90,7 @@
     "counts": 2
    },
    {
-    "author": "VitaminB16",
-    "counts": 1
-   },
-   {
-    "author": "PaleRepresentative",
+    "author": "MrGally75",
     "counts": 1
    },
    {
@@ -97,11 +98,15 @@
     "counts": 1
    },
    {
-    "author": "MrGally75",
+    "author": "PaleRepresentative",
+    "counts": 1
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1
    }
   ],
-  "total_counts": 43502
+  "total_counts": 43504
  },
- "latest_count": 39543502
+ "latest_count": 39543504
 }
