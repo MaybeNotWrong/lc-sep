@@ -2,27 +2,32 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 10,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 3,
+    "author": "SubSmartstocks",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "naimagawa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -32,17 +37,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,9 +45,19 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 35
+  "total_counts": 42
  },
  "100k": {
   "hoc": [
@@ -66,7 +71,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 416
+    "counts": 418
    },
    {
     "author": "LeinadSpoon",
@@ -78,7 +83,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 116
+    "counts": 119
    },
    {
     "author": "cuteballgames",
@@ -86,7 +91,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "artbn",
@@ -106,7 +111,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "NobodyL0vesMe",
@@ -137,15 +142,15 @@
     "counts": 3
    },
    {
-    "author": "MrGally75",
+    "author": "Limes_Are_Green",
     "counts": 1
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "MrGally75",
     "counts": 1
    }
   ],
-  "total_counts": 44136
+  "total_counts": 44143
  },
- "latest_count": 39544136
+ "latest_count": 39544143
 }
