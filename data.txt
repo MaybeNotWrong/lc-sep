@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 10025,
+    "counts": 10040,
     "has_wrc_req": false
    },
    {
@@ -13,16 +13,16 @@
    },
    {
     "author": "naimagawa",
-    "counts": 84,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 19,
+    "counts": 100,
     "has_wrc_req": false
    },
    {
     "author": "PaleRepresentative",
+    "counts": 19,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 19,
     "has_wrc_req": false
    },
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "SubSmartspoons",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,18 +82,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartspoons",
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20136
+  "total_counts": 20167
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 2598
+    "counts": 2613
    },
    {
     "author": "amazingpikachu_38",
@@ -101,14 +101,14 @@
    },
    {
     "author": "naimagawa",
-    "counts": 84
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 19
+    "counts": 100
    },
    {
     "author": "SubSmartstocks",
+    "counts": 19
+   },
+   {
+    "author": "PaleRepresentative",
     "counts": 19
    },
    {
@@ -120,27 +120,23 @@
     "counts": 9
    },
    {
-    "author": "davidjl123",
-    "counts": 6
-   },
-   {
     "author": "cuteballgames",
     "counts": 6
    },
    {
-    "author": "noduorg",
-    "counts": 2
+    "author": "davidjl123",
+    "counts": 6
    },
    {
     "author": "LeinadSpoon",
     "counts": 2
    },
    {
-    "author": "treje",
-    "counts": 1
+    "author": "noduorg",
+    "counts": 2
    },
    {
-    "author": "SubSmartspoons",
+    "author": "VitaminB16",
     "counts": 1
    },
    {
@@ -152,11 +148,15 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "treje",
     "counts": 1
    }
   ],
-  "total_counts": 5271
+  "total_counts": 5302
  },
- "latest_count": 39605271
+ "latest_count": 39605302
 }
