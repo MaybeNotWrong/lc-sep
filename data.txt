@@ -43,7 +43,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartspoons",
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,17 +87,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
+    "author": "SubSmartspoons",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 20174
+  "total_counts": 20175
  },
  "100k": {
   "hoc": [
@@ -130,7 +130,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 6
+    "counts": 7
    },
    {
     "author": "LeinadSpoon",
@@ -143,10 +143,6 @@
    {
     "author": "noduorg",
     "counts": 2
-   },
-   {
-    "author": "artbn",
-    "counts": 1
    },
    {
     "author": "SubSmartspoons",
@@ -163,9 +159,13 @@
    {
     "author": "VitaminB16",
     "counts": 1
+   },
+   {
+    "author": "artbn",
+    "counts": 1
    }
   ],
-  "total_counts": 5309
+  "total_counts": 5310
  },
- "latest_count": 39605309
+ "latest_count": 39605310
 }
