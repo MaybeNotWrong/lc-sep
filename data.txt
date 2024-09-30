@@ -13,7 +13,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 23,
+    "counts": 24,
     "has_wrc_req": false
    },
    {
@@ -42,11 +42,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
@@ -55,9 +50,14 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 698
+  "total_counts": 699
  },
  "100k": {
   "hoc": [
@@ -79,7 +79,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 49
+    "counts": 50
    },
    {
     "author": "SubSmartstocks",
@@ -106,19 +106,27 @@
     "counts": 4
    },
    {
-    "author": "noduorg",
-    "counts": 2
-   },
-   {
     "author": "VitaminB16",
     "counts": 2
    },
    {
-    "author": "artbn",
-    "counts": 1
+    "author": "noduorg",
+    "counts": 2
    },
    {
     "author": "Multiconcepted",
+    "counts": 1
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1
+   },
+   {
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "co3_carbonate",
     "counts": 1
    },
    {
@@ -130,19 +138,11 @@
     "counts": 1
    },
    {
-    "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
-    "counts": 1
-   },
-   {
-    "author": "Christmas_Missionary",
+    "author": "artbn",
     "counts": 1
    }
   ],
-  "total_counts": 6054
+  "total_counts": 6055
  },
- "latest_count": 39606054
+ "latest_count": 39606055
 }
