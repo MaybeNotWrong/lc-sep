@@ -35,9 +35,14 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 671
+  "total_counts": 672
  },
  "100k": {
   "hoc": [
@@ -78,12 +83,16 @@
     "counts": 7
    },
    {
+    "author": "treje",
+    "counts": 4
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 4
    },
    {
-    "author": "treje",
-    "counts": 4
+    "author": "VitaminB16",
+    "counts": 2
    },
    {
     "author": "noduorg",
@@ -94,11 +103,15 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "Multiconcepted",
     "counts": 1
    },
    {
-    "author": "Multiconcepted",
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "co3_carbonate",
     "counts": 1
    },
    {
@@ -108,17 +121,9 @@
    {
     "author": "ddodd69",
     "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
-    "counts": 1
    }
   ],
-  "total_counts": 6027
+  "total_counts": 6028
  },
- "latest_count": 39606027
+ "latest_count": 39606028
 }
