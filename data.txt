@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -47,7 +53,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 7
+    "counts": 8
    },
    {
     "author": "treje",
@@ -86,7 +92,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6135
+  "total_counts": 6136
  },
- "latest_count": 39606135
+ "latest_count": 39606136
 }
