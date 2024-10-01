@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "Lonadont",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -12,17 +17,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "KalockSwig",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -30,9 +25,14 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -54,7 +54,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 67
+    "counts": 68
    },
    {
     "author": "SubSmartstocks",
@@ -97,10 +97,6 @@
     "counts": 3
    },
    {
-    "author": "artbn",
-    "counts": 2
-   },
-   {
     "author": "Multiconcepted",
     "counts": 2
    },
@@ -109,19 +105,23 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
+    "author": "KalockSwig",
+    "counts": 1
+   },
+   {
     "author": "SubSmartspoons",
     "counts": 1
    },
    {
     "author": "co3_carbonate",
     "counts": 1
-   },
-   {
-    "author": "KalockSwig",
-    "counts": 1
    }
   ],
-  "total_counts": 6147
+  "total_counts": 6148
  },
- "latest_count": 39606147
+ "latest_count": 39606148
 }
