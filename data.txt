@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "greenpeppercat",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -11,7 +17,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 2618
+    "counts": 2619
    },
    {
     "author": "PaleRepresentative",
@@ -30,11 +36,11 @@
     "counts": 86
    },
    {
-    "author": "davidjl123",
+    "author": "LeinadSpoon",
     "counts": 25
    },
    {
-    "author": "LeinadSpoon",
+    "author": "davidjl123",
     "counts": 25
    },
    {
@@ -66,11 +72,11 @@
     "counts": 5
    },
    {
-    "author": "artbn",
+    "author": "VitaminB16",
     "counts": 4
    },
    {
-    "author": "VitaminB16",
+    "author": "artbn",
     "counts": 4
    },
    {
@@ -90,7 +96,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6273
+  "total_counts": 6274
  },
- "latest_count": 39606273
+ "latest_count": 39606274
 }
