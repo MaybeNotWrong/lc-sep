@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,12 +22,27 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,25 +55,15 @@
     "author": "greenpeppercat",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 20
+  "total_counts": 21
  },
  "100k": {
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 2785
+    "counts": 2780
    },
    {
     "author": "noduorg",
@@ -71,15 +71,15 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1297
+    "counts": 1293
    },
    {
     "author": "LeinadSpoon",
-    "counts": 213
+    "counts": 212
    },
    {
     "author": "Lonadont",
-    "counts": 163
+    "counts": 161
    },
    {
     "author": "Chalupa_Grandpa",
@@ -99,7 +99,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 38
+    "counts": 36
    },
    {
     "author": "naimagawa",
@@ -114,27 +114,27 @@
     "counts": 7
    },
    {
-    "author": "davidjl123",
-    "counts": 6
-   },
-   {
     "author": "Gameknight046",
     "counts": 5
    },
    {
-    "author": "artbn",
-    "counts": 3
+    "author": "davidjl123",
+    "counts": 5
    },
    {
     "author": "Multiconcepted",
     "counts": 3
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 1
    }
   ],
-  "total_counts": 6302
+  "total_counts": 6286
  },
- "latest_count": 38606293
+ "latest_count": 38606284
 }
