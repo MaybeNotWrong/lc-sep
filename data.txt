@@ -8,7 +8,12 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 6,
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "KalockSwig",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -17,12 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -32,22 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,7 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +65,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 39
+  "total_counts": 43
  },
  "100k": {
   "hoc": [
@@ -93,7 +98,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 92
+    "counts": 93
    },
    {
     "author": "davidjl123",
@@ -105,11 +110,11 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 23
+    "counts": 25
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 22
+    "counts": 23
    },
    {
     "author": "cuteballgames",
@@ -156,7 +161,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6303
+  "total_counts": 6307
  },
- "latest_count": 39606302
+ "latest_count": 39606305
 }
