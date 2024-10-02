@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "SubSmartstocks",
+    "counts": 14,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 14,
     "has_wrc_req": false
    },
    {
     "author": "KalockSwig",
-    "counts": 13,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 13,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -22,12 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,12 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "greenpeppercat",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,22 +72,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 64
+  "total_counts": 67
  },
  "100k": {
   "hoc": [
@@ -108,11 +108,11 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 99
+    "counts": 100
    },
    {
     "author": "KalockSwig",
-    "counts": 33
+    "counts": 34
    },
    {
     "author": "davidjl123",
@@ -147,6 +147,10 @@
     "counts": 5
    },
    {
+    "author": "artbn",
+    "counts": 5
+   },
+   {
     "author": "Multiconcepted",
     "counts": 4
    },
@@ -159,10 +163,6 @@
     "counts": 4
    },
    {
-    "author": "artbn",
-    "counts": 4
-   },
-   {
     "author": "SubSmartspoons",
     "counts": 1
    },
@@ -171,7 +171,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6328
+  "total_counts": 6331
  },
- "latest_count": 39606325
+ "latest_count": 39606328
 }
