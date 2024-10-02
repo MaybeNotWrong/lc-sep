@@ -3,16 +3,16 @@
   "hoc": [
    {
     "author": "KalockSwig",
-    "counts": 16,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 14,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
+    "counts": 14,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 14,
     "has_wrc_req": false
    },
@@ -22,18 +22,23 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
+    "author": "naimagawa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -47,17 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,17 +77,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "greenpeppercat",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 71
+  "total_counts": 74
  },
  "100k": {
   "hoc": [
@@ -112,15 +117,15 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 36
+    "counts": 37
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 28
    },
    {
     "author": "davidjl123",
     "counts": 28
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 27
    },
    {
     "author": "Chalupa_Grandpa",
@@ -139,12 +144,12 @@
     "counts": 7
    },
    {
-    "author": "treje",
+    "author": "noduorg",
     "counts": 6
    },
    {
-    "author": "noduorg",
-    "counts": 5
+    "author": "treje",
+    "counts": 6
    },
    {
     "author": "artbn",
@@ -171,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6335
+  "total_counts": 6338
  },
- "latest_count": 39606332
+ "latest_count": 39606335
 }
