@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
+    "author": "SubSmartstocks",
     "counts": 27,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 26,
+    "author": "Lonadont",
+    "counts": 27,
     "has_wrc_req": false
    },
    {
@@ -22,7 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "davidjl123",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -32,7 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Christmas_Missionary",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -48,7 +48,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -59,6 +59,16 @@
    {
     "author": "artbn",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,19 +85,9 @@
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 127
+  "total_counts": 129
  },
  "100k": {
   "hoc": [
@@ -101,7 +101,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 372
+    "counts": 373
    },
    {
     "author": "naimagawa",
@@ -113,14 +113,14 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 82
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 25
+    "counts": 83
    },
    {
     "author": "davidjl123",
+    "counts": 25
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 25
    },
    {
@@ -148,15 +148,15 @@
     "counts": 5
    },
    {
+    "author": "artbn",
+    "counts": 4
+   },
+   {
     "author": "treje",
     "counts": 4
    },
    {
     "author": "VitaminB16",
-    "counts": 4
-   },
-   {
-    "author": "artbn",
     "counts": 4
    },
    {
@@ -176,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6262
+  "total_counts": 6264
  },
- "latest_count": 39606262
+ "latest_count": 39606264
 }
