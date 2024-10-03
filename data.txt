@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 28,
+    "counts": 29,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,12 +57,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 100
+  "total_counts": 101
  },
  "100k": {
   "hoc": [
@@ -90,7 +90,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 135
+    "counts": 136
    },
    {
     "author": "SubSmartstocks",
@@ -129,20 +129,16 @@
     "counts": 11
    },
    {
-    "author": "ddodd69",
+    "author": "treje",
     "counts": 9
    },
    {
-    "author": "treje",
+    "author": "ddodd69",
     "counts": 9
    },
    {
     "author": "artbn",
     "counts": 7
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 5
    },
    {
     "author": "Multiconcepted",
@@ -153,7 +149,11 @@
     "counts": 5
    },
    {
-    "author": "co3_carbonate",
+    "author": "VitaminB16",
+    "counts": 5
+   },
+   {
+    "author": "Limes_Are_Green",
     "counts": 1
    },
    {
@@ -161,11 +161,11 @@
     "counts": 1
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "co3_carbonate",
     "counts": 1
    }
   ],
-  "total_counts": 6526
+  "total_counts": 6527
  },
- "latest_count": 39606523
+ "latest_count": 39606524
 }
