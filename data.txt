@@ -2,13 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Lonadont",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -17,22 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 9
  },
  "100k": {
   "hoc": [
@@ -54,7 +54,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 108
+    "counts": 109
    },
    {
     "author": "naimagawa",
@@ -89,11 +89,11 @@
     "counts": 10
    },
    {
-    "author": "treje",
+    "author": "ddodd69",
     "counts": 9
    },
    {
-    "author": "ddodd69",
+    "author": "treje",
     "counts": 9
    },
    {
@@ -105,12 +105,16 @@
     "counts": 5
    },
    {
+    "author": "VitaminB16",
+    "counts": 4
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 4
    },
    {
-    "author": "VitaminB16",
-    "counts": 4
+    "author": "co3_carbonate",
+    "counts": 1
    },
    {
     "author": "SubSmartspoons",
@@ -119,13 +123,9 @@
    {
     "author": "Limes_Are_Green",
     "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
    }
   ],
-  "total_counts": 6434
+  "total_counts": 6435
  },
- "latest_count": 39606431
+ "latest_count": 39606432
 }
