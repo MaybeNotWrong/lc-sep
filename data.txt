@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 13,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
-    "counts": 12,
+    "counts": 110,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
-    "counts": 12,
+    "counts": 110,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 60
+  "total_counts": 257
  },
  "100k": {
   "hoc": [
@@ -64,12 +64,20 @@
     "counts": 377
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 166
+   },
+   {
     "author": "Lonadont",
-    "counts": 158
+    "counts": 159
    },
    {
     "author": "SubSmartstocks",
     "counts": 150
+   },
+   {
+    "author": "artbn",
+    "counts": 118
    },
    {
     "author": "naimagawa",
@@ -78,10 +86,6 @@
    {
     "author": "KalockSwig",
     "counts": 69
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 68
    },
    {
     "author": "davidjl123",
@@ -94,10 +98,6 @@
    {
     "author": "cuteballgames",
     "counts": 31
-   },
-   {
-    "author": "artbn",
-    "counts": 20
    },
    {
     "author": "Christmas_Missionary",
@@ -132,11 +132,11 @@
     "counts": 1
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "SubSmartspoons",
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "Limes_Are_Green",
     "counts": 1
    },
    {
@@ -144,7 +144,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6646
+  "total_counts": 6843
  },
- "latest_count": 39606643
+ "latest_count": 39606840
 }
