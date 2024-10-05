@@ -37,13 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
+    "author": "noduorg",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21059
+  "total_counts": 21060
  },
  "100k": {
   "hoc": [
@@ -128,7 +128,7 @@
    },
    {
     "author": "treje",
-    "counts": 19
+    "counts": 20
    },
    {
     "author": "noduorg",
@@ -143,10 +143,6 @@
     "counts": 6
    },
    {
-    "author": "vovker1",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1
    },
@@ -155,7 +151,7 @@
     "counts": 1
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "co3_carbonate",
     "counts": 1
    },
    {
@@ -163,11 +159,15 @@
     "counts": 1
    },
    {
-    "author": "co3_carbonate",
+    "author": "Limes_Are_Green",
+    "counts": 1
+   },
+   {
+    "author": "vovker1",
     "counts": 1
    }
   ],
-  "total_counts": 31245
+  "total_counts": 31246
  },
- "latest_count": 39631239
+ "latest_count": 39631240
 }
