@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 81,
+    "author": "naimagawa",
+    "counts": 239,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 79,
+    "author": "amazingpikachu_38",
+    "counts": 239,
     "has_wrc_req": false
    },
    {
@@ -17,13 +17,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 162
+  "total_counts": 480
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 15048
+    "counts": 15206
    },
    {
     "author": "greenpeppercat",
@@ -42,6 +42,10 @@
     "counts": 377
    },
    {
+    "author": "naimagawa",
+    "counts": 350
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 292
    },
@@ -52,10 +56,6 @@
    {
     "author": "artbn",
     "counts": 203
-   },
-   {
-    "author": "naimagawa",
-    "counts": 190
    },
    {
     "author": "KalockSwig",
@@ -70,11 +70,11 @@
     "counts": 44
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "cuteballgames",
     "counts": 34
    },
    {
-    "author": "cuteballgames",
+    "author": "Christmas_Missionary",
     "counts": 34
    },
    {
@@ -102,15 +102,11 @@
     "counts": 2
    },
    {
-    "author": "vovker1",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "co3_carbonate",
     "counts": 1
    },
    {
@@ -118,11 +114,15 @@
     "counts": 1
    },
    {
-    "author": "co3_carbonate",
+    "author": "Limes_Are_Green",
+    "counts": 1
+   },
+   {
+    "author": "vovker1",
     "counts": 1
    }
   ],
-  "total_counts": 31516
+  "total_counts": 31834
  },
- "latest_count": 39631510
+ "latest_count": 39631827
 }
