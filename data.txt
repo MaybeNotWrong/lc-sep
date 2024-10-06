@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -10,20 +15,15 @@
     "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 10
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 14970
+    "counts": 14972
    },
    {
     "author": "greenpeppercat",
@@ -55,7 +55,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 112
+    "counts": 114
    },
    {
     "author": "KalockSwig",
@@ -122,7 +122,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31360
+  "total_counts": 31364
  },
- "latest_count": 39631354
+ "latest_count": 39631358
 }
