@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -47,7 +53,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 65
+    "counts": 66
    },
    {
     "author": "davidjl123",
@@ -94,11 +100,11 @@
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "Limes_Are_Green",
     "counts": 1
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -106,7 +112,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35115
+  "total_counts": 35116
  },
- "latest_count": 39635107
+ "latest_count": 39635108
 }
