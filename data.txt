@@ -3,12 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 4,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -17,18 +12,13 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -40,9 +30,19 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 20
+  "total_counts": 21
  },
  "100k": {
   "hoc": [
@@ -64,7 +64,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 562
+    "counts": 563
    },
    {
     "author": "PaleRepresentative",
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35135
+  "total_counts": 35136
  },
- "latest_count": 39635127
+ "latest_count": 39635128
 }
