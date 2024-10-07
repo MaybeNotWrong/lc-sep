@@ -2,8 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -15,19 +25,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -73,7 +73,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 66
+    "counts": 67
    },
    {
     "author": "Christmas_Missionary",
@@ -112,15 +112,11 @@
     "counts": 2
    },
    {
+    "author": "vovker1",
+    "counts": 1
+   },
+   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -128,11 +124,15 @@
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "co3_carbonate",
     "counts": 1
    }
   ],
-  "total_counts": 35121
+  "total_counts": 35122
  },
- "latest_count": 39635113
+ "latest_count": 39635114
 }
