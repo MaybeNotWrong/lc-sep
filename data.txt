@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 23,
+    "counts": 34,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 16,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 5,
+    "author": "amazingpikachu_38",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 4,
+    "author": "cuteballgames",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -32,22 +37,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "KalockSwig",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "ddodd69",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 60
+  "total_counts": 83
  },
  "100k": {
   "hoc": [
@@ -85,11 +85,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1333
+    "counts": 1344
    },
    {
     "author": "Lonadont",
-    "counts": 671
+    "counts": 682
    },
    {
     "author": "SubSmartstocks",
@@ -121,7 +121,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 50
+    "counts": 51
    },
    {
     "author": "Chalupa_Grandpa",
@@ -152,15 +152,11 @@
     "counts": 4
    },
    {
+    "author": "vovker1",
+    "counts": 1
+   },
+   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -168,11 +164,15 @@
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "co3_carbonate",
     "counts": 1
    }
   ],
-  "total_counts": 35513
+  "total_counts": 35536
  },
- "latest_count": 39635504
+ "latest_count": 39635527
 }
