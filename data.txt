@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -46,11 +52,11 @@
     "counts": 81
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 73
+    "author": "davidjl123",
+    "counts": 74
    },
    {
-    "author": "davidjl123",
+    "author": "Christmas_Missionary",
     "counts": 73
    },
    {
@@ -106,7 +112,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35453
+  "total_counts": 35454
  },
- "latest_count": 39635445
+ "latest_count": 39635446
 }
