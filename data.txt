@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -17,11 +17,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -30,15 +25,20 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 9
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16860
+    "counts": 16861
    },
    {
     "author": "greenpeppercat",
@@ -77,19 +77,19 @@
     "counts": 81
    },
    {
-    "author": "davidjl123",
-    "counts": 74
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 74
    },
    {
-    "author": "cuteballgames",
-    "counts": 48
+    "author": "davidjl123",
+    "counts": 74
    },
    {
     "author": "Chalupa_Grandpa",
+    "counts": 48
+   },
+   {
+    "author": "cuteballgames",
     "counts": 48
    },
    {
@@ -117,15 +117,11 @@
     "counts": 3
    },
    {
+    "author": "vovker1",
+    "counts": 1
+   },
+   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -133,11 +129,15 @@
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "co3_carbonate",
     "counts": 1
    }
   ],
-  "total_counts": 35461
+  "total_counts": 35462
  },
- "latest_count": 39635453
+ "latest_count": 39635454
 }
