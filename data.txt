@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
@@ -62,7 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -70,14 +75,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 214
+  "total_counts": 215
  },
  "100k": {
   "hoc": [
@@ -115,7 +115,7 @@
    },
    {
     "author": "artbn",
-    "counts": 208
+    "counts": 209
    },
    {
     "author": "KalockSwig",
@@ -130,11 +130,11 @@
     "counts": 79
    },
    {
-    "author": "cuteballgames",
+    "author": "Chalupa_Grandpa",
     "counts": 51
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "cuteballgames",
     "counts": 51
    },
    {
@@ -162,15 +162,11 @@
     "counts": 4
    },
    {
+    "author": "vovker1",
+    "counts": 1
+   },
+   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -178,11 +174,15 @@
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "co3_carbonate",
     "counts": 1
    }
   ],
-  "total_counts": 35667
+  "total_counts": 35668
  },
- "latest_count": 39635657
+ "latest_count": 39635658
 }
