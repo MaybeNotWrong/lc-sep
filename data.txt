@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
@@ -43,11 +48,6 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 203
+  "total_counts": 204
  },
  "100k": {
   "hoc": [
@@ -125,12 +125,12 @@
     "counts": 78
    },
    {
-    "author": "cuteballgames",
+    "author": "Chalupa_Grandpa",
     "counts": 51
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 50
+    "author": "cuteballgames",
+    "counts": 51
    },
    {
     "author": "treje",
@@ -157,15 +157,11 @@
     "counts": 4
    },
    {
+    "author": "vovker1",
+    "counts": 1
+   },
+   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -173,11 +169,15 @@
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "SubSmartspoons",
+    "counts": 1
+   },
+   {
+    "author": "co3_carbonate",
     "counts": 1
    }
   ],
-  "total_counts": 35656
+  "total_counts": 35657
  },
- "latest_count": 39635646
+ "latest_count": 39635647
 }
