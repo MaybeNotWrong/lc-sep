@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "KalockSwig",
-    "counts": 32,
+    "counts": 33,
     "has_wrc_req": false
    },
    {
@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Christian230102",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -42,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "PaleRepresentative",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,17 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Christian230102",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 93
+  "total_counts": 95
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 449
+    "counts": 450
    },
    {
     "author": "PaleRepresentative",
@@ -152,19 +152,19 @@
     "counts": 6
    },
    {
+    "author": "Christian230102",
+    "counts": 2
+   },
+   {
     "author": "Limes_Are_Green",
     "counts": 1
    },
    {
-    "author": "Christian230102",
+    "author": "SubSmartspoons",
     "counts": 1
    },
    {
     "author": "co3_carbonate",
-    "counts": 1
-   },
-   {
-    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -176,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36695
+  "total_counts": 36697
  },
- "latest_count": 39636681
+ "latest_count": 39636683
 }
