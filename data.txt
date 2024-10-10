@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "KalockSwig",
-    "counts": 33,
+    "counts": 34,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "PaleRepresentative",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 95
+  "total_counts": 96
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 450
+    "counts": 451
    },
    {
     "author": "PaleRepresentative",
@@ -176,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36697
+  "total_counts": 36698
  },
- "latest_count": 39636683
+ "latest_count": 39636684
 }
