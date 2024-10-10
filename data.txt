@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 9,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "KalockSwig",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -13,11 +18,6 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "KalockSwig",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26
+  "total_counts": 28
  },
  "100k": {
   "hoc": [
@@ -64,7 +64,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 815
+    "counts": 816
    },
    {
     "author": "SubSmartstocks",
@@ -72,7 +72,7 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 421
+    "counts": 422
    },
    {
     "author": "PaleRepresentative",
@@ -131,11 +131,11 @@
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "co3_carbonate",
     "counts": 1
    },
    {
-    "author": "co3_carbonate",
+    "author": "SubSmartspoons",
     "counts": 1
    },
    {
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36628
+  "total_counts": 36630
  },
- "latest_count": 39636614
+ "latest_count": 39636616
 }
