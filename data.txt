@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 2,
     "has_wrc_req": false
@@ -72,11 +77,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 319
+  "total_counts": 320
  },
  "100k": {
   "hoc": [
@@ -148,12 +148,12 @@
     "counts": 52
    },
    {
-    "author": "ddodd69",
+    "author": "treje",
     "counts": 36
    },
    {
-    "author": "treje",
-    "counts": 35
+    "author": "ddodd69",
+    "counts": 36
    },
    {
     "author": "noduorg",
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36921
+  "total_counts": 36922
  },
- "latest_count": 39636907
+ "latest_count": 39636908
 }
