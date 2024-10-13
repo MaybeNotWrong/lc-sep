@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -69,7 +74,7 @@
    },
    {
     "author": "treje",
-    "counts": 43
+    "counts": 44
    },
    {
     "author": "ddodd69",
@@ -112,15 +117,15 @@
     "counts": 1
    },
    {
-    "author": "co3_carbonate",
+    "author": "SubSmartspoons",
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "co3_carbonate",
     "counts": 1
    }
   ],
-  "total_counts": 38339
+  "total_counts": 38340
  },
- "latest_count": 39638325
+ "latest_count": 39638326
 }
