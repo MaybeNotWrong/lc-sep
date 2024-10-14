@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 25619,
+    "counts": 25767,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 2782,
+    "counts": 2917,
     "has_wrc_req": false
    },
    {
@@ -24,6 +24,11 @@
    {
     "author": "Lonadont",
     "counts": 57,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 18,
     "has_wrc_req": false
    },
    {
@@ -52,22 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 51460
+  "total_counts": 51758
  },
  "100k": {
   "hoc": [
@@ -102,11 +102,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 38653
+    "counts": 38801
    },
    {
     "author": "naimagawa",
-    "counts": 4726
+    "counts": 4861
    },
    {
     "author": "LeinadSpoon",
@@ -165,6 +165,10 @@
     "counts": 33
    },
    {
+    "author": "TheMatsValk",
+    "counts": 20
+   },
+   {
     "author": "Multiconcepted",
     "counts": 18
    },
@@ -175,10 +179,6 @@
    {
     "author": "Tranquilsunrise",
     "counts": 8
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 5
    },
    {
     "author": "Christian230102",
@@ -201,15 +201,15 @@
     "counts": 1
    },
    {
-    "author": "w7n7",
+    "author": "SubSmartspoons",
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "w7n7",
     "counts": 1
    }
   ],
-  "total_counts": 89798
+  "total_counts": 90096
  },
- "latest_count": 39689780
+ "latest_count": 39690078
 }
