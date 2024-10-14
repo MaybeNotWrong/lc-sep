@@ -2,14 +2,19 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 6255,
+    "author": "greenpeppercat",
+    "counts": 6495,
     "has_wrc_req": true
    },
    {
-    "author": "greenpeppercat",
-    "counts": 6255,
+    "author": "amazingpikachu_38",
+    "counts": 6494,
     "has_wrc_req": true
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    },
    {
     "author": "treje",
@@ -17,17 +22,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12511
+  "total_counts": 12991
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6259
+    "counts": 6498
    },
    {
     "author": "greenpeppercat",
-    "counts": 6258
+    "counts": 6498
    },
    {
     "author": "SubSmartstocks",
@@ -35,6 +40,10 @@
    },
    {
     "author": "Multiconcepted",
+    "counts": 2
+   },
+   {
+    "author": "davidjl123",
     "counts": 2
    },
    {
@@ -50,15 +59,11 @@
     "counts": 1
    },
    {
-    "author": "davidjl123",
-    "counts": 1
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 1
    }
   ],
-  "total_counts": 12526
+  "total_counts": 13006
  },
- "latest_count": 39712526
+ "latest_count": 39713006
 }
