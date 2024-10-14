@@ -3,17 +3,22 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 25767,
+    "counts": 25832,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 22892,
+    "counts": 22893,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
     "counts": 2917,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 83,
     "has_wrc_req": false
    },
    {
@@ -24,11 +29,6 @@
    {
     "author": "Lonadont",
     "counts": 57,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 18,
     "has_wrc_req": false
    },
    {
@@ -57,11 +57,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -73,6 +68,11 @@
    },
    {
     "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,17 +92,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 51758
+  "total_counts": 51889
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 40333
+    "counts": 40334
    },
    {
     "author": "greenpeppercat",
-    "counts": 38801
+    "counts": 38866
    },
    {
     "author": "naimagawa",
@@ -145,6 +145,10 @@
     "counts": 100
    },
    {
+    "author": "TheMatsValk",
+    "counts": 85
+   },
+   {
     "author": "cuteballgames",
     "counts": 68
    },
@@ -163,10 +167,6 @@
    {
     "author": "noduorg",
     "counts": 33
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 20
    },
    {
     "author": "Multiconcepted",
@@ -201,15 +201,15 @@
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "w7n7",
     "counts": 1
    },
    {
-    "author": "w7n7",
+    "author": "SubSmartspoons",
     "counts": 1
    }
   ],
-  "total_counts": 90096
+  "total_counts": 90227
  },
- "latest_count": 39690078
+ "latest_count": 39690209
 }
