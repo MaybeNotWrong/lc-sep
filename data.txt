@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -25,14 +30,9 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 25992
+  "total_counts": 25993
  },
  "100k": {
   "hoc": [
@@ -46,19 +46,27 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3
-   },
-   {
-    "author": "davidjl123",
-    "counts": 2
+    "counts": 4
    },
    {
     "author": "SubSmartstocks",
     "counts": 2
    },
    {
+    "author": "davidjl123",
+    "counts": 2
+   },
+   {
     "author": "Multiconcepted",
     "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
+    "author": "artbn",
+    "counts": 1
    },
    {
     "author": "naimagawa",
@@ -71,17 +79,9 @@
    {
     "author": "treje",
     "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
-    "author": "artbn",
-    "counts": 1
    }
   ],
-  "total_counts": 26007
+  "total_counts": 26008
  },
- "latest_count": 39726005
+ "latest_count": 39726006
 }
