@@ -2,14 +2,19 @@
  "day": {
   "hoc": [
    {
+    "author": "amazingpikachu_38",
+    "counts": 13047,
+    "has_wrc_req": true
+   },
+   {
     "author": "greenpeppercat",
     "counts": 12996,
     "has_wrc_req": true
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 12994,
-    "has_wrc_req": true
+    "author": "NobodyL0vesMe",
+    "counts": 55,
+    "has_wrc_req": false
    },
    {
     "author": "Lonadont",
@@ -47,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "co3_carbonate",
     "counts": 2,
     "has_wrc_req": false
@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,17 +92,21 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26117
+  "total_counts": 26223
  },
  "100k": {
   "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 13051
+   },
    {
     "author": "greenpeppercat",
     "counts": 12999
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 12998
+    "author": "NobodyL0vesMe",
+    "counts": 55
    },
    {
     "author": "Lonadont",
@@ -131,10 +135,6 @@
    {
     "author": "artbn",
     "counts": 3
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 2
    },
    {
     "author": "Multiconcepted",
@@ -177,7 +177,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26132
+  "total_counts": 26238
  },
- "latest_count": 39726130
+ "latest_count": 39726236
 }
