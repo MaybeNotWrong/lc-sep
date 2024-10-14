@@ -52,17 +52,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "co3_carbonate",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,14 +85,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 26079
+  "total_counts": 26080
  },
  "100k": {
   "hoc": [
@@ -140,6 +140,10 @@
     "counts": 2
    },
    {
+    "author": "co3_carbonate",
+    "counts": 2
+   },
+   {
     "author": "VitaminB16",
     "counts": 1
    },
@@ -148,11 +152,11 @@
     "counts": 1
    },
    {
-    "author": "treje",
+    "author": "Chalupa_Grandpa",
     "counts": 1
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 1
    },
    {
@@ -162,13 +166,9 @@
    {
     "author": "noduorg",
     "counts": 1
-   },
-   {
-    "author": "co3_carbonate",
-    "counts": 1
    }
   ],
-  "total_counts": 26094
+  "total_counts": 26095
  },
- "latest_count": 39726092
+ "latest_count": 39726093
 }
