@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 27680,
+    "counts": 27922,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4576,
+    "counts": 4818,
     "has_wrc_req": true
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -72,17 +77,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "w7n7",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,18 +87,23 @@
     "has_wrc_req": false
    },
    {
+    "author": "w7n7",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 55592
+  "total_counts": 56076
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 40714
+    "counts": 40956
    },
    {
     "author": "amazingpikachu_38",
@@ -111,7 +111,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 6520
+    "counts": 6762
    },
    {
     "author": "LeinadSpoon",
@@ -206,15 +206,15 @@
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "w7n7",
     "counts": 1
    },
    {
-    "author": "w7n7",
+    "author": "SubSmartspoons",
     "counts": 1
    }
   ],
-  "total_counts": 93930
+  "total_counts": 94414
  },
- "latest_count": 39693912
+ "latest_count": 39694396
 }
