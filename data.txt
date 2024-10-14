@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "greenpeppercat",
+    "counts": 23004,
+    "has_wrc_req": true
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 22892,
     "has_wrc_req": true
    },
    {
-    "author": "greenpeppercat",
-    "counts": 22846,
-    "has_wrc_req": true
+    "author": "naimagawa",
+    "counts": 166,
+    "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
-    "counts": 70,
+    "counts": 71,
     "has_wrc_req": false
    },
    {
@@ -29,11 +34,6 @@
    {
     "author": "cuteballgames",
     "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 45908
+  "total_counts": 46226
  },
  "100k": {
   "hoc": [
@@ -102,15 +102,15 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 35880
+    "counts": 36038
+   },
+   {
+    "author": "naimagawa",
+    "counts": 2110
    },
    {
     "author": "LeinadSpoon",
     "counts": 1957
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1951
    },
    {
     "author": "Lonadont",
@@ -122,7 +122,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 724
+    "counts": 725
    },
    {
     "author": "KalockSwig",
@@ -201,15 +201,15 @@
     "counts": 1
    },
    {
-    "author": "SubSmartspoons",
+    "author": "w7n7",
     "counts": 1
    },
    {
-    "author": "w7n7",
+    "author": "SubSmartspoons",
     "counts": 1
    }
   ],
-  "total_counts": 84246
+  "total_counts": 84564
  },
- "latest_count": 39684228
+ "latest_count": 39684546
 }
