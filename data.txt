@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "greenpeppercat",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -22,7 +27,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 13003
+    "counts": 13004
    },
    {
     "author": "NobodyL0vesMe",
@@ -101,7 +106,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28059
+  "total_counts": 28060
  },
- "latest_count": 39728057
+ "latest_count": 39728058
 }
