@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "greenpeppercat",
-    "counts": 1,
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "greenpeppercat",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -17,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -66,16 +66,16 @@
     "counts": 5
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 4
+   },
+   {
     "author": "treje",
     "counts": 4
    },
    {
     "author": "Christmas_Missionary",
     "counts": 4
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 3
    },
    {
     "author": "co3_carbonate",
@@ -106,7 +106,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28060
+  "total_counts": 28061
  },
- "latest_count": 39728058
+ "latest_count": 39728059
 }
