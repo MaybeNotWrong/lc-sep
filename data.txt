@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -77,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9590
+  "total_counts": 9591
  },
  "100k": {
   "hoc": [
@@ -131,7 +136,7 @@
    },
    {
     "author": "artbn",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "treje",
@@ -166,7 +171,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37647
+  "total_counts": 37648
  },
- "latest_count": 39737645
+ "latest_count": 39737646
 }
