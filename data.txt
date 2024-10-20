@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 17,
+    "counts": 20,
+    "has_wrc_req": false
+   },
+   {
+    "author": "PaleRepresentative",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -22,18 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 6,
+    "author": "cuteballgames",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 66
+  "total_counts": 72
  },
  "100k": {
   "hoc": [
@@ -95,7 +95,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 287
+    "counts": 290
    },
    {
     "author": "KalockSwig",
@@ -123,7 +123,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 45
+    "counts": 46
    },
    {
     "author": "Chalupa_Grandpa",
@@ -138,12 +138,12 @@
     "counts": 19
    },
    {
-    "author": "artbn",
-    "counts": 18
+    "author": "PaleRepresentative",
+    "counts": 19
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 17
+    "author": "artbn",
+    "counts": 18
    },
    {
     "author": "noduorg",
@@ -186,7 +186,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 40802
+  "total_counts": 40808
  },
- "latest_count": 39740798
+ "latest_count": 39740804
 }
