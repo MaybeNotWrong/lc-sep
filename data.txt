@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
+    "author": "Christmas_Missionary",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "Lonadont",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -37,6 +37,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "PaleRepresentative",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Limes_Are_Green",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -47,7 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -55,19 +65,9 @@
     "author": "andrew_wayne12",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "PaleRepresentative",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 45
+  "total_counts": 46
  },
  "100k": {
   "hoc": [
@@ -133,7 +133,7 @@
    },
    {
     "author": "PaleRepresentative",
-    "counts": 12
+    "counts": 13
    },
    {
     "author": "noduorg",
@@ -176,7 +176,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 40781
+  "total_counts": 40782
  },
- "latest_count": 39740777
+ "latest_count": 39740778
 }
