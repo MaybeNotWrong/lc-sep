@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -23,11 +28,6 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -42,16 +42,16 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30960
+  "total_counts": 30961
  },
  "100k": {
   "hoc": [
    {
-    "author": "greenpeppercat",
-    "counts": 4
+    "author": "Lonadont",
+    "counts": 5
    },
    {
-    "author": "Lonadont",
+    "author": "greenpeppercat",
     "counts": 4
    },
    {
@@ -67,7 +67,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 14
+  "total_counts": 15
  },
- "latest_count": 39800014
+ "latest_count": 39800015
 }
