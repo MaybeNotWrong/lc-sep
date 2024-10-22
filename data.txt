@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 5716,
+    "counts": 5781,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 5715,
+    "counts": 5780,
     "has_wrc_req": true
    },
    {
@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
@@ -35,24 +40,19 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 11445
+  "total_counts": 11575
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 5724
+    "counts": 5789
    },
    {
     "author": "naimagawa",
-    "counts": 5716
+    "counts": 5781
    },
    {
     "author": "Lonadont",
@@ -123,7 +123,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 11624
+  "total_counts": 11754
  },
- "latest_count": 39811622
+ "latest_count": 39811752
 }
