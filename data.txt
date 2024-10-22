@@ -73,6 +73,11 @@
    },
    {
     "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,14 +85,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 31113
+  "total_counts": 31114
  },
  "100k": {
   "hoc": [
@@ -148,19 +148,19 @@
     "counts": 2
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 1
    },
    {
     "author": "VitaminB16",
     "counts": 1
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1
    }
   ],
-  "total_counts": 167
+  "total_counts": 168
  },
- "latest_count": 39800167
+ "latest_count": 39800168
 }
