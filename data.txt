@@ -52,17 +52,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "vovker1",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -77,27 +77,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
+    "author": "Tranquilsunrise",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 33446
+  "total_counts": 33447
  },
  "100k": {
   "hoc": [
@@ -150,11 +150,11 @@
     "counts": 12
    },
    {
-    "author": "TheMatsValk",
-    "counts": 10
+    "author": "Multiconcepted",
+    "counts": 11
    },
    {
-    "author": "Multiconcepted",
+    "author": "TheMatsValk",
     "counts": 10
    },
    {
@@ -170,6 +170,10 @@
     "counts": 5
    },
    {
+    "author": "noduorg",
+    "counts": 3
+   },
+   {
     "author": "vovker1",
     "counts": 3
    },
@@ -182,15 +186,11 @@
     "counts": 3
    },
    {
-    "author": "noduorg",
-    "counts": 3
-   },
-   {
     "author": "VitaminB16",
     "counts": 1
    }
   ],
-  "total_counts": 60044
+  "total_counts": 60045
  },
- "latest_count": 39860039
+ "latest_count": 39860040
 }
