@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 6,
     "has_wrc_req": false
@@ -28,11 +33,6 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -57,11 +57,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -80,9 +75,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 82
+  "total_counts": 83
  },
  "100k": {
   "hoc": [
@@ -100,7 +100,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1381
+    "counts": 1382
    },
    {
     "author": "Lonadont",
@@ -159,11 +159,11 @@
     "counts": 6
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "noduorg",
     "counts": 4
    },
    {
-    "author": "noduorg",
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
@@ -175,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60130
+  "total_counts": 60131
  },
- "latest_count": 39860125
+ "latest_count": 39860126
 }
