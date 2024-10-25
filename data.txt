@@ -47,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -72,12 +67,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 229
+  "total_counts": 230
  },
  "100k": {
   "hoc": [
@@ -143,7 +148,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 9
+    "counts": 10
    },
    {
     "author": "artbn",
@@ -170,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60468
+  "total_counts": 60469
  },
- "latest_count": 39860463
+ "latest_count": 39860464
 }
