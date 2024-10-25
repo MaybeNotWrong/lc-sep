@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 8,
     "has_wrc_req": false
@@ -33,11 +38,6 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -57,18 +57,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -85,9 +80,14 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 130
+  "total_counts": 131
  },
  "100k": {
   "hoc": [
@@ -133,7 +133,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 25
+    "counts": 26
    },
    {
     "author": "Multiconcepted",
@@ -148,27 +148,27 @@
     "counts": 11
    },
    {
-    "author": "cuteballgames",
-    "counts": 9
-   },
-   {
     "author": "treje",
     "counts": 9
    },
    {
-    "author": "artbn",
-    "counts": 7
+    "author": "cuteballgames",
+    "counts": 9
    },
    {
     "author": "vovker1",
     "counts": 7
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 4
+    "author": "artbn",
+    "counts": 7
    },
    {
     "author": "noduorg",
+    "counts": 4
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
@@ -180,7 +180,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60178
+  "total_counts": 60179
  },
- "latest_count": 39860173
+ "latest_count": 39860174
 }
