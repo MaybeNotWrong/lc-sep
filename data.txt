@@ -27,7 +27,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -37,8 +47,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -47,22 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41
+  "total_counts": 42
  },
  "100k": {
   "hoc": [
@@ -135,15 +135,15 @@
     "counts": 10
    },
    {
+    "author": "noduorg",
+    "counts": 7
+   },
+   {
     "author": "vovker1",
     "counts": 7
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 6
-   },
-   {
-    "author": "noduorg",
     "counts": 6
    },
    {
@@ -159,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 60531
+  "total_counts": 60532
  },
- "latest_count": 39860526
+ "latest_count": 39860527
 }
