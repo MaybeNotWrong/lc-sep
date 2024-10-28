@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
@@ -52,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31807
+  "total_counts": 31808
  },
  "100k": {
   "hoc": [
@@ -131,7 +131,11 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 4
+    "counts": 5
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 3
    },
    {
     "author": "noduorg",
@@ -139,10 +143,6 @@
    },
    {
     "author": "artbn",
-    "counts": 3
-   },
-   {
-    "author": "cuteballgames",
     "counts": 3
    },
    {
@@ -154,11 +154,11 @@
     "counts": 1
    },
    {
-    "author": "treje",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "treje",
     "counts": 1
    },
    {
@@ -166,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35046
+  "total_counts": 35047
  },
- "latest_count": 39935045
+ "latest_count": 39935046
 }
