@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -40,14 +45,9 @@
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 31769
+  "total_counts": 31770
  },
  "100k": {
   "hoc": [
@@ -65,7 +65,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 30
+    "counts": 31
    },
    {
     "author": "PaleRepresentative",
@@ -128,7 +128,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35008
+  "total_counts": 35009
  },
- "latest_count": 39935007
+ "latest_count": 39935008
 }
