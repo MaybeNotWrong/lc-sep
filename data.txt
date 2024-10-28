@@ -1,17 +1,33 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 1588
+    "counts": 1603
    },
    {
     "author": "greenpeppercat",
-    "counts": 1508
+    "counts": 1523
    },
    {
     "author": "SubSmartstocks",
@@ -38,6 +54,10 @@
     "counts": 7
    },
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 5
+   },
+   {
     "author": "naimagawa",
     "counts": 4
    },
@@ -46,31 +66,19 @@
     "counts": 4
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 3
-   },
-   {
     "author": "artbn",
     "counts": 3
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 2
    },
    {
     "author": "cuteballgames",
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 1
+    "author": "NobodyL0vesMe",
+    "counts": 2
    },
    {
     "author": "Multiconcepted",
-    "counts": 1
-   },
-   {
-    "author": "treje",
     "counts": 1
    },
    {
@@ -78,11 +86,19 @@
     "counts": 1
    },
    {
+    "author": "treje",
+    "counts": 1
+   },
+   {
     "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
     "counts": 1
    }
   ],
-  "total_counts": 3239
+  "total_counts": 3271
  },
- "latest_count": 39903239
+ "latest_count": 39903271
 }
