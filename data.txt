@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Christmas_Missionary",
-    "counts": 1,
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -22,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -64,10 +64,10 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 10
+    "counts": 11
    },
    {
-    "author": "LeinadSpoon",
+    "author": "naimagawa",
     "counts": 9
    },
    {
@@ -75,7 +75,7 @@
     "counts": 9
    },
    {
-    "author": "naimagawa",
+    "author": "LeinadSpoon",
     "counts": 9
    },
    {
@@ -87,6 +87,10 @@
     "counts": 4
    },
    {
+    "author": "cuteballgames",
+    "counts": 3
+   },
+   {
     "author": "Multiconcepted",
     "counts": 3
    },
@@ -95,16 +99,8 @@
     "counts": 3
    },
    {
-    "author": "cuteballgames",
-    "counts": 3
-   },
-   {
     "author": "noduorg",
     "counts": 3
-   },
-   {
-    "author": "SSoto_21",
-    "counts": 1
    },
    {
     "author": "Cox_1920",
@@ -113,9 +109,13 @@
    {
     "author": "VitaminB16",
     "counts": 1
+   },
+   {
+    "author": "SSoto_21",
+    "counts": 1
    }
   ],
-  "total_counts": 35372
+  "total_counts": 35373
  },
- "latest_count": 39935371
+ "latest_count": 39935372
 }
