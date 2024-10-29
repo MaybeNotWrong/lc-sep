@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -19,11 +24,6 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 14
+  "total_counts": 15
  },
  "100k": {
   "hoc": [
@@ -67,7 +67,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 22
+    "counts": 23
    },
    {
     "author": "KalockSwig",
@@ -86,11 +86,11 @@
     "counts": 11
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 9
    },
    {
-    "author": "TheMatsValk",
+    "author": "LeinadSpoon",
     "counts": 9
    },
    {
@@ -102,6 +102,10 @@
     "counts": 4
    },
    {
+    "author": "cuteballgames",
+    "counts": 3
+   },
+   {
     "author": "Multiconcepted",
     "counts": 3
    },
@@ -110,31 +114,27 @@
     "counts": 3
    },
    {
-    "author": "cuteballgames",
-    "counts": 3
-   },
-   {
     "author": "noduorg",
     "counts": 3
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
-    "author": "SSoto_21",
-    "counts": 1
    },
    {
     "author": "Cox_1920",
     "counts": 1
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "VitaminB16",
+    "counts": 1
+   },
+   {
+    "author": "SSoto_21",
     "counts": 1
    }
   ],
-  "total_counts": 35382
+  "total_counts": 35383
  },
- "latest_count": 39935381
+ "latest_count": 39935382
 }
