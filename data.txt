@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 16,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -44,11 +49,6 @@
    {
     "author": "Tranquilsunrise",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 61
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 175
+    "counts": 176
    },
    {
     "author": "SubSmartstocks",
@@ -103,12 +103,12 @@
     "counts": 19
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Christmas_Missionary",
     "counts": 12
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 11
+    "author": "Chalupa_Grandpa",
+    "counts": 12
    },
    {
     "author": "naimagawa",
@@ -131,6 +131,10 @@
     "counts": 4
    },
    {
+    "author": "cuteballgames",
+    "counts": 3
+   },
+   {
     "author": "Multiconcepted",
     "counts": 3
    },
@@ -139,31 +143,27 @@
     "counts": 3
    },
    {
-    "author": "cuteballgames",
-    "counts": 3
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 2
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 1
-   },
-   {
-    "author": "SSoto_21",
-    "counts": 1
    },
    {
     "author": "Cox_1920",
     "counts": 1
    },
    {
+    "author": "dragonpro9827",
+    "counts": 1
+   },
+   {
     "author": "VitaminB16",
+    "counts": 1
+   },
+   {
+    "author": "SSoto_21",
     "counts": 1
    }
   ],
-  "total_counts": 35427
+  "total_counts": 35429
  },
- "latest_count": 39935426
+ "latest_count": 39935428
 }
