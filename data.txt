@@ -3,16 +3,16 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 5,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -42,17 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "dragonpro9827",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,9 +55,14 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 38
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 168
+    "counts": 169
    },
    {
     "author": "SubSmartstocks",
@@ -99,19 +99,19 @@
     "counts": 20
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 12
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 12
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 11
+    "author": "Chalupa_Grandpa",
+    "counts": 12
    },
    {
     "author": "naimagawa",
+    "counts": 11
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 11
    },
    {
@@ -131,10 +131,6 @@
     "counts": 4
    },
    {
-    "author": "cuteballgames",
-    "counts": 3
-   },
-   {
     "author": "Multiconcepted",
     "counts": 3
    },
@@ -143,8 +139,8 @@
     "counts": 3
    },
    {
-    "author": "Cox_1920",
-    "counts": 1
+    "author": "cuteballgames",
+    "counts": 3
    },
    {
     "author": "Tranquilsunrise",
@@ -155,15 +151,19 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "SSoto_21",
     "counts": 1
    },
    {
-    "author": "SSoto_21",
+    "author": "Cox_1920",
+    "counts": 1
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1
    }
   ],
-  "total_counts": 35406
+  "total_counts": 35407
  },
- "latest_count": 39935405
+ "latest_count": 39935406
 }
