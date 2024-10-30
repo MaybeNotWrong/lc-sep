@@ -43,6 +43,11 @@
    },
    {
     "author": "LeinadSpoon",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,14 +70,9 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 244
+  "total_counts": 245
  },
  "100k": {
   "hoc": [
@@ -114,7 +114,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 24
+    "counts": 25
    },
    {
     "author": "PaleRepresentative",
@@ -185,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53464
+  "total_counts": 53465
  },
- "latest_count": 39953460
+ "latest_count": 39953461
 }
