@@ -33,21 +33,21 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1,
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 225
+  "total_counts": 227
  },
  "100k": {
   "hoc": [
@@ -69,7 +69,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 199
+    "counts": 200
    },
    {
     "author": "SubSmartstocks",
@@ -88,11 +88,11 @@
     "counts": 34
    },
    {
-    "author": "PaleRepresentative",
+    "author": "LeinadSpoon",
     "counts": 23
    },
    {
-    "author": "LeinadSpoon",
+    "author": "PaleRepresentative",
     "counts": 23
    },
    {
@@ -109,7 +109,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "Multiconcepted",
@@ -120,11 +120,11 @@
     "counts": 5
    },
    {
-    "author": "noduorg",
+    "author": "cuteballgames",
     "counts": 4
    },
    {
-    "author": "cuteballgames",
+    "author": "noduorg",
     "counts": 4
    },
    {
@@ -136,15 +136,15 @@
     "counts": 2
    },
    {
-    "author": "SSoto_21",
-    "counts": 1
-   },
-   {
     "author": "dragonpro9827",
     "counts": 1
    },
    {
     "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "SSoto_21",
     "counts": 1
    },
    {
@@ -156,7 +156,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53445
+  "total_counts": 53447
  },
- "latest_count": 39953441
+ "latest_count": 39953443
 }
