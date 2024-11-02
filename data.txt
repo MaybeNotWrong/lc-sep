@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
@@ -67,17 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Tranquilsunrise",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 307
+  "total_counts": 308
  },
  "100k": {
   "hoc": [
@@ -166,7 +166,7 @@
    },
    {
     "author": "artbn",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "treje",
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 62426
+  "total_counts": 62427
  },
- "latest_count": 39962420
+ "latest_count": 39962421
 }
