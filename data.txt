@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -62,7 +67,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 33
+    "counts": 34
    },
    {
     "author": "PaleRepresentative",
@@ -73,11 +78,11 @@
     "counts": 27
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Multiconcepted",
     "counts": 21
    },
    {
-    "author": "Multiconcepted",
+    "author": "Chalupa_Grandpa",
     "counts": 21
    },
    {
@@ -129,7 +134,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 62448
+  "total_counts": 62449
  },
- "latest_count": 39962442
+ "latest_count": 39962443
 }
