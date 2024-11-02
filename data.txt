@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -63,14 +74,14 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 20
-   },
-   {
-    "author": "KalockSwig",
-    "counts": 20
+    "counts": 21
    },
    {
     "author": "Chalupa_Grandpa",
+    "counts": 21
+   },
+   {
+    "author": "KalockSwig",
     "counts": 20
    },
    {
@@ -82,7 +93,7 @@
     "counts": 8
    },
    {
-    "author": "noduorg",
+    "author": "Tranquilsunrise",
     "counts": 6
    },
    {
@@ -90,7 +101,7 @@
     "counts": 6
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "noduorg",
     "counts": 6
    },
    {
@@ -102,11 +113,11 @@
     "counts": 2
    },
    {
-    "author": "Cox_1920",
+    "author": "dragonpro9827",
     "counts": 1
    },
    {
-    "author": "dragonpro9827",
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
@@ -114,11 +125,11 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "Cox_1920",
     "counts": 1
    }
   ],
-  "total_counts": 62446
+  "total_counts": 62448
  },
- "latest_count": 39962440
+ "latest_count": 39962442
 }
