@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 37,
+    "counts": 70,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 38,
     "has_wrc_req": false
    },
    {
@@ -23,11 +28,6 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 108
+  "total_counts": 174
  },
  "100k": {
   "hoc": [
@@ -94,7 +94,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 387
+    "counts": 420
    },
    {
     "author": "SubSmartstocks",
@@ -107,6 +107,10 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 47
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 42
    },
    {
     "author": "NobodyL0vesMe",
@@ -127,10 +131,6 @@
    {
     "author": "PaleRepresentative",
     "counts": 13
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 9
    },
    {
     "author": "noduorg",
@@ -185,7 +185,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13935
+  "total_counts": 14001
  },
- "latest_count": 40013930
+ "latest_count": 40013996
 }
