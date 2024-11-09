@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -75,14 +80,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 6457
+  "total_counts": 6458
  },
  "100k": {
   "hoc": [
@@ -132,7 +132,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 20
+    "counts": 21
    },
    {
     "author": "KalockSwig",
@@ -195,7 +195,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 20520
+  "total_counts": 20521
  },
- "latest_count": 40020515
+ "latest_count": 40020516
 }
