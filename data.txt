@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -11,7 +17,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5149
+    "counts": 5150
    },
    {
     "author": "NobodyL0vesMe",
@@ -98,11 +104,11 @@
     "counts": 4
    },
    {
-    "author": "SSoto_21",
+    "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "Antichess",
+    "author": "SSoto_21",
     "counts": 3
    },
    {
@@ -118,7 +124,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22399
+  "total_counts": 22400
  },
- "latest_count": 40022394
+ "latest_count": 40022395
 }
