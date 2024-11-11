@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 3,
     "has_wrc_req": false
@@ -48,11 +53,6 @@
    },
    {
     "author": "Buckeye1115",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 116
+  "total_counts": 117
  },
  "100k": {
   "hoc": [
@@ -166,16 +166,16 @@
     "counts": 17
    },
    {
+    "author": "artbn",
+    "counts": 11
+   },
+   {
     "author": "Limes_Are_Green",
     "counts": 11
    },
    {
     "author": "noduorg",
     "counts": 11
-   },
-   {
-    "author": "artbn",
-    "counts": 10
    },
    {
     "author": "Tranquilsunrise",
@@ -214,7 +214,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22350
+  "total_counts": 22351
  },
- "latest_count": 40022345
+ "latest_count": 40022346
 }
