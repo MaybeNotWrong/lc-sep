@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -59,7 +65,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 43
+    "counts": 44
    },
    {
     "author": "PaleRepresentative",
@@ -106,11 +112,11 @@
     "counts": 4
    },
    {
-    "author": "SSoto_21",
+    "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "Antichess",
+    "author": "SSoto_21",
     "counts": 3
    },
    {
@@ -122,7 +128,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33351
+  "total_counts": 33352
  },
- "latest_count": 40033345
+ "latest_count": 40033346
 }
