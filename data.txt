@@ -38,7 +38,12 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 8,
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -48,11 +53,6 @@
    },
    {
     "author": "RemindMe2027",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -82,6 +82,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
@@ -102,17 +107,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 995
+  "total_counts": 996
  },
  "100k": {
   "hoc": [
@@ -130,7 +130,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 4435
+    "counts": 4436
    },
    {
     "author": "LeinadSpoon",
@@ -169,11 +169,11 @@
     "counts": 70
    },
    {
-    "author": "Multiconcepted",
+    "author": "KalockSwig",
     "counts": 45
    },
    {
-    "author": "KalockSwig",
+    "author": "Multiconcepted",
     "counts": 45
    },
    {
@@ -205,11 +205,11 @@
     "counts": 8
    },
    {
-    "author": "VitaminB16",
+    "author": "RemindMe2027",
     "counts": 7
    },
    {
-    "author": "RemindMe2027",
+    "author": "VitaminB16",
     "counts": 7
    },
    {
@@ -229,15 +229,15 @@
     "counts": 3
    },
    {
-    "author": "rideride",
+    "author": "eddebbboi",
     "counts": 1
    },
    {
-    "author": "eddebbboi",
+    "author": "rideride",
     "counts": 1
    }
   ],
-  "total_counts": 34346
+  "total_counts": 34347
  },
- "latest_count": 40034340
+ "latest_count": 40034341
 }
