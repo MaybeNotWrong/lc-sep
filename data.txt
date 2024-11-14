@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 6073,
+    "counts": 6210,
     "has_wrc_req": true
    },
    {
     "author": "TheMatsValk",
-    "counts": 4422,
+    "counts": 4559,
     "has_wrc_req": false
    },
    {
@@ -97,12 +97,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "eddebbboi",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -112,18 +107,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "eddebbboi",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 13504
+  "total_counts": 13778
  },
  "100k": {
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 14003
+    "counts": 14140
    },
    {
     "author": "amazingpikachu_38",
@@ -131,7 +131,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 8858
+    "counts": 8995
    },
    {
     "author": "naimagawa",
@@ -222,11 +222,11 @@
     "counts": 7
    },
    {
-    "author": "Kris18",
+    "author": "batpuppy",
     "counts": 5
    },
    {
-    "author": "batpuppy",
+    "author": "Kris18",
     "counts": 5
    },
    {
@@ -234,15 +234,15 @@
     "counts": 4
    },
    {
-    "author": "SSoto_21",
-    "counts": 3
-   },
-   {
     "author": "Antichess",
     "counts": 3
    },
    {
     "author": "mraowr",
+    "counts": 3
+   },
+   {
+    "author": "SSoto_21",
     "counts": 3
    },
    {
@@ -254,7 +254,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47955
+  "total_counts": 48229
  },
- "latest_count": 40047940
+ "latest_count": 40048214
 }
