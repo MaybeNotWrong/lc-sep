@@ -2,13 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "rwoarm",
+    "counts": 51,
+    "has_wrc_req": false
+   },
+   {
     "author": "mraowr",
     "counts": 51,
     "has_wrc_req": false
    },
    {
-    "author": "rwoarm",
-    "counts": 51,
+    "author": "amazingpikachu_38",
+    "counts": 36,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 36,
     "has_wrc_req": false
    },
    {
@@ -27,18 +37,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 11,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 11,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -62,17 +62,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,12 +82,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 219
+  "total_counts": 270
  },
  "100k": {
   "hoc": [
@@ -97,11 +97,11 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 13449
+    "counts": 13474
    },
    {
     "author": "TheMatsValk",
-    "counts": 9508
+    "counts": 9509
    },
    {
     "author": "naimagawa",
@@ -121,7 +121,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 684
+    "counts": 709
    },
    {
     "author": "treje",
@@ -176,11 +176,11 @@
     "counts": 42
    },
    {
-    "author": "artbn",
+    "author": "MaybeNotWrong",
     "counts": 33
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "artbn",
     "counts": 33
    },
    {
@@ -200,11 +200,11 @@
     "counts": 7
    },
    {
-    "author": "Kris18",
+    "author": "batpuppy",
     "counts": 5
    },
    {
-    "author": "batpuppy",
+    "author": "Kris18",
     "counts": 5
    },
    {
@@ -212,11 +212,11 @@
     "counts": 4
    },
    {
-    "author": "SSoto_21",
+    "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "Antichess",
+    "author": "SSoto_21",
     "counts": 3
    },
    {
@@ -228,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49457
+  "total_counts": 49508
  },
- "latest_count": 40049442
+ "latest_count": 40049493
 }
