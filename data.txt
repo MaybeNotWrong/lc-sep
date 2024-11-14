@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "mraowr",
+    "author": "rwoarm",
     "counts": 51,
     "has_wrc_req": false
    },
    {
-    "author": "rwoarm",
+    "author": "mraowr",
     "counts": 51,
     "has_wrc_req": false
    },
@@ -52,12 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,13 +67,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
+    "author": "NobodyL0vesMe",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -85,9 +80,14 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 202
+  "total_counts": 203
  },
  "100k": {
   "hoc": [
@@ -176,12 +176,12 @@
     "counts": 42
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "artbn",
     "counts": 33
    },
    {
-    "author": "artbn",
-    "counts": 32
+    "author": "MaybeNotWrong",
+    "counts": 33
    },
    {
     "author": "noduorg",
@@ -200,11 +200,11 @@
     "counts": 7
    },
    {
-    "author": "Kris18",
+    "author": "batpuppy",
     "counts": 5
    },
    {
-    "author": "batpuppy",
+    "author": "Kris18",
     "counts": 5
    },
    {
@@ -212,11 +212,11 @@
     "counts": 4
    },
    {
-    "author": "SSoto_21",
+    "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "Antichess",
+    "author": "SSoto_21",
     "counts": 3
    },
    {
@@ -228,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49440
+  "total_counts": 49441
  },
- "latest_count": 40049425
+ "latest_count": 40049426
 }
