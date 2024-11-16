@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 649,
+    "counts": 805,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 610,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 455,
-    "has_wrc_req": false
-   },
-   {
     "author": "Lonadont",
-    "counts": 266,
+    "counts": 267,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2405
+  "total_counts": 2717
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 15322
+    "counts": 15478
    },
    {
     "author": "greenpeppercat",
@@ -80,7 +80,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 10025
+    "counts": 10180
    },
    {
     "author": "naimagawa",
@@ -92,7 +92,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1779
+    "counts": 1780
    },
    {
     "author": "SubSmartstocks",
@@ -191,11 +191,11 @@
     "counts": 4
    },
    {
-    "author": "SSoto_21",
+    "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "Antichess",
+    "author": "SSoto_21",
     "counts": 3
    },
    {
@@ -207,7 +207,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 75514
+  "total_counts": 75826
  },
- "latest_count": 40075493
+ "latest_count": 40075805
 }
