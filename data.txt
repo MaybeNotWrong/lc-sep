@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -82,22 +87,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -110,9 +105,14 @@
     "author": "NeitherLi2ardMisses",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 11237
+  "total_counts": 11238
  },
  "100k": {
   "hoc": [
@@ -209,11 +209,11 @@
     "counts": 63
    },
    {
-    "author": "rwoarm",
+    "author": "mraowr",
     "counts": 54
    },
    {
-    "author": "mraowr",
+    "author": "rwoarm",
     "counts": 54
    },
    {
@@ -230,7 +230,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "Limes_Are_Green",
@@ -273,7 +273,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84346
+  "total_counts": 84347
  },
- "latest_count": 40084324
+ "latest_count": 40084325
 }
