@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "TheMatsValk",
+    "counts": 72727,
+    "has_wrc_req": false
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 72727,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 72641,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 44656,
+    "counts": 44819,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 44598,
+    "counts": 44676,
     "has_wrc_req": false
    },
    {
@@ -62,13 +62,23 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -80,29 +90,19 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 235103
+  "total_counts": 235430
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 9449
+    "counts": 9527
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 9232
+    "counts": 9395
    },
    {
     "author": "NobodyL0vesMe",
@@ -110,7 +110,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 216
+    "counts": 302
    },
    {
     "author": "Multiconcepted",
@@ -129,7 +129,7 @@
     "counts": 3
    },
    {
-    "author": "noduorg",
+    "author": "cuteballgames",
     "counts": 1
    },
    {
@@ -137,19 +137,19 @@
     "counts": 1
    },
    {
-    "author": "naimagawa",
-    "counts": 1
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1
-   },
-   {
     "author": "davidjl123",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "naimagawa",
     "counts": 1
    }
   ],
-  "total_counts": 19432
+  "total_counts": 19759
  },
- "latest_count": 40319432
+ "latest_count": 40319759
 }
