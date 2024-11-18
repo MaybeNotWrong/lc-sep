@@ -2,16 +2,6 @@
  "day": {
   "hoc": [
    {
-    "author": "NobodyL0vesMe",
-    "counts": 72727,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 72727,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
     "counts": 72727,
     "has_wrc_req": false
@@ -22,23 +12,33 @@
     "has_wrc_req": false
    },
    {
+    "author": "NobodyL0vesMe",
+    "counts": 72727,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 72727,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 374,
     "has_wrc_req": false
    },
    {
     "author": "NeonL1vesMatter",
-    "counts": 120,
+    "counts": 362,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyHugsMe",
+    "counts": 331,
     "has_wrc_req": false
    },
    {
     "author": "livecounting",
     "counts": 99,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyHugsMe",
-    "counts": 90,
     "has_wrc_req": false
    },
    {
@@ -77,6 +77,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 3,
     "has_wrc_req": false
@@ -92,8 +97,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 3,
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -105,19 +115,9 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 291915
+  "total_counts": 292398
  },
  "100k": {
   "hoc": [
@@ -134,20 +134,20 @@
     "counts": 467
    },
    {
+    "author": "NeonL1vesMatter",
+    "counts": 362
+   },
+   {
+    "author": "NobodyHugsMe",
+    "counts": 331
+   },
+   {
     "author": "TheMatsValk",
     "counts": 302
    },
    {
-    "author": "NeonL1vesMatter",
-    "counts": 120
-   },
-   {
     "author": "livecounting",
     "counts": 99
-   },
-   {
-    "author": "NobodyHugsMe",
-    "counts": 90
    },
    {
     "author": "ddodd68",
@@ -182,14 +182,6 @@
     "counts": 2
    },
    {
-    "author": "davidjl123",
-    "counts": 1
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1
-   },
-   {
     "author": "naimagawa",
     "counts": 1
    },
@@ -200,9 +192,17 @@
    {
     "author": "noduorg",
     "counts": 1
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1
    }
   ],
-  "total_counts": 76244
+  "total_counts": 76727
  },
- "latest_count": 40376244
+ "latest_count": 40376727
 }
