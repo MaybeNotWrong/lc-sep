@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
-    "author": "NobodyL0vesMe",
-    "counts": 72727,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
     "counts": 72727,
     "has_wrc_req": false
    },
    {
+    "author": "NobodyL0vesMe",
+    "counts": 72727,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
-    "counts": 63080,
+    "counts": 63350,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 62939,
+    "counts": 63210,
     "has_wrc_req": false
    },
    {
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -72,22 +72,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "NobodyHugsMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -97,22 +82,37 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyHugsMe",
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 271989
+  "total_counts": 272530
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 27790
+    "counts": 28061
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 27656
+    "counts": 27926
    },
    {
     "author": "NobodyL0vesMe",
@@ -139,7 +139,11 @@
     "counts": 3
    },
    {
-    "author": "treje",
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1
    },
    {
@@ -151,11 +155,7 @@
     "counts": 1
    },
    {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
+    "author": "treje",
     "counts": 1
    },
    {
@@ -171,7 +171,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56318
+  "total_counts": 56859
  },
- "latest_count": 40356318
+ "latest_count": 40356859
 }
