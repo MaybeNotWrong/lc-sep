@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
-    "author": "TheMatsValk",
-    "counts": 72727,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 72727,
     "has_wrc_req": false
    },
    {
+    "author": "TheMatsValk",
+    "counts": 72727,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
-    "counts": 54720,
+    "counts": 54987,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 54580,
+    "counts": 54848,
     "has_wrc_req": false
    },
    {
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -72,17 +72,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,22 +82,32 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 255264
+  "total_counts": 255799
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 19431
+    "counts": 19699
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 19296
+    "counts": 19563
    },
    {
     "author": "NobodyL0vesMe",
@@ -134,7 +134,7 @@
     "counts": 3
    },
    {
-    "author": "naimagawa",
+    "author": "SubSmartstocks",
     "counts": 1
    },
    {
@@ -146,23 +146,23 @@
     "counts": 1
    },
    {
+    "author": "naimagawa",
+    "counts": 1
+   },
+   {
+    "author": "treje",
+    "counts": 1
+   },
+   {
     "author": "cuteballgames",
     "counts": 1
    },
    {
     "author": "davidjl123",
     "counts": 1
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1
-   },
-   {
-    "author": "treje",
-    "counts": 1
    }
   ],
-  "total_counts": 39593
+  "total_counts": 40128
  },
- "latest_count": 40339592
+ "latest_count": 40340127
 }
