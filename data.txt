@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "LeinadSpoon",
+    "counts": 168,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 166,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 72,
     "has_wrc_req": false
@@ -17,18 +27,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 10,
-    "has_wrc_req": false
-   },
-   {
     "author": "KalockSwig",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -52,16 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -70,9 +60,19 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 197
+  "total_counts": 513
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 6450
+    "counts": 6608
    },
    {
     "author": "NeonL1vesMatter",
@@ -119,6 +119,10 @@
    {
     "author": "ddodd68",
     "counts": 209
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 207
    },
    {
     "author": "ta535s1hq2je",
@@ -161,15 +165,7 @@
     "counts": 70
    },
    {
-    "author": "reddittheandrewor",
-    "counts": 69
-   },
-   {
-    "author": "Broccoli-eating_man",
-    "counts": 69
-   },
-   {
-    "author": "ddodd70",
+    "author": "ddoddthulium",
     "counts": 69
    },
    {
@@ -177,16 +173,20 @@
     "counts": 69
    },
    {
-    "author": "ddoddthulium",
+    "author": "ddodd70",
+    "counts": 69
+   },
+   {
+    "author": "Broccoli-eating_man",
+    "counts": 69
+   },
+   {
+    "author": "reddittheandrewor",
     "counts": 69
    },
    {
     "author": "Buckeye1115",
     "counts": 64
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 49
    },
    {
     "author": "Multiconcepted",
@@ -205,11 +205,11 @@
     "counts": 15
    },
    {
-    "author": "KalockSwig",
+    "author": "cuteballgames",
     "counts": 9
    },
    {
-    "author": "cuteballgames",
+    "author": "KalockSwig",
     "counts": 9
    },
    {
@@ -221,19 +221,19 @@
     "counts": 4
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 3
-   },
-   {
     "author": "noduorg",
     "counts": 3
    },
    {
-    "author": "The_NecromancerTin",
-    "counts": 1
+    "author": "Tranquilsunrise",
+    "counts": 3
    },
    {
     "author": "Limes_Are_Green",
+    "counts": 1
+   },
+   {
+    "author": "The_NecromancerTin",
     "counts": 1
    },
    {
@@ -241,7 +241,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 95208
+  "total_counts": 95524
  },
- "latest_count": 40395206
+ "latest_count": 40395522
 }
