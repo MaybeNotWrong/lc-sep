@@ -13,7 +13,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 409,
+    "counts": 410,
     "has_wrc_req": false
    },
    {
@@ -57,16 +57,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
@@ -75,9 +65,19 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 9056
+  "total_counts": 9057
  },
  "100k": {
   "hoc": [
@@ -98,12 +98,16 @@
     "counts": 3
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 3
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 3
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2
+    "author": "noduorg",
+    "counts": 1
    },
    {
     "author": "davidjl123",
@@ -112,13 +116,9 @@
    {
     "author": "TheMatsValk",
     "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 4064
+  "total_counts": 4065
  },
- "latest_count": 40404064
+ "latest_count": 40404065
 }
