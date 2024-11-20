@@ -23,7 +23,12 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 5,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -37,18 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,12 +57,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 180
+  "total_counts": 181
  },
  "100k": {
   "hoc": [
@@ -109,7 +109,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 213
+    "counts": 214
    },
    {
     "author": "ddodd68",
@@ -160,19 +160,19 @@
     "counts": 69
    },
    {
-    "author": "ddoddthulium",
-    "counts": 69
-   },
-   {
     "author": "amazingpikachu_69",
     "counts": 69
    },
    {
-    "author": "Broccoli-eating_man",
+    "author": "ddoddthulium",
     "counts": 69
    },
    {
     "author": "reddittheandrewor",
+    "counts": 69
+   },
+   {
+    "author": "Broccoli-eating_man",
     "counts": 69
    },
    {
@@ -216,16 +216,12 @@
     "counts": 4
    },
    {
-    "author": "noduorg",
-    "counts": 3
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 3
    },
    {
-    "author": "Gameknight046",
-    "counts": 1
+    "author": "noduorg",
+    "counts": 3
    },
    {
     "author": "The_NecromancerTin",
@@ -234,9 +230,13 @@
    {
     "author": "Limes_Are_Green",
     "counts": 1
+   },
+   {
+    "author": "Gameknight046",
+    "counts": 1
    }
   ],
-  "total_counts": 95191
+  "total_counts": 95192
  },
- "latest_count": 40395189
+ "latest_count": 40395190
 }
