@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -85,18 +90,14 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 91
+    "counts": 92
    },
    {
     "author": "Lonadont",
     "counts": 81
    },
    {
-    "author": "Broccoli-eating_man",
-    "counts": 69
-   },
-   {
-    "author": "reddittheandrewor",
+    "author": "artbn",
     "counts": 69
    },
    {
@@ -112,7 +113,11 @@
     "counts": 69
    },
    {
-    "author": "artbn",
+    "author": "reddittheandrewor",
+    "counts": 69
+   },
+   {
+    "author": "Broccoli-eating_man",
     "counts": 69
    },
    {
@@ -152,12 +157,16 @@
     "counts": 4
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 3
+   },
+   {
     "author": "noduorg",
     "counts": 3
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 3
+    "author": "Gameknight046",
+    "counts": 1
    },
    {
     "author": "The_NecromancerTin",
@@ -166,13 +175,9 @@
    {
     "author": "Limes_Are_Green",
     "counts": 1
-   },
-   {
-    "author": "Gameknight046",
-    "counts": 1
    }
   ],
-  "total_counts": 95012
+  "total_counts": 95013
  },
- "latest_count": 40395010
+ "latest_count": 40395011
 }
