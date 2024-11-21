@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 680,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 492,
+    "counts": 736,
     "has_wrc_req": false
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 477,
+    "counts": 722,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 680,
     "has_wrc_req": false
    },
    {
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Gameknight046",
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -57,8 +57,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Gameknight046",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "I__mean",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,34 +90,19 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "I__mean",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 2382
+  "total_counts": 2871
  },
  "100k": {
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 3866
+    "counts": 4111
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 3533
+    "counts": 3777
    },
    {
     "author": "TheMatsValk",
@@ -137,11 +137,11 @@
     "counts": 12
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "Multiconcepted",
     "counts": 11
    },
    {
-    "author": "Multiconcepted",
+    "author": "MaybeNotWrong",
     "counts": 11
    },
    {
@@ -165,23 +165,23 @@
     "counts": 1
    },
    {
-    "author": "VitaminB16",
-    "counts": 1
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1
-   },
-   {
     "author": "treje",
     "counts": 1
    },
    {
     "author": "I__mean",
     "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1
    }
   ],
-  "total_counts": 10006
+  "total_counts": 10495
  },
- "latest_count": 40410005
+ "latest_count": 40410494
 }
