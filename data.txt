@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 6,
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -27,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "I__mean",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "I__mean",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 65
  },
  "100k": {
   "hoc": [
@@ -78,27 +78,27 @@
    },
    {
     "author": "Lonadont",
-    "counts": 55
+    "counts": 58
    },
    {
     "author": "artbn",
     "counts": 24
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "Multiconcepted",
     "counts": 11
    },
    {
-    "author": "Multiconcepted",
+    "author": "LeinadSpoon",
+    "counts": 11
+   },
+   {
+    "author": "MaybeNotWrong",
     "counts": 11
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 10
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 8
    },
    {
     "author": "Gameknight046",
@@ -113,19 +113,19 @@
     "counts": 2
    },
    {
-    "author": "reddittheandrewor",
-    "counts": 1
-   },
-   {
     "author": "treje",
     "counts": 1
    },
    {
     "author": "I__mean",
     "counts": 1
+   },
+   {
+    "author": "reddittheandrewor",
+    "counts": 1
    }
   ],
-  "total_counts": 7683
+  "total_counts": 7689
  },
- "latest_count": 40407682
+ "latest_count": 40407688
 }
