@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 45,
+    "counts": 133,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 90,
     "has_wrc_req": false
    },
    {
@@ -12,18 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,15 +30,20 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 91
+  "total_counts": 267
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 19696
+    "counts": 19784
    },
    {
     "author": "NobodyL0vesMe",
@@ -74,6 +74,10 @@
     "counts": 230
    },
    {
+    "author": "naimagawa",
+    "counts": 101
+   },
+   {
     "author": "noduorg",
     "counts": 68
    },
@@ -102,10 +106,6 @@
     "counts": 15
    },
    {
-    "author": "naimagawa",
-    "counts": 13
-   },
-   {
     "author": "MaybeNotWrong",
     "counts": 12
    },
@@ -126,15 +126,15 @@
     "counts": 2
    },
    {
-    "author": "I__mean",
+    "author": "reddittheandrewor",
     "counts": 1
    },
    {
-    "author": "reddittheandrewor",
+    "author": "I__mean",
     "counts": 1
    }
   ],
-  "total_counts": 50142
+  "total_counts": 50318
  },
- "latest_count": 40450139
+ "latest_count": 40450315
 }
