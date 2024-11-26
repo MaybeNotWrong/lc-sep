@@ -22,17 +22,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "luc122c",
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1,
+    "author": "luc122c",
+    "counts": 2,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 770
+  "total_counts": 771
  },
  "100k": {
   "hoc": [
@@ -65,6 +65,10 @@
     "counts": 3
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2
+   },
+   {
     "author": "luc122c",
     "counts": 2
    },
@@ -75,13 +79,9 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
    }
   ],
-  "total_counts": 1100
+  "total_counts": 1101
  },
- "latest_count": 40501100
+ "latest_count": 40501101
 }
