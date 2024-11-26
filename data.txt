@@ -28,7 +28,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 20,
+    "counts": 21,
     "has_wrc_req": false
    },
    {
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -57,17 +57,12 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -75,9 +70,14 @@
     "author": "luc122c",
     "counts": 2,
     "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 12837
+  "total_counts": 12838
  },
  "100k": {
   "hoc": [
@@ -103,7 +103,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 42
+    "counts": 43
    },
    {
     "author": "TheMatsValk",
@@ -118,15 +118,23 @@
     "counts": 4
    },
    {
-    "author": "cuteballgames",
-    "counts": 3
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 3
    },
    {
+    "author": "cuteballgames",
+    "counts": 3
+   },
+   {
     "author": "naimagawa",
+    "counts": 2
+   },
+   {
+    "author": "luc122c",
+    "counts": 2
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 2
    },
    {
@@ -138,19 +146,11 @@
     "counts": 2
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2
-   },
-   {
-    "author": "luc122c",
-    "counts": 2
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1
    }
   ],
-  "total_counts": 13167
+  "total_counts": 13168
  },
- "latest_count": 40513165
+ "latest_count": 40513166
 }
