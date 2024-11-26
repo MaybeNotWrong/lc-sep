@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5440,
+    "counts": 5531,
     "has_wrc_req": true
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 5038,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 479,
     "has_wrc_req": false
    },
    {
@@ -19,11 +24,6 @@
    {
     "author": "LeinadSpoon",
     "counts": 452,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 389,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "luc122c",
+    "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,18 +62,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "luc122c",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11826
+  "total_counts": 12007
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 5596
+    "counts": 5687
    },
    {
     "author": "NobodyL0vesMe",
@@ -86,7 +86,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 527
+    "counts": 617
    },
    {
     "author": "Lonadont",
@@ -125,6 +125,10 @@
     "counts": 2
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 2
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2
    },
@@ -133,15 +137,11 @@
     "counts": 2
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1
    }
   ],
-  "total_counts": 12156
+  "total_counts": 12337
  },
- "latest_count": 40512154
+ "latest_count": 40512335
 }
