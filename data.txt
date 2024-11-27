@@ -13,7 +13,12 @@
    },
    {
     "author": "luc122c",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -27,27 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd68",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "naimagawa",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,7 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +55,19 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd68",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 37
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -104,36 +104,28 @@
     "counts": 16
    },
    {
-    "author": "TheMatsValk",
-    "counts": 10
-   },
-   {
     "author": "naimagawa",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "davidjl123",
     "counts": 10
    },
    {
-    "author": "Multiconcepted",
-    "counts": 6
+    "author": "TheMatsValk",
+    "counts": 10
+   },
+   {
+    "author": "luc122c",
+    "counts": 7
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 6
    },
    {
-    "author": "luc122c",
+    "author": "Multiconcepted",
     "counts": 6
-   },
-   {
-    "author": "noduorg",
-    "counts": 3
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 3
    },
    {
     "author": "treje",
@@ -141,6 +133,14 @@
    },
    {
     "author": "cuteballgames",
+    "counts": 3
+   },
+   {
+    "author": "noduorg",
+    "counts": 3
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 3
    },
    {
@@ -152,7 +152,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13549
+  "total_counts": 13551
  },
- "latest_count": 40513547
+ "latest_count": 40513549
 }
