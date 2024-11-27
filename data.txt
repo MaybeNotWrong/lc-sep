@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -74,11 +79,11 @@
     "counts": 5
    },
    {
-    "author": "cuteballgames",
+    "author": "treje",
     "counts": 3
    },
    {
-    "author": "noduorg",
+    "author": "cuteballgames",
     "counts": 3
    },
    {
@@ -86,8 +91,8 @@
     "counts": 3
    },
    {
-    "author": "treje",
-    "counts": 2
+    "author": "noduorg",
+    "counts": 3
    },
    {
     "author": "luc122c",
@@ -98,7 +103,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 13515
+  "total_counts": 13516
  },
- "latest_count": 40513513
+ "latest_count": 40513514
 }
