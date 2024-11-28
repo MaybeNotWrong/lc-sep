@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "cuteballgames",
-    "counts": 12,
+    "author": "Lonadont",
+    "counts": 13,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 11,
+    "author": "cuteballgames",
+    "counts": 12,
     "has_wrc_req": false
    },
    {
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -70,9 +70,14 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 62
  },
  "100k": {
   "hoc": [
@@ -94,7 +99,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 494
+    "counts": 496
    },
    {
     "author": "LeinadSpoon",
@@ -137,12 +142,8 @@
     "counts": 7
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 4
-   },
-   {
     "author": "noduorg",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "treje",
@@ -150,6 +151,10 @@
    },
    {
     "author": "Christmas_Missionary",
+    "counts": 4
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
@@ -165,7 +170,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 26083
+  "total_counts": 26086
  },
- "latest_count": 40526079
+ "latest_count": 40526082
 }
