@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -25,14 +30,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
@@ -54,7 +54,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 484
+    "counts": 485
    },
    {
     "author": "LeinadSpoon",
@@ -97,11 +97,11 @@
     "counts": 7
    },
    {
-    "author": "noduorg",
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
-    "author": "treje",
+    "author": "noduorg",
     "counts": 4
    },
    {
@@ -109,7 +109,7 @@
     "counts": 4
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "treje",
     "counts": 4
    },
    {
@@ -121,7 +121,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 26047
+  "total_counts": 26048
  },
- "latest_count": 40526043
+ "latest_count": 40526044
 }
