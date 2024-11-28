@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 20,
+    "counts": 49,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 40,
     "has_wrc_req": false
    },
    {
@@ -17,17 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 11,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "luc122c",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -37,13 +37,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "luc122c",
+    "author": "naimagawa",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -52,7 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "rideride",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,23 +72,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 86
+  "total_counts": 144
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 12437
+    "counts": 12466
    },
    {
     "author": "NobodyL0vesMe",
@@ -107,7 +107,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 196
+    "counts": 225
    },
    {
     "author": "cuteballgames",
@@ -126,11 +126,11 @@
     "counts": 19
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "luc122c",
     "counts": 13
    },
    {
-    "author": "luc122c",
+    "author": "Chalupa_Grandpa",
     "counts": 13
    },
    {
@@ -150,11 +150,11 @@
     "counts": 4
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "treje",
     "counts": 4
    },
    {
-    "author": "treje",
+    "author": "Tranquilsunrise",
     "counts": 4
    },
    {
@@ -162,15 +162,15 @@
     "counts": 3
    },
    {
-    "author": "rideride",
+    "author": "VitaminB16",
     "counts": 2
    },
    {
-    "author": "VitaminB16",
+    "author": "rideride",
     "counts": 2
    }
   ],
-  "total_counts": 26110
+  "total_counts": 26168
  },
- "latest_count": 40526106
+ "latest_count": 40526164
 }
