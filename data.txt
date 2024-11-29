@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -23,7 +29,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 498
+    "counts": 499
    },
    {
     "author": "LeinadSpoon",
@@ -90,11 +96,11 @@
     "counts": 3
    },
    {
-    "author": "rideride",
+    "author": "VitaminB16",
     "counts": 2
    },
    {
-    "author": "VitaminB16",
+    "author": "rideride",
     "counts": 2
    },
    {
@@ -102,7 +108,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36462
+  "total_counts": 36463
  },
- "latest_count": 40536458
+ "latest_count": 40536459
 }
