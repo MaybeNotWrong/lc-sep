@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 30,
+    "counts": 31,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -32,7 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "MrUnderdawg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -42,7 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrUnderdawg",
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,19 +60,9 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 70
+  "total_counts": 73
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 679
+    "counts": 680
    },
    {
     "author": "LeinadSpoon",
@@ -112,7 +112,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 20
+    "counts": 21
    },
    {
     "author": "ddodd68",
@@ -155,7 +155,7 @@
     "counts": 3
    },
    {
-    "author": "vovker1",
+    "author": "MrUnderdawg",
     "counts": 2
    },
    {
@@ -163,7 +163,11 @@
     "counts": 2
    },
    {
-    "author": "I__mean",
+    "author": "vovker1",
+    "counts": 2
+   },
+   {
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
@@ -171,11 +175,7 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -183,7 +183,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 62915
+  "total_counts": 62918
  },
- "latest_count": 40562908
+ "latest_count": 40562911
 }
