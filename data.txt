@@ -28,6 +28,11 @@
    },
    {
     "author": "SubSmartstocks",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -42,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,17 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 98
+  "total_counts": 99
  },
  "100k": {
   "hoc": [
@@ -101,7 +101,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 462
+    "counts": 463
    },
    {
     "author": "cuteballgames",
@@ -164,15 +164,15 @@
     "counts": 2
    },
    {
-    "author": "vovker1",
-    "counts": 2
-   },
-   {
     "author": "rideride",
     "counts": 2
    },
    {
-    "author": "I__mean",
+    "author": "vovker1",
+    "counts": 2
+   },
+   {
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
@@ -180,7 +180,7 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -188,7 +188,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 62943
+  "total_counts": 62944
  },
- "latest_count": 40562936
+ "latest_count": 40562937
 }
