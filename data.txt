@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "cuteballgames",
-    "counts": 2213,
-    "has_wrc_req": false
+    "counts": 2317,
+    "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 2125,
+    "counts": 2230,
     "has_wrc_req": true
    },
    {
@@ -33,7 +33,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "vovker1",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -87,13 +87,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4960
+  "total_counts": 5170
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 32853
+    "counts": 32958
    },
    {
     "author": "NobodyL0vesMe",
@@ -101,7 +101,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 2275
+    "counts": 2379
    },
    {
     "author": "naimagawa",
@@ -133,7 +133,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "TheMatsValk",
@@ -168,11 +168,11 @@
     "counts": 8
    },
    {
-    "author": "PaleRepresentative",
+    "author": "Tranquilsunrise",
     "counts": 6
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "PaleRepresentative",
     "counts": 6
    },
    {
@@ -184,7 +184,7 @@
     "counts": 3
    },
    {
-    "author": "MrUnderdawg",
+    "author": "vovker1",
     "counts": 2
    },
    {
@@ -192,15 +192,11 @@
     "counts": 2
    },
    {
-    "author": "vovker1",
+    "author": "MrUnderdawg",
     "counts": 2
    },
    {
-    "author": "I__mean",
-    "counts": 1
-   },
-   {
-    "author": "MaybeNotWrong",
+    "author": "KalockSwig",
     "counts": 1
    },
    {
@@ -208,11 +204,15 @@
     "counts": 1
    },
    {
-    "author": "KalockSwig",
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "I__mean",
     "counts": 1
    }
   ],
-  "total_counts": 67805
+  "total_counts": 68015
  },
- "latest_count": 40567796
+ "latest_count": 40568006
 }
