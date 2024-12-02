@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -80,14 +85,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 7180
+  "total_counts": 7181
  },
  "100k": {
   "hoc": [
@@ -157,7 +157,7 @@
    },
    {
     "author": "treje",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "noduorg",
@@ -212,7 +212,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70025
+  "total_counts": 70026
  },
- "latest_count": 40570015
+ "latest_count": 40570016
 }
