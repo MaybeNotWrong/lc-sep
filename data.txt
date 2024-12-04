@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 66,
+    "counts": 72,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
-    "counts": 41,
+    "counts": 43,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
-    "counts": 38,
+    "counts": 42,
     "has_wrc_req": false
    },
    {
@@ -47,33 +47,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Christmas_Missionary",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -90,9 +75,24 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 265
+  "total_counts": 277
  },
  "100k": {
   "hoc": [
@@ -118,15 +118,15 @@
    },
    {
     "author": "artbn",
-    "counts": 1119
+    "counts": 1123
    },
    {
     "author": "Lonadont",
-    "counts": 844
+    "counts": 850
    },
    {
     "author": "SubSmartstocks",
-    "counts": 674
+    "counts": 676
    },
    {
     "author": "LeinadSpoon",
@@ -197,19 +197,19 @@
     "counts": 2
    },
    {
-    "author": "vovker1",
-    "counts": 2
-   },
-   {
     "author": "rideride",
     "counts": 2
    },
    {
-    "author": "Gameknight046",
-    "counts": 1
+    "author": "vovker1",
+    "counts": 2
    },
    {
     "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "Gameknight046",
     "counts": 1
    },
    {
@@ -217,7 +217,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70508
+  "total_counts": 70520
  },
- "latest_count": 40570498
+ "latest_count": 40570510
 }
