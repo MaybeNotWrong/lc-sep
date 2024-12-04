@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "SubSmartstocks",
-    "counts": 38,
+    "counts": 39,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 34,
     "has_wrc_req": false
    },
    {
@@ -13,11 +18,6 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 32,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
     "counts": 32,
     "has_wrc_req": false
    },
@@ -47,18 +47,33 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "Christmas_Missionary",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,24 +90,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 195
+  "total_counts": 198
  },
  "100k": {
   "hoc": [
@@ -122,11 +122,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 810
+    "counts": 812
    },
    {
     "author": "SubSmartstocks",
-    "counts": 671
+    "counts": 672
    },
    {
     "author": "LeinadSpoon",
@@ -193,6 +193,10 @@
     "counts": 3
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 2
+   },
+   {
     "author": "vovker1",
     "counts": 2
    },
@@ -201,8 +205,8 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 2
+    "author": "I__mean",
+    "counts": 1
    },
    {
     "author": "Gameknight046",
@@ -211,13 +215,9 @@
    {
     "author": "MaybeNotWrong",
     "counts": 1
-   },
-   {
-    "author": "I__mean",
-    "counts": 1
    }
   ],
-  "total_counts": 70438
+  "total_counts": 70441
  },
- "latest_count": 40570428
+ "latest_count": 40570431
 }
