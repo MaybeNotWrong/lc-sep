@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 20,
+    "counts": 22,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
@@ -52,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 48
+  "total_counts": 51
  },
  "100k": {
   "hoc": [
@@ -78,7 +83,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1519
+    "counts": 1521
    },
    {
     "author": "artbn",
@@ -102,7 +107,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 44
+    "counts": 45
    },
    {
     "author": "Multiconcepted",
@@ -121,11 +126,11 @@
     "counts": 17
    },
    {
-    "author": "luc122c",
+    "author": "treje",
     "counts": 14
    },
    {
-    "author": "treje",
+    "author": "luc122c",
     "counts": 14
    },
    {
@@ -141,11 +146,11 @@
     "counts": 8
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "VitaminB16",
     "counts": 7
    },
    {
-    "author": "VitaminB16",
+    "author": "Tranquilsunrise",
     "counts": 7
    },
    {
@@ -157,19 +162,15 @@
     "counts": 3
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 2
-   },
-   {
     "author": "rideride",
     "counts": 2
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
+    "author": "MrUnderdawg",
+    "counts": 2
    },
    {
-    "author": "dominodan123",
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -177,11 +178,15 @@
     "counts": 1
    },
    {
-    "author": "I__mean",
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
+    "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 72211
+  "total_counts": 72214
  },
- "latest_count": 40572201
+ "latest_count": 40572204
 }
