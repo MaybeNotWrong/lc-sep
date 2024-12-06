@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 14,
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -27,17 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,12 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
+    "author": "LeinadSpoon",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 613
+  "total_counts": 614
  },
  "100k": {
   "hoc": [
@@ -93,7 +93,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1545
+    "counts": 1546
    },
    {
     "author": "artbn",
@@ -140,11 +140,11 @@
     "counts": 15
    },
    {
-    "author": "luc122c",
+    "author": "noduorg",
     "counts": 14
    },
    {
-    "author": "noduorg",
+    "author": "luc122c",
     "counts": 14
    },
    {
@@ -152,11 +152,11 @@
     "counts": 12
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "Tranquilsunrise",
     "counts": 8
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Limes_Are_Green",
     "counts": 8
    },
    {
@@ -164,11 +164,11 @@
     "counts": 7
    },
    {
-    "author": "vovker1",
+    "author": "piyushsharma301",
     "counts": 3
    },
    {
-    "author": "piyushsharma301",
+    "author": "vovker1",
     "counts": 3
    },
    {
@@ -178,10 +178,6 @@
    {
     "author": "rideride",
     "counts": 2
-   },
-   {
-    "author": "I__mean",
-    "counts": 1
    },
    {
     "author": "Gameknight046",
@@ -194,9 +190,13 @@
    {
     "author": "MaybeNotWrong",
     "counts": 1
+   },
+   {
+    "author": "I__mean",
+    "counts": 1
    }
   ],
-  "total_counts": 73069
+  "total_counts": 73070
  },
- "latest_count": 40573059
+ "latest_count": 40573060
 }
