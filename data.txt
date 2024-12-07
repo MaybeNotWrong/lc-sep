@@ -18,6 +18,11 @@
    },
    {
     "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -25,14 +30,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
@@ -58,7 +58,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1650
+    "counts": 1651
    },
    {
     "author": "artbn",
@@ -85,11 +85,11 @@
     "counts": 53
    },
    {
-    "author": "KalockSwig",
+    "author": "Multiconcepted",
     "counts": 29
    },
    {
-    "author": "Multiconcepted",
+    "author": "KalockSwig",
     "counts": 29
    },
    {
@@ -145,6 +145,10 @@
     "counts": 2
    },
    {
+    "author": "Gameknight046",
+    "counts": 1
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    },
@@ -153,15 +157,11 @@
     "counts": 1
    },
    {
-    "author": "Gameknight046",
-    "counts": 1
-   },
-   {
     "author": "I__mean",
     "counts": 1
    }
   ],
-  "total_counts": 73400
+  "total_counts": 73401
  },
- "latest_count": 40573390
+ "latest_count": 40573391
 }
