@@ -50,9 +50,14 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 30529
+  "total_counts": 30530
  },
  "100k": {
   "hoc": [
@@ -85,6 +90,10 @@
     "counts": 3
    },
    {
+    "author": "naimagawa",
+    "counts": 2
+   },
+   {
     "author": "davidjl123",
     "counts": 2
    },
@@ -93,15 +102,11 @@
     "counts": 1
    },
    {
-    "author": "naimagawa",
-    "counts": 1
-   },
-   {
     "author": "treje",
     "counts": 1
    }
   ],
-  "total_counts": 35160
+  "total_counts": 35161
  },
- "latest_count": 40635160
+ "latest_count": 40635161
 }
