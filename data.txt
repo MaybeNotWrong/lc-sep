@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 30533
+  "total_counts": 30534
  },
  "100k": {
   "hoc": [
@@ -91,7 +91,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 2
+    "counts": 3
    },
    {
     "author": "davidjl123",
@@ -106,7 +106,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35164
+  "total_counts": 35165
  },
- "latest_count": 40635164
+ "latest_count": 40635165
 }
