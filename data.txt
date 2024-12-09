@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 4527,
+    "counts": 4542,
     "has_wrc_req": true
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 20,
+    "counts": 35,
     "has_wrc_req": false
    },
    {
@@ -37,18 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 5,
+    "author": "NobodyL0vesMe",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -57,8 +52,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
+    "author": "davidjl123",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -68,6 +63,11 @@
    },
    {
     "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,13 +82,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9547
+  "total_counts": 9577
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 40170
+    "counts": 40185
    },
    {
     "author": "NobodyL0vesMe",
@@ -116,7 +116,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 901
+    "counts": 916
    },
    {
     "author": "LeinadSpoon",
@@ -171,19 +171,19 @@
     "counts": 10
    },
    {
-    "author": "Limes_Are_Green",
-    "counts": 8
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 8
    },
    {
-    "author": "vovker1",
-    "counts": 3
+    "author": "Limes_Are_Green",
+    "counts": 8
    },
    {
     "author": "piyushsharma301",
+    "counts": 3
+   },
+   {
+    "author": "vovker1",
     "counts": 3
    },
    {
@@ -191,11 +191,11 @@
     "counts": 2
    },
    {
-    "author": "rideride",
+    "author": "I__mean",
     "counts": 2
    },
    {
-    "author": "I__mean",
+    "author": "rideride",
     "counts": 2
    },
    {
@@ -203,15 +203,15 @@
     "counts": 1
    },
    {
-    "author": "dominodan123",
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "dominodan123",
     "counts": 1
    }
   ],
-  "total_counts": 84788
+  "total_counts": 84818
  },
- "latest_count": 40584788
+ "latest_count": 40584818
 }
