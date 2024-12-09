@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 6492,
+    "counts": 6719,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 4798,
+    "counts": 5026,
     "has_wrc_req": false
    },
    {
@@ -72,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "I__mean",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -85,9 +80,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "I__mean",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 19194
+  "total_counts": 19649
  },
  "100k": {
   "hoc": [
@@ -101,11 +101,11 @@
    },
    {
     "author": "naimagawa",
-    "counts": 8227
+    "counts": 8454
    },
    {
     "author": "greenpeppercat",
-    "counts": 4777
+    "counts": 5005
    },
    {
     "author": "artbn",
@@ -180,11 +180,11 @@
     "counts": 10
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Limes_Are_Green",
     "counts": 8
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "Tranquilsunrise",
     "counts": 8
    },
    {
@@ -196,7 +196,7 @@
     "counts": 3
    },
    {
-    "author": "MrUnderdawg",
+    "author": "rideride",
     "counts": 2
    },
    {
@@ -204,7 +204,7 @@
     "counts": 2
    },
    {
-    "author": "rideride",
+    "author": "MrUnderdawg",
     "counts": 2
    },
    {
@@ -220,7 +220,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 94402
+  "total_counts": 94857
  },
- "latest_count": 40594402
+ "latest_count": 40594857
 }
