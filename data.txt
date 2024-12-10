@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "greenpeppercat",
-    "counts": 21967,
+    "author": "amazingpikachu_38",
+    "counts": 21969,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 21966,
+    "author": "greenpeppercat",
+    "counts": 21967,
     "has_wrc_req": false
    },
    {
@@ -23,16 +23,16 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 20,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 8,
+    "counts": 22,
     "has_wrc_req": false
    },
    {
     "author": "KalockSwig",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -57,18 +57,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "artbn",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -80,9 +70,19 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 44060
+  "total_counts": 44065
  },
  "100k": {
   "hoc": [
@@ -92,11 +92,11 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 20
+    "counts": 22
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 18
+    "counts": 21
    },
    {
     "author": "KalockSwig",
@@ -119,7 +119,7 @@
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
+    "author": "ddodd69",
     "counts": 2
    },
    {
@@ -127,11 +127,15 @@
     "counts": 2
    },
    {
-    "author": "ddodd69",
+    "author": "TheMatsValk",
     "counts": 2
    },
    {
     "author": "naimagawa",
+    "counts": 1
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1
    },
    {
@@ -141,13 +145,9 @@
    {
     "author": "artbn",
     "counts": 1
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1
    }
   ],
-  "total_counts": 104
+  "total_counts": 109
  },
- "latest_count": 40700104
+ "latest_count": 40700109
 }
