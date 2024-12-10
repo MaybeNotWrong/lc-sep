@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 24805,
+    "counts": 25078,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 24693,
+    "counts": 24966,
     "has_wrc_req": true
    },
    {
@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Chalupa_Grandpa",
     "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "LeinadSpoon",
     "counts": 11,
     "has_wrc_req": false
    },
@@ -57,17 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,16 +82,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -100,19 +90,29 @@
     "author": "eddebbboi",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 49766
+  "total_counts": 50312
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 2857
+    "counts": 3130
    },
    {
     "author": "greenpeppercat",
-    "counts": 2732
+    "counts": 3005
    },
    {
     "author": "Lonadont",
@@ -143,12 +143,16 @@
     "counts": 5
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 3
+   },
+   {
     "author": "PaleRepresentative",
     "counts": 3
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 3
+    "author": "TheMatsValk",
+    "counts": 2
    },
    {
     "author": "NobodyL0vesMe",
@@ -159,15 +163,7 @@
     "counts": 2
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2
-   },
-   {
-    "author": "treje",
-    "counts": 1
-   },
-   {
-    "author": "artbn",
+    "author": "noduorg",
     "counts": 1
    },
    {
@@ -175,15 +171,19 @@
     "counts": 1
    },
    {
-    "author": "noduorg",
+    "author": "naimagawa",
     "counts": 1
    },
    {
-    "author": "naimagawa",
+    "author": "artbn",
+    "counts": 1
+   },
+   {
+    "author": "treje",
     "counts": 1
    }
   ],
-  "total_counts": 5810
+  "total_counts": 6356
  },
- "latest_count": 40705810
+ "latest_count": 40706356
 }
