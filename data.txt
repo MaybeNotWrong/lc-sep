@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 32016,
+    "counts": 32017,
     "has_wrc_req": true
    },
    {
@@ -23,7 +23,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 39,
+    "counts": 41,
     "has_wrc_req": false
    },
    {
@@ -62,11 +62,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -77,12 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
+    "author": "TheMatsValk",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "eddebbboi",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -97,18 +92,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "eddebbboi",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 64208
+  "total_counts": 64211
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10068
+    "counts": 10069
    },
    {
     "author": "greenpeppercat",
@@ -124,7 +124,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 39
+    "counts": 41
    },
    {
     "author": "Chalupa_Grandpa",
@@ -147,27 +147,27 @@
     "counts": 6
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 3
-   },
-   {
     "author": "PaleRepresentative",
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2
+    "author": "Christmas_Missionary",
+    "counts": 3
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 2
    },
    {
-    "author": "artbn",
+    "author": "TheMatsValk",
+    "counts": 2
+   },
+   {
+    "author": "treje",
     "counts": 1
    },
    {
-    "author": "naimagawa",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -179,11 +179,11 @@
     "counts": 1
    },
    {
-    "author": "treje",
+    "author": "naimagawa",
     "counts": 1
    }
   ],
-  "total_counts": 20252
+  "total_counts": 20255
  },
- "latest_count": 40720252
+ "latest_count": 40720255
 }
