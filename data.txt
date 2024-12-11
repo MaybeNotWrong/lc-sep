@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 32013,
+    "counts": 32014,
     "has_wrc_req": true
    },
    {
@@ -23,7 +23,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 36,
+    "counts": 37,
     "has_wrc_req": false
    },
    {
@@ -52,12 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "PaleRepresentative",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
+    "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -82,16 +82,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "eddebbboi",
     "counts": 1,
     "has_wrc_req": false
@@ -100,15 +90,25 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 64202
+  "total_counts": 64204
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 10065
+    "counts": 10066
    },
    {
     "author": "greenpeppercat",
@@ -124,7 +124,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 36
+    "counts": 37
    },
    {
     "author": "Chalupa_Grandpa",
@@ -139,28 +139,36 @@
     "counts": 8
    },
    {
-    "author": "cuteballgames",
-    "counts": 6
-   },
-   {
     "author": "davidjl123",
     "counts": 6
    },
    {
-    "author": "PaleRepresentative",
-    "counts": 3
+    "author": "cuteballgames",
+    "counts": 6
    },
    {
     "author": "Christmas_Missionary",
     "counts": 3
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 2
+    "author": "PaleRepresentative",
+    "counts": 3
    },
    {
     "author": "TheMatsValk",
     "counts": 2
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 2
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "eddebbboi",
+    "counts": 1
    },
    {
     "author": "naimagawa",
@@ -173,17 +181,9 @@
    {
     "author": "treje",
     "counts": 1
-   },
-   {
-    "author": "eddebbboi",
-    "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 20246
+  "total_counts": 20248
  },
- "latest_count": 40720246
+ "latest_count": 40720248
 }
