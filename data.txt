@@ -3,32 +3,27 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 8770,
+    "counts": 8950,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 8738,
+    "counts": 8919,
     "has_wrc_req": true
    },
    {
     "author": "ddodd69",
-    "counts": 59,
+    "counts": 61,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -40,38 +35,43 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 17576
+  "total_counts": 17941
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 7843
+    "counts": 8023
    },
    {
     "author": "greenpeppercat",
-    "counts": 7813
+    "counts": 7994
    },
    {
     "author": "ddodd69",
-    "counts": 58
+    "counts": 60
+   },
+   {
+    "author": "Lonadont",
+    "counts": 4
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 4
    },
    {
-    "author": "Lonadont",
-    "counts": 2
-   },
-   {
     "author": "treje",
     "counts": 1
    }
   ],
-  "total_counts": 15721
+  "total_counts": 16086
  },
- "latest_count": 40815721
+ "latest_count": 40816086
 }
