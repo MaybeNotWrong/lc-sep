@@ -1,103 +1,17 @@
 {
  "day": {
-  "hoc": [
-   {
-    "author": "greenpeppercat",
-    "counts": 37831,
-    "has_wrc_req": true
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 27635,
-    "has_wrc_req": true
-   },
-   {
-    "author": "naimagawa",
-    "counts": 10007,
-    "has_wrc_req": true
-   },
-   {
-    "author": "ddodd69",
-    "counts": 722,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 527,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 388,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 40,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 11,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   }
-  ],
-  "total_counts": 77195
+  "hoc": [],
+  "total_counts": 0
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 36906
+    "counts": 37152
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 26708
+    "counts": 26954
    },
    {
     "author": "naimagawa",
@@ -132,11 +46,11 @@
     "counts": 6
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "cuteballgames",
     "counts": 4
    },
    {
-    "author": "cuteballgames",
+    "author": "Chalupa_Grandpa",
     "counts": 4
    },
    {
@@ -148,11 +62,11 @@
     "counts": 3
    },
    {
-    "author": "Trial-Name",
+    "author": "NobodyL0vesMe",
     "counts": 2
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Trial-Name",
     "counts": 2
    },
    {
@@ -160,7 +74,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 75340
+  "total_counts": 75832
  },
- "latest_count": 40875340
+ "latest_count": 40875832
 }
