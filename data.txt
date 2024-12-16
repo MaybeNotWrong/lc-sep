@@ -1,17 +1,33 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 120,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 120,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 241
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 37152
+    "counts": 37382
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 26954
+    "counts": 27184
    },
    {
     "author": "naimagawa",
@@ -19,7 +35,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 721
+    "counts": 722
    },
    {
     "author": "Lonadont",
@@ -39,11 +55,15 @@
    },
    {
     "author": "treje",
-    "counts": 7
+    "counts": 8
    },
    {
     "author": "Christmas_Missionary",
     "counts": 6
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 4
    },
    {
     "author": "cuteballgames",
@@ -54,19 +74,15 @@
     "counts": 4
    },
    {
-    "author": "Multiconcepted",
-    "counts": 4
-   },
-   {
     "author": "TheMatsValk",
     "counts": 3
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Trial-Name",
     "counts": 2
    },
    {
-    "author": "Trial-Name",
+    "author": "NobodyL0vesMe",
     "counts": 2
    },
    {
@@ -74,7 +90,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 75832
+  "total_counts": 76294
  },
- "latest_count": 40875832
+ "latest_count": 40876294
 }
