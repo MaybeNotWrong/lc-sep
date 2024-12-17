@@ -28,7 +28,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -70,14 +75,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 40724
+  "total_counts": 40725
  },
  "100k": {
   "hoc": [
@@ -107,10 +107,10 @@
    },
    {
     "author": "davidjl123",
-    "counts": 3
+    "counts": 4
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "naimagawa",
     "counts": 2
    },
    {
@@ -118,7 +118,7 @@
     "counts": 2
    },
    {
-    "author": "naimagawa",
+    "author": "Chalupa_Grandpa",
     "counts": 2
    },
    {
@@ -130,7 +130,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 182
+  "total_counts": 183
  },
- "latest_count": 41000182
+ "latest_count": 41000183
 }
