@@ -52,7 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "LeinadSpoon",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,7 +82,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40731
+  "total_counts": 40732
  },
  "100k": {
   "hoc": [
@@ -103,11 +103,11 @@
     "counts": 11
    },
    {
-    "author": "SubSmartstocks",
+    "author": "greenpeppercat",
     "counts": 8
    },
    {
-    "author": "greenpeppercat",
+    "author": "SubSmartstocks",
     "counts": 8
    },
    {
@@ -119,11 +119,15 @@
     "counts": 3
    },
    {
-    "author": "naimagawa",
+    "author": "LeinadSpoon",
     "counts": 2
    },
    {
     "author": "TheMatsValk",
+    "counts": 2
+   },
+   {
+    "author": "naimagawa",
     "counts": 2
    },
    {
@@ -133,13 +137,9 @@
    {
     "author": "artbn",
     "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
    }
   ],
-  "total_counts": 189
+  "total_counts": 190
  },
- "latest_count": 41000189
+ "latest_count": 41000190
 }
