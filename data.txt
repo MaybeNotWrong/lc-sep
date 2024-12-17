@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 23504,
+    "counts": 23734,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 18572,
+    "counts": 18801,
     "has_wrc_req": true
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "Chalupa_Grandpa",
     "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "naimagawa",
     "counts": 11,
     "has_wrc_req": false
    },
@@ -57,16 +57,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "VitaminB16",
     "counts": 3,
     "has_wrc_req": false
@@ -77,8 +67,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
+    "author": "Christmas_Missionary",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -88,7 +83,12 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 1,
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -97,17 +97,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 47668
+  "total_counts": 48128
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 11538
+    "counts": 11768
    },
    {
     "author": "greenpeppercat",
-    "counts": 6614
+    "counts": 6843
    },
    {
     "author": "artbn",
@@ -134,15 +134,15 @@
     "counts": 10
    },
    {
+    "author": "KalockSwig",
+    "counts": 5
+   },
+   {
     "author": "treje",
     "counts": 5
    },
    {
     "author": "davidjl123",
-    "counts": 5
-   },
-   {
-    "author": "KalockSwig",
     "counts": 5
    },
    {
@@ -162,6 +162,10 @@
     "counts": 2
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 2
+   },
+   {
     "author": "noduorg",
     "counts": 2
    },
@@ -172,13 +176,9 @@
    {
     "author": "cuteballgames",
     "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
    }
   ],
-  "total_counts": 23717
+  "total_counts": 24177
  },
- "latest_count": 40923717
+ "latest_count": 40924177
 }
