@@ -47,13 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "naimagawa",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 7,
+    "author": "treje",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -67,11 +67,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
@@ -82,17 +77,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 40898
+  "total_counts": 40899
  },
  "100k": {
   "hoc": [
@@ -129,15 +129,15 @@
     "counts": 10
    },
    {
+    "author": "naimagawa",
+    "counts": 8
+   },
+   {
     "author": "treje",
     "counts": 7
    },
    {
     "author": "davidjl123",
-    "counts": 7
-   },
-   {
-    "author": "naimagawa",
     "counts": 7
    },
    {
@@ -149,15 +149,15 @@
     "counts": 4
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2
    },
    {
-    "author": "Trial-Name",
+    "author": "LeinadSpoon",
+    "counts": 2
+   },
+   {
+    "author": "noduorg",
     "counts": 1
    },
    {
@@ -165,11 +165,11 @@
     "counts": 1
    },
    {
-    "author": "noduorg",
+    "author": "Trial-Name",
     "counts": 1
    }
   ],
-  "total_counts": 356
+  "total_counts": 357
  },
- "latest_count": 41000356
+ "latest_count": 41000357
 }
