@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 9406,
+    "counts": 9543,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "artbn",
-    "counts": 1422,
+    "counts": 1558,
     "has_wrc_req": false
    },
    {
@@ -42,28 +42,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "VitaminB16",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,9 +65,19 @@
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 18897
+  "total_counts": 19170
  },
  "100k": {
   "hoc": [
@@ -87,11 +87,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 9416
+    "counts": 9553
    },
    {
     "author": "artbn",
-    "counts": 2958
+    "counts": 3094
    },
    {
     "author": "ddodd69",
@@ -142,11 +142,11 @@
     "counts": 13
    },
    {
-    "author": "treje",
+    "author": "TheMatsValk",
     "counts": 12
    },
    {
-    "author": "TheMatsValk",
+    "author": "treje",
     "counts": 12
    },
    {
@@ -166,11 +166,11 @@
     "counts": 3
    },
    {
-    "author": "Trial-Name",
+    "author": "VitaminB16",
     "counts": 2
    },
    {
-    "author": "VitaminB16",
+    "author": "Trial-Name",
     "counts": 2
    },
    {
@@ -178,7 +178,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28945
+  "total_counts": 29218
  },
- "latest_count": 41028945
+ "latest_count": 41029218
 }
