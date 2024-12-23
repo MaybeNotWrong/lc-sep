@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 30,
+    "counts": 31,
     "has_wrc_req": false
    },
    {
@@ -52,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
@@ -70,9 +65,14 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 111
+  "total_counts": 112
  },
  "100k": {
   "hoc": [
@@ -106,7 +106,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1421
+    "counts": 1422
    },
    {
     "author": "noduorg",
@@ -189,7 +189,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55370
+  "total_counts": 55371
  },
- "latest_count": 41055140
+ "latest_count": 41055141
 }
