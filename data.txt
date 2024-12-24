@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 98,
+    "counts": 239,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 166,
     "has_wrc_req": false
    },
    {
@@ -17,11 +22,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 26,
-    "has_wrc_req": false
-   },
-   {
     "author": "vovker1",
     "counts": 11,
     "has_wrc_req": false
@@ -32,18 +32,33 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "PaleRepresentative",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "PaleRepresentative",
+    "author": "Chalupa_Grandpa",
     "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -54,26 +69,6 @@
    {
     "author": "treje",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -90,15 +85,20 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 280
+  "total_counts": 561
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16870
+    "counts": 17011
    },
    {
     "author": "greenpeppercat",
@@ -106,7 +106,7 @@
    },
    {
     "author": "artbn",
-    "counts": 6725
+    "counts": 6865
    },
    {
     "author": "PaleRepresentative",
@@ -157,11 +157,11 @@
     "counts": 47
    },
    {
-    "author": "treje",
+    "author": "reddittheandrewor",
     "counts": 33
    },
    {
-    "author": "reddittheandrewor",
+    "author": "treje",
     "counts": 33
    },
    {
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55539
+  "total_counts": 55820
  },
- "latest_count": 41055309
+ "latest_count": 41055590
 }
