@@ -47,23 +47,13 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Limes_Are_Green",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,9 +65,19 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Limes_Are_Green",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 21765
+  "total_counts": 21766
  },
  "100k": {
   "hoc": [
@@ -114,6 +114,10 @@
     "counts": 4
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 3
+   },
+   {
     "author": "naimagawa",
     "counts": 3
    },
@@ -122,8 +126,8 @@
     "counts": 2
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 2
+    "author": "artbn",
+    "counts": 1
    },
    {
     "author": "Limes_Are_Green",
@@ -136,13 +140,9 @@
    {
     "author": "Christmas_Missionary",
     "counts": 1
-   },
-   {
-    "author": "artbn",
-    "counts": 1
    }
   ],
-  "total_counts": 15497
+  "total_counts": 15498
  },
- "latest_count": 41115497
+ "latest_count": 41115498
 }
