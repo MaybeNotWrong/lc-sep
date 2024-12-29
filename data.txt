@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13369,
+    "counts": 13371,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10889,
+    "counts": 10891,
     "has_wrc_req": false
    },
    {
@@ -52,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Limes_Are_Green",
     "counts": 2,
     "has_wrc_req": false
@@ -72,13 +67,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
+    "author": "Multiconcepted",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -95,19 +85,29 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27374
+  "total_counts": 27378
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 10239
+    "counts": 10241
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 7756
+    "counts": 7758
    },
    {
     "author": "naimagawa",
@@ -142,10 +142,6 @@
     "counts": 5
    },
    {
-    "author": "noduorg",
-    "counts": 2
-   },
-   {
     "author": "Multiconcepted",
     "counts": 2
    },
@@ -158,15 +154,11 @@
     "counts": 2
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1
+    "author": "noduorg",
+    "counts": 2
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
+    "author": "treje",
     "counts": 1
    },
    {
@@ -174,11 +166,19 @@
     "counts": 1
    },
    {
-    "author": "treje",
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1
    }
   ],
-  "total_counts": 21106
+  "total_counts": 21110
  },
- "latest_count": 41121106
+ "latest_count": 41121110
 }
