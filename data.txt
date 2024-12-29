@@ -2,22 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "amazingpikachu_38",
-    "counts": 6613,
-    "has_wrc_req": false
-   },
-   {
     "author": "greenpeppercat",
-    "counts": 6613,
+    "counts": 6859,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 3,
+    "author": "amazingpikachu_38",
+    "counts": 6859,
     "has_wrc_req": false
    },
    {
     "author": "vovker1",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -32,17 +32,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 13235
+  "total_counts": 13727
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 16855
+    "counts": 17101
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 14372
+    "counts": 14618
    },
    {
     "author": "naimagawa",
@@ -77,14 +77,6 @@
     "counts": 5
    },
    {
-    "author": "noduorg",
-    "counts": 2
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 2
-   },
-   {
     "author": "Limes_Are_Green",
     "counts": 2
    },
@@ -93,15 +85,15 @@
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1
+    "author": "noduorg",
+    "counts": 2
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1
+    "author": "Multiconcepted",
+    "counts": 2
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "artbn",
     "counts": 1
    },
    {
@@ -109,11 +101,19 @@
     "counts": 1
    },
    {
-    "author": "artbn",
+    "author": "Christmas_Missionary",
+    "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 34347
+  "total_counts": 34839
  },
- "latest_count": 41134347
+ "latest_count": 41134839
 }
