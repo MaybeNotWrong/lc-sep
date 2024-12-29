@@ -37,12 +37,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -55,14 +60,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 25909
+  "total_counts": 25910
  },
  "100k": {
   "hoc": [
@@ -111,14 +111,6 @@
     "counts": 3
    },
    {
-    "author": "artbn",
-    "counts": 2
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 2
-   },
-   {
     "author": "Multiconcepted",
     "counts": 2
    },
@@ -127,11 +119,19 @@
     "counts": 2
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1
+    "author": "artbn",
+    "counts": 2
    },
    {
-    "author": "LeinadSpoon",
+    "author": "NobodyL0vesMe",
+    "counts": 2
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -139,11 +139,11 @@
     "counts": 1
    },
    {
-    "author": "dragonpro9827",
+    "author": "LeinadSpoon",
     "counts": 1
    },
    {
-    "author": "Trial-Name",
+    "author": "dragonpro9827",
     "counts": 1
    },
    {
@@ -151,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47021
+  "total_counts": 47022
  },
- "latest_count": 41147021
+ "latest_count": 41147022
 }
