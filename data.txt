@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11376,
+    "counts": 11377,
     "has_wrc_req": true
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Chalupa_Grandpa",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "davidjl123",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -48,7 +48,12 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Limes_Are_Green",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -57,8 +62,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Limes_Are_Green",
-    "counts": 2,
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,25 +85,15 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 23315
+  "total_counts": 23317
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 8246
+    "counts": 8247
    },
    {
     "author": "amazingpikachu_38",
@@ -129,15 +129,27 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4
+    "counts": 5
+   },
+   {
+    "author": "noduorg",
+    "counts": 2
    },
    {
     "author": "Limes_Are_Green",
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 2
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1
    },
    {
     "author": "artbn",
@@ -146,21 +158,9 @@
    {
     "author": "NobodyL0vesMe",
     "counts": 1
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
    }
   ],
-  "total_counts": 17047
+  "total_counts": 17049
  },
- "latest_count": 41117047
+ "latest_count": 41117049
 }
