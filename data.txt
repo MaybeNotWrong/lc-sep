@@ -18,7 +18,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 7,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -29,16 +29,6 @@
    {
     "author": "ddodd69",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -60,9 +50,19 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 25907
+  "total_counts": 25908
  },
  "100k": {
   "hoc": [
@@ -84,7 +84,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 457
+    "counts": 458
    },
    {
     "author": "ddodd69",
@@ -115,6 +115,10 @@
     "counts": 2
    },
    {
+    "author": "artbn",
+    "counts": 2
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 2
    },
@@ -123,23 +127,7 @@
     "counts": 2
    },
    {
-    "author": "artbn",
-    "counts": 2
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1
-   },
-   {
-    "author": "Trial-Name",
+    "author": "treje",
     "counts": 1
    },
    {
@@ -147,11 +135,23 @@
     "counts": 1
    },
    {
-    "author": "treje",
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 47019
+  "total_counts": 47020
  },
- "latest_count": 41147019
+ "latest_count": 41147020
 }
