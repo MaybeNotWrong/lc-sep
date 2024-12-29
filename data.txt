@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11772,
+    "counts": 11971,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
     "counts": 10849,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 601,
     "has_wrc_req": false
    },
    {
@@ -19,11 +24,6 @@
    {
     "author": "Lonadont",
     "counts": 450,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 401,
     "has_wrc_req": false
    },
    {
@@ -52,13 +52,28 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Limes_Are_Green",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -70,34 +85,23 @@
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 24109
+  "total_counts": 24508
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 8642
+    "counts": 8841
    },
    {
     "author": "amazingpikachu_38",
     "counts": 7716
+   },
+   {
+    "author": "naimagawa",
+    "counts": 601
    },
    {
     "author": "vovker1",
@@ -106,10 +110,6 @@
    {
     "author": "Lonadont",
     "counts": 450
-   },
-   {
-    "author": "naimagawa",
-    "counts": 401
    },
    {
     "author": "ddodd69",
@@ -140,6 +140,10 @@
     "counts": 2
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
     "author": "artbn",
     "counts": 1
    },
@@ -148,19 +152,15 @@
     "counts": 1
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
     "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1
    }
   ],
-  "total_counts": 17841
+  "total_counts": 18240
  },
- "latest_count": 41117841
+ "latest_count": 41118240
 }
