@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 25585,
+    "counts": 25820,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 19138,
+    "counts": 19373,
     "has_wrc_req": false
    },
    {
@@ -17,12 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "SubSmartstocks",
     "counts": 36,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "Lonadont",
     "counts": 36,
     "has_wrc_req": false
    },
@@ -62,22 +62,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "dragonpro9827",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -97,17 +97,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 53326
+  "total_counts": 53796
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 35827
+    "counts": 36062
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 26897
+    "counts": 27132
    },
    {
     "author": "naimagawa",
@@ -142,20 +142,12 @@
     "counts": 8
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 5
-   },
-   {
     "author": "rideride",
     "counts": 5
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 3
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 3
+    "author": "NobodyL0vesMe",
+    "counts": 5
    },
    {
     "author": "noduorg",
@@ -166,11 +158,19 @@
     "counts": 3
    },
    {
-    "author": "cuteballgames",
+    "author": "Christmas_Missionary",
+    "counts": 3
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 3
+   },
+   {
+    "author": "treje",
     "counts": 2
    },
    {
-    "author": "Trial-Name",
+    "author": "cuteballgames",
     "counts": 2
    },
    {
@@ -178,7 +178,7 @@
     "counts": 2
    },
    {
-    "author": "treje",
+    "author": "Trial-Name",
     "counts": 2
    },
    {
@@ -194,7 +194,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 74438
+  "total_counts": 74908
  },
- "latest_count": 41174438
+ "latest_count": 41174908
 }
