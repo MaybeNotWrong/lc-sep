@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 20161,
+    "counts": 20370,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 7225,
+    "counts": 7433,
     "has_wrc_req": false
    },
    {
@@ -52,18 +52,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 2,
+    "author": "TheMatsValk",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -73,6 +68,11 @@
    },
    {
     "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -97,13 +97,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40461
+  "total_counts": 40878
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 30403
+    "counts": 30612
    },
    {
     "author": "amazingpikachu_38",
@@ -111,7 +111,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 9210
+    "counts": 9418
    },
    {
     "author": "vovker1",
@@ -142,15 +142,15 @@
     "counts": 8
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 5
-   },
-   {
     "author": "rideride",
     "counts": 5
    },
    {
-    "author": "TheMatsValk",
+    "author": "NobodyL0vesMe",
+    "counts": 5
+   },
+   {
+    "author": "noduorg",
     "counts": 3
    },
    {
@@ -158,24 +158,12 @@
     "counts": 3
    },
    {
-    "author": "noduorg",
-    "counts": 3
-   },
-   {
     "author": "Multiconcepted",
     "counts": 3
    },
    {
-    "author": "cuteballgames",
-    "counts": 2
-   },
-   {
-    "author": "Limes_Are_Green",
-    "counts": 2
-   },
-   {
-    "author": "treje",
-    "counts": 2
+    "author": "TheMatsValk",
+    "counts": 3
    },
    {
     "author": "dragonpro9827",
@@ -186,15 +174,27 @@
     "counts": 2
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1
+    "author": "treje",
+    "counts": 2
+   },
+   {
+    "author": "Limes_Are_Green",
+    "counts": 2
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 2
    },
    {
     "author": "Tranquilsunrise",
     "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1
    }
   ],
-  "total_counts": 61573
+  "total_counts": 61990
  },
- "latest_count": 41161573
+ "latest_count": 41161990
 }
