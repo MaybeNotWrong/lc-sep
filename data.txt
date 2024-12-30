@@ -23,7 +23,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 102,
+    "counts": 141,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 41,
     "has_wrc_req": false
    },
    {
@@ -62,11 +67,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -92,7 +92,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26423
+  "total_counts": 26501
  },
  "100k": {
   "hoc": [
@@ -110,7 +110,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 99
+    "counts": 138
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 41
    },
    {
     "author": "KalockSwig",
@@ -121,11 +125,11 @@
     "counts": 8
    },
    {
-    "author": "davidjl123",
+    "author": "SubSmartstocks",
     "counts": 5
    },
    {
-    "author": "SubSmartstocks",
+    "author": "davidjl123",
     "counts": 5
    },
    {
@@ -145,10 +149,6 @@
     "counts": 2
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2
-   },
-   {
     "author": "cuteballgames",
     "counts": 1
    },
@@ -157,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4032
+  "total_counts": 4110
  },
- "latest_count": 41204032
+ "latest_count": 41204110
 }
