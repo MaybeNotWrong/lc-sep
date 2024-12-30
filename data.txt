@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 2388,
+    "counts": 2389,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -77,13 +77,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "noduorg",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -95,9 +90,14 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 26508
+  "total_counts": 26509
  },
  "100k": {
   "hoc": [
@@ -158,19 +158,23 @@
     "counts": 2
    },
    {
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1
+   },
+   {
     "author": "cuteballgames",
     "counts": 1
    },
    {
     "author": "Trial-Name",
     "counts": 1
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1
    }
   ],
-  "total_counts": 4117
+  "total_counts": 4118
  },
- "latest_count": 41204117
+ "latest_count": 41204118
 }
