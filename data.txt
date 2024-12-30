@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 16567,
+    "counts": 16789,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 3630,
+    "counts": 3852,
     "has_wrc_req": false
    },
    {
@@ -57,12 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -77,13 +77,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "cuteballgames",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -95,15 +90,20 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 33267
+  "total_counts": 33711
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 26809
+    "counts": 27031
    },
    {
     "author": "amazingpikachu_38",
@@ -111,7 +111,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5615
+    "counts": 5837
    },
    {
     "author": "vovker1",
@@ -150,10 +150,6 @@
     "counts": 5
    },
    {
-    "author": "Multiconcepted",
-    "counts": 3
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 3
    },
@@ -162,15 +158,23 @@
     "counts": 3
    },
    {
+    "author": "Multiconcepted",
+    "counts": 3
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 2
+   },
+   {
     "author": "cuteballgames",
     "counts": 2
    },
    {
-    "author": "treje",
+    "author": "Limes_Are_Green",
     "counts": 2
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "treje",
     "counts": 2
    },
    {
@@ -182,19 +186,15 @@
     "counts": 2
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2
+    "author": "LeinadSpoon",
+    "counts": 1
    },
    {
     "author": "Tranquilsunrise",
     "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
    }
   ],
-  "total_counts": 54379
+  "total_counts": 54823
  },
- "latest_count": 41154379
+ "latest_count": 41154823
 }
