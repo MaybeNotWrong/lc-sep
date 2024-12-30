@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13114,
+    "counts": 13119,
     "has_wrc_req": true
    },
    {
@@ -37,8 +37,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
-    "counts": 9,
+    "author": "SubSmartstocks",
+    "counts": 12,
     "has_wrc_req": false
    },
    {
@@ -47,8 +47,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 8,
+    "author": "KalockSwig",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -67,6 +67,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -74,16 +79,6 @@
    {
     "author": "Christmas_Missionary",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -95,15 +90,20 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 26515
+  "total_counts": 26524
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 1941
+    "counts": 1946
    },
    {
     "author": "amazingpikachu_38",
@@ -122,16 +122,16 @@
     "counts": 41
    },
    {
-    "author": "ddodd69",
-    "counts": 9
+    "author": "SubSmartstocks",
+    "counts": 12
    },
    {
     "author": "KalockSwig",
     "counts": 9
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 8
+    "author": "ddodd69",
+    "counts": 9
    },
    {
     "author": "davidjl123",
@@ -158,7 +158,11 @@
     "counts": 2
    },
    {
-    "author": "cuteballgames",
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "naimagawa",
     "counts": 1
    },
    {
@@ -166,15 +170,11 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
-    "author": "naimagawa",
+    "author": "cuteballgames",
     "counts": 1
    }
   ],
-  "total_counts": 4124
+  "total_counts": 4133
  },
- "latest_count": 41204124
+ "latest_count": 41204133
 }
