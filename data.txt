@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13743,
+    "counts": 13745,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10349,
+    "counts": 10351,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 1038,
+    "counts": 1040,
     "has_wrc_req": true
    },
    {
@@ -67,11 +67,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
@@ -87,8 +82,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -100,23 +95,28 @@
     "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27805
+  "total_counts": 27811
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 2570
+    "counts": 2572
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1553
+    "counts": 1555
    },
    {
     "author": "vovker1",
-    "counts": 1024
+    "counts": 1026
    },
    {
     "author": "Lonadont",
@@ -135,28 +135,24 @@
     "counts": 15
    },
    {
-    "author": "KalockSwig",
-    "counts": 9
-   },
-   {
     "author": "davidjl123",
     "counts": 9
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 4
+    "author": "KalockSwig",
+    "counts": 9
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 4
    },
    {
-    "author": "artbn",
-    "counts": 3
+    "author": "NobodyL0vesMe",
+    "counts": 4
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2
+    "author": "artbn",
+    "counts": 3
    },
    {
     "author": "noduorg",
@@ -167,7 +163,15 @@
     "counts": 2
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 2
+   },
+   {
     "author": "cuteballgames",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1
    },
    {
@@ -177,13 +181,9 @@
    {
     "author": "naimagawa",
     "counts": 1
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
    }
   ],
-  "total_counts": 5414
+  "total_counts": 5420
  },
- "latest_count": 41205414
+ "latest_count": 41205419
 }
