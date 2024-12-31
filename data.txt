@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13748,
+    "counts": 13860,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10352,
+    "counts": 10353,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 1040,
+    "counts": 1151,
     "has_wrc_req": true
    },
    {
@@ -67,18 +67,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -87,8 +77,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -100,23 +95,28 @@
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27816
+  "total_counts": 28041
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 2575
+    "counts": 2687
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1556
+    "counts": 1557
    },
    {
     "author": "vovker1",
-    "counts": 1026
+    "counts": 1137
    },
    {
     "author": "Lonadont",
@@ -135,11 +135,11 @@
     "counts": 16
    },
    {
-    "author": "KalockSwig",
+    "author": "davidjl123",
     "counts": 9
    },
    {
-    "author": "davidjl123",
+    "author": "KalockSwig",
     "counts": 9
    },
    {
@@ -155,24 +155,16 @@
     "counts": 3
    },
    {
-    "author": "noduorg",
-    "counts": 2
+    "author": "Multiconcepted",
+    "counts": 3
    },
    {
-    "author": "Multiconcepted",
+    "author": "noduorg",
     "counts": 2
    },
    {
     "author": "Christmas_Missionary",
     "counts": 2
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1
    },
    {
     "author": "cuteballgames",
@@ -181,9 +173,17 @@
    {
     "author": "Trial-Name",
     "counts": 1
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1
    }
   ],
-  "total_counts": 5425
+  "total_counts": 5650
  },
- "latest_count": 41205424
+ "latest_count": 41205649
 }
