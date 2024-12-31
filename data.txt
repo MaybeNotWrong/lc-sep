@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13745,
+    "counts": 13748,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10351,
+    "counts": 10352,
     "has_wrc_req": false
    },
    {
@@ -38,7 +38,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 24,
+    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -67,11 +67,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
@@ -82,13 +77,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -100,19 +95,24 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27811
+  "total_counts": 27816
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 2572
+    "counts": 2575
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1555
+    "counts": 1556
    },
    {
     "author": "vovker1",
@@ -132,14 +132,14 @@
    },
    {
     "author": "ddodd69",
-    "counts": 15
-   },
-   {
-    "author": "davidjl123",
-    "counts": 9
+    "counts": 16
    },
    {
     "author": "KalockSwig",
+    "counts": 9
+   },
+   {
+    "author": "davidjl123",
     "counts": 9
    },
    {
@@ -167,23 +167,23 @@
     "counts": 2
    },
    {
-    "author": "cuteballgames",
-    "counts": 1
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
     "author": "MaybeNotWrong",
     "counts": 1
    },
    {
     "author": "naimagawa",
     "counts": 1
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
    }
   ],
-  "total_counts": 5420
+  "total_counts": 5425
  },
- "latest_count": 41205419
+ "latest_count": 41205424
 }
