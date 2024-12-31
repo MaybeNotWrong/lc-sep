@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13996,
+    "counts": 14232,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10353,
+    "counts": 10354,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 1288,
+    "counts": 1526,
     "has_wrc_req": true
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 43,
+    "counts": 45,
     "has_wrc_req": false
    },
    {
@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
@@ -82,17 +87,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -100,23 +95,28 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 28314
+  "total_counts": 28791
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 2823
+    "counts": 3059
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1557
+    "counts": 1558
    },
    {
     "author": "vovker1",
-    "counts": 1274
+    "counts": 1512
    },
    {
     "author": "Lonadont",
@@ -124,7 +124,7 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 43
+    "counts": 45
    },
    {
     "author": "SubSmartstocks",
@@ -135,44 +135,36 @@
     "counts": 16
    },
    {
-    "author": "davidjl123",
-    "counts": 9
-   },
-   {
     "author": "KalockSwig",
     "counts": 9
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 4
+    "author": "davidjl123",
+    "counts": 9
    },
    {
     "author": "NobodyL0vesMe",
     "counts": 4
    },
    {
-    "author": "artbn",
-    "counts": 3
+    "author": "Chalupa_Grandpa",
+    "counts": 4
    },
    {
     "author": "Multiconcepted",
     "counts": 3
    },
    {
-    "author": "noduorg",
-    "counts": 2
+    "author": "artbn",
+    "counts": 3
    },
    {
     "author": "Christmas_Missionary",
     "counts": 2
    },
    {
-    "author": "cuteballgames",
-    "counts": 1
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
+    "author": "noduorg",
+    "counts": 2
    },
    {
     "author": "MaybeNotWrong",
@@ -181,9 +173,17 @@
    {
     "author": "naimagawa",
     "counts": 1
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1
    }
   ],
-  "total_counts": 5923
+  "total_counts": 6400
  },
- "latest_count": 41205922
+ "latest_count": 41206399
 }
