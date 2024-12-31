@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 13372,
+    "counts": 13613,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 10347,
+    "counts": 10348,
     "has_wrc_req": false
    },
    {
@@ -18,8 +18,8 @@
    },
    {
     "author": "vovker1",
-    "counts": 666,
-    "has_wrc_req": false
+    "counts": 909,
+    "has_wrc_req": true
    },
    {
     "author": "Lonadont",
@@ -102,21 +102,21 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27060
+  "total_counts": 27545
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 2199
+    "counts": 2440
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1551
+    "counts": 1552
    },
    {
     "author": "vovker1",
-    "counts": 652
+    "counts": 895
    },
    {
     "author": "Lonadont",
@@ -135,28 +135,24 @@
     "counts": 15
    },
    {
-    "author": "KalockSwig",
-    "counts": 9
-   },
-   {
     "author": "davidjl123",
     "counts": 9
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 4
+    "author": "KalockSwig",
+    "counts": 9
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 4
    },
    {
-    "author": "artbn",
-    "counts": 3
+    "author": "NobodyL0vesMe",
+    "counts": 4
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2
+    "author": "artbn",
+    "counts": 3
    },
    {
     "author": "noduorg",
@@ -165,6 +161,14 @@
    {
     "author": "Multiconcepted",
     "counts": 2
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 2
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
    },
    {
     "author": "cuteballgames",
@@ -177,13 +181,9 @@
    {
     "author": "naimagawa",
     "counts": 1
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
    }
   ],
-  "total_counts": 4669
+  "total_counts": 5154
  },
- "latest_count": 41204669
+ "latest_count": 41205154
 }
