@@ -33,6 +33,11 @@
    },
    {
     "author": "SubSmartstocks",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -42,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -57,22 +57,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "davidjl123",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 1744
+  "total_counts": 1745
  },
  "100k": {
   "hoc": [
@@ -106,7 +106,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 57
+    "counts": 58
    },
    {
     "author": "davidjl123",
@@ -137,11 +137,11 @@
     "counts": 6
    },
    {
-    "author": "treje",
+    "author": "Multiconcepted",
     "counts": 5
    },
    {
-    "author": "Multiconcepted",
+    "author": "treje",
     "counts": 5
    },
    {
@@ -151,6 +151,10 @@
    {
     "author": "FelipePlayz9",
     "counts": 3
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1
    },
    {
     "author": "LeinadSpoon",
@@ -171,13 +175,9 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
    }
   ],
-  "total_counts": 30100
+  "total_counts": 30101
  },
- "latest_count": 41230099
+ "latest_count": 41230100
 }
