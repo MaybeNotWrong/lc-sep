@@ -8,8 +8,8 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 12739,
-    "has_wrc_req": false
+    "counts": 12925,
+    "has_wrc_req": true
    },
    {
     "author": "vovker1",
@@ -18,7 +18,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 333,
+    "counts": 520,
     "has_wrc_req": false
    },
    {
@@ -72,6 +72,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
@@ -80,14 +85,9 @@
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 27331
+  "total_counts": 27704
  },
  "100k": {
   "hoc": [
@@ -97,11 +97,11 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 18831
+    "counts": 19017
    },
    {
     "author": "naimagawa",
-    "counts": 9344
+    "counts": 9531
    },
    {
     "author": "vovker1",
@@ -144,19 +144,19 @@
     "counts": 12
    },
    {
-    "author": "noduorg",
-    "counts": 6
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 6
    },
    {
-    "author": "treje",
-    "counts": 5
+    "author": "noduorg",
+    "counts": 6
    },
    {
     "author": "Multiconcepted",
+    "counts": 5
+   },
+   {
+    "author": "treje",
     "counts": 5
    },
    {
@@ -169,10 +169,6 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 1
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1
    },
    {
@@ -190,9 +186,13 @@
    {
     "author": "LeinadSpoon",
     "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
    }
   ],
-  "total_counts": 55687
+  "total_counts": 56060
  },
- "latest_count": 41255686
+ "latest_count": 41256059
 }
