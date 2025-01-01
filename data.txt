@@ -62,6 +62,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "TheMatsValk",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
@@ -69,16 +79,6 @@
    {
     "author": "noduorg",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 15604
+  "total_counts": 15605
  },
  "100k": {
   "hoc": [
@@ -170,20 +170,12 @@
     "counts": 3
    },
    {
+    "author": "cuteballgames",
+    "counts": 3
+   },
+   {
     "author": "treje",
     "counts": 2
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 2
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
    },
    {
     "author": "Tranquilsunrise",
@@ -192,9 +184,17 @@
    {
     "author": "MaybeNotWrong",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
+    "counts": 1
    }
   ],
-  "total_counts": 28105
+  "total_counts": 28106
  },
- "latest_count": 41228104
+ "latest_count": 41228105
 }
