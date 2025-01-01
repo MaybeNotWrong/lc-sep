@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "vovker1",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
+    "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -17,12 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -50,7 +55,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 1936
+    "counts": 1937
    },
    {
     "author": "TheMatsValk",
@@ -66,7 +71,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 49
+    "counts": 50
    },
    {
     "author": "davidjl123",
@@ -101,6 +106,10 @@
     "counts": 4
    },
    {
+    "author": "treje",
+    "counts": 3
+   },
+   {
     "author": "cuteballgames",
     "counts": 3
    },
@@ -109,19 +118,7 @@
     "counts": 3
    },
    {
-    "author": "treje",
-    "counts": 2
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
-    "author": "VitaminB16",
+    "author": "MaybeNotWrong",
     "counts": 1
    },
    {
@@ -129,11 +126,19 @@
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 28366
+  "total_counts": 28369
  },
- "latest_count": 41228365
+ "latest_count": 41228368
 }
