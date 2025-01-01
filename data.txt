@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 6674,
+    "counts": 6881,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 5803,
+    "counts": 6009,
     "has_wrc_req": false
    },
    {
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -52,8 +52,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Christmas_Missionary",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -63,11 +68,6 @@
    },
    {
     "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -82,17 +82,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 13436
+  "total_counts": 13849
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 16092
+    "counts": 16299
    },
    {
     "author": "greenpeppercat",
-    "counts": 11895
+    "counts": 12101
    },
    {
     "author": "naimagawa",
@@ -139,31 +139,35 @@
     "counts": 10
    },
    {
-    "author": "noduorg",
-    "counts": 6
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 6
    },
    {
-    "author": "Multiconcepted",
-    "counts": 5
+    "author": "noduorg",
+    "counts": 6
    },
    {
     "author": "treje",
     "counts": 5
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 3
+    "author": "Multiconcepted",
+    "counts": 5
    },
    {
     "author": "cuteballgames",
     "counts": 3
    },
    {
+    "author": "FelipePlayz9",
+    "counts": 3
+   },
+   {
     "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1
    },
    {
@@ -175,19 +179,15 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1
    },
    {
-    "author": "Trial-Name",
+    "author": "Tranquilsunrise",
     "counts": 1
    }
   ],
-  "total_counts": 41792
+  "total_counts": 42205
  },
- "latest_count": 41241791
+ "latest_count": 41242204
 }
