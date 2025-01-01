@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 3193,
+    "counts": 3435,
     "has_wrc_req": true
    },
    {
     "author": "greenpeppercat",
-    "counts": 2322,
+    "counts": 2564,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -52,12 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
+    "author": "noduorg",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,28 +67,28 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Chalupa_Grandpa",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 6470
+  "total_counts": 6954
  },
  "100k": {
   "hoc": [
    {
     "author": "amazingpikachu_38",
-    "counts": 12611
+    "counts": 12853
    },
    {
     "author": "naimagawa",
@@ -96,7 +96,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 8414
+    "counts": 8656
    },
    {
     "author": "vovker1",
@@ -139,27 +139,27 @@
     "counts": 10
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 6
-   },
-   {
     "author": "noduorg",
     "counts": 6
    },
    {
-    "author": "Multiconcepted",
-    "counts": 5
+    "author": "Christmas_Missionary",
+    "counts": 6
    },
    {
     "author": "treje",
     "counts": 5
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 3
+    "author": "Multiconcepted",
+    "counts": 5
    },
    {
     "author": "cuteballgames",
+    "counts": 3
+   },
+   {
+    "author": "FelipePlayz9",
     "counts": 3
    },
    {
@@ -168,10 +168,6 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1
    },
    {
@@ -185,9 +181,13 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1
    }
   ],
-  "total_counts": 34826
+  "total_counts": 35310
  },
- "latest_count": 41234825
+ "latest_count": 41235309
 }
