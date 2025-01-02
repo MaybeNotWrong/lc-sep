@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Christmas_Missionary",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 60
+  "total_counts": 61
  },
  "100k": {
   "hoc": [
@@ -114,12 +114,12 @@
     "counts": 17
    },
    {
-    "author": "Multiconcepted",
+    "author": "Christmas_Missionary",
     "counts": 8
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 7
+    "author": "Multiconcepted",
+    "counts": 8
    },
    {
     "author": "treje",
@@ -142,10 +142,6 @@
     "counts": 3
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
     "author": "Trial-Name",
     "counts": 1
    },
@@ -154,15 +150,19 @@
     "counts": 1
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 70582
+  "total_counts": 70583
  },
- "latest_count": 41270580
+ "latest_count": 41270581
 }
