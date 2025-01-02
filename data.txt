@@ -22,12 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
+    "author": "KalockSwig",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 47
+  "total_counts": 48
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 17
+    "counts": 18
    },
    {
     "author": "Chalupa_Grandpa",
@@ -108,7 +108,7 @@
     "counts": 8
    },
    {
-    "author": "noduorg",
+    "author": "treje",
     "counts": 6
    },
    {
@@ -116,7 +116,7 @@
     "counts": 6
    },
    {
-    "author": "treje",
+    "author": "noduorg",
     "counts": 6
    },
    {
@@ -132,14 +132,6 @@
     "counts": 2
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 1
    },
@@ -150,9 +142,17 @@
    {
     "author": "Trial-Name",
     "counts": 1
+   },
+   {
+    "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    }
   ],
-  "total_counts": 70569
+  "total_counts": 70570
  },
- "latest_count": 41270567
+ "latest_count": 41270568
 }
