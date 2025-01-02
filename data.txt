@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 17528,
+    "counts": 17735,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5131,
+    "counts": 5337,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "NobodyL0vesMe",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -72,11 +72,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
@@ -85,15 +80,20 @@
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 36930
+  "total_counts": 37343
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 23620
+    "counts": 23827
    },
    {
     "author": "amazingpikachu_38",
@@ -101,7 +101,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 14142
+    "counts": 14348
    },
    {
     "author": "vovker1",
@@ -144,19 +144,19 @@
     "counts": 12
    },
    {
-    "author": "noduorg",
-    "counts": 6
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 6
    },
    {
-    "author": "treje",
-    "counts": 5
+    "author": "noduorg",
+    "counts": 6
    },
    {
     "author": "Multiconcepted",
+    "counts": 5
+   },
+   {
+    "author": "treje",
     "counts": 5
    },
    {
@@ -168,15 +168,11 @@
     "counts": 3
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1
-   },
-   {
-    "author": "VitaminB16",
     "counts": 1
    },
    {
@@ -188,11 +184,15 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Trial-Name",
+    "counts": 1
+   },
+   {
+    "author": "VitaminB16",
     "counts": 1
    }
   ],
-  "total_counts": 65286
+  "total_counts": 65699
  },
- "latest_count": 41265285
+ "latest_count": 41265698
 }
