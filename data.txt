@@ -2,12 +2,27 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -25,7 +40,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 2747
+    "counts": 2748
    },
    {
     "author": "TheMatsValk",
@@ -40,16 +55,16 @@
     "counts": 106
    },
    {
+    "author": "ddodd69",
+    "counts": 94
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 93
    },
    {
-    "author": "ddodd69",
-    "counts": 93
-   },
-   {
     "author": "davidjl123",
-    "counts": 24
+    "counts": 26
    },
    {
     "author": "artbn",
@@ -68,11 +83,11 @@
     "counts": 8
    },
    {
-    "author": "noduorg",
+    "author": "Christmas_Missionary",
     "counts": 6
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "noduorg",
     "counts": 6
    },
    {
@@ -92,15 +107,15 @@
     "counts": 1
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
     "author": "VitaminB16",
     "counts": 1
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
+    "author": "LeinadSpoon",
     "counts": 1
    },
    {
@@ -108,11 +123,11 @@
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
+    "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 70523
+  "total_counts": 70527
  },
- "latest_count": 41270522
+ "latest_count": 41270525
 }
