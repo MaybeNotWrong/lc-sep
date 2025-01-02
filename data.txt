@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 19091,
+    "counts": 19329,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 6696,
+    "counts": 6935,
     "has_wrc_req": false
    },
    {
@@ -47,18 +47,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 3,
+    "author": "NobodyL0vesMe",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -67,13 +62,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
+    "author": "treje",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -85,15 +80,20 @@
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 40063
+  "total_counts": 40540
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 25183
+    "counts": 25421
    },
    {
     "author": "amazingpikachu_38",
@@ -101,7 +101,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 15707
+    "counts": 15946
    },
    {
     "author": "vovker1",
@@ -144,19 +144,19 @@
     "counts": 12
    },
    {
-    "author": "noduorg",
-    "counts": 6
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 6
    },
    {
-    "author": "Multiconcepted",
-    "counts": 5
+    "author": "noduorg",
+    "counts": 6
    },
    {
     "author": "treje",
+    "counts": 5
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 5
    },
    {
@@ -168,15 +168,11 @@
     "counts": 3
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
     "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -184,15 +180,19 @@
     "counts": 1
    },
    {
+    "author": "VitaminB16",
+    "counts": 1
+   },
+   {
     "author": "Trial-Name",
     "counts": 1
    },
    {
-    "author": "VitaminB16",
+    "author": "MaybeNotWrong",
     "counts": 1
    }
   ],
-  "total_counts": 68419
+  "total_counts": 68896
  },
- "latest_count": 41268418
+ "latest_count": 41268895
 }
