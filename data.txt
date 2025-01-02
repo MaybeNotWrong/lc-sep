@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "amazingpikachu_38",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -17,17 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -37,7 +37,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 22816
+    "counts": 22818
    },
    {
     "author": "naimagawa",
@@ -45,7 +45,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 2748
+    "counts": 2750
    },
    {
     "author": "TheMatsValk",
@@ -76,11 +76,11 @@
     "counts": 20
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "KalockSwig",
     "counts": 15
    },
    {
-    "author": "KalockSwig",
+    "author": "Chalupa_Grandpa",
     "counts": 15
    },
    {
@@ -88,7 +88,7 @@
     "counts": 8
    },
    {
-    "author": "treje",
+    "author": "Christmas_Missionary",
     "counts": 6
    },
    {
@@ -96,7 +96,7 @@
     "counts": 6
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 6
    },
    {
@@ -108,19 +108,19 @@
     "counts": 3
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1
    },
    {
-    "author": "Trial-Name",
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
     "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1
    },
    {
@@ -132,7 +132,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 70530
+  "total_counts": 70534
  },
- "latest_count": 41270528
+ "latest_count": 41270532
 }
