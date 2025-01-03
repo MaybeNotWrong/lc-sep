@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
@@ -40,14 +45,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 285
+  "total_counts": 286
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 35
+    "counts": 36
    },
    {
     "author": "artbn",
@@ -108,19 +108,19 @@
     "counts": 20
    },
    {
-    "author": "treje",
-    "counts": 8
-   },
-   {
     "author": "Trial-Name",
     "counts": 8
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 8
    },
    {
     "author": "noduorg",
+    "counts": 8
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 8
    },
    {
@@ -136,14 +136,6 @@
     "counts": 3
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 1
    },
@@ -154,9 +146,17 @@
    {
     "author": "MaybeNotWrong",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1
    }
   ],
-  "total_counts": 71037
+  "total_counts": 71038
  },
- "latest_count": 41271035
+ "latest_count": 41271036
 }
