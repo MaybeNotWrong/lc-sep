@@ -17,6 +17,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 2,
     "has_wrc_req": false
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -35,14 +40,9 @@
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
@@ -56,7 +56,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 16655
+    "counts": 16656
    },
    {
     "author": "vovker1",
@@ -72,7 +72,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 294
+    "counts": 295
    },
    {
     "author": "SubSmartstocks",
@@ -135,10 +135,6 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "Limes_Are_Green",
     "counts": 1
    },
@@ -149,9 +145,13 @@
    {
     "author": "MaybeNotWrong",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    }
   ],
-  "total_counts": 71211
+  "total_counts": 71213
  },
- "latest_count": 41271209
+ "latest_count": 41271211
 }
