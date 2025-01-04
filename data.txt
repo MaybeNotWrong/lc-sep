@@ -2,12 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "vovker1",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -17,7 +27,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 22975
+    "counts": 22976
    },
    {
     "author": "naimagawa",
@@ -25,7 +35,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 2765
+    "counts": 2766
    },
    {
     "author": "TheMatsValk",
@@ -72,11 +82,11 @@
     "counts": 9
    },
    {
-    "author": "Trial-Name",
+    "author": "treje",
     "counts": 8
    },
    {
-    "author": "treje",
+    "author": "Trial-Name",
     "counts": 8
    },
    {
@@ -88,16 +98,24 @@
     "counts": 6
    },
    {
-    "author": "VitaminB16",
+    "author": "FelipePlayz9",
     "counts": 3
    },
    {
-    "author": "FelipePlayz9",
+    "author": "VitaminB16",
     "counts": 3
    },
    {
     "author": "LeinadSpoon",
     "counts": 2
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
+    "author": "Limes_Are_Green",
+    "counts": 1
    },
    {
     "author": "MaybeNotWrong",
@@ -106,17 +124,9 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
-   },
-   {
-    "author": "Limes_Are_Green",
-    "counts": 1
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1
    }
   ],
-  "total_counts": 71187
+  "total_counts": 71189
  },
- "latest_count": 41271185
+ "latest_count": 41271187
 }
