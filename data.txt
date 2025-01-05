@@ -13,7 +13,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 2021,
+    "counts": 2022,
     "has_wrc_req": false
    },
    {
@@ -27,13 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "naimagawa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -42,13 +42,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30624
+  "total_counts": 30626
  },
  "100k": {
   "hoc": [
    {
     "author": "vovker1",
-    "counts": 1995
+    "counts": 1996
    },
    {
     "author": "greenpeppercat",
@@ -69,9 +69,13 @@
    {
     "author": "davidjl123",
     "counts": 1
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1
    }
   ],
-  "total_counts": 4003
+  "total_counts": 4005
  },
- "latest_count": 41304003
+ "latest_count": 41304005
 }
