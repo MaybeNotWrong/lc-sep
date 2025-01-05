@@ -3,16 +3,16 @@
   "hoc": [
    {
     "author": "ddodd69",
+    "counts": 40,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 28,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 16,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
     "counts": 16,
     "has_wrc_req": false
    },
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -57,12 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,17 +67,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 99
+  "total_counts": 123
  },
  "100k": {
   "hoc": [
@@ -108,7 +108,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 352
+    "counts": 364
    },
    {
     "author": "Lonadont",
@@ -116,7 +116,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 201
+    "counts": 213
    },
    {
     "author": "NobodyL0vesMe",
@@ -175,6 +175,10 @@
     "counts": 2
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1
    },
@@ -183,15 +187,11 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
     "author": "Limes_Are_Green",
     "counts": 1
    }
   ],
-  "total_counts": 71285
+  "total_counts": 71309
  },
- "latest_count": 41271283
+ "latest_count": 41271307
 }
