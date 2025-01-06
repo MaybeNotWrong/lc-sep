@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 32700,
+    "counts": 32961,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 28709,
+    "counts": 28971,
     "has_wrc_req": true
    },
    {
     "author": "vovker1",
-    "counts": 4029,
+    "counts": 4030,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,8 +57,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "treje",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,28 +80,23 @@
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 65599
+  "total_counts": 66123
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 19417
+    "counts": 19678
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 15413
+    "counts": 15675
    },
    {
     "author": "vovker1",
-    "counts": 4003
+    "counts": 4004
    },
    {
     "author": "ddodd69",
@@ -123,10 +123,6 @@
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 2
    },
@@ -135,8 +131,8 @@
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 1
+    "author": "TheMatsValk",
+    "counts": 2
    },
    {
     "author": "treje",
@@ -149,9 +145,13 @@
    {
     "author": "NobodyL0vesMe",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 38978
+  "total_counts": 39502
  },
- "latest_count": 41338977
+ "latest_count": 41339501
 }
