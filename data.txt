@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 28308,
+    "counts": 28584,
     "has_wrc_req": true
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 26312,
+    "counts": 26587,
     "has_wrc_req": true
    },
    {
@@ -62,16 +62,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -80,19 +70,29 @@
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 56808
+  "total_counts": 57359
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 15025
+    "counts": 15301
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 13016
+    "counts": 13291
    },
    {
     "author": "vovker1",
@@ -131,15 +131,7 @@
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
     "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
-    "author": "treje",
     "counts": 1
    },
    {
@@ -149,9 +141,17 @@
    {
     "author": "NobodyL0vesMe",
     "counts": 1
+   },
+   {
+    "author": "treje",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 30187
+  "total_counts": 30738
  },
- "latest_count": 41330186
+ "latest_count": 41330737
 }
