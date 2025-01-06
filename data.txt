@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 33218,
+    "counts": 33219,
     "has_wrc_req": true
    },
    {
@@ -13,12 +13,12 @@
    },
    {
     "author": "vovker1",
-    "counts": 4040,
+    "counts": 4041,
     "has_wrc_req": false
    },
    {
     "author": "ddodd69",
-    "counts": 84,
+    "counts": 89,
     "has_wrc_req": false
    },
    {
@@ -27,13 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 15,
+    "author": "artbn",
+    "counts": 16,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 14,
+    "author": "Lonadont",
+    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,18 +62,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "Chalupa_Grandpa",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -85,15 +75,25 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 66662
+  "total_counts": 66671
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 19935
+    "counts": 19936
    },
    {
     "author": "amazingpikachu_38",
@@ -101,22 +101,22 @@
    },
    {
     "author": "vovker1",
-    "counts": 4014
+    "counts": 4015
    },
    {
     "author": "ddodd69",
-    "counts": 74
+    "counts": 79
    },
    {
     "author": "SubSmartstocks",
     "counts": 35
    },
    {
-    "author": "Lonadont",
-    "counts": 14
+    "author": "artbn",
+    "counts": 16
    },
    {
-    "author": "artbn",
+    "author": "Lonadont",
     "counts": 14
    },
    {
@@ -140,14 +140,6 @@
     "counts": 2
    },
    {
-    "author": "noduorg",
-    "counts": 1
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1
-   },
-   {
     "author": "VitaminB16",
     "counts": 1
    },
@@ -158,9 +150,17 @@
    {
     "author": "treje",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1
    }
   ],
-  "total_counts": 40041
+  "total_counts": 40050
  },
- "latest_count": 41340040
+ "latest_count": 41340049
 }
