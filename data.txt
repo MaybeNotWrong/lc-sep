@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "vovker1",
     "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 6,
+    "author": "ddodd69",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 24
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
@@ -51,7 +51,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 6411
+    "counts": 6412
    },
    {
     "author": "ddodd69",
@@ -122,7 +122,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45178
+  "total_counts": 45179
  },
- "latest_count": 41345177
+ "latest_count": 41345178
 }
