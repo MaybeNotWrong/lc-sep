@@ -8,7 +8,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 8,
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -22,18 +27,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -42,12 +37,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "eddebbboi",
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,22 +67,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "eddebbboi",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 45
+  "total_counts": 46
  },
  "100k": {
   "hoc": [
@@ -103,7 +103,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 110
+    "counts": 111
    },
    {
     "author": "artbn",
@@ -142,11 +142,11 @@
     "counts": 8
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 6
    },
    {
-    "author": "treje",
+    "author": "Christmas_Missionary",
     "counts": 6
    },
    {
@@ -154,23 +154,23 @@
     "counts": 4
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 2
-   },
-   {
     "author": "cuteballgames",
     "counts": 2
    },
    {
-    "author": "eddebbboi",
-    "counts": 1
+    "author": "Tranquilsunrise",
+    "counts": 2
    },
    {
     "author": "Cox_1920",
     "counts": 1
+   },
+   {
+    "author": "eddebbboi",
+    "counts": 1
    }
   ],
-  "total_counts": 45406
+  "total_counts": 45407
  },
- "latest_count": 41345405
+ "latest_count": 41345406
 }
