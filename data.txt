@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "naimagawa",
     "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -32,7 +32,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 18
  },
  "100k": {
   "hoc": [
@@ -66,7 +66,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 59
+    "counts": 60
    },
    {
     "author": "artbn",
@@ -85,19 +85,19 @@
     "counts": 16
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 14
-   },
-   {
     "author": "Multiconcepted",
     "counts": 14
    },
    {
-    "author": "TheMatsValk",
-    "counts": 12
+    "author": "NobodyL0vesMe",
+    "counts": 14
    },
    {
     "author": "Christmas_Missionary",
+    "counts": 12
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 12
    },
    {
@@ -117,15 +117,15 @@
     "counts": 3
    },
    {
-    "author": "eddebbboi",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "eddebbboi",
     "counts": 1
    }
   ],
-  "total_counts": 70024
+  "total_counts": 70025
  },
- "latest_count": 41370023
+ "latest_count": 41370024
 }
