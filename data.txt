@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11461,
+    "counts": 11462,
     "has_wrc_req": true
    },
    {
     "author": "vovker1",
-    "counts": 7476,
+    "counts": 7478,
     "has_wrc_req": true
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 510,
+    "counts": 512,
     "has_wrc_req": false
    },
    {
@@ -37,20 +37,24 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 23968
+  "total_counts": 23973
  },
  "100k": {
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 4
+    "counts": 6
    },
    {
     "author": "greenpeppercat",
-    "counts": 3
+    "counts": 4
+   },
+   {
+    "author": "vovker1",
+    "counts": 2
    }
   ],
-  "total_counts": 7
+  "total_counts": 12
  },
- "latest_count": 41400007
+ "latest_count": 41400012
 }
