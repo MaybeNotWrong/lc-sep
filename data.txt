@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 1911,
+    "counts": 2162,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
-    "counts": 1428,
+    "counts": 1678,
     "has_wrc_req": false
    },
    {
@@ -42,18 +42,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2,
+    "author": "Chalupa_Grandpa",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -62,8 +57,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
+    "author": "TheMatsValk",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -75,15 +70,20 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 3936
+  "total_counts": 4437
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 36292
+    "counts": 36543
    },
    {
     "author": "amazingpikachu_38",
@@ -91,7 +91,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 13579
+    "counts": 13829
    },
    {
     "author": "vovker1",
@@ -150,11 +150,11 @@
     "counts": 11
    },
    {
-    "author": "VitaminB16",
+    "author": "cuteballgames",
     "counts": 6
    },
    {
-    "author": "cuteballgames",
+    "author": "VitaminB16",
     "counts": 6
    },
    {
@@ -162,15 +162,15 @@
     "counts": 3
    },
    {
-    "author": "eddebbboi",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "eddebbboi",
     "counts": 1
    }
   ],
-  "total_counts": 73943
+  "total_counts": 74444
  },
- "latest_count": 41373941
+ "latest_count": 41374442
 }
