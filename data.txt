@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11898,
+    "counts": 12150,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4941,
+    "counts": 5194,
     "has_wrc_req": false
    },
    {
@@ -57,17 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,20 +72,38 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26123
+  "total_counts": 26628
  },
  "100k": {
   "hoc": [
+   {
+    "author": "naimagawa",
+    "counts": 694
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 692
+   },
    {
     "author": "NobodyL0vesMe",
     "counts": 542
@@ -103,14 +111,6 @@
    {
     "author": "vovker1",
     "counts": 518
-   },
-   {
-    "author": "naimagawa",
-    "counts": 441
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 440
    },
    {
     "author": "Lonadont",
@@ -137,23 +137,15 @@
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1
-   },
-   {
     "author": "cuteballgames",
     "counts": 1
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "noduorg",
     "counts": 1
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
-    "author": "noduorg",
     "counts": 1
    },
    {
@@ -165,11 +157,19 @@
     "counts": 1
    },
    {
+    "author": "TheMatsValk",
+    "counts": 1
+   },
+   {
     "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "amazingpikachu_38",
     "counts": 1
    }
   ],
-  "total_counts": 2162
+  "total_counts": 2667
  },
- "latest_count": 41402162
+ "latest_count": 41402667
 }
