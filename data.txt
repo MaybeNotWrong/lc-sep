@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 15052,
+    "counts": 15293,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
-    "counts": 8097,
+    "counts": 8338,
     "has_wrc_req": false
    },
    {
@@ -62,17 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,22 +77,32 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 32439
+  "total_counts": 32921
  },
  "100k": {
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 3597
+    "counts": 3838
    },
    {
     "author": "greenpeppercat",
-    "counts": 3594
+    "counts": 3835
    },
    {
     "author": "NobodyL0vesMe",
@@ -133,16 +133,12 @@
     "counts": 5
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 3
    },
    {
-    "author": "noduorg",
-    "counts": 1
+    "author": "TheMatsValk",
+    "counts": 3
    },
    {
     "author": "Tranquilsunrise",
@@ -153,11 +149,11 @@
     "counts": 1
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "cuteballgames",
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Christmas_Missionary",
     "counts": 1
    },
    {
@@ -165,11 +161,15 @@
     "counts": 1
    },
    {
-    "author": "cuteballgames",
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
     "counts": 1
    }
   ],
-  "total_counts": 8478
+  "total_counts": 8960
  },
- "latest_count": 41408478
+ "latest_count": 41408960
 }
