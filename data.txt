@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 11472,
+    "counts": 11635,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 4516,
+    "counts": 4679,
     "has_wrc_req": false
    },
    {
@@ -57,7 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,7 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,17 +87,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25271
+  "total_counts": 25597
  },
  "100k": {
   "hoc": [
@@ -103,6 +103,14 @@
    {
     "author": "vovker1",
     "counts": 518
+   },
+   {
+    "author": "naimagawa",
+    "counts": 179
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 177
    },
    {
     "author": "Lonadont",
@@ -121,14 +129,6 @@
     "counts": 25
    },
    {
-    "author": "naimagawa",
-    "counts": 16
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 14
-   },
-   {
     "author": "davidjl123",
     "counts": 5
    },
@@ -137,11 +137,15 @@
     "counts": 3
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "cuteballgames",
     "counts": 1
    },
    {
     "author": "Christmas_Missionary",
+    "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1
    },
    {
@@ -157,19 +161,15 @@
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1
    },
    {
-    "author": "cuteballgames",
+    "author": "amazingpikachu_38",
     "counts": 1
    }
   ],
-  "total_counts": 1310
+  "total_counts": 1636
  },
- "latest_count": 41401310
+ "latest_count": 41401636
 }
