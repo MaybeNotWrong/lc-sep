@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 15293,
+    "counts": 15552,
     "has_wrc_req": true
    },
    {
     "author": "naimagawa",
-    "counts": 8338,
+    "counts": 8597,
     "has_wrc_req": false
    },
    {
@@ -52,22 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 1,
+    "author": "TheMatsValk",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,7 +72,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -85,24 +90,19 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 32921
+  "total_counts": 33439
  },
  "100k": {
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 3838
+    "counts": 4097
    },
    {
     "author": "greenpeppercat",
-    "counts": 3835
+    "counts": 4094
    },
    {
     "author": "NobodyL0vesMe",
@@ -133,12 +133,28 @@
     "counts": 5
    },
    {
+    "author": "TheMatsValk",
+    "counts": 3
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3
+    "author": "amazingpikachu_38",
+    "counts": 1
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    },
    {
     "author": "Tranquilsunrise",
@@ -151,25 +167,9 @@
    {
     "author": "cuteballgames",
     "counts": 1
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
-    "author": "noduorg",
-    "counts": 1
    }
   ],
-  "total_counts": 8960
+  "total_counts": 9478
  },
- "latest_count": 41408960
+ "latest_count": 41409478
 }
