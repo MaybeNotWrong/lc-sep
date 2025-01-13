@@ -43,17 +43,17 @@
    },
    {
     "author": "davidjl123",
-    "counts": 7,
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -67,17 +67,12 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,12 +82,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 36969
+  "total_counts": 36971
  },
  "100k": {
   "hoc": [
@@ -130,7 +130,11 @@
    },
    {
     "author": "davidjl123",
-    "counts": 5
+    "counts": 6
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 4
    },
    {
     "author": "Multiconcepted",
@@ -138,10 +142,6 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 3
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 3
    },
    {
@@ -169,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 13008
+  "total_counts": 13010
  },
- "latest_count": 41413008
+ "latest_count": 41413010
 }
