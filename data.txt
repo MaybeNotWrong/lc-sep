@@ -23,11 +23,16 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -40,14 +45,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
@@ -121,7 +121,7 @@
    },
    {
     "author": "KalockSwig",
-    "counts": 10
+    "counts": 11
    },
    {
     "author": "noduorg",
@@ -156,7 +156,7 @@
     "counts": 2
    },
    {
-    "author": "rwoarm",
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -164,15 +164,15 @@
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "mraowr",
     "counts": 1
    },
    {
-    "author": "mraowr",
+    "author": "rwoarm",
     "counts": 1
    }
   ],
-  "total_counts": 61164
+  "total_counts": 61165
  },
- "latest_count": 41461164
+ "latest_count": 41461165
 }
