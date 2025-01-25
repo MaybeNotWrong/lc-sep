@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 44,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 39,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 26,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
-    "counts": 23,
+    "counts": 39,
     "has_wrc_req": false
    },
    {
@@ -23,12 +23,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "FelipePlayz8",
-    "counts": 4,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -42,6 +37,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "FelipePlayz8",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 3,
     "has_wrc_req": false
@@ -49,6 +54,11 @@
    {
     "author": "artbn",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -62,22 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 129
+  "total_counts": 166
  },
  "100k": {
   "hoc": [
@@ -95,7 +95,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 4262
+    "counts": 4264
    },
    {
     "author": "TheMatsValk",
@@ -103,11 +103,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 659
+    "counts": 677
    },
    {
     "author": "SubSmartstocks",
-    "counts": 544
+    "counts": 560
    },
    {
     "author": "Lonadont",
@@ -115,7 +115,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 112
+    "counts": 113
    },
    {
     "author": "amazingpikachu_38",
@@ -190,11 +190,15 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "rwoarm",
     "counts": 1
    },
    {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -204,13 +208,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 61806
+  "total_counts": 61843
  },
- "latest_count": 41461783
+ "latest_count": 41461820
 }
