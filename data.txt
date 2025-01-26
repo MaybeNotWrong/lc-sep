@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 10,
+    "counts": 48,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 40,
     "has_wrc_req": false
    },
    {
@@ -27,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,12 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 36
+  "total_counts": 112
  },
  "100k": {
   "hoc": [
@@ -96,19 +96,19 @@
    },
    {
     "author": "Lonadont",
-    "counts": 377
+    "counts": 415
    },
    {
     "author": "amazingpikachu_38",
     "counts": 207
    },
    {
-    "author": "davidjl123",
-    "counts": 128
+    "author": "artbn",
+    "counts": 133
    },
    {
-    "author": "artbn",
-    "counts": 95
+    "author": "davidjl123",
+    "counts": 128
    },
    {
     "author": "Chalupa_Grandpa",
@@ -175,15 +175,11 @@
     "counts": 2
    },
    {
-    "author": "rwoarm",
+    "author": "Antichess",
     "counts": 1
    },
    {
     "author": "rideride",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
     "counts": 1
    },
    {
@@ -197,9 +193,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 62550
+  "total_counts": 62626
  },
- "latest_count": 41462527
+ "latest_count": 41462603
 }
