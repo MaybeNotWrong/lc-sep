@@ -3,21 +3,21 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 137,
+    "counts": 203,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
-    "counts": 130,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 6,
+    "counts": 197,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -32,17 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MaybeNotWrong",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,7 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "MaybeNotWrong",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 292
+  "total_counts": 425
  },
  "100k": {
   "hoc": [
@@ -96,11 +96,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 504
+    "counts": 570
    },
    {
     "author": "artbn",
-    "counts": 223
+    "counts": 290
    },
    {
     "author": "amazingpikachu_38",
@@ -175,15 +175,11 @@
     "counts": 2
    },
    {
-    "author": "rwoarm",
+    "author": "Antichess",
     "counts": 1
    },
    {
     "author": "rideride",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
     "counts": 1
    },
    {
@@ -197,9 +193,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 62806
+  "total_counts": 62939
  },
- "latest_count": 41462783
+ "latest_count": 41462916
 }
