@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 23,
+    "author": "ddodd69",
+    "counts": 45,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 17,
+    "author": "SubSmartstocks",
+    "counts": 32,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -28,11 +33,6 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -87,7 +87,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 83
+  "total_counts": 138
  },
  "100k": {
   "hoc": [
@@ -113,11 +113,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 721
+    "counts": 749
    },
    {
     "author": "SubSmartstocks",
-    "counts": 575
+    "counts": 602
    },
    {
     "author": "Lonadont",
@@ -200,11 +200,15 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "rwoarm",
     "counts": 1
    },
    {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -214,13 +218,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 62429
+  "total_counts": 62484
  },
- "latest_count": 41462406
+ "latest_count": 41462461
 }
