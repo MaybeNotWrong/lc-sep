@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 13,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 41
+  "total_counts": 42
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 767
+    "counts": 768
    },
    {
     "author": "SubSmartstocks",
@@ -180,11 +180,15 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "rwoarm",
     "counts": 1
    },
    {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -198,13 +202,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 63902
+  "total_counts": 63903
  },
- "latest_count": 41463879
+ "latest_count": 41463880
 }
