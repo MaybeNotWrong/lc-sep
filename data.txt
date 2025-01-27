@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -23,6 +23,11 @@
    },
    {
     "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -47,7 +52,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 26
+  "total_counts": 28
  },
  "100k": {
   "hoc": [
@@ -77,7 +82,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 764
+    "counts": 765
    },
    {
     "author": "SubSmartstocks",
@@ -113,7 +118,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 36
+    "counts": 37
    },
    {
     "author": "FelipePlayz8",
@@ -160,11 +165,15 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "rwoarm",
     "counts": 1
    },
    {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -178,13 +187,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 63887
+  "total_counts": 63889
  },
- "latest_count": 41463864
+ "latest_count": 41463866
 }
