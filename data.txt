@@ -3,12 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 3,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -17,17 +12,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
+    "author": "FelipePlayz8",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "VitaminB16",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 19
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 759
+    "counts": 760
    },
    {
     "author": "SubSmartstocks",
@@ -120,7 +120,7 @@
    },
    {
     "author": "FelipePlayz8",
-    "counts": 25
+    "counts": 26
    },
    {
     "author": "noduorg",
@@ -155,11 +155,15 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "rwoarm",
     "counts": 1
    },
    {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -173,13 +177,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 63878
+  "total_counts": 63880
  },
- "latest_count": 41463855
+ "latest_count": 41463857
 }
