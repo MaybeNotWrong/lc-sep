@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -12,12 +12,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "LeinadSpoon",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "ddodd69",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 50
+  "total_counts": 51
  },
  "100k": {
   "hoc": [
@@ -83,7 +83,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1095
+    "counts": 1096
    },
    {
     "author": "ddodd69",
@@ -170,11 +170,15 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "rwoarm",
     "counts": 1
    },
    {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -188,13 +192,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 64650
+  "total_counts": 64651
  },
- "latest_count": 41464627
+ "latest_count": 41464628
 }
