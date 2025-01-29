@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "naimagawa",
-    "counts": 1990,
+    "counts": 2128,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 1988,
+    "counts": 2126,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -72,27 +72,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Cox_1920",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4096
+  "total_counts": 4372
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 27403
+    "counts": 27541
    },
    {
     "author": "naimagawa",
-    "counts": 23745
+    "counts": 23883
    },
    {
     "author": "NobodyL0vesMe",
@@ -179,11 +179,11 @@
     "counts": 7
    },
    {
-    "author": "amazingpiplup_230102",
+    "author": "Cox_1920",
     "counts": 4
    },
    {
-    "author": "Cox_1920",
+    "author": "amazingpiplup_230102",
     "counts": 4
    },
    {
@@ -195,15 +195,11 @@
     "counts": 2
    },
    {
-    "author": "rwoarm",
+    "author": "Antichess",
     "counts": 1
    },
    {
     "author": "rideride",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
     "counts": 1
    },
    {
@@ -217,9 +213,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 68696
+  "total_counts": 68972
  },
- "latest_count": 41468674
+ "latest_count": 41468950
 }
