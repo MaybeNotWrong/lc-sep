@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 74,
+    "counts": 84,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 23,
+    "counts": 37,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 28,
     "has_wrc_req": false
    },
    {
@@ -29,11 +34,6 @@
    {
     "author": "davidjl123",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -62,23 +62,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 216
+  "total_counts": 262
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 30396
+    "counts": 30406
    },
    {
     "author": "naimagawa",
@@ -98,7 +98,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1164
+    "counts": 1178
    },
    {
     "author": "ddodd69",
@@ -114,7 +114,7 @@
    },
    {
     "author": "artbn",
-    "counts": 345
+    "counts": 367
    },
    {
     "author": "amazingpikachu_38",
@@ -169,11 +169,11 @@
     "counts": 7
    },
    {
-    "author": "amazingpiplup_230102",
+    "author": "Cox_1920",
     "counts": 4
    },
    {
-    "author": "Cox_1920",
+    "author": "amazingpiplup_230102",
     "counts": 4
    },
    {
@@ -185,15 +185,11 @@
     "counts": 2
    },
    {
-    "author": "rwoarm",
+    "author": "Antichess",
     "counts": 1
    },
    {
     "author": "rideride",
-    "counts": 1
-   },
-   {
-    "author": "Antichess",
     "counts": 1
    },
    {
@@ -207,9 +203,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 74992
+  "total_counts": 75038
  },
- "latest_count": 41474935
+ "latest_count": 41474981
 }
