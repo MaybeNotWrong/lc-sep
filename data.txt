@@ -2,17 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "FelipePlayz8",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -32,17 +32,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "NobodyL0vesMe",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 24
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
@@ -83,7 +83,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1145
+    "counts": 1146
    },
    {
     "author": "ddodd69",
@@ -194,7 +194,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 74800
+  "total_counts": 74801
  },
- "latest_count": 41474743
+ "latest_count": 41474744
 }
