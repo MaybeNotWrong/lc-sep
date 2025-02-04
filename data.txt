@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "Lonadont",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "ddodd69",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -22,7 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "couscous666",
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "KalockSwig",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -32,17 +37,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "couscous666",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "KalockSwig",
+    "author": "FelipePlayz9",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 18
  },
  "100k": {
   "hoc": [
@@ -139,15 +144,15 @@
     "counts": 9
    },
    {
+    "author": "FelipePlayz9",
+    "counts": 5
+   },
+   {
     "author": "amazingpiplup_230102",
     "counts": 4
    },
    {
     "author": "Cox_1920",
-    "counts": 4
-   },
-   {
-    "author": "FelipePlayz9",
     "counts": 4
    },
    {
@@ -191,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76143
+  "total_counts": 76144
  },
- "latest_count": 41476086
+ "latest_count": 41476087
 }
