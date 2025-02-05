@@ -2,12 +2,27 @@
  "day": {
   "hoc": [
    {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -61,7 +76,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 103
+    "counts": 104
    },
    {
     "author": "Multiconcepted",
@@ -93,11 +108,11 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 19
+    "counts": 20
    },
    {
     "author": "cuteballgames",
-    "counts": 10
+    "counts": 12
    },
    {
     "author": "VitaminB16",
@@ -160,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76277
+  "total_counts": 76281
  },
- "latest_count": 41476219
+ "latest_count": 41476223
 }
