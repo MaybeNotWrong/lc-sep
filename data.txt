@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 19,
+    "counts": 20,
     "has_wrc_req": false
    },
    {
@@ -12,13 +12,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 8,
+    "author": "SubSmartstocks",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 8,
+    "author": "davidjl123",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -27,17 +27,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -47,8 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
+    "author": "LeinadSpoon",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -60,9 +55,14 @@
     "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 65
+  "total_counts": 68
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1542
+    "counts": 1543
    },
    {
     "author": "ddodd69",
@@ -96,7 +96,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1074
+    "counts": 1075
    },
    {
     "author": "artbn",
@@ -112,7 +112,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 239
+    "counts": 240
    },
    {
     "author": "Chalupa_Grandpa",
@@ -159,19 +159,19 @@
     "counts": 9
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 5
-   },
-   {
     "author": "Trial-Name",
     "counts": 5
    },
    {
-    "author": "Cox_1920",
-    "counts": 4
+    "author": "FelipePlayz9",
+    "counts": 5
    },
    {
     "author": "amazingpiplup_230102",
+    "counts": 4
+   },
+   {
+    "author": "Cox_1920",
     "counts": 4
    },
    {
@@ -187,15 +187,19 @@
     "counts": 2
    },
    {
+    "author": "rwoarm",
+    "counts": 1
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "rideride",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -209,13 +213,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 76458
+  "total_counts": 76461
  },
- "latest_count": 41476400
+ "latest_count": 41476403
 }
