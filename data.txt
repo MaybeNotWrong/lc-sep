@@ -23,7 +23,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
@@ -70,14 +75,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 77
+  "total_counts": 79
  },
  "100k": {
   "hoc": [
@@ -127,7 +127,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 228
+    "counts": 229
    },
    {
     "author": "Chalupa_Grandpa",
@@ -178,16 +178,16 @@
     "counts": 5
    },
    {
+    "author": "Trial-Name",
+    "counts": 4
+   },
+   {
     "author": "Cox_1920",
     "counts": 4
    },
    {
     "author": "amazingpiplup_230102",
     "counts": 4
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 3
    },
    {
     "author": "Limes_Are_Green",
@@ -230,7 +230,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76353
+  "total_counts": 76355
  },
- "latest_count": 41476295
+ "latest_count": 41476297
 }
