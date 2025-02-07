@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 29,
+    "counts": 31,
     "has_wrc_req": false
    },
    {
@@ -32,23 +32,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "Chalupa_Grandpa",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "TheMatsValk",
     "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "treje",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Trial-Name",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 124
+  "total_counts": 128
  },
  "100k": {
   "hoc": [
@@ -98,7 +98,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1635
+    "counts": 1637
    },
    {
     "author": "ddodd69",
@@ -126,7 +126,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 115
+    "counts": 116
    },
    {
     "author": "Multiconcepted",
@@ -165,23 +165,23 @@
     "counts": 17
    },
    {
-    "author": "VitaminB16",
+    "author": "Trial-Name",
     "counts": 9
    },
    {
-    "author": "Trial-Name",
-    "counts": 8
+    "author": "VitaminB16",
+    "counts": 9
    },
    {
     "author": "FelipePlayz9",
     "counts": 5
    },
    {
-    "author": "Cox_1920",
+    "author": "amazingpiplup_230102",
     "counts": 4
    },
    {
-    "author": "amazingpiplup_230102",
+    "author": "Cox_1920",
     "counts": 4
    },
    {
@@ -197,15 +197,19 @@
     "counts": 2
    },
    {
+    "author": "rwoarm",
+    "counts": 1
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "rideride",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -219,13 +223,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 76874
+  "total_counts": 76878
  },
- "latest_count": 41476816
+ "latest_count": 41476820
 }
