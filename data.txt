@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "LeinadSpoon",
+    "author": "Lonadont",
     "counts": 29,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "LeinadSpoon",
     "counts": 29,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,12 +57,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "vovker1",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 116
+  "total_counts": 118
  },
  "100k": {
   "hoc": [
@@ -116,7 +126,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 111
+    "counts": 112
    },
    {
     "author": "Multiconcepted",
@@ -159,19 +169,19 @@
     "counts": 9
    },
    {
+    "author": "Trial-Name",
+    "counts": 6
+   },
+   {
     "author": "FelipePlayz9",
     "counts": 5
    },
    {
-    "author": "Trial-Name",
-    "counts": 5
-   },
-   {
-    "author": "Cox_1920",
+    "author": "amazingpiplup_230102",
     "counts": 4
    },
    {
-    "author": "amazingpiplup_230102",
+    "author": "Cox_1920",
     "counts": 4
    },
    {
@@ -187,15 +197,19 @@
     "counts": 2
    },
    {
+    "author": "rwoarm",
+    "counts": 1
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "rideride",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -209,13 +223,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 76866
+  "total_counts": 76868
  },
- "latest_count": 41476808
+ "latest_count": 41476810
 }
