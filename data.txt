@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
@@ -12,17 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 139
+    "counts": 140
    },
    {
     "author": "Multiconcepted",
@@ -131,11 +131,11 @@
     "counts": 5
    },
    {
-    "author": "Cox_1920",
+    "author": "amazingpiplup_230102",
     "counts": 4
    },
    {
-    "author": "amazingpiplup_230102",
+    "author": "Cox_1920",
     "counts": 4
    },
    {
@@ -151,11 +151,15 @@
     "counts": 2
    },
    {
-    "author": "Antichess",
+    "author": "rwoarm",
     "counts": 1
    },
    {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "Antichess",
     "counts": 1
    },
    {
@@ -169,13 +173,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 79253
+  "total_counts": 79254
  },
- "latest_count": 41479195
+ "latest_count": 41479196
 }
