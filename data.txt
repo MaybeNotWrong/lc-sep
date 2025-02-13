@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 25,
+    "author": "LeinadSpoon",
+    "counts": 27,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 25,
+    "author": "Lonadont",
+    "counts": 26,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 11,
+    "counts": 12,
     "has_wrc_req": false
    },
    {
@@ -42,17 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 97
+  "total_counts": 101
  },
  "100k": {
   "hoc": [
@@ -78,7 +78,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1787
+    "counts": 1788
    },
    {
     "author": "ddodd69",
@@ -94,7 +94,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 539
+    "counts": 541
    },
    {
     "author": "amazingpikachu_38",
@@ -106,7 +106,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 168
+    "counts": 169
    },
    {
     "author": "Multiconcepted",
@@ -161,19 +161,19 @@
     "counts": 5
    },
    {
-    "author": "Cox_1920",
-    "counts": 4
-   },
-   {
     "author": "amazingpiplup_230102",
     "counts": 4
    },
    {
-    "author": "Antichess",
-    "counts": 3
+    "author": "Cox_1920",
+    "counts": 4
    },
    {
     "author": "Limes_Are_Green",
+    "counts": 3
+   },
+   {
+    "author": "Antichess",
     "counts": 3
    },
    {
@@ -183,6 +183,10 @@
    {
     "author": "dominodan123",
     "counts": 2
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    },
    {
     "author": "rideride",
@@ -199,13 +203,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 80843
+  "total_counts": 80847
  },
- "latest_count": 41480780
+ "latest_count": 41480784
 }
