@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 3,
     "has_wrc_req": false
@@ -12,17 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 2,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 304
+    "counts": 305
    },
    {
     "author": "Chalupa_Grandpa",
@@ -131,19 +131,19 @@
     "counts": 5
    },
    {
-    "author": "amazingpiplup_230102",
-    "counts": 4
-   },
-   {
     "author": "Cox_1920",
     "counts": 4
    },
    {
-    "author": "Limes_Are_Green",
-    "counts": 3
+    "author": "amazingpiplup_230102",
+    "counts": 4
    },
    {
     "author": "Antichess",
+    "counts": 3
+   },
+   {
+    "author": "Limes_Are_Green",
     "counts": 3
    },
    {
@@ -153,10 +153,6 @@
    {
     "author": "dominodan123",
     "counts": 2
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    },
    {
     "author": "rideride",
@@ -173,9 +169,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 80757
+  "total_counts": 80758
  },
- "latest_count": 41480699
+ "latest_count": 41480700
 }
