@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "greenpeppercat",
+    "counts": 152,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 148,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 52,
     "has_wrc_req": false
@@ -13,22 +23,12 @@
    },
    {
     "author": "ddodd69",
-    "counts": 36,
+    "counts": 37,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
     "counts": 35,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 35,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 33,
     "has_wrc_req": false
    },
    {
@@ -67,13 +67,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 273
+  "total_counts": 506
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 30448
+    "counts": 30565
    },
    {
     "author": "naimagawa",
@@ -97,7 +97,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 1678
+    "counts": 1679
    },
    {
     "author": "SubSmartstocks",
@@ -105,7 +105,7 @@
    },
    {
     "author": "artbn",
-    "counts": 701
+    "counts": 816
    },
    {
     "author": "LeinadSpoon",
@@ -176,19 +176,19 @@
     "counts": 5
    },
    {
-    "author": "amazingpiplup_230102",
-    "counts": 4
-   },
-   {
     "author": "Cox_1920",
     "counts": 4
    },
    {
-    "author": "Limes_Are_Green",
-    "counts": 3
+    "author": "amazingpiplup_230102",
+    "counts": 4
    },
    {
     "author": "Antichess",
+    "counts": 3
+   },
+   {
+    "author": "Limes_Are_Green",
     "counts": 3
    },
    {
@@ -198,10 +198,6 @@
    {
     "author": "dominodan123",
     "counts": 2
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    },
    {
     "author": "rideride",
@@ -218,9 +214,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 81019
+  "total_counts": 81252
  },
- "latest_count": 41480956
+ "latest_count": 41481189
 }
