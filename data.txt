@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 24,
+    "counts": 35,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 26,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 22,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 16,
     "has_wrc_req": false
    },
    {
@@ -32,6 +32,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "NobodyL0vesMe",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
@@ -47,12 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "greenpeppercat",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 88
+  "total_counts": 109
  },
  "100k": {
   "hoc": [
@@ -93,7 +93,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 2211
+    "counts": 2222
    },
    {
     "author": "Lonadont",
@@ -101,7 +101,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1879
+    "counts": 1889
    },
    {
     "author": "artbn",
@@ -220,7 +220,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 85624
+  "total_counts": 85645
  },
- "latest_count": 41485561
+ "latest_count": 41485582
 }
