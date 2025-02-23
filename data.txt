@@ -2,13 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 24,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 22,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 15,
+    "author": "SubSmartstocks",
+    "counts": 16,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -17,27 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "FelipePlayz8",
+    "author": "TheMatsValk",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,13 +42,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "FelipePlayz8",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
+    "author": "NobodyL0vesMe",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -65,9 +60,14 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 67
+  "total_counts": 88
  },
  "100k": {
   "hoc": [
@@ -93,7 +93,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 2202
+    "counts": 2211
    },
    {
     "author": "Lonadont",
@@ -101,7 +101,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1868
+    "counts": 1879
    },
    {
     "author": "artbn",
@@ -117,7 +117,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 380
+    "counts": 381
    },
    {
     "author": "Chalupa_Grandpa",
@@ -184,11 +184,11 @@
     "counts": 4
    },
    {
-    "author": "Antichess",
+    "author": "Limes_Are_Green",
     "counts": 3
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "Antichess",
     "counts": 3
    },
    {
@@ -198,6 +198,10 @@
    {
     "author": "dominodan123",
     "counts": 2
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    },
    {
     "author": "rideride",
@@ -214,13 +218,9 @@
    {
     "author": "rschaosid",
     "counts": 1
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    }
   ],
-  "total_counts": 85603
+  "total_counts": 85624
  },
- "latest_count": 41485540
+ "latest_count": 41485561
 }
