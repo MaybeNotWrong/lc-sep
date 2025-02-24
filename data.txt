@@ -33,7 +33,7 @@
    },
    {
     "author": "artbn",
-    "counts": 5,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -42,17 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,9 +55,14 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 139
+  "total_counts": 140
  },
  "100k": {
   "hoc": [
@@ -100,7 +100,7 @@
    },
    {
     "author": "artbn",
-    "counts": 1530
+    "counts": 1531
    },
    {
     "author": "LeinadSpoon",
@@ -179,11 +179,11 @@
     "counts": 4
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "Antichess",
+    "author": "Limes_Are_Green",
     "counts": 3
    },
    {
@@ -193,10 +193,6 @@
    {
     "author": "dominodan123",
     "counts": 2
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    },
    {
     "author": "rideride",
@@ -213,9 +209,13 @@
    {
     "author": "rschaosid",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 85836
+  "total_counts": 85837
  },
- "latest_count": 41485773
+ "latest_count": 41485774
 }
