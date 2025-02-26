@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 12,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -22,12 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,12 +32,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 32
+  "total_counts": 33
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2041
+    "counts": 2042
    },
    {
     "author": "SubSmartstocks",
@@ -151,11 +151,11 @@
     "counts": 6
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "FelipePlayz9",
     "counts": 5
    },
    {
-    "author": "FelipePlayz9",
+    "author": "Limes_Are_Green",
     "counts": 5
    },
    {
@@ -173,10 +173,6 @@
    {
     "author": "dominodan123",
     "counts": 2
-   },
-   {
-    "author": "rwoarm",
-    "counts": 1
    },
    {
     "author": "rideride",
@@ -197,9 +193,13 @@
    {
     "author": "Robknight666",
     "counts": 1
+   },
+   {
+    "author": "rwoarm",
+    "counts": 1
    }
   ],
-  "total_counts": 86255
+  "total_counts": 86256
  },
- "latest_count": 41486192
+ "latest_count": 41486193
 }
