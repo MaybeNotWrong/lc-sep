@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "LeinadSpoon",
+    "counts": 67,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 65,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 13,
     "has_wrc_req": false
@@ -12,23 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "SubSmartstocks",
-    "counts": 6,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "FelipePlayz8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
@@ -60,14 +65,9 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "FelipePlayz8",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 66
+  "total_counts": 184
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 2198
+    "counts": 2199
    },
    {
     "author": "Lonadont",
@@ -105,11 +105,11 @@
    },
    {
     "author": "artbn",
-    "counts": 1560
+    "counts": 1618
    },
    {
     "author": "LeinadSpoon",
-    "counts": 710
+    "counts": 769
    },
    {
     "author": "amazingpikachu_38",
@@ -232,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 87353
+  "total_counts": 87471
  },
- "latest_count": 41487290
+ "latest_count": 41487408
 }
