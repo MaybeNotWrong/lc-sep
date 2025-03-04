@@ -18,7 +18,12 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,14 +40,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 23
+  "total_counts": 24
  },
  "100k": {
   "hoc": [
@@ -120,7 +120,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 47
+    "counts": 48
    },
    {
     "author": "KalockSwig",
@@ -207,7 +207,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 89180
+  "total_counts": 89181
  },
- "latest_count": 41489117
+ "latest_count": 41489118
 }
