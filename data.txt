@@ -10,9 +10,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Sotp_Sign",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -145,15 +150,15 @@
     "counts": 2
    },
    {
+    "author": "Sotp_Sign",
+    "counts": 2
+   },
+   {
     "author": "dominodan123",
     "counts": 2
    },
    {
     "author": "No-Point-Out",
-    "counts": 1
-   },
-   {
-    "author": "Sotp_Sign",
     "counts": 1
    },
    {
@@ -181,7 +186,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 90717
+  "total_counts": 90718
  },
- "latest_count": 41490652
+ "latest_count": 41490653
 }
