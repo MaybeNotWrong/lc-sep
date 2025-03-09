@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 4,
     "has_wrc_req": false
@@ -34,11 +39,6 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 100
+  "total_counts": 101
  },
  "100k": {
   "hoc": [
@@ -137,7 +137,7 @@
    },
    {
     "author": "treje",
-    "counts": 80
+    "counts": 81
    },
    {
     "author": "mojermania",
@@ -236,7 +236,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 91005
+  "total_counts": 91006
  },
- "latest_count": 41490940
+ "latest_count": 41490941
 }
