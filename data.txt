@@ -3,7 +3,17 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 30,
+    "counts": 31,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 24,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -12,17 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 15,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
-    "counts": 12,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
     "counts": 12,
     "has_wrc_req": false
    },
@@ -43,7 +43,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -62,17 +62,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 113
+  "total_counts": 135
  },
  "100k": {
   "hoc": [
@@ -86,11 +86,11 @@
    },
    {
     "author": "TheMatsValk",
-    "counts": 8681
+    "counts": 8692
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 7820
+    "counts": 7829
    },
    {
     "author": "vovker1",
@@ -102,7 +102,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2458
+    "counts": 2459
    },
    {
     "author": "artbn",
@@ -110,7 +110,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 2435
+    "counts": 2436
    },
    {
     "author": "LeinadSpoon",
@@ -213,7 +213,7 @@
     "counts": 2
    },
    {
-    "author": "No-Point-Out",
+    "author": "rwoarm",
     "counts": 1
    },
    {
@@ -237,11 +237,11 @@
     "counts": 1
    },
    {
-    "author": "rwoarm",
+    "author": "No-Point-Out",
     "counts": 1
    }
   ],
-  "total_counts": 91128
+  "total_counts": 91150
  },
- "latest_count": 41491062
+ "latest_count": 41491084
 }
