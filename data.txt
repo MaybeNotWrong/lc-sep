@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
+    "author": "ddodd69",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -15,14 +20,9 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -48,7 +48,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 2935
+    "counts": 2937
    },
    {
     "author": "artbn",
@@ -76,7 +76,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 409
+    "counts": 410
    },
    {
     "author": "Multiconcepted",
@@ -163,7 +163,7 @@
     "counts": 2
    },
    {
-    "author": "No-Point-Out",
+    "author": "rwoarm",
     "counts": 1
    },
    {
@@ -187,11 +187,11 @@
     "counts": 1
    },
    {
-    "author": "rwoarm",
+    "author": "No-Point-Out",
     "counts": 1
    }
   ],
-  "total_counts": 91020
+  "total_counts": 91023
  },
- "latest_count": 41490954
+ "latest_count": 41490957
 }
