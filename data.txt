@@ -13,7 +13,12 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -32,17 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 611
+    "counts": 612
    },
    {
     "author": "davidjl123",
@@ -112,7 +112,7 @@
    },
    {
     "author": "treje",
-    "counts": 84
+    "counts": 85
    },
    {
     "author": "mojermania",
@@ -211,7 +211,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 91629
+  "total_counts": 91631
  },
- "latest_count": 41491563
+ "latest_count": 41491565
 }
