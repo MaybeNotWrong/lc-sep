@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 530
+    "counts": 531
    },
    {
     "author": "Chalupa_Grandpa",
@@ -114,11 +120,11 @@
     "counts": 7
    },
    {
-    "author": "Antichess",
+    "author": "FelipePlayz9",
     "counts": 5
    },
    {
-    "author": "FelipePlayz9",
+    "author": "Antichess",
     "counts": 5
    },
    {
@@ -142,7 +148,7 @@
     "counts": 2
    },
    {
-    "author": "rwoarm",
+    "author": "No-Point-Out",
     "counts": 1
    },
    {
@@ -166,11 +172,11 @@
     "counts": 1
    },
    {
-    "author": "No-Point-Out",
+    "author": "rwoarm",
     "counts": 1
    }
   ],
-  "total_counts": 91738
+  "total_counts": 91739
  },
- "latest_count": 41491672
+ "latest_count": 41491673
 }
