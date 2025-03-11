@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 11,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -32,13 +27,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "amazingpikachu_38",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
+    "author": "SubSmartstocks",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 36
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -82,7 +82,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2495
+    "counts": 2497
    },
    {
     "author": "SubSmartstocks",
@@ -114,7 +114,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 179
+    "counts": 180
    },
    {
     "author": "FelipePlayz8",
@@ -165,11 +165,11 @@
     "counts": 7
    },
    {
-    "author": "Antichess",
+    "author": "FelipePlayz9",
     "counts": 5
    },
    {
-    "author": "FelipePlayz9",
+    "author": "Antichess",
     "counts": 5
    },
    {
@@ -193,7 +193,7 @@
     "counts": 2
    },
    {
-    "author": "rwoarm",
+    "author": "No-Point-Out",
     "counts": 1
    },
    {
@@ -217,11 +217,11 @@
     "counts": 1
    },
    {
-    "author": "No-Point-Out",
+    "author": "rwoarm",
     "counts": 1
    }
   ],
-  "total_counts": 91774
+  "total_counts": 91777
  },
- "latest_count": 41491707
+ "latest_count": 41491710
 }
