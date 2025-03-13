@@ -2,27 +2,27 @@
  "day": {
   "hoc": [
    {
+    "author": "Sotp_Sign",
+    "counts": 20,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 20,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 16,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 14,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Sotp_Sign",
-    "counts": 14,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
+    "author": "davidjl123",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Lonadont",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -37,17 +37,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 2,
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,14 +65,9 @@
     "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 69
+  "total_counts": 81
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 2623
+    "counts": 2629
    },
    {
     "author": "Lonadont",
@@ -133,7 +133,7 @@
    },
    {
     "author": "Sotp_Sign",
-    "counts": 170
+    "counts": 176
    },
    {
     "author": "FelipePlayz8",
@@ -236,7 +236,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92633
+  "total_counts": 92645
  },
- "latest_count": 41492559
+ "latest_count": 41492571
 }
