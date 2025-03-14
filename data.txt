@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -27,7 +33,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3401
+    "counts": 3402
    },
    {
     "author": "SubSmartstocks",
@@ -118,11 +124,11 @@
     "counts": 7
    },
    {
-    "author": "FelipePlayz9",
+    "author": "Antichess",
     "counts": 5
    },
    {
-    "author": "Antichess",
+    "author": "FelipePlayz9",
     "counts": 5
    },
    {
@@ -142,7 +148,7 @@
     "counts": 2
    },
    {
-    "author": "No-Point-Out",
+    "author": "rwoarm",
     "counts": 1
    },
    {
@@ -166,11 +172,11 @@
     "counts": 1
    },
    {
-    "author": "rwoarm",
+    "author": "No-Point-Out",
     "counts": 1
    }
   ],
-  "total_counts": 92796
+  "total_counts": 92797
  },
- "latest_count": 41492722
+ "latest_count": 41492723
 }
