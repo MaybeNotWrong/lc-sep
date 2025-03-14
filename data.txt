@@ -3,11 +3,16 @@
   "hoc": [
    {
     "author": "ddodd69",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -33,7 +38,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3402
+    "counts": 3403
    },
    {
     "author": "SubSmartstocks",
@@ -45,7 +50,7 @@
    },
    {
     "author": "artbn",
-    "counts": 2453
+    "counts": 2454
    },
    {
     "author": "LeinadSpoon",
@@ -176,7 +181,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92797
+  "total_counts": 92799
  },
- "latest_count": 41492723
+ "latest_count": 41492725
 }
