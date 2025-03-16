@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "SubSmartstocks",
+    "counts": 29,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 27,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 23,
     "has_wrc_req": false
@@ -12,22 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 80
+  "total_counts": 120
  },
  "100k": {
   "hoc": [
@@ -102,7 +102,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 2711
+    "counts": 2731
    },
    {
     "author": "Lonadont",
@@ -141,12 +141,12 @@
     "counts": 219
    },
    {
-    "author": "FelipePlayz8",
-    "counts": 113
+    "author": "treje",
+    "counts": 119
    },
    {
-    "author": "treje",
-    "counts": 99
+    "author": "FelipePlayz8",
+    "counts": 113
    },
    {
     "author": "mojermania",
@@ -241,7 +241,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 93015
+  "total_counts": 93055
  },
- "latest_count": 41492941
+ "latest_count": 41492981
 }
