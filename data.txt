@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 30,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 29,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 59
  },
  "100k": {
   "hoc": [
@@ -27,7 +38,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3654
+    "counts": 3685
    },
    {
     "author": "SubSmartstocks",
@@ -58,12 +69,12 @@
     "counts": 482
    },
    {
-    "author": "Sotp_Sign",
-    "counts": 299
+    "author": "Christmas_Missionary",
+    "counts": 322
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 292
+    "author": "Sotp_Sign",
+    "counts": 299
    },
    {
     "author": "Multiconcepted",
@@ -118,11 +129,11 @@
     "counts": 7
    },
    {
-    "author": "FelipePlayz9",
+    "author": "Antichess",
     "counts": 5
    },
    {
-    "author": "Antichess",
+    "author": "FelipePlayz9",
     "counts": 5
    },
    {
@@ -146,7 +157,7 @@
     "counts": 2
    },
    {
-    "author": "No-Point-Out",
+    "author": "rwoarm",
     "counts": 1
    },
    {
@@ -170,11 +181,11 @@
     "counts": 1
    },
    {
-    "author": "rwoarm",
+    "author": "No-Point-Out",
     "counts": 1
    }
   ],
-  "total_counts": 93746
+  "total_counts": 93807
  },
- "latest_count": 41493672
+ "latest_count": 41493733
 }
