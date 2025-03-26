@@ -7,6 +7,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Sotp_Sign",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Sotp_Sign",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -25,14 +30,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 11
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -78,7 +78,7 @@
    },
    {
     "author": "Sotp_Sign",
-    "counts": 18
+    "counts": 19
    },
    {
     "author": "artbn",
@@ -117,7 +117,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 745
+  "total_counts": 746
  },
- "latest_count": 41500744
+ "latest_count": 41500745
 }
