@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "NobodyL0vesMe",
+    "counts": 204,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 204,
+    "has_wrc_req": false
+   },
+   {
     "author": "NeonL1vesMatter",
     "counts": 194,
     "has_wrc_req": false
@@ -9,16 +19,6 @@
    {
     "author": "PerhapsNayIncorrect",
     "counts": 193,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 91,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 91,
     "has_wrc_req": false
    },
    {
@@ -33,7 +33,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 23,
+    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -47,12 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "LeinadSpoon",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "artbn",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -67,22 +67,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 1,
+    "author": "Christmas_Missionary",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -92,12 +87,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 691
+  "total_counts": 919
  },
  "100k": {
   "hoc": [
@@ -106,7 +106,15 @@
     "counts": 269
    },
    {
+    "author": "NobodyL0vesMe",
+    "counts": 215
+   },
+   {
     "author": "ddodd69",
+    "counts": 206
+   },
+   {
+    "author": "TheMatsValk",
     "counts": 204
    },
    {
@@ -120,14 +128,6 @@
    {
     "author": "Lonadont",
     "counts": 170
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 102
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 91
    },
    {
     "author": "amazingpikachu_38",
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 1795
+  "total_counts": 2023
  },
- "latest_count": 41501794
+ "latest_count": 41502022
 }
