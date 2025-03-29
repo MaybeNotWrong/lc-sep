@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "NeonL1vesMatter",
+    "counts": 104,
+    "has_wrc_req": false
+   },
+   {
+    "author": "PerhapsNayIncorrect",
+    "counts": 104,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 91,
     "has_wrc_req": false
@@ -9,16 +19,6 @@
    {
     "author": "NobodyL0vesMe",
     "counts": 91,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NeonL1vesMatter",
-    "counts": 83,
-    "has_wrc_req": false
-   },
-   {
-    "author": "PerhapsNayIncorrect",
-    "counts": 82,
     "has_wrc_req": false
    },
    {
@@ -67,12 +67,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -97,7 +97,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 469
+  "total_counts": 512
  },
  "100k": {
   "hoc": [
@@ -114,6 +114,14 @@
     "counts": 170
    },
    {
+    "author": "NeonL1vesMatter",
+    "counts": 104
+   },
+   {
+    "author": "PerhapsNayIncorrect",
+    "counts": 104
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 102
    },
@@ -124,14 +132,6 @@
    {
     "author": "amazingpikachu_38",
     "counts": 83
-   },
-   {
-    "author": "NeonL1vesMatter",
-    "counts": 83
-   },
-   {
-    "author": "PerhapsNayIncorrect",
-    "counts": 82
    },
    {
     "author": "Christmas_Missionary",
@@ -194,15 +194,15 @@
     "counts": 2
    },
    {
-    "author": "FelipePlayz9",
+    "author": "vovker1",
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "FelipePlayz9",
     "counts": 1
    }
   ],
-  "total_counts": 1573
+  "total_counts": 1616
  },
- "latest_count": 41501572
+ "latest_count": 41501615
 }
