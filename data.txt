@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "Lonadont",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "ddodd69",
     "counts": 8,
     "has_wrc_req": false
    },
@@ -28,17 +28,7 @@
    },
    {
     "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LetThereBeNox",
-    "counts": 1,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -52,11 +42,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
@@ -65,9 +50,24 @@
     "author": "FelipePlayz8",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LetThereBeNox",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 38
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -104,11 +104,11 @@
     "counts": 90
    },
    {
-    "author": "davidjl123",
+    "author": "Christmas_Missionary",
     "counts": 81
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "davidjl123",
     "counts": 81
    },
    {
@@ -117,7 +117,7 @@
    },
    {
     "author": "artbn",
-    "counts": 73
+    "counts": 74
    },
    {
     "author": "Multiconcepted",
@@ -164,19 +164,19 @@
     "counts": 3
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 1
-   },
-   {
     "author": "vovker1",
     "counts": 1
    },
    {
     "author": "LetThereBeNox",
     "counts": 1
+   },
+   {
+    "author": "FelipePlayz9",
+    "counts": 1
    }
   ],
-  "total_counts": 3572
+  "total_counts": 3573
  },
- "latest_count": 41503571
+ "latest_count": 41503572
 }
