@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Sotp_Sign",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -23,7 +34,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 213
+    "counts": 214
    },
    {
     "author": "NeonL1vesMatter",
@@ -63,7 +74,7 @@
    },
    {
     "author": "Sotp_Sign",
-    "counts": 33
+    "counts": 34
    },
    {
     "author": "LeinadSpoon",
@@ -110,7 +121,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 3875
+  "total_counts": 3877
  },
- "latest_count": 41503874
+ "latest_count": 41503876
 }
