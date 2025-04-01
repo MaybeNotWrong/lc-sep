@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Sotp_Sign",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 12
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -93,11 +98,11 @@
     "counts": 44
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 36
+    "author": "Sotp_Sign",
+    "counts": 37
    },
    {
-    "author": "Sotp_Sign",
+    "author": "LeinadSpoon",
     "counts": 36
    },
    {
@@ -141,7 +146,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 4617
+  "total_counts": 4618
  },
- "latest_count": 41504616
+ "latest_count": 41504617
 }
