@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -35,7 +40,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 576
+    "counts": 577
    },
    {
     "author": "Multiconcepted",
@@ -63,7 +68,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 139
+    "counts": 140
    },
    {
     "author": "Chalupa_Grandpa",
@@ -130,7 +135,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 5141
+  "total_counts": 5143
  },
- "latest_count": 41505094
+ "latest_count": 41505096
 }
