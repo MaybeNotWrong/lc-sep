@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "SubSmartstocks",
-    "counts": 35,
+    "counts": 36,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 19,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 19,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 18,
     "has_wrc_req": false
    },
    {
@@ -47,28 +47,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Christmas_Missionary",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "Multiconcepted",
     "counts": 3,
     "has_wrc_req": false
    },
    {
     "author": "TheMatsValk",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "FelipePlayz8",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -85,9 +75,19 @@
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "FelipePlayz8",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 132
+  "total_counts": 134
  },
  "100k": {
   "hoc": [
@@ -105,7 +105,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 793
+    "counts": 794
    },
    {
     "author": "Lonadont",
@@ -141,7 +141,7 @@
    },
    {
     "author": "artbn",
-    "counts": 163
+    "counts": 164
    },
    {
     "author": "LeinadSpoon",
@@ -172,11 +172,11 @@
     "counts": 13
    },
    {
-    "author": "VitaminB16",
+    "author": "naimagawa",
     "counts": 8
    },
    {
-    "author": "naimagawa",
+    "author": "VitaminB16",
     "counts": 8
    },
    {
@@ -184,11 +184,11 @@
     "counts": 5
    },
    {
-    "author": "Prize-Wing8854",
+    "author": "Limes_Are_Green",
     "counts": 4
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "Prize-Wing8854",
     "counts": 4
    },
    {
@@ -200,7 +200,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6016
+  "total_counts": 6018
  },
- "latest_count": 41505969
+ "latest_count": 41505971
 }
