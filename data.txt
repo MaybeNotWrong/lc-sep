@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "SubSmartstocks",
-    "counts": 37,
+    "counts": 42,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 25,
     "has_wrc_req": false
    },
    {
     "author": "artbn",
-    "counts": 21,
+    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -17,18 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 17,
+    "author": "amazingpikachu_38",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -72,12 +72,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Sotp_Sign",
+    "author": "FelipePlayz8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -85,9 +80,14 @@
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Sotp_Sign",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 140
+  "total_counts": 156
  },
  "100k": {
   "hoc": [
@@ -101,11 +101,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 805
+    "counts": 813
    },
    {
     "author": "SubSmartstocks",
-    "counts": 795
+    "counts": 800
    },
    {
     "author": "Lonadont",
@@ -121,7 +121,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 208
+    "counts": 209
    },
    {
     "author": "davidjl123",
@@ -141,7 +141,7 @@
    },
    {
     "author": "artbn",
-    "counts": 166
+    "counts": 168
    },
    {
     "author": "LeinadSpoon",
@@ -192,15 +192,15 @@
     "counts": 4
    },
    {
-    "author": "LetThereBeNox",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
+    "author": "LetThereBeNox",
     "counts": 1
    }
   ],
-  "total_counts": 6024
+  "total_counts": 6040
  },
- "latest_count": 41505976
+ "latest_count": 41505992
 }
