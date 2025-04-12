@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -27,7 +33,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 390
+    "counts": 391
    },
    {
     "author": "Christmas_Missionary",
@@ -98,11 +104,11 @@
     "counts": 6
    },
    {
-    "author": "Prize-Wing8854",
+    "author": "Limes_Are_Green",
     "counts": 4
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "Prize-Wing8854",
     "counts": 4
    },
    {
@@ -114,7 +120,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6382
+  "total_counts": 6383
  },
- "latest_count": 41506305
+ "latest_count": 41506306
 }
