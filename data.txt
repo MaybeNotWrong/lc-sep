@@ -1,13 +1,19 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 1279
+    "counts": 1280
    },
    {
     "author": "SubSmartstocks",
@@ -106,15 +112,15 @@
     "counts": 4
    },
    {
-    "author": "FelipePlayz9",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "FelipePlayz9",
     "counts": 1
    }
   ],
-  "total_counts": 8026
+  "total_counts": 8027
  },
- "latest_count": 41507948
+ "latest_count": 41507949
 }
