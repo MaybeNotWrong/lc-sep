@@ -2,23 +2,28 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 1722
+    "counts": 1723
    },
    {
     "author": "SubSmartstocks",
@@ -54,7 +59,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 355
+    "counts": 356
    },
    {
     "author": "Chalupa_Grandpa",
@@ -145,7 +150,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 9781
+  "total_counts": 9783
  },
- "latest_count": 41509637
+ "latest_count": 41509639
 }
