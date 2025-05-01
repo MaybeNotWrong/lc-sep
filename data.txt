@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "MrBahr12",
-    "counts": 72,
+    "counts": 150,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 86,
     "has_wrc_req": false
    },
    {
@@ -42,11 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 5,
     "has_wrc_req": false
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 310
+  "total_counts": 466
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 1048
+    "counts": 1126
    },
    {
     "author": "TheMatsValk",
@@ -133,12 +133,12 @@
     "counts": 158
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 135
+    "author": "MrBahr12",
+    "counts": 150
    },
    {
-    "author": "MrBahr12",
-    "counts": 72
+    "author": "LeinadSpoon",
+    "counts": 135
    },
    {
     "author": "Gameknight046",
@@ -209,7 +209,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 10201
+  "total_counts": 10357
  },
- "latest_count": 41510054
+ "latest_count": 41510210
 }
