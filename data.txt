@@ -2,8 +2,13 @@
  "day": {
   "hoc": [
    {
+    "author": "MrBahr12",
+    "counts": 56,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
-    "counts": 45,
+    "counts": 46,
     "has_wrc_req": false
    },
    {
@@ -12,8 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrBahr12",
-    "counts": 35,
+    "author": "treje",
+    "counts": 31,
     "has_wrc_req": false
    },
    {
@@ -37,8 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 9,
+    "author": "Multiconcepted",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -52,27 +57,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 210
+  "total_counts": 255
  },
  "100k": {
   "hoc": [
@@ -82,7 +82,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1724
+    "counts": 1726
    },
    {
     "author": "NobodyL0vesMe",
@@ -94,7 +94,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 912
+    "counts": 913
    },
    {
     "author": "artbn",
@@ -102,11 +102,11 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 497
+    "counts": 498
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 425
+    "counts": 426
    },
    {
     "author": "davidjl123",
@@ -129,24 +129,24 @@
     "counts": 193
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 135
+    "author": "treje",
+    "counts": 144
    },
    {
-    "author": "treje",
-    "counts": 122
+    "author": "LeinadSpoon",
+    "counts": 135
    },
    {
     "author": "Gameknight046",
     "counts": 59
    },
    {
-    "author": "Sotp_Sign",
-    "counts": 45
+    "author": "MrBahr12",
+    "counts": 56
    },
    {
-    "author": "MrBahr12",
-    "counts": 35
+    "author": "Sotp_Sign",
+    "counts": 45
    },
    {
     "author": "cuteballgames",
@@ -193,11 +193,7 @@
     "counts": 3
    },
    {
-    "author": "MrGally75",
-    "counts": 1
-   },
-   {
-    "author": "Splash30ah",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -205,11 +201,15 @@
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "Splash30ah",
+    "counts": 1
+   },
+   {
+    "author": "MrGally75",
     "counts": 1
    }
   ],
-  "total_counts": 10098
+  "total_counts": 10146
  },
- "latest_count": 41509954
+ "latest_count": 41509999
 }
