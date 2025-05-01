@@ -28,7 +28,12 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 7,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrBahr12",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -42,17 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrBahr12",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,17 +62,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 104
+  "total_counts": 110
  },
  "100k": {
   "hoc": [
@@ -118,7 +118,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 369
+    "counts": 372
    },
    {
     "author": "NeonL1vesMatter",
@@ -181,6 +181,10 @@
     "counts": 6
    },
    {
+    "author": "MrBahr12",
+    "counts": 5
+   },
+   {
     "author": "Prize-Wing8854",
     "counts": 4
    },
@@ -189,15 +193,7 @@
     "counts": 3
    },
    {
-    "author": "MrBahr12",
-    "counts": 2
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1
-   },
-   {
-    "author": "Splash30ah",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -205,11 +201,15 @@
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "Splash30ah",
+    "counts": 1
+   },
+   {
+    "author": "MrGally75",
     "counts": 1
    }
   ],
-  "total_counts": 9992
+  "total_counts": 9998
  },
- "latest_count": 41509848
+ "latest_count": 41509854
 }
