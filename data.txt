@@ -43,6 +43,11 @@
    },
    {
     "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,14 +55,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 93
+  "total_counts": 94
  },
  "100k": {
   "hoc": [
@@ -87,7 +87,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 502
+    "counts": 503
    },
    {
     "author": "Christmas_Missionary",
@@ -194,7 +194,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 10502
+  "total_counts": 10503
  },
- "latest_count": 41510355
+ "latest_count": 41510356
 }
