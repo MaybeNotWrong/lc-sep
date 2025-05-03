@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 9,
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
@@ -40,14 +45,9 @@
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 29
+  "total_counts": 31
  },
  "100k": {
   "hoc": [
@@ -69,11 +69,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 960
+    "counts": 961
    },
    {
     "author": "artbn",
-    "counts": 669
+    "counts": 670
    },
    {
     "author": "Multiconcepted",
@@ -124,19 +124,19 @@
     "counts": 45
    },
    {
-    "author": "cuteballgames",
-    "counts": 25
-   },
-   {
     "author": "greenpeppercat",
     "counts": 25
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 21
+    "author": "cuteballgames",
+    "counts": 25
    },
    {
     "author": "FelipePlayz8",
+    "counts": 21
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 21
    },
    {
@@ -168,11 +168,7 @@
     "counts": 3
    },
    {
-    "author": "LetThereBeNox",
-    "counts": 1
-   },
-   {
-    "author": "FelipePlayz9",
+    "author": "MrGally75",
     "counts": 1
    },
    {
@@ -180,11 +176,15 @@
     "counts": 1
    },
    {
-    "author": "MrGally75",
+    "author": "FelipePlayz9",
+    "counts": 1
+   },
+   {
+    "author": "LetThereBeNox",
     "counts": 1
    }
   ],
-  "total_counts": 10790
+  "total_counts": 10792
  },
- "latest_count": 41510642
+ "latest_count": 41510644
 }
