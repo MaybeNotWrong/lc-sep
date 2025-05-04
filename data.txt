@@ -28,7 +28,12 @@
    },
    {
     "author": "artbn",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -42,17 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,22 +57,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "FelipePlayz8",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 91
+  "total_counts": 92
  },
  "100k": {
   "hoc": [
@@ -103,7 +103,7 @@
    },
    {
     "author": "artbn",
-    "counts": 675
+    "counts": 676
    },
    {
     "author": "Multiconcepted",
@@ -134,11 +134,11 @@
     "counts": 193
    },
    {
-    "author": "treje",
+    "author": "MrBahr12",
     "counts": 171
    },
    {
-    "author": "MrBahr12",
+    "author": "treje",
     "counts": 171
    },
    {
@@ -198,11 +198,7 @@
     "counts": 3
    },
    {
-    "author": "MrGally75",
-    "counts": 1
-   },
-   {
-    "author": "Splash30ah",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -210,11 +206,15 @@
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "Splash30ah",
+    "counts": 1
+   },
+   {
+    "author": "MrGally75",
     "counts": 1
    }
   ],
-  "total_counts": 10987
+  "total_counts": 10988
  },
- "latest_count": 41510839
+ "latest_count": 41510840
 }
