@@ -18,7 +18,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21
+  "total_counts": 23
  },
  "100k": {
   "hoc": [
@@ -50,7 +55,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1118
+    "counts": 1119
    },
    {
     "author": "TheMatsValk",
@@ -58,7 +63,7 @@
    },
    {
     "author": "artbn",
-    "counts": 749
+    "counts": 750
    },
    {
     "author": "Multiconcepted",
@@ -173,7 +178,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 11898
+  "total_counts": 11900
  },
- "latest_count": 41511745
+ "latest_count": 41511747
 }
