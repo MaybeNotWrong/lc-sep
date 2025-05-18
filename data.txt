@@ -32,8 +32,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -42,22 +52,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
@@ -83,7 +83,7 @@
    },
    {
     "author": "artbn",
-    "counts": 780
+    "counts": 781
    },
    {
     "author": "Multiconcepted",
@@ -198,7 +198,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12953
+  "total_counts": 12954
  },
- "latest_count": 41512799
+ "latest_count": 41512800
 }
