@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 5,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "vovker1",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 30
+  "total_counts": 31
  },
  "100k": {
   "hoc": [
@@ -71,7 +71,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1255
+    "counts": 1256
    },
    {
     "author": "NobodyL0vesMe",
@@ -198,7 +198,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12952
+  "total_counts": 12953
  },
- "latest_count": 41512798
+ "latest_count": 41512799
 }
