@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
+    "author": "NobodyL0vesMe",
+    "counts": 91,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 90,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 90,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chapter-Able",
-    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -23,6 +18,11 @@
    },
    {
     "author": "SubSmartstocks",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chapter-Able",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 208
+  "total_counts": 209
  },
  "100k": {
   "hoc": [
@@ -61,7 +61,7 @@
    },
    {
     "author": "NobodyL0vesMe",
-    "counts": 1926
+    "counts": 1927
    },
    {
     "author": "TheMatsValk",
@@ -196,7 +196,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14813
+  "total_counts": 14814
  },
- "latest_count": 41514659
+ "latest_count": 41514660
 }
