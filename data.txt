@@ -43,6 +43,11 @@
    },
    {
     "author": "Lonadont",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -52,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 221
+  "total_counts": 222
  },
  "100k": {
   "hoc": [
@@ -84,7 +84,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1325
+    "counts": 1326
    },
    {
     "author": "artbn",
@@ -211,7 +211,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14826
+  "total_counts": 14827
  },
- "latest_count": 41514672
+ "latest_count": 41514673
 }
