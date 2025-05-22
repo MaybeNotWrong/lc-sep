@@ -13,7 +13,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -30,14 +35,9 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 15
+  "total_counts": 16
  },
  "100k": {
   "hoc": [
@@ -59,7 +59,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1337
+    "counts": 1338
    },
    {
     "author": "artbn",
@@ -174,11 +174,11 @@
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
@@ -186,7 +186,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14957
+  "total_counts": 14958
  },
- "latest_count": 41514802
+ "latest_count": 41514803
 }
