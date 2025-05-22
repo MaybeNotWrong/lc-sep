@@ -2,23 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "artbn",
+    "author": "ddodd69",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "artbn",
     "counts": 4,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -30,9 +25,19 @@
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 13
+  "total_counts": 14
  },
  "100k": {
   "hoc": [
@@ -130,7 +135,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 13
+    "counts": 14
    },
    {
     "author": "KalockSwig",
@@ -169,11 +174,11 @@
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -181,7 +186,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14955
+  "total_counts": 14956
  },
- "latest_count": 41514800
+ "latest_count": 41514801
 }
