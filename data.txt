@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 6,
+    "counts": 7,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -12,18 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,19 +30,24 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 20
  },
  "100k": {
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 2944
+    "counts": 2945
    },
    {
     "author": "SubSmartstocks",
-    "counts": 2817
+    "counts": 2819
    },
    {
     "author": "NobodyL0vesMe",
@@ -150,11 +150,11 @@
     "counts": 10
    },
    {
-    "author": "Chapter-Able",
+    "author": "teeravj",
     "counts": 6
    },
    {
-    "author": "teeravj",
+    "author": "Chapter-Able",
     "counts": 6
    },
    {
@@ -174,11 +174,11 @@
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
@@ -186,7 +186,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16597
+  "total_counts": 16600
  },
- "latest_count": 41516443
+ "latest_count": 41516446
 }
