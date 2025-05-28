@@ -27,7 +27,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -37,27 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 62
+  "total_counts": 64
  },
  "100k": {
   "hoc": [
@@ -83,7 +83,7 @@
    },
    {
     "author": "artbn",
-    "counts": 1193
+    "counts": 1194
    },
    {
     "author": "Multiconcepted",
@@ -123,7 +123,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 149
+    "counts": 150
    },
    {
     "author": "Tranquilsunrise",
@@ -170,11 +170,11 @@
     "counts": 10
    },
    {
-    "author": "Chapter-Able",
+    "author": "teeravj",
     "counts": 6
    },
    {
-    "author": "teeravj",
+    "author": "Chapter-Able",
     "counts": 6
    },
    {
@@ -190,15 +190,11 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
-    "counts": 1
-   },
-   {
     "author": "batpuppy",
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -206,11 +202,15 @@
     "counts": 1
    },
    {
+    "author": "FelipePlayz9",
+    "counts": 1
+   },
+   {
     "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 16642
+  "total_counts": 16644
  },
- "latest_count": 41516488
+ "latest_count": 41516490
 }
