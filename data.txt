@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 20,
+    "counts": 22,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 6,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -32,7 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "dragonpro9827",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "dragonpro9827",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 64
+  "total_counts": 68
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1576
+    "counts": 1578
    },
    {
     "author": "artbn",
@@ -109,7 +109,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 603
+    "counts": 605
    },
    {
     "author": "Christmas_Missionary",
@@ -224,7 +224,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16800
+  "total_counts": 16804
  },
- "latest_count": 41516646
+ "latest_count": 41516650
 }
