@@ -2,12 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -17,7 +27,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 3000
+    "counts": 3002
    },
    {
     "author": "NobodyL0vesMe",
@@ -53,7 +63,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 484
+    "counts": 485
    },
    {
     "author": "treje",
@@ -120,11 +130,11 @@
     "counts": 10
    },
    {
-    "author": "teeravj",
+    "author": "Chapter-Able",
     "counts": 6
    },
    {
-    "author": "Chapter-Able",
+    "author": "teeravj",
     "counts": 6
    },
    {
@@ -132,11 +142,11 @@
     "counts": 4
    },
    {
-    "author": "ralgrado",
+    "author": "dragonpro9827",
     "counts": 3
    },
    {
-    "author": "dragonpro9827",
+    "author": "ralgrado",
     "counts": 3
    },
    {
@@ -144,15 +154,11 @@
     "counts": 1
    },
    {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
     "author": "Cox_1920",
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "batpuppy",
     "counts": 1
    },
    {
@@ -160,11 +166,15 @@
     "counts": 1
    },
    {
+    "author": "LetThereBeNox",
+    "counts": 1
+   },
+   {
     "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 19220
+  "total_counts": 19223
  },
- "latest_count": 41519066
+ "latest_count": 41519069
 }
