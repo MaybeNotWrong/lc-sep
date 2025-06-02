@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 14,
+    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -23,7 +23,12 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 2,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -50,14 +55,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 43
+  "total_counts": 49
  },
  "100k": {
   "hoc": [
@@ -67,7 +67,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 3038
+    "counts": 3040
    },
    {
     "author": "NobodyL0vesMe",
@@ -79,7 +79,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1765
+    "counts": 1766
    },
    {
     "author": "artbn",
@@ -95,11 +95,11 @@
    },
    {
     "author": "davidjl123",
-    "counts": 685
+    "counts": 686
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 623
+    "counts": 625
    },
    {
     "author": "Christmas_Missionary",
@@ -170,11 +170,11 @@
     "counts": 10
    },
    {
-    "author": "teeravj",
+    "author": "Chapter-Able",
     "counts": 6
    },
    {
-    "author": "Chapter-Able",
+    "author": "teeravj",
     "counts": 6
    },
    {
@@ -182,23 +182,19 @@
     "counts": 4
    },
    {
-    "author": "ralgrado",
-    "counts": 3
-   },
-   {
     "author": "dragonpro9827",
     "counts": 3
    },
    {
-    "author": "MrGally75",
-    "counts": 1
+    "author": "ralgrado",
+    "counts": 3
    },
    {
     "author": "co3_carbonate",
     "counts": 1
    },
    {
-    "author": "batpuppy",
+    "author": "MrGally75",
     "counts": 1
    },
    {
@@ -206,7 +202,7 @@
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "batpuppy",
     "counts": 1
    },
    {
@@ -214,11 +210,15 @@
     "counts": 1
    },
    {
+    "author": "LetThereBeNox",
+    "counts": 1
+   },
+   {
     "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 19392
+  "total_counts": 19398
  },
- "latest_count": 41519238
+ "latest_count": 41519244
 }
