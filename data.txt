@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
-    "author": "vovker1",
+    "author": "ddodd69",
     "counts": 10,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 8,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 7,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "FelipePlayz8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,17 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 49
+  "total_counts": 56
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3446
+    "counts": 3449
    },
    {
     "author": "SubSmartstocks",
@@ -89,7 +89,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1868
+    "counts": 1870
    },
    {
     "author": "artbn",
@@ -109,7 +109,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 665
+    "counts": 667
    },
    {
     "author": "Christmas_Missionary",
@@ -240,7 +240,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22928
+  "total_counts": 22935
  },
- "latest_count": 41522771
+ "latest_count": 41522778
 }
