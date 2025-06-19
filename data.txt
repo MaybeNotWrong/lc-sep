@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 23,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 21,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 21,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
-    "counts": 7,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -27,17 +27,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Christmas_Missionary",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Playing_2",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -47,7 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Playing_2",
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,14 +65,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 66
+  "total_counts": 70
  },
  "100k": {
   "hoc": [
@@ -81,11 +81,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3861
+    "counts": 3863
    },
    {
     "author": "SubSmartstocks",
-    "counts": 3741
+    "counts": 3742
    },
    {
     "author": "Lonadont",
@@ -141,7 +141,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 71
+    "counts": 72
    },
    {
     "author": "Gameknight046",
@@ -212,15 +212,7 @@
     "counts": 2
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 1
-   },
-   {
     "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -228,7 +220,15 @@
     "counts": 1
    },
    {
+    "author": "FelipePlayz9",
+    "counts": 1
+   },
+   {
     "author": "Playing_2",
+    "counts": 1
+   },
+   {
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -240,15 +240,15 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    }
   ],
-  "total_counts": 27201
+  "total_counts": 27205
  },
- "latest_count": 41527035
+ "latest_count": 41527038
 }
