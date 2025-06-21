@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 14,
+    "author": "ddodd69",
+    "counts": 15,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "Lonadont",
     "counts": 14,
     "has_wrc_req": false
    },
@@ -37,16 +37,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Christmas_Missionary",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -55,9 +45,19 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 67
+  "total_counts": 68
  },
  "100k": {
   "hoc": [
@@ -71,7 +71,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3935
+    "counts": 3936
    },
    {
     "author": "SubSmartstocks",
@@ -202,15 +202,7 @@
     "counts": 2
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 1
-   },
-   {
     "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -218,7 +210,15 @@
     "counts": 1
    },
    {
+    "author": "FelipePlayz9",
+    "counts": 1
+   },
+   {
     "author": "Playing_2",
+    "counts": 1
+   },
+   {
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -230,15 +230,15 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    }
   ],
-  "total_counts": 27509
+  "total_counts": 27510
  },
- "latest_count": 41527332
+ "latest_count": 41527333
 }
