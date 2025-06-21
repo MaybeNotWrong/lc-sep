@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 9,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -13,11 +18,6 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -37,7 +37,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29
+  "total_counts": 30
  },
  "100k": {
   "hoc": [
@@ -51,7 +51,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 3930
+    "counts": 3931
    },
    {
     "author": "SubSmartstocks",
@@ -182,7 +182,15 @@
     "counts": 2
    },
    {
+    "author": "FelipePlayz9",
+    "counts": 1
+   },
+   {
     "author": "batpuppy",
+    "counts": 1
+   },
+   {
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -190,15 +198,7 @@
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 1
-   },
-   {
     "author": "Playing_2",
-    "counts": 1
-   },
-   {
-    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -210,15 +210,15 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 27471
+  "total_counts": 27472
  },
- "latest_count": 41527294
+ "latest_count": 41527295
 }
