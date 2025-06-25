@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -13,11 +13,16 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -27,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -51,7 +51,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 4328
+    "counts": 4329
    },
    {
     "author": "SubSmartstocks",
@@ -59,7 +59,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2464
+    "counts": 2465
    },
    {
     "author": "artbn",
@@ -79,7 +79,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 813
+    "counts": 814
    },
    {
     "author": "Christmas_Missionary",
@@ -142,11 +142,11 @@
     "counts": 22
    },
    {
-    "author": "naimagawa",
+    "author": "Limes_Are_Green",
     "counts": 15
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "naimagawa",
     "counts": 15
    },
    {
@@ -174,10 +174,6 @@
     "counts": 3
    },
    {
-    "author": "Playing_2",
-    "counts": 2
-   },
-   {
     "author": "MrGally75",
     "counts": 2
    },
@@ -186,19 +182,23 @@
     "counts": 2
    },
    {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
+    "author": "Playing_2",
+    "counts": 2
    },
    {
     "author": "FelipePlayz9",
     "counts": 1
    },
    {
+    "author": "batpuppy",
+    "counts": 1
+   },
+   {
     "author": "LetThereBeNox",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -210,15 +210,15 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 28647
+  "total_counts": 28650
  },
- "latest_count": 41528470
+ "latest_count": 41528473
 }
