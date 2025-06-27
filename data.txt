@@ -2,7 +2,7 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,12 +12,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gabrielgsr",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -106,11 +111,11 @@
     "counts": 45
    },
    {
-    "author": "vovker1",
+    "author": "VitaminB16",
     "counts": 36
    },
    {
-    "author": "VitaminB16",
+    "author": "vovker1",
     "counts": 36
    },
    {
@@ -166,11 +171,15 @@
     "counts": 2
    },
    {
-    "author": "batpuppy",
-    "counts": 1
+    "author": "gabrielgsr",
+    "counts": 2
    },
    {
     "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "batpuppy",
     "counts": 1
    },
    {
@@ -186,10 +195,6 @@
     "counts": 1
    },
    {
-    "author": "gabrielgsr",
-    "counts": 1
-   },
-   {
     "author": "co3_carbonate",
     "counts": 1
    },
@@ -202,7 +207,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28913
+  "total_counts": 28914
  },
- "latest_count": 41528736
+ "latest_count": 41528737
 }
