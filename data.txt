@@ -2,7 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "SubSmartstocks",
+    "author": "gabrielgsr",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,27 +22,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "gabrielgsr",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -82,7 +82,7 @@
    },
    {
     "author": "treje",
-    "counts": 318
+    "counts": 319
    },
    {
     "author": "LeinadSpoon",
@@ -165,6 +165,10 @@
     "counts": 3
    },
    {
+    "author": "gabrielgsr",
+    "counts": 3
+   },
+   {
     "author": "dragonpro9827",
     "counts": 3
    },
@@ -178,10 +182,6 @@
    },
    {
     "author": "SSoto_21",
-    "counts": 2
-   },
-   {
-    "author": "gabrielgsr",
     "counts": 2
    },
    {
@@ -217,7 +217,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28916
+  "total_counts": 28918
  },
- "latest_count": 41528739
+ "latest_count": 41528741
 }
