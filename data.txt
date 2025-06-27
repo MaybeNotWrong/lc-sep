@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -19,7 +25,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 4067
+    "counts": 4068
    },
    {
     "author": "Lonadont",
@@ -186,7 +192,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28910
+  "total_counts": 28911
  },
- "latest_count": 41528733
+ "latest_count": 41528734
 }
