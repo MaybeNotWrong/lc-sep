@@ -1,7 +1,23 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -19,7 +35,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 4099
+    "counts": 4100
    },
    {
     "author": "Lonadont",
@@ -35,7 +51,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 917
+    "counts": 918
    },
    {
     "author": "davidjl123",
@@ -43,7 +59,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 834
+    "counts": 835
    },
    {
     "author": "Christmas_Missionary",
@@ -106,11 +122,11 @@
     "counts": 22
    },
    {
-    "author": "naimagawa",
+    "author": "Limes_Are_Green",
     "counts": 15
    },
    {
-    "author": "Limes_Are_Green",
+    "author": "naimagawa",
     "counts": 15
    },
    {
@@ -142,10 +158,6 @@
     "counts": 3
    },
    {
-    "author": "Playing_2",
-    "counts": 2
-   },
-   {
     "author": "MrGally75",
     "counts": 2
    },
@@ -154,19 +166,23 @@
     "counts": 2
    },
    {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
+    "author": "Playing_2",
+    "counts": 2
    },
    {
     "author": "FelipePlayz9",
     "counts": 1
    },
    {
+    "author": "batpuppy",
+    "counts": 1
+   },
+   {
     "author": "LetThereBeNox",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -178,15 +194,15 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 29040
+  "total_counts": 29043
  },
- "latest_count": 41528863
+ "latest_count": 41528866
 }
