@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "Lonadont",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "ddodd69",
     "counts": 9,
     "has_wrc_req": false
    },
@@ -22,22 +22,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -47,12 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 36
+  "total_counts": 37
  },
  "100k": {
   "hoc": [
@@ -70,7 +70,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 4217
+    "counts": 4218
    },
    {
     "author": "Lonadont",
@@ -193,10 +193,6 @@
     "counts": 3
    },
    {
-    "author": "Playing_2",
-    "counts": 2
-   },
-   {
     "author": "MrGally75",
     "counts": 2
    },
@@ -205,19 +201,23 @@
     "counts": 2
    },
    {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
+    "author": "Playing_2",
+    "counts": 2
    },
    {
     "author": "FelipePlayz9",
     "counts": 1
    },
    {
+    "author": "batpuppy",
+    "counts": 1
+   },
+   {
     "author": "LetThereBeNox",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -229,15 +229,15 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 29522
+  "total_counts": 29523
  },
- "latest_count": 41529345
+ "latest_count": 41529346
 }
