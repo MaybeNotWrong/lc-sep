@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "SubSmartstocks",
+    "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 1,
+    "author": "SubSmartstocks",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,7 +27,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -41,7 +41,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 4537
+    "counts": 4538
    },
    {
     "author": "SubSmartstocks",
@@ -212,7 +212,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 29606
+  "total_counts": 29607
  },
- "latest_count": 41529429
+ "latest_count": 41529430
 }
