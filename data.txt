@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 24,
+    "counts": 47,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 32,
     "has_wrc_req": false
    },
    {
     "author": "ddodd69",
     "counts": 10,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -42,17 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 58
+  "total_counts": 105
  },
  "100k": {
   "hoc": [
@@ -70,11 +70,11 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 4287
+    "counts": 4311
    },
    {
     "author": "Lonadont",
-    "counts": 2623
+    "counts": 2646
    },
    {
     "author": "artbn",
@@ -193,6 +193,10 @@
     "counts": 3
    },
    {
+    "author": "Playing_2",
+    "counts": 2
+   },
+   {
     "author": "MrGally75",
     "counts": 2
    },
@@ -201,23 +205,19 @@
     "counts": 2
    },
    {
-    "author": "Playing_2",
-    "counts": 2
+    "author": "batpuppy",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    },
    {
     "author": "FelipePlayz9",
     "counts": 1
    },
    {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
     "author": "LetThereBeNox",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -229,15 +229,15 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    }
   ],
-  "total_counts": 29797
+  "total_counts": 29844
  },
- "latest_count": 41529620
+ "latest_count": 41529667
 }
