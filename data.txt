@@ -43,7 +43,12 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -55,14 +60,9 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 144
+  "total_counts": 145
  },
  "100k": {
   "hoc": [
@@ -92,7 +92,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 1121
+    "counts": 1122
    },
    {
     "author": "amazingpikachu_38",
@@ -247,7 +247,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30052
+  "total_counts": 30053
  },
- "latest_count": 41529875
+ "latest_count": 41529876
 }
