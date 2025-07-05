@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Christmas_Missionary",
+    "counts": 46,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 45,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 10,
     "has_wrc_req": false
@@ -22,11 +32,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Chalupa_Grandpa",
     "counts": 2,
     "has_wrc_req": false
@@ -37,7 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,14 +50,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 36
+  "total_counts": 124
  },
  "100k": {
   "hoc": [
@@ -78,7 +78,7 @@
    },
    {
     "author": "artbn",
-    "counts": 1331
+    "counts": 1375
    },
    {
     "author": "Multiconcepted",
@@ -98,7 +98,7 @@
    },
    {
     "author": "Christmas_Missionary",
-    "counts": 523
+    "counts": 567
    },
    {
     "author": "treje",
@@ -237,7 +237,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30089
+  "total_counts": 30177
  },
- "latest_count": 41529912
+ "latest_count": 41530000
 }
