@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -19,7 +30,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 4512
+    "counts": 4513
    },
    {
     "author": "Lonadont",
@@ -55,7 +66,7 @@
    },
    {
     "author": "treje",
-    "counts": 354
+    "counts": 355
    },
    {
     "author": "NeonL1vesMatter",
@@ -186,7 +197,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31762
+  "total_counts": 31764
  },
- "latest_count": 41531583
+ "latest_count": 41531585
 }
