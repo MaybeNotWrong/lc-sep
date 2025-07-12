@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 5,
     "has_wrc_req": false
@@ -12,13 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 4,
+    "author": "amazingpikachu_38",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 3,
+    "author": "SubSmartstocks",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -32,17 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 21
+  "total_counts": 23
  },
  "100k": {
   "hoc": [
@@ -60,11 +60,11 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 4616
+    "counts": 4617
    },
    {
     "author": "Lonadont",
-    "counts": 3339
+    "counts": 3340
    },
    {
     "author": "artbn",
@@ -183,10 +183,6 @@
     "counts": 3
    },
    {
-    "author": "Playing_2",
-    "counts": 2
-   },
-   {
     "author": "MrGally75",
     "counts": 2
    },
@@ -195,11 +191,15 @@
     "counts": 2
    },
    {
+    "author": "Playing_2",
+    "counts": 2
+   },
+   {
     "author": "co3_carbonate",
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
@@ -207,11 +207,11 @@
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -219,15 +219,15 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 32208
+  "total_counts": 32210
  },
- "latest_count": 41532029
+ "latest_count": 41532031
 }
