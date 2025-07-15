@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -22,17 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 18
  },
  "100k": {
   "hoc": [
@@ -54,7 +54,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3532
+    "counts": 3533
    },
    {
     "author": "artbn",
@@ -173,10 +173,6 @@
     "counts": 3
    },
    {
-    "author": "Playing_2",
-    "counts": 2
-   },
-   {
     "author": "MrGally75",
     "counts": 2
    },
@@ -185,16 +181,12 @@
     "counts": 2
    },
    {
-    "author": "co3_carbonate",
+    "author": "Playing_2",
     "counts": 2
    },
    {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
+    "author": "co3_carbonate",
+    "counts": 2
    },
    {
     "author": "FelipePlayz9",
@@ -205,7 +197,15 @@
     "counts": 1
    },
    {
+    "author": "batpuppy",
+    "counts": 1
+   },
+   {
     "author": "LetThereBeNox",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -213,15 +213,15 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 32767
+  "total_counts": 32768
  },
- "latest_count": 41532586
+ "latest_count": 41532587
 }
