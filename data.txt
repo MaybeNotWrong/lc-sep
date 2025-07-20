@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -11,7 +17,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 5309
+    "counts": 5310
    },
    {
     "author": "TheMatsValk",
@@ -198,7 +204,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33740
+  "total_counts": 33741
  },
- "latest_count": 41533558
+ "latest_count": 41533559
 }
