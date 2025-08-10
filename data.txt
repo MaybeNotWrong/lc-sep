@@ -2,13 +2,8 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 1,
+    "author": "Multiconcepted",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -17,17 +12,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -53,7 +53,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 1531
+    "counts": 1532
    },
    {
     "author": "artbn",
@@ -232,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 42481
+  "total_counts": 42482
  },
- "latest_count": 41542297
+ "latest_count": 41542298
 }
