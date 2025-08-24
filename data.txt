@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "ralgrado",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -37,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 11
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -158,11 +163,11 @@
     "counts": 9
    },
    {
-    "author": "Antichess",
-    "counts": 7
+    "author": "ralgrado",
+    "counts": 8
    },
    {
-    "author": "ralgrado",
+    "author": "Antichess",
     "counts": 7
    },
    {
@@ -242,7 +247,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 46651
+  "total_counts": 46652
  },
- "latest_count": 41546465
+ "latest_count": 41546466
 }
