@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -47,7 +53,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1253
+    "counts": 1254
    },
    {
     "author": "Christmas_Missionary",
@@ -154,11 +160,11 @@
     "counts": 2
    },
    {
-    "author": "MrGally75",
+    "author": "Playing_2",
     "counts": 2
    },
    {
-    "author": "Playing_2",
+    "author": "MrGally75",
     "counts": 2
    },
    {
@@ -166,7 +172,7 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "rideride",
     "counts": 1
    },
    {
@@ -174,7 +180,7 @@
     "counts": 1
    },
    {
-    "author": "silversherbet6088",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -182,15 +188,15 @@
     "counts": 1
    },
    {
-    "author": "I__mean",
-    "counts": 1
-   },
-   {
     "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "silversherbet6088",
+    "counts": 1
+   },
+   {
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -210,7 +216,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47044
+  "total_counts": 47045
  },
- "latest_count": 41546858
+ "latest_count": 41546859
 }
