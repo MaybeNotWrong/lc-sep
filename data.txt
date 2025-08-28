@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 16,
+    "author": "cuteballgames",
+    "counts": 17,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Lonadont",
     "counts": 16,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 82
+  "total_counts": 83
  },
  "100k": {
   "hoc": [
@@ -116,7 +116,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 532
+    "counts": 533
    },
    {
     "author": "treje",
@@ -227,11 +227,15 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "rideride",
     "counts": 1
    },
    {
     "author": "batpuppy",
+    "counts": 1
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -243,19 +247,15 @@
     "counts": 1
    },
    {
-    "author": "I__mean",
-    "counts": 1
-   },
-   {
     "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -271,7 +271,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 47368
+  "total_counts": 47369
  },
- "latest_count": 41547183
+ "latest_count": 41547184
 }
