@@ -7,6 +7,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "greenpeppercat",
+    "counts": 20,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 18,
     "has_wrc_req": false
@@ -22,7 +27,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
+    "author": "NobodyL0vesMe",
     "counts": 13,
     "has_wrc_req": false
    },
@@ -34,11 +39,6 @@
    {
     "author": "davidjl123",
     "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -67,13 +67,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 117
+  "total_counts": 131
  },
  "100k": {
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 9270
+    "counts": 9277
    },
    {
     "author": "TheMatsValk",
@@ -133,7 +133,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 197
+    "counts": 204
    },
    {
     "author": "NeonL1vesMatter",
@@ -232,11 +232,15 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "rideride",
     "counts": 1
    },
    {
     "author": "batpuppy",
+    "counts": 1
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -248,19 +252,15 @@
     "counts": 1
    },
    {
-    "author": "I__mean",
-    "counts": 1
-   },
-   {
     "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -276,7 +276,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 48610
+  "total_counts": 48624
  },
- "latest_count": 41548423
+ "latest_count": 41548437
 }
