@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
@@ -15,14 +20,9 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -56,7 +56,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 1565
+    "counts": 1566
    },
    {
     "author": "artbn",
@@ -155,11 +155,11 @@
     "counts": 6
    },
    {
-    "author": "dragonpro9827",
+    "author": "Playing_2",
     "counts": 4
    },
    {
-    "author": "Playing_2",
+    "author": "dragonpro9827",
     "counts": 4
    },
    {
@@ -203,10 +203,6 @@
     "counts": 1
    },
    {
-    "author": "silversherbet6088",
-    "counts": 1
-   },
-   {
     "author": "FelipePlayz9",
     "counts": 1
    },
@@ -215,11 +211,15 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "silversherbet6088",
     "counts": 1
    },
    {
     "author": "I__mean",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
@@ -235,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52686
+  "total_counts": 52687
  },
- "latest_count": 41552498
+ "latest_count": 41552499
 }
