@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 5,
+    "author": "cuteballgames",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 4,
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,22 +32,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "VitaminB16",
+    "author": "Playing_2",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "VitaminB16",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Playing_2",
+    "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 28
+  "total_counts": 30
  },
  "100k": {
   "hoc": [
@@ -84,7 +84,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 5003
+    "counts": 5004
    },
    {
     "author": "Multiconcepted",
@@ -144,7 +144,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 144
+    "counts": 145
    },
    {
     "author": "FelipePlayz8",
@@ -231,11 +231,15 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "rideride",
     "counts": 1
    },
    {
     "author": "batpuppy",
+    "counts": 1
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -247,19 +251,15 @@
     "counts": 1
    },
    {
-    "author": "I__mean",
-    "counts": 1
-   },
-   {
     "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -275,7 +275,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52710
+  "total_counts": 52712
  },
- "latest_count": 41552522
+ "latest_count": 41552524
 }
