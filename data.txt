@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "SubSmartstocks",
-    "counts": 8,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "greenpeppercat",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 1,
     "has_wrc_req": false
@@ -55,14 +60,9 @@
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 37
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -80,7 +80,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 6654
+    "counts": 6655
    },
    {
     "author": "Lonadont",
@@ -112,7 +112,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 1032
+    "counts": 1033
    },
    {
     "author": "Christmas_Missionary",
@@ -243,10 +243,6 @@
     "counts": 1
    },
    {
-    "author": "silversherbet6088",
-    "counts": 1
-   },
-   {
     "author": "FelipePlayz9",
     "counts": 1
    },
@@ -255,11 +251,15 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "silversherbet6088",
     "counts": 1
    },
    {
     "author": "I__mean",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
@@ -275,7 +275,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52881
+  "total_counts": 52883
  },
- "latest_count": 41552693
+ "latest_count": 41552695
 }
