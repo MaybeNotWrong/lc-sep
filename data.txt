@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 7,
+    "author": "ddodd69",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "Lonadont",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -18,7 +18,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -27,23 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Limes_Are_Green",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
+    "author": "Limes_Are_Green",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -52,7 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +52,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Christmas_Missionary",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 37
+  "total_counts": 39
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 6996
+    "counts": 6997
    },
    {
     "author": "SubSmartstocks",
@@ -117,7 +117,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 1073
+    "counts": 1074
    },
    {
     "author": "Christmas_Missionary",
@@ -236,15 +236,11 @@
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
     "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -256,15 +252,19 @@
     "counts": 1
    },
    {
+    "author": "I__mean",
+    "counts": 1
+   },
+   {
     "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "rideride",
     "counts": 1
    },
    {
-    "author": "I__mean",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
@@ -280,7 +280,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53036
+  "total_counts": 53038
  },
- "latest_count": 41552848
+ "latest_count": 41552850
 }
