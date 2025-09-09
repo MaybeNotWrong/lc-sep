@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -128,12 +133,12 @@
     "counts": 9
    },
    {
-    "author": "ralgrado",
+    "author": "Antichess",
     "counts": 8
    },
    {
-    "author": "Antichess",
-    "counts": 7
+    "author": "ralgrado",
+    "counts": 8
    },
    {
     "author": "teeravj",
@@ -188,10 +193,6 @@
     "counts": 1
    },
    {
-    "author": "silversherbet6088",
-    "counts": 1
-   },
-   {
     "author": "FelipePlayz9",
     "counts": 1
    },
@@ -200,11 +201,15 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "silversherbet6088",
     "counts": 1
    },
    {
     "author": "I__mean",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
@@ -220,7 +225,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53000
+  "total_counts": 53001
  },
- "latest_count": 41552812
+ "latest_count": 41552813
 }
