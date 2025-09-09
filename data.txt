@@ -13,7 +13,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -27,7 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,14 +55,9 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 26
+  "total_counts": 29
  },
  "100k": {
   "hoc": [
@@ -75,7 +75,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 6683
+    "counts": 6685
    },
    {
     "author": "Lonadont",
@@ -91,7 +91,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 1584
+    "counts": 1585
    },
    {
     "author": "artbn",
@@ -238,10 +238,6 @@
     "counts": 1
    },
    {
-    "author": "silversherbet6088",
-    "counts": 1
-   },
-   {
     "author": "FelipePlayz9",
     "counts": 1
    },
@@ -250,11 +246,15 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "silversherbet6088",
     "counts": 1
    },
    {
     "author": "I__mean",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
@@ -270,7 +270,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53025
+  "total_counts": 53028
  },
- "latest_count": 41552837
+ "latest_count": 41552840
 }
