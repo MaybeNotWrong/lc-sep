@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -41,7 +46,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 1809
+    "counts": 1810
    },
    {
     "author": "davidjl123",
@@ -220,7 +225,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 57236
+  "total_counts": 57237
  },
- "latest_count": 41557036
+ "latest_count": 41557037
 }
