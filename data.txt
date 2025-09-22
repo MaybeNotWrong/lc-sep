@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "greenpeppercat",
+    "counts": 90,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 72,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 31,
     "has_wrc_req": false
@@ -12,22 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
-    "counts": 27,
-    "has_wrc_req": false
-   },
-   {
     "author": "ddodd69",
     "counts": 16,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 9,
     "has_wrc_req": false
    },
@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "TheMatsValk",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "NobodyL0vesMe",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 140
+  "total_counts": 266
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 1853
+    "counts": 1916
    },
    {
     "author": "Multiconcepted",
@@ -99,12 +99,12 @@
     "counts": 1695
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 1668
+    "author": "artbn",
+    "counts": 1677
    },
    {
-    "author": "artbn",
-    "counts": 1614
+    "author": "amazingpikachu_38",
+    "counts": 1668
    },
    {
     "author": "LeinadSpoon",
@@ -275,7 +275,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 56789
+  "total_counts": 56915
  },
- "latest_count": 41556589
+ "latest_count": 41556715
 }
