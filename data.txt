@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "SubSmartstocks",
-    "counts": 32,
+    "counts": 42,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 25,
+    "counts": 34,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "FelipePlayz8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +60,14 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 107
+  "total_counts": 126
  },
  "100k": {
   "hoc": [
@@ -85,7 +85,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 7252
+    "counts": 7262
    },
    {
     "author": "Lonadont",
@@ -93,7 +93,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 2583
+    "counts": 2592
    },
    {
     "author": "artbn",
@@ -280,7 +280,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58543
+  "total_counts": 58562
  },
- "latest_count": 41558342
+ "latest_count": 41558361
 }
