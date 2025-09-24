@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 49,
+    "counts": 50,
     "has_wrc_req": false
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 24,
+    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -57,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -75,9 +70,14 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "FelipePlayz8",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 187
+  "total_counts": 189
  },
  "100k": {
   "hoc": [
@@ -99,11 +99,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 5442
+    "counts": 5443
    },
    {
     "author": "greenpeppercat",
-    "counts": 2607
+    "counts": 2608
    },
    {
     "author": "artbn",
@@ -290,7 +290,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58623
+  "total_counts": 58625
  },
- "latest_count": 41558422
+ "latest_count": 41558424
 }
