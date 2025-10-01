@@ -23,7 +23,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 8,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -38,6 +38,11 @@
    },
    {
     "author": "buy_me_a_pint",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -57,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 133
+  "total_counts": 135
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 1846
+    "counts": 1847
    },
    {
     "author": "artbn",
@@ -105,7 +105,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 1779
+    "counts": 1780
    },
    {
     "author": "amazingpikachu_38",
@@ -224,27 +224,15 @@
     "counts": 3
    },
    {
-    "author": "SSoto_21",
-    "counts": 2
-   },
-   {
     "author": "MrGally75",
     "counts": 2
    },
    {
-    "author": "silversherbet6088",
-    "counts": 1
+    "author": "SSoto_21",
+    "counts": 2
    },
    {
     "author": "Cox_1920",
-    "counts": 1
-   },
-   {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
-    "author": "I__mean",
     "counts": 1
    },
    {
@@ -252,15 +240,27 @@
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "dominodan123",
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
+    "author": "silversherbet6088",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "I__mean",
+    "counts": 1
+   },
+   {
+    "author": "batpuppy",
+    "counts": 1
+   },
+   {
+    "author": "boink-y",
     "counts": 1
    },
    {
@@ -268,7 +268,7 @@
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
@@ -276,15 +276,15 @@
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "boink-y",
+    "author": "rideride",
     "counts": 1
    }
   ],
-  "total_counts": 61564
+  "total_counts": 61566
  },
- "latest_count": 41561363
+ "latest_count": 41561365
 }
