@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -15,7 +21,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 8705
+    "counts": 8706
    },
    {
     "author": "SubSmartstocks",
@@ -222,7 +228,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 62466
+  "total_counts": 62467
  },
- "latest_count": 41562265
+ "latest_count": 41562266
 }
