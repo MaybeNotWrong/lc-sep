@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -44,11 +49,6 @@
    {
     "author": "treje",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 426
+  "total_counts": 427
  },
  "100k": {
   "hoc": [
@@ -102,7 +102,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 1884
+    "counts": 1885
    },
    {
     "author": "davidjl123",
@@ -293,7 +293,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 63235
+  "total_counts": 63236
  },
- "latest_count": 41563034
+ "latest_count": 41563035
 }
