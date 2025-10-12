@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -43,7 +49,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1827
+    "counts": 1828
    },
    {
     "author": "Chalupa_Grandpa",
@@ -226,7 +232,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 63516
+  "total_counts": 63517
  },
- "latest_count": 41563315
+ "latest_count": 41563316
 }
