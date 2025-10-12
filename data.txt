@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "Lonadont",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "ddodd69",
     "counts": 9,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
     "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
@@ -70,7 +75,7 @@
    },
    {
     "author": "artbn",
-    "counts": 1863
+    "counts": 1864
    },
    {
     "author": "amazingpikachu_38",
@@ -86,7 +91,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1197
+    "counts": 1198
    },
    {
     "author": "Christmas_Missionary",
@@ -193,35 +198,19 @@
     "counts": 3
    },
    {
-    "author": "MrGally75",
-    "counts": 2
-   },
-   {
     "author": "SSoto_21",
     "counts": 2
    },
    {
-    "author": "Cox_1920",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
+    "author": "MrGally75",
+    "counts": 2
    },
    {
     "author": "silversherbet6088",
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "I__mean",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -229,15 +218,19 @@
     "counts": 1
    },
    {
-    "author": "boink-y",
+    "author": "I__mean",
     "counts": 1
    },
    {
-    "author": "w7n7",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "dominodan123",
     "counts": 1
    },
    {
@@ -245,7 +238,7 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
@@ -253,11 +246,23 @@
     "counts": 1
    },
    {
+    "author": "w7n7",
+    "counts": 1
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 1
+   },
+   {
     "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "boink-y",
     "counts": 1
    }
   ],
-  "total_counts": 63541
+  "total_counts": 63543
  },
- "latest_count": 41563340
+ "latest_count": 41563342
 }
