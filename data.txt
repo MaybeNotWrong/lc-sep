@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -41,7 +46,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 1907
+    "counts": 1908
    },
    {
     "author": "artbn",
@@ -232,7 +237,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 63877
+  "total_counts": 63878
  },
- "latest_count": 41563676
+ "latest_count": 41563677
 }
