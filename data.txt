@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
+    "author": "SubSmartstocks",
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -22,12 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 4,
+    "author": "artbn",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 40
+  "total_counts": 41
  },
  "100k": {
   "hoc": [
@@ -65,7 +65,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 8027
+    "counts": 8028
    },
    {
     "author": "Lonadont",
@@ -276,7 +276,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 64274
+  "total_counts": 64275
  },
- "latest_count": 41564055
+ "latest_count": 41564056
 }
