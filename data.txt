@@ -3,11 +3,16 @@
   "hoc": [
    {
     "author": "TheMatsValk",
-    "counts": 1,
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -27,17 +32,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
    {
     "author": "NobodyL0vesMe",
-    "counts": 12684
+    "counts": 12685
    },
    {
     "author": "TheMatsValk",
-    "counts": 9821
+    "counts": 9822
    },
    {
     "author": "ddodd69",
@@ -164,11 +169,11 @@
     "counts": 6
    },
    {
-    "author": "Playing_2",
+    "author": "Moarbadass",
     "counts": 5
    },
    {
-    "author": "Moarbadass",
+    "author": "Playing_2",
     "counts": 5
    },
    {
@@ -196,6 +201,18 @@
     "counts": 2
    },
    {
+    "author": "TehVulpez",
+    "counts": 1
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 1
+   },
+   {
+    "author": "batpuppy",
+    "counts": 1
+   },
+   {
     "author": "dominodan123",
     "counts": 1
    },
@@ -204,15 +221,11 @@
     "counts": 1
    },
    {
-    "author": "batpuppy",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
     "author": "LetThereBeNox",
-    "counts": 1
-   },
-   {
-    "author": "FelipePlayz9",
     "counts": 1
    },
    {
@@ -224,7 +237,11 @@
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
@@ -242,21 +259,9 @@
    {
     "author": "Cox_1920",
     "counts": 1
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
-    "author": "rideride",
-    "counts": 1
-   },
-   {
-    "author": "AngryLispingSloth",
-    "counts": 1
    }
   ],
-  "total_counts": 64636
+  "total_counts": 64638
  },
- "latest_count": 41564415
+ "latest_count": 41564417
 }
