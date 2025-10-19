@@ -22,6 +22,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 2,
     "has_wrc_req": false
@@ -37,11 +42,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
@@ -52,7 +52,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 411
+  "total_counts": 412
  },
  "100k": {
   "hoc": [
@@ -70,7 +70,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 8122
+    "counts": 8123
    },
    {
     "author": "Lonadont",
@@ -189,19 +189,19 @@
     "counts": 6
    },
    {
-    "author": "Moarbadass",
-    "counts": 5
-   },
-   {
     "author": "Playing_2",
     "counts": 5
    },
    {
-    "author": "dragonpro9827",
-    "counts": 4
+    "author": "Moarbadass",
+    "counts": 5
    },
    {
     "author": "Prize-Wing8854",
+    "counts": 4
+   },
+   {
+    "author": "dragonpro9827",
     "counts": 4
    },
    {
@@ -213,15 +213,39 @@
     "counts": 3
    },
    {
-    "author": "SSoto_21",
-    "counts": 2
-   },
-   {
     "author": "MrGally75",
     "counts": 2
    },
    {
-    "author": "Splash30ah",
+    "author": "SSoto_21",
+    "counts": 2
+   },
+   {
+    "author": "w7n7",
+    "counts": 1
+   },
+   {
+    "author": "rschaosid",
+    "counts": 1
+   },
+   {
+    "author": "Cox_1920",
+    "counts": 1
+   },
+   {
+    "author": "TehVulpez",
+    "counts": 1
+   },
+   {
+    "author": "boink-y",
+    "counts": 1
+   },
+   {
+    "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
@@ -253,35 +277,11 @@
     "counts": 1
    },
    {
-    "author": "rideride",
-    "counts": 1
-   },
-   {
-    "author": "AngryLispingSloth",
-    "counts": 1
-   },
-   {
-    "author": "w7n7",
-    "counts": 1
-   },
-   {
-    "author": "rschaosid",
-    "counts": 1
-   },
-   {
-    "author": "Cox_1920",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
-    "author": "boink-y",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 65042
+  "total_counts": 65043
  },
- "latest_count": 41564821
+ "latest_count": 41564822
 }
