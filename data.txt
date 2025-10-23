@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
-    "counts": 30,
+    "author": "SubSmartstocks",
+    "counts": 32,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "ddodd69",
     "counts": 30,
     "has_wrc_req": false
    },
@@ -23,7 +23,7 @@
    },
    {
     "author": "Trial-Name",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -37,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "artbn",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -52,17 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 131
+  "total_counts": 134
  },
  "100k": {
   "hoc": [
@@ -80,7 +80,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 8336
+    "counts": 8338
    },
    {
     "author": "Lonadont",
@@ -163,12 +163,12 @@
     "counts": 57
    },
    {
-    "author": "Sotp_Sign",
+    "author": "Trial-Name",
     "counts": 55
    },
    {
-    "author": "Trial-Name",
-    "counts": 54
+    "author": "Sotp_Sign",
+    "counts": 55
    },
    {
     "author": "vovker1",
@@ -235,15 +235,19 @@
     "counts": 2
    },
    {
+    "author": "TehVulpez",
+    "counts": 1
+   },
+   {
     "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "dominodan123",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "dominodan123",
     "counts": 1
    },
    {
@@ -283,19 +287,15 @@
     "counts": 1
    },
    {
-    "author": "Cox_1920",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
     "author": "boink-y",
+    "counts": 1
+   },
+   {
+    "author": "Cox_1920",
     "counts": 1
    }
   ],
-  "total_counts": 66482
+  "total_counts": 66485
  },
- "latest_count": 41566247
+ "latest_count": 41566250
 }
