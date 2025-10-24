@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -20,14 +25,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 14
+  "total_counts": 15
  },
  "100k": {
   "hoc": [
@@ -49,7 +49,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 6048
+    "counts": 6049
    },
    {
     "author": "greenpeppercat",
@@ -172,11 +172,11 @@
     "counts": 6
    },
    {
-    "author": "Moarbadass",
+    "author": "Playing_2",
     "counts": 5
    },
    {
-    "author": "Playing_2",
+    "author": "Moarbadass",
     "counts": 5
    },
    {
@@ -200,15 +200,11 @@
     "counts": 2
    },
    {
-    "author": "Splash30ah",
+    "author": "dominodan123",
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 1
-   },
-   {
-    "author": "LetThereBeNox",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -216,11 +212,11 @@
     "counts": 1
    },
    {
-    "author": "dominodan123",
+    "author": "LetThereBeNox",
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "FelipePlayz9",
     "counts": 1
    },
    {
@@ -232,11 +228,11 @@
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "Splash30ah",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "rschaosid",
     "counts": 1
    },
    {
@@ -244,7 +240,7 @@
     "counts": 1
    },
    {
-    "author": "rschaosid",
+    "author": "boink-y",
     "counts": 1
    },
    {
@@ -256,11 +252,15 @@
     "counts": 1
    },
    {
-    "author": "boink-y",
+    "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
     "counts": 1
    }
   ],
-  "total_counts": 66527
+  "total_counts": 66528
  },
- "latest_count": 41566292
+ "latest_count": 41566293
 }
