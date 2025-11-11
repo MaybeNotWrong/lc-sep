@@ -2,8 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "SubSmartstocks",
+    "counts": 17,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 16,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -12,23 +22,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 14,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 12,
+    "author": "cuteballgames",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 9,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 80
+  "total_counts": 88
  },
  "100k": {
   "hoc": [
@@ -65,7 +65,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 9118
+    "counts": 9121
    },
    {
     "author": "Lonadont",
@@ -93,11 +93,11 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1922
+    "counts": 1924
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 1736
+    "counts": 1739
    },
    {
     "author": "LeinadSpoon",
@@ -232,11 +232,11 @@
     "counts": 2
    },
    {
-    "author": "TehVulpez",
+    "author": "rideride",
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "TehVulpez",
     "counts": 1
    },
    {
@@ -252,19 +252,11 @@
     "counts": 1
    },
    {
-    "author": "batpuppy",
-    "counts": 1
-   },
-   {
     "author": "w7n7",
     "counts": 1
    },
    {
-    "author": "Cox_1920",
-    "counts": 1
-   },
-   {
-    "author": "I__mean",
+    "author": "batpuppy",
     "counts": 1
    },
    {
@@ -272,15 +264,11 @@
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "I__mean",
     "counts": 1
    },
    {
-    "author": "FelipePlayz9",
-    "counts": 1
-   },
-   {
-    "author": "dominodan123",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
@@ -288,11 +276,23 @@
     "counts": 1
    },
    {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
+    "author": "FelipePlayz9",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
     "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 71991
+  "total_counts": 71999
  },
- "latest_count": 41571751
+ "latest_count": 41571759
 }
