@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -53,7 +58,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 1979
+    "counts": 1980
    },
    {
     "author": "Chalupa_Grandpa",
@@ -192,10 +197,6 @@
     "counts": 2
    },
    {
-    "author": "Splash30ah",
-    "counts": 1
-   },
-   {
     "author": "rideride",
     "counts": 1
    },
@@ -250,9 +251,13 @@
    {
     "author": "MrUnderdawg",
     "counts": 1
+   },
+   {
+    "author": "Splash30ah",
+    "counts": 1
    }
   ],
-  "total_counts": 72676
+  "total_counts": 72677
  },
- "latest_count": 41572383
+ "latest_count": 41572384
 }
