@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "SSoto_21",
+    "counts": 42,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 38,
+    "has_wrc_req": false
+   },
+   {
     "author": "SubSmartstocks",
     "counts": 20,
     "has_wrc_req": false
@@ -12,18 +22,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "SSoto_21",
-    "counts": 10,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 70
+  "total_counts": 135
  },
  "100k": {
   "hoc": [
@@ -104,7 +104,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 2045
+    "counts": 2078
    },
    {
     "author": "Multiconcepted",
@@ -124,7 +124,7 @@
    },
    {
     "author": "SSoto_21",
-    "counts": 701
+    "counts": 733
    },
    {
     "author": "treje",
@@ -307,7 +307,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 72968
+  "total_counts": 73033
  },
- "latest_count": 41572675
+ "latest_count": 41572740
 }
