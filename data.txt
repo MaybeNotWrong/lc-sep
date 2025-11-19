@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 20,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 19,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 18,
-    "has_wrc_req": false
-   },
-   {
     "author": "SubSmartstocks",
-    "counts": 12,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -72,7 +72,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 76
+  "total_counts": 80
  },
  "100k": {
   "hoc": [
@@ -82,7 +82,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 11899
+    "counts": 11901
    },
    {
     "author": "TheMatsValk",
@@ -90,7 +90,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 9458
+    "counts": 9460
    },
    {
     "author": "Lonadont",
@@ -229,11 +229,11 @@
     "counts": 6
    },
    {
-    "author": "Moarbadass",
+    "author": "Playing_2",
     "counts": 5
    },
    {
-    "author": "Playing_2",
+    "author": "Moarbadass",
     "counts": 5
    },
    {
@@ -241,11 +241,11 @@
     "counts": 4
    },
    {
-    "author": "Richard_Schaosid",
+    "author": "co3_carbonate",
     "counts": 3
    },
    {
-    "author": "co3_carbonate",
+    "author": "Richard_Schaosid",
     "counts": 3
    },
    {
@@ -257,23 +257,7 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
-    "author": "AngryLispingSloth",
-    "counts": 1
-   },
-   {
-    "author": "dominodan123",
-    "counts": 1
-   },
-   {
-    "author": "LetThereBeNox",
-    "counts": 1
-   },
-   {
-    "author": "rideride",
+    "author": "w7n7",
     "counts": 1
    },
    {
@@ -293,19 +277,35 @@
     "counts": 1
    },
    {
-    "author": "w7n7",
-    "counts": 1
-   },
-   {
     "author": "rschaosid",
     "counts": 1
    },
    {
-    "author": "Splash30ah",
+    "author": "LetThereBeNox",
+    "counts": 1
+   },
+   {
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "AngryLispingSloth",
+    "counts": 1
+   },
+   {
+    "author": "rideride",
     "counts": 1
    },
    {
     "author": "I__mean",
+    "counts": 1
+   },
+   {
+    "author": "silversherbet6088",
     "counts": 1
    },
    {
@@ -317,11 +317,11 @@
     "counts": 1
    },
    {
-    "author": "silversherbet6088",
+    "author": "Splash30ah",
     "counts": 1
    }
   ],
-  "total_counts": 78387
+  "total_counts": 78391
  },
- "latest_count": 41578082
+ "latest_count": 41578086
 }
