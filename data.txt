@@ -8,17 +8,17 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 28,
+    "counts": 30,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 25,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 24,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
@@ -50,14 +55,9 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 150
+  "total_counts": 154
  },
  "100k": {
   "hoc": [
@@ -75,7 +75,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 9548
+    "counts": 9550
    },
    {
     "author": "Lonadont",
@@ -111,7 +111,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 1528
+    "counts": 1530
    },
    {
     "author": "treje",
@@ -294,11 +294,11 @@
     "counts": 1
    },
    {
-    "author": "MrUnderdawg",
+    "author": "AngryLispingSloth",
     "counts": 1
    },
    {
-    "author": "AngryLispingSloth",
+    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -310,7 +310,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 97470
+  "total_counts": 97474
  },
- "latest_count": 41597165
+ "latest_count": 41597169
 }
