@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 22,
+    "counts": 24,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 10,
+    "counts": 12,
     "has_wrc_req": false
    },
    {
@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Chalupa_Grandpa",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "artbn",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -47,16 +47,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "swinub_time",
     "counts": 1,
     "has_wrc_req": false
@@ -65,9 +55,19 @@
     "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 76
+  "total_counts": 80
  },
  "100k": {
   "hoc": [
@@ -85,11 +85,11 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 9587
+    "counts": 9589
    },
    {
     "author": "Lonadont",
-    "counts": 6929
+    "counts": 6931
    },
    {
     "author": "greenpeppercat",
@@ -256,11 +256,7 @@
     "counts": 2
    },
    {
-    "author": "I__mean",
-    "counts": 1
-   },
-   {
-    "author": "silversherbet6088",
+    "author": "batpuppy",
     "counts": 1
    },
    {
@@ -268,7 +264,11 @@
     "counts": 1
    },
    {
-    "author": "batpuppy",
+    "author": "silversherbet6088",
+    "counts": 1
+   },
+   {
+    "author": "I__mean",
     "counts": 1
    },
    {
@@ -276,11 +276,7 @@
     "counts": 1
    },
    {
-    "author": "boink-y",
-    "counts": 1
-   },
-   {
-    "author": "w7n7",
+    "author": "rschaosid",
     "counts": 1
    },
    {
@@ -292,19 +288,19 @@
     "counts": 1
    },
    {
+    "author": "boink-y",
+    "counts": 1
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 1
    },
    {
-    "author": "rschaosid",
+    "author": "w7n7",
     "counts": 1
    },
    {
-    "author": "LetThereBeNox",
-    "counts": 1
-   },
-   {
-    "author": "dominodan123",
+    "author": "rideride",
     "counts": 1
    },
    {
@@ -316,11 +312,15 @@
     "counts": 1
    },
    {
-    "author": "rideride",
+    "author": "dominodan123",
+    "counts": 1
+   },
+   {
+    "author": "LetThereBeNox",
     "counts": 1
    }
   ],
-  "total_counts": 97862
+  "total_counts": 97866
  },
- "latest_count": 41597557
+ "latest_count": 41597561
 }
