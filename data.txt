@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -12,26 +22,21 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
    {
-    "author": "NobodyL0vesMe",
+    "author": "TheMatsValk",
     "counts": 8466
    },
    {
-    "author": "TheMatsValk",
+    "author": "NobodyL0vesMe",
     "counts": 8466
    },
    {
@@ -76,7 +81,7 @@
    },
    {
     "author": "artbn",
-    "counts": 15
+    "counts": 16
    },
    {
     "author": "Trial-Name",
@@ -91,15 +96,15 @@
     "counts": 7
    },
    {
-    "author": "Antichess",
-    "counts": 2
-   },
-   {
     "author": "buy_me_a_pint",
     "counts": 2
    },
    {
     "author": "Chapter-Able",
+    "counts": 2
+   },
+   {
+    "author": "Antichess",
     "counts": 2
    },
    {
@@ -115,7 +120,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19037
+  "total_counts": 19038
  },
- "latest_count": 41619031
+ "latest_count": 41619032
 }
