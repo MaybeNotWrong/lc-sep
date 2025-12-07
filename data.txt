@@ -1,7 +1,23 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -15,7 +31,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 766
+    "counts": 768
    },
    {
     "author": "Lonadont",
@@ -43,11 +59,11 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 150
+    "counts": 151
    },
    {
     "author": "davidjl123",
-    "counts": 133
+    "counts": 134
    },
    {
     "author": "Multiconcepted",
@@ -74,11 +90,7 @@
     "counts": 3
    },
    {
-    "author": "Chapter-Able",
-    "counts": 2
-   },
-   {
-    "author": "Christmas_Missionary",
+    "author": "buy_me_a_pint",
     "counts": 2
    },
    {
@@ -86,11 +98,15 @@
     "counts": 2
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "Christmas_Missionary",
     "counts": 2
    },
    {
-    "author": "vovker1",
+    "author": "Chapter-Able",
+    "counts": 2
+   },
+   {
+    "author": "swinub_time",
     "counts": 1
    },
    {
@@ -98,11 +114,11 @@
     "counts": 1
    },
    {
-    "author": "swinub_time",
+    "author": "vovker1",
     "counts": 1
    }
   ],
-  "total_counts": 20560
+  "total_counts": 20564
  },
- "latest_count": 41620548
+ "latest_count": 41620552
 }
