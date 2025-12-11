@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
-    "counts": 23,
+    "author": "Lonadont",
+    "counts": 24,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "ddodd69",
     "counts": 23,
     "has_wrc_req": false
    },
@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "FelipePlayz8",
     "counts": 1,
     "has_wrc_req": false
@@ -47,17 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +60,14 @@
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 100
+  "total_counts": 101
  },
  "100k": {
   "hoc": [
@@ -89,7 +89,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 801
+    "counts": 802
    },
    {
     "author": "Chalupa_Grandpa",
@@ -172,7 +172,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21518
+  "total_counts": 21519
  },
- "latest_count": 41621504
+ "latest_count": 41621505
 }
