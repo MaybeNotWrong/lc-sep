@@ -23,7 +23,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,14 +40,9 @@
     "author": "ralgrado",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 51
+  "total_counts": 52
  },
  "100k": {
   "hoc": [
@@ -88,7 +88,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 178
+    "counts": 179
    },
    {
     "author": "Multiconcepted",
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 21469
+  "total_counts": 21470
  },
- "latest_count": 41621455
+ "latest_count": 41621456
 }
