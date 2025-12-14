@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -39,7 +45,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 294
+    "counts": 295
    },
    {
     "author": "LeinadSpoon",
@@ -110,7 +116,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22162
+  "total_counts": 22163
  },
- "latest_count": 41622148
+ "latest_count": 41622149
 }
