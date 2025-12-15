@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "FelipePlayz8",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -55,7 +61,7 @@
    },
    {
     "author": "FelipePlayz8",
-    "counts": 48
+    "counts": 49
    },
    {
     "author": "artbn",
@@ -114,7 +120,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22348
+  "total_counts": 22349
  },
- "latest_count": 41622334
+ "latest_count": 41622335
 }
