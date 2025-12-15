@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 15,
+    "counts": 16,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -12,17 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
+    "author": "cuteballgames",
     "counts": 6,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "ddodd69",
     "counts": 6,
     "has_wrc_req": false
    },
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 3,
+    "author": "Chalupa_Grandpa",
+    "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -47,12 +47,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
+    "author": "FelipePlayz8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +57,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 58
+  "total_counts": 61
  },
  "100k": {
   "hoc": [
@@ -89,11 +89,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 916
+    "counts": 917
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 518
+    "counts": 519
    },
    {
     "author": "cuteballgames",
@@ -105,7 +105,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 316
+    "counts": 317
    },
    {
     "author": "LeinadSpoon",
@@ -180,7 +180,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22406
+  "total_counts": 22409
  },
- "latest_count": 41622392
+ "latest_count": 41622395
 }
