@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "Chalupa_Grandpa",
-    "counts": 31,
+    "counts": 34,
     "has_wrc_req": false
    },
    {
     "author": "treje",
-    "counts": 22,
+    "counts": 25,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 20,
+    "counts": 21,
     "has_wrc_req": false
    },
    {
@@ -47,6 +47,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
@@ -55,14 +60,9 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 119
+  "total_counts": 126
  },
  "100k": {
   "hoc": [
@@ -84,19 +84,19 @@
    },
    {
     "author": "Lonadont",
-    "counts": 937
+    "counts": 938
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 566
+    "counts": 569
+   },
+   {
+    "author": "treje",
+    "counts": 472
    },
    {
     "author": "cuteballgames",
     "counts": 471
-   },
-   {
-    "author": "treje",
-    "counts": 469
    },
    {
     "author": "amazingpikachu_38",
@@ -175,7 +175,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 22628
+  "total_counts": 22635
  },
- "latest_count": 41622614
+ "latest_count": 41622621
 }
