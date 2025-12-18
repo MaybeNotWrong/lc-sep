@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 32,
+    "counts": 35,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 27,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 24,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -42,17 +42,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "NobodyL0vesMe",
+    "author": "FelipePlayz8",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "gordonpt8",
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 160
+  "total_counts": 167
  },
  "100k": {
   "hoc": [
@@ -93,11 +93,11 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 636
+    "counts": 640
    },
    {
     "author": "treje",
-    "counts": 593
+    "counts": 596
    },
    {
     "author": "cuteballgames",
@@ -180,7 +180,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23036
+  "total_counts": 23043
  },
- "latest_count": 41623022
+ "latest_count": 41623029
 }
