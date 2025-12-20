@@ -8,11 +8,16 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -58,11 +63,11 @@
    },
    {
     "author": "davidjl123",
-    "counts": 261
+    "counts": 262
    },
    {
     "author": "Multiconcepted",
-    "counts": 119
+    "counts": 120
    },
    {
     "author": "FelipePlayz8",
@@ -129,7 +134,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23536
+  "total_counts": 23538
  },
- "latest_count": 41623522
+ "latest_count": 41623524
 }
