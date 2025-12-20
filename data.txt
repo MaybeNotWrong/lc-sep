@@ -42,7 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "VitaminB16",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "gordonpt8",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,17 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "VitaminB16",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "gordonpt8",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 42
+  "total_counts": 43
  },
  "100k": {
   "hoc": [
@@ -139,6 +139,10 @@
     "counts": 4
    },
    {
+    "author": "VitaminB16",
+    "counts": 3
+   },
+   {
     "author": "Antichess",
     "counts": 3
    },
@@ -148,10 +152,6 @@
    },
    {
     "author": "Limes_Are_Green",
-    "counts": 2
-   },
-   {
-    "author": "VitaminB16",
     "counts": 2
    },
    {
@@ -179,7 +179,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23573
+  "total_counts": 23574
  },
- "latest_count": 41623559
+ "latest_count": 41623560
 }
