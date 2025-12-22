@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 24,
+    "counts": 38,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 29,
     "has_wrc_req": false
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 18,
-    "has_wrc_req": false
-   },
-   {
-    "author": "SubSmartstocks",
-    "counts": 16,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 98
+  "total_counts": 125
  },
  "100k": {
   "hoc": [
@@ -75,19 +75,19 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1213
+    "counts": 1226
    },
    {
     "author": "Lonadont",
     "counts": 1061
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 767
+    "author": "treje",
+    "counts": 774
    },
    {
-    "author": "treje",
-    "counts": 760
+    "author": "Chalupa_Grandpa",
+    "counts": 767
    },
    {
     "author": "cuteballgames",
@@ -174,7 +174,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23949
+  "total_counts": 23976
  },
- "latest_count": 41623935
+ "latest_count": 41623962
 }
