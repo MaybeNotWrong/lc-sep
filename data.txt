@@ -38,6 +38,11 @@
    },
    {
     "author": "Tranquilsunrise",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,14 +50,9 @@
     "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 44
+  "total_counts": 45
  },
  "100k": {
   "hoc": [
@@ -118,7 +118,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 27
+    "counts": 28
    },
    {
     "author": "Trial-Name",
@@ -169,7 +169,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24441
+  "total_counts": 24442
  },
- "latest_count": 41624427
+ "latest_count": 41624428
 }
