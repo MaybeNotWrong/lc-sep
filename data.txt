@@ -38,6 +38,11 @@
    },
    {
     "author": "SubSmartstocks",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "NobodyL0vesMe",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,14 +55,9 @@
     "author": "Christmas_Missionary",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "NobodyL0vesMe",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 128
+  "total_counts": 129
  },
  "100k": {
   "hoc": [
@@ -75,7 +75,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1268
+    "counts": 1269
    },
    {
     "author": "Lonadont",
@@ -174,7 +174,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24696
+  "total_counts": 24697
  },
- "latest_count": 41624682
+ "latest_count": 41624683
 }
