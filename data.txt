@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -12,17 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 2,
+    "author": "FelipePlayz8",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "FelipePlayz8",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -40,7 +45,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 1328
+    "counts": 1329
    },
    {
     "author": "Lonadont",
@@ -139,7 +144,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 24958
+  "total_counts": 24959
  },
- "latest_count": 41624944
+ "latest_count": 41624945
 }
