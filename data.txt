@@ -15,9 +15,14 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "boink-y",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -98,6 +103,10 @@
     "counts": 14
    },
    {
+    "author": "boink-y",
+    "counts": 4
+   },
+   {
     "author": "naimagawa",
     "counts": 4
    },
@@ -107,10 +116,6 @@
    },
    {
     "author": "VitaminB16",
-    "counts": 3
-   },
-   {
-    "author": "boink-y",
     "counts": 3
    },
    {
@@ -146,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39100
+  "total_counts": 39101
  },
- "latest_count": 41639085
+ "latest_count": 41639086
 }
