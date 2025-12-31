@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 4,
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "boink-y",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -15,14 +20,9 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "boink-y",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 12
  },
  "100k": {
   "hoc": [
@@ -36,7 +36,7 @@
    },
    {
     "author": "treje",
-    "counts": 7609
+    "counts": 7611
    },
    {
     "author": "cuteballgames",
@@ -104,7 +104,7 @@
    },
    {
     "author": "boink-y",
-    "counts": 4
+    "counts": 6
    },
    {
     "author": "naimagawa",
@@ -151,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 39102
+  "total_counts": 39106
  },
- "latest_count": 41639087
+ "latest_count": 41639091
 }
