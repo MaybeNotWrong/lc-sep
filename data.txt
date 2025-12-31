@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 922,
-    "has_wrc_req": false
+    "counts": 1068,
+    "has_wrc_req": true
    },
    {
     "author": "cuteballgames",
-    "counts": 771,
+    "counts": 917,
     "has_wrc_req": true
    },
    {
@@ -77,7 +77,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2030
+  "total_counts": 2322
  },
  "100k": {
   "hoc": [
@@ -91,11 +91,11 @@
    },
    {
     "author": "treje",
-    "counts": 7380
+    "counts": 7526
    },
    {
     "author": "cuteballgames",
-    "counts": 6949
+    "counts": 7095
    },
    {
     "author": "SubSmartstocks",
@@ -206,7 +206,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 38613
+  "total_counts": 38905
  },
- "latest_count": 41638598
+ "latest_count": 41638890
 }
