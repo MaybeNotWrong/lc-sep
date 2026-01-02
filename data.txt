@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
@@ -52,7 +57,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6480
+  "total_counts": 6481
  },
  "100k": {
   "hoc": [
@@ -183,9 +188,13 @@
    {
     "author": "swinub_time",
     "counts": 1
+   },
+   {
+    "author": "noduorg",
+    "counts": 1
    }
   ],
-  "total_counts": 54026
+  "total_counts": 54027
  },
- "latest_count": 41654011
+ "latest_count": 41654012
 }
