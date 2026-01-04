@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "treje",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "ddodd69",
     "counts": 5,
     "has_wrc_req": false
    },
@@ -17,12 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "cuteballgames",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Multiconcepted",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -32,17 +32,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -50,9 +50,14 @@
     "author": "Limes_Are_Green",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 26
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
@@ -82,7 +87,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1657
+    "counts": 1658
    },
    {
     "author": "Chalupa_Grandpa",
@@ -189,7 +194,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55882
+  "total_counts": 55883
  },
- "latest_count": 41655867
+ "latest_count": 41655868
 }
