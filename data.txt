@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "cuteballgames",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -17,18 +17,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 15345
+    "counts": 15346
    },
    {
     "author": "cuteballgames",
@@ -159,7 +159,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55860
+  "total_counts": 55861
  },
- "latest_count": 41655845
+ "latest_count": 41655846
 }
