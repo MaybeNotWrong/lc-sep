@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -55,7 +61,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 265
+    "counts": 266
    },
    {
     "author": "FelipePlayz8",
@@ -138,7 +144,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 57238
+  "total_counts": 57239
  },
- "latest_count": 41657223
+ "latest_count": 41657224
 }
