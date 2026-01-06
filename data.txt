@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -12,13 +17,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
    {
     "author": "cuteballgames",
-    "counts": 15515
+    "counts": 15516
    },
    {
     "author": "treje",
@@ -153,7 +158,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 57402
+  "total_counts": 57403
  },
- "latest_count": 41657387
+ "latest_count": 41657388
 }
