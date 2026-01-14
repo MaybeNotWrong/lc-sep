@@ -1,13 +1,19 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 17227
+    "counts": 17228
    },
    {
     "author": "cuteballgames",
@@ -130,6 +136,10 @@
     "counts": 2
    },
    {
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
     "author": "r_livecounting",
     "counts": 1
    },
@@ -140,13 +150,9 @@
    {
     "author": "swinub_time",
     "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
-    "counts": 1
    }
   ],
-  "total_counts": 64464
+  "total_counts": 64465
  },
- "latest_count": 41664448
+ "latest_count": 41664449
 }
