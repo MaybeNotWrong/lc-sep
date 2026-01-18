@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "SubSmartstocks",
-    "counts": 27,
+    "author": "treje",
+    "counts": 28,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "SubSmartstocks",
     "counts": 27,
     "has_wrc_req": false
    },
@@ -27,23 +27,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "Chalupa_Grandpa",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "Lonadont",
     "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "cuteballgames",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -55,15 +50,20 @@
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 109
+  "total_counts": 110
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 17655
+    "counts": 17656
    },
    {
     "author": "cuteballgames",
@@ -190,19 +190,19 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "ralgrado",
     "counts": 1
    },
    {
     "author": "swinub_time",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    }
   ],
-  "total_counts": 65859
+  "total_counts": 65860
  },
- "latest_count": 41665843
+ "latest_count": 41665844
 }
