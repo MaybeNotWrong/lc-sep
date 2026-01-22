@@ -18,6 +18,11 @@
    },
    {
     "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -25,14 +30,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 19
+  "total_counts": 20
  },
  "100k": {
   "hoc": [
@@ -82,7 +82,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 556
+    "counts": 557
    },
    {
     "author": "Multiconcepted",
@@ -137,11 +137,11 @@
     "counts": 5
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "vovker1",
     "counts": 4
    },
    {
-    "author": "vovker1",
+    "author": "Christmas_Missionary",
     "counts": 4
    },
    {
@@ -169,19 +169,19 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "ralgrado",
     "counts": 1
    },
    {
     "author": "swinub_time",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    }
   ],
-  "total_counts": 67154
+  "total_counts": 67155
  },
- "latest_count": 41667138
+ "latest_count": 41667139
 }
