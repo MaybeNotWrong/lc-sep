@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "SubSmartstocks",
+    "author": "treje",
     "counts": 54,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 53,
+    "author": "SubSmartstocks",
+    "counts": 54,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
@@ -52,23 +57,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 181
+  "total_counts": 183
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 18163
+    "counts": 18164
    },
    {
     "author": "cuteballgames",
@@ -124,7 +124,7 @@
    },
    {
     "author": "artbn",
-    "counts": 114
+    "counts": 115
    },
    {
     "author": "gordonpt8",
@@ -199,19 +199,19 @@
     "counts": 2
    },
    {
-    "author": "MrUnderdawg",
-    "counts": 1
-   },
-   {
     "author": "ralgrado",
     "counts": 1
    },
    {
     "author": "swinub_time",
     "counts": 1
+   },
+   {
+    "author": "MrUnderdawg",
+    "counts": 1
    }
   ],
-  "total_counts": 67710
+  "total_counts": 67712
  },
- "latest_count": 41667694
+ "latest_count": 41667696
 }
