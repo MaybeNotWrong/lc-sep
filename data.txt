@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -42,7 +47,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3143
+    "counts": 3144
    },
    {
     "author": "rideride",
@@ -54,7 +59,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 2043
+    "counts": 2044
    },
    {
     "author": "amazingpikachu_38",
@@ -105,19 +110,19 @@
     "counts": 14
    },
    {
-    "author": "noduorg",
-    "counts": 10
-   },
-   {
     "author": "VitaminB16",
     "counts": 10
    },
    {
-    "author": "Limes_Are_Green",
-    "counts": 9
+    "author": "noduorg",
+    "counts": 10
    },
    {
     "author": "vovker1",
+    "counts": 9
+   },
+   {
+    "author": "Limes_Are_Green",
     "counts": 9
    },
    {
@@ -129,11 +134,11 @@
     "counts": 5
    },
    {
-    "author": "naimagawa",
+    "author": "Christmas_Missionary",
     "counts": 5
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "naimagawa",
     "counts": 5
    },
    {
@@ -141,31 +146,27 @@
     "counts": 4
    },
    {
-    "author": "Cox_1920",
-    "counts": 3
-   },
-   {
     "author": "Chapter-Able",
     "counts": 3
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 2
+    "author": "Cox_1920",
+    "counts": 3
    },
    {
     "author": "r_livecounting",
     "counts": 2
    },
    {
+    "author": "buy_me_a_pint",
+    "counts": 2
+   },
+   {
+    "author": "swinub_time",
+    "counts": 1
+   },
+   {
     "author": "MaybeNotWrong",
-    "counts": 1
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1
-   },
-   {
-    "author": "MrUnderdawg",
     "counts": 1
    },
    {
@@ -173,11 +174,15 @@
     "counts": 1
    },
    {
-    "author": "swinub_time",
+    "author": "MrUnderdawg",
+    "counts": 1
+   },
+   {
+    "author": "MrGally75",
     "counts": 1
    }
   ],
-  "total_counts": 78671
+  "total_counts": 78673
  },
- "latest_count": 41678632
+ "latest_count": 41678634
 }
