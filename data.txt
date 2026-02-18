@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "ddodd69",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
     "author": "Lonadont",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 8,
+    "author": "SubSmartstocks",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
@@ -17,13 +22,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -32,22 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 1,
+    "author": "Multiconcepted",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,9 +50,24 @@
     "author": "MolhCD",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 34
+  "total_counts": 40
  },
  "100k": {
   "hoc": [
@@ -88,7 +93,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 3350
+    "counts": 3353
    },
    {
     "author": "Lonadont",
@@ -104,7 +109,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 2048
+    "counts": 2051
    },
    {
     "author": "amazingpikachu_38",
@@ -155,19 +160,19 @@
     "counts": 14
    },
    {
-    "author": "VitaminB16",
-    "counts": 10
-   },
-   {
     "author": "noduorg",
     "counts": 10
    },
    {
-    "author": "vovker1",
-    "counts": 9
+    "author": "VitaminB16",
+    "counts": 10
    },
    {
     "author": "Limes_Are_Green",
+    "counts": 9
+   },
+   {
+    "author": "vovker1",
     "counts": 9
    },
    {
@@ -179,11 +184,11 @@
     "counts": 5
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "naimagawa",
     "counts": 5
    },
    {
-    "author": "naimagawa",
+    "author": "Christmas_Missionary",
     "counts": 5
    },
    {
@@ -191,27 +196,27 @@
     "counts": 4
    },
    {
-    "author": "Chapter-Able",
-    "counts": 3
-   },
-   {
     "author": "Cox_1920",
     "counts": 3
    },
    {
-    "author": "r_livecounting",
-    "counts": 2
+    "author": "Chapter-Able",
+    "counts": 3
    },
    {
     "author": "buy_me_a_pint",
     "counts": 2
    },
    {
-    "author": "swinub_time",
-    "counts": 1
+    "author": "r_livecounting",
+    "counts": 2
    },
    {
     "author": "MaybeNotWrong",
+    "counts": 1
+   },
+   {
+    "author": "MrGally75",
     "counts": 1
    },
    {
@@ -219,19 +224,19 @@
     "counts": 1
    },
    {
-    "author": "ralgrado",
-    "counts": 1
-   },
-   {
     "author": "MrUnderdawg",
     "counts": 1
    },
    {
-    "author": "MrGally75",
+    "author": "ralgrado",
+    "counts": 1
+   },
+   {
+    "author": "swinub_time",
     "counts": 1
    }
   ],
-  "total_counts": 78841
+  "total_counts": 78847
  },
- "latest_count": 41678802
+ "latest_count": 41678808
 }
