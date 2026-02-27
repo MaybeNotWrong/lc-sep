@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 16,
+    "counts": 18,
     "has_wrc_req": false
    },
    {
@@ -23,7 +23,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -32,22 +32,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,7 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +50,24 @@
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 59
+  "total_counts": 62
  },
  "100k": {
   "hoc": [
@@ -97,7 +97,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3352
+    "counts": 3354
    },
    {
     "author": "rideride",
@@ -145,7 +145,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 71
+    "counts": 72
    },
    {
     "author": "gordonpt8",
@@ -168,19 +168,19 @@
     "counts": 11
    },
    {
-    "author": "Antichess",
-    "counts": 10
-   },
-   {
     "author": "VitaminB16",
     "counts": 10
    },
    {
-    "author": "Limes_Are_Green",
-    "counts": 9
+    "author": "Antichess",
+    "counts": 10
    },
    {
     "author": "vovker1",
+    "counts": 9
+   },
+   {
+    "author": "Limes_Are_Green",
     "counts": 9
    },
    {
@@ -192,11 +192,11 @@
     "counts": 5
    },
    {
-    "author": "naimagawa",
+    "author": "Christmas_Missionary",
     "counts": 5
    },
    {
-    "author": "Christmas_Missionary",
+    "author": "naimagawa",
     "counts": 5
    },
    {
@@ -204,20 +204,24 @@
     "counts": 4
    },
    {
+    "author": "Chapter-Able",
+    "counts": 3
+   },
+   {
     "author": "Cox_1920",
     "counts": 3
    },
    {
-    "author": "Chapter-Able",
-    "counts": 3
+    "author": "r_livecounting",
+    "counts": 2
    },
    {
     "author": "buy_me_a_pint",
     "counts": 2
    },
    {
-    "author": "r_livecounting",
-    "counts": 2
+    "author": "swinub_time",
+    "counts": 1
    },
    {
     "author": "MaybeNotWrong",
@@ -228,7 +232,7 @@
     "counts": 1
    },
    {
-    "author": "pigbreadwasabi",
+    "author": "ralgrado",
     "counts": 1
    },
    {
@@ -236,15 +240,11 @@
     "counts": 1
    },
    {
-    "author": "ralgrado",
-    "counts": 1
-   },
-   {
-    "author": "swinub_time",
+    "author": "pigbreadwasabi",
     "counts": 1
    }
   ],
-  "total_counts": 80527
+  "total_counts": 80530
  },
- "latest_count": 41680442
+ "latest_count": 41680445
 }
