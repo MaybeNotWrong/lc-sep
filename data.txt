@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "treje",
-    "counts": 48,
-    "has_wrc_req": false
-   },
-   {
     "author": "MrGally75",
-    "counts": 48,
+    "counts": 50,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 29,
+    "author": "treje",
+    "counts": 49,
     "has_wrc_req": false
    },
    {
@@ -22,8 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 27,
+    "author": "Lonadont",
+    "counts": 29,
     "has_wrc_req": false
    },
    {
@@ -32,8 +27,13 @@
     "has_wrc_req": false
    },
    {
+    "author": "ddodd69",
+    "counts": 27,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
-    "counts": 8,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -52,13 +52,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 223
+  "total_counts": 227
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 22384
+    "counts": 22385
    },
    {
     "author": "cuteballgames",
@@ -106,7 +106,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 880
+    "counts": 881
    },
    {
     "author": "PrinceCrinkle",
@@ -114,7 +114,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 587
+    "counts": 589
    },
    {
     "author": "artbn",
@@ -233,7 +233,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82476
+  "total_counts": 82480
  },
- "latest_count": 41682391
+ "latest_count": 41682395
 }
