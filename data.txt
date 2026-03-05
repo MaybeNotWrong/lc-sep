@@ -1,13 +1,24 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 22386
+    "counts": 22387
    },
    {
     "author": "cuteballgames",
@@ -23,7 +34,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 6293
+    "counts": 6294
    },
    {
     "author": "SubSmartstocks",
@@ -182,7 +193,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82529
+  "total_counts": 82531
  },
- "latest_count": 41682444
+ "latest_count": 41682446
 }
