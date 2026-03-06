@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "Lonadont",
     "counts": 10,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 9,
+    "author": "ddodd69",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -22,7 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -32,22 +32,27 @@
     "has_wrc_req": false
    },
    {
-    "author": "teeravj",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "teeravj",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 30
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
@@ -73,11 +78,11 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 3979
+    "counts": 3980
    },
    {
     "author": "Lonadont",
-    "counts": 3581
+    "counts": 3582
    },
    {
     "author": "rideride",
@@ -236,7 +241,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82806
+  "total_counts": 82808
  },
- "latest_count": 41682721
+ "latest_count": 41682723
 }
