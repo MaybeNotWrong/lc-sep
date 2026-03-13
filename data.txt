@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "MrGally75",
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -12,17 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -44,7 +44,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 6609
+    "counts": 6610
    },
    {
     "author": "SubSmartstocks",
@@ -80,7 +80,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 929
+    "counts": 931
    },
    {
     "author": "PrinceCrinkle",
@@ -219,7 +219,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84632
+  "total_counts": 84635
  },
- "latest_count": 41684547
+ "latest_count": 41684550
 }
