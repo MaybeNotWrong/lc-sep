@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "SubSmartstocks",
-    "counts": 62,
+    "author": "treje",
+    "counts": 118,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 49,
+    "author": "Antichess",
+    "counts": 85,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 62,
     "has_wrc_req": false
    },
    {
@@ -19,11 +24,6 @@
    {
     "author": "Lonadont",
     "counts": 23,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 15,
     "has_wrc_req": false
    },
    {
@@ -72,13 +72,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 227
+  "total_counts": 366
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 22787
+    "counts": 22856
    },
    {
     "author": "cuteballgames",
@@ -153,6 +153,10 @@
     "counts": 118
    },
    {
+    "author": "Antichess",
+    "counts": 96
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 93
    },
@@ -163,10 +167,6 @@
    {
     "author": "KalockSwig",
     "counts": 44
-   },
-   {
-    "author": "Antichess",
-    "counts": 26
    },
    {
     "author": "boink-y",
@@ -269,7 +269,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84854
+  "total_counts": 84993
  },
- "latest_count": 41684769
+ "latest_count": 41684908
 }
