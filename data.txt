@@ -52,12 +52,17 @@
     "has_wrc_req": false
    },
    {
+    "author": "Trial-Name",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 145
+  "total_counts": 146
  },
  "100k": {
   "hoc": [
@@ -162,11 +167,11 @@
     "counts": 18
    },
    {
-    "author": "vovker1",
-    "counts": 14
+    "author": "Trial-Name",
+    "counts": 15
    },
    {
-    "author": "Trial-Name",
+    "author": "vovker1",
     "counts": 14
    },
    {
@@ -254,7 +259,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 85279
+  "total_counts": 85280
  },
- "latest_count": 41685194
+ "latest_count": 41685195
 }
