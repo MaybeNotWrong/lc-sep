@@ -37,6 +37,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "vovker1",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
@@ -45,14 +50,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 170
+  "total_counts": 171
  },
  "100k": {
   "hoc": [
@@ -166,7 +166,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 16
+    "counts": 17
    },
    {
     "author": "noduorg",
@@ -253,7 +253,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 87061
+  "total_counts": 87062
  },
- "latest_count": 41686976
+ "latest_count": 41686977
 }
