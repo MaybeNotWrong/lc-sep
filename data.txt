@@ -12,6 +12,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -25,14 +30,9 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 9
+  "total_counts": 10
  },
  "100k": {
   "hoc": [
@@ -86,7 +86,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 1010
+    "counts": 1011
    },
    {
     "author": "amazingpikachu_38",
@@ -233,7 +233,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86900
+  "total_counts": 86901
  },
- "latest_count": 41686815
+ "latest_count": 41686816
 }
