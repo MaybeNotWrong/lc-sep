@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 4,
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Both_Owl_1909",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -32,7 +37,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -40,14 +45,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 20
+  "total_counts": 28
  },
  "100k": {
   "hoc": [
@@ -73,7 +73,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4916
+    "counts": 4920
    },
    {
     "author": "SubSmartstocks",
@@ -101,7 +101,7 @@
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 1089
+    "counts": 1093
    },
    {
     "author": "Multiconcepted",
@@ -248,7 +248,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 90079
+  "total_counts": 90087
  },
- "latest_count": 41689994
+ "latest_count": 41690002
 }
