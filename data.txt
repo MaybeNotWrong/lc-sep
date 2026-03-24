@@ -2,23 +2,28 @@
  "day": {
   "hoc": [
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 24251
+    "counts": 24252
    },
    {
     "author": "cuteballgames",
@@ -213,7 +218,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 90314
+  "total_counts": 90315
  },
- "latest_count": 41690229
+ "latest_count": 41690230
 }
