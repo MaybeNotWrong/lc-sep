@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 923,
+    "counts": 1095,
+    "has_wrc_req": true
+   },
+   {
+    "author": "vovker1",
+    "counts": 600,
     "has_wrc_req": false
    },
    {
     "author": "treje",
-    "counts": 479,
-    "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 459,
+    "counts": 511,
     "has_wrc_req": false
    },
    {
@@ -42,13 +42,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1872
+  "total_counts": 2217
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 25079
+    "counts": 25111
    },
    {
     "author": "cuteballgames",
@@ -87,12 +87,12 @@
     "counts": 2377
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 1560
+    "author": "greenpeppercat",
+    "counts": 1564
    },
    {
-    "author": "greenpeppercat",
-    "counts": 1392
+    "author": "Both_Owl_1909",
+    "counts": 1560
    },
    {
     "author": "MrGally75",
@@ -116,7 +116,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 489
+    "counts": 630
    },
    {
     "author": "artbn",
@@ -243,7 +243,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 94025
+  "total_counts": 94370
  },
- "latest_count": 41693940
+ "latest_count": 41694285
 }
