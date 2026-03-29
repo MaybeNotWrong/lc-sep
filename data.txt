@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 5281,
+    "counts": 5293,
     "has_wrc_req": true
    },
    {
@@ -13,12 +13,12 @@
    },
    {
     "author": "treje",
-    "counts": 2520,
+    "counts": 2526,
     "has_wrc_req": true
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 1058,
+    "counts": 1065,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
@@ -65,28 +70,23 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 12026
+  "total_counts": 12051
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 1336
+    "counts": 1348
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 1058
+    "counts": 1065
    },
    {
     "author": "treje",
-    "counts": 1006
+    "counts": 1012
    },
    {
     "author": "vovker1",
@@ -109,15 +109,7 @@
     "counts": 4
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1
-   },
-   {
     "author": "Tranquilsunrise",
-    "counts": 1
-   },
-   {
-    "author": "MrGally75",
     "counts": 1
    },
    {
@@ -125,11 +117,19 @@
     "counts": 1
    },
    {
+    "author": "MrGally75",
+    "counts": 1
+   },
+   {
     "author": "artbn",
+    "counts": 1
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1
    }
   ],
-  "total_counts": 4094
+  "total_counts": 4119
  },
- "latest_count": 41704094
+ "latest_count": 41704119
 }
