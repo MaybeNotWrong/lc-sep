@@ -2,8 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "vovker1",
+    "counts": 36,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 31,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
-    "counts": 6,
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -12,17 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
+    "author": "SubSmartstocks",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -37,13 +42,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 19
+  "total_counts": 86
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 24606
+    "counts": 24609
    },
    {
     "author": "cuteballgames",
@@ -107,7 +112,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 469
+    "counts": 500
    },
    {
     "author": "artbn",
@@ -130,16 +135,16 @@
     "counts": 103
    },
    {
+    "author": "vovker1",
+    "counts": 66
+   },
+   {
     "author": "gordonpt8",
     "counts": 59
    },
    {
     "author": "KalockSwig",
     "counts": 44
-   },
-   {
-    "author": "vovker1",
-    "counts": 33
    },
    {
     "author": "Trial-Name",
@@ -238,7 +243,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 92172
+  "total_counts": 92239
  },
- "latest_count": 41692087
+ "latest_count": 41692154
 }
