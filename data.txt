@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 455,
+    "counts": 459,
     "has_wrc_req": false
    },
    {
     "author": "greenpeppercat",
-    "counts": 450,
+    "counts": 451,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Both_Owl_1909",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -17,17 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -35,23 +30,28 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 925
+  "total_counts": 933
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 2736
+    "counts": 2737
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 2041
+    "counts": 2044
    },
    {
     "author": "treje",
-    "counts": 1478
+    "counts": 1482
    },
    {
     "author": "vovker1",
@@ -98,7 +98,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7024
+  "total_counts": 7032
  },
- "latest_count": 41707024
+ "latest_count": 41707032
 }
