@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Lonadont",
-    "counts": 27,
+    "author": "Both_Owl_1909",
+    "counts": 28,
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 24,
+    "author": "Lonadont",
+    "counts": 27,
     "has_wrc_req": false
    },
    {
@@ -17,13 +17,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
-    "counts": 7,
+    "author": "greenpeppercat",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 6,
+    "author": "vovker1",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
+    "author": "SubSmartstocks",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -32,8 +37,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 5,
+    "author": "davidjl123",
+    "counts": 6,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -47,28 +57,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 103
+  "total_counts": 118
  },
  "100k": {
   "hoc": [
    {
     "author": "greenpeppercat",
-    "counts": 4117
+    "counts": 4125
    },
    {
     "author": "treje",
@@ -76,11 +76,11 @@
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 2116
+    "counts": 2120
    },
    {
     "author": "vovker1",
-    "counts": 646
+    "counts": 649
    },
    {
     "author": "Lonadont",
@@ -135,7 +135,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 10183
+  "total_counts": 10198
  },
- "latest_count": 41710183
+ "latest_count": 41710198
 }
