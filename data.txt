@@ -2,22 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 12,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 11,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Both_Owl_1909",
+    "author": "davidjl123",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Both_Owl_1909",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -32,17 +32,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "SubSmartstocks",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "SubSmartstocks",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 35
+  "total_counts": 36
  },
  "100k": {
   "hoc": [
@@ -68,7 +68,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 81
+    "counts": 82
    },
    {
     "author": "SubSmartstocks",
@@ -111,7 +111,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 10115
+  "total_counts": 10116
  },
- "latest_count": 41710115
+ "latest_count": 41710116
 }
