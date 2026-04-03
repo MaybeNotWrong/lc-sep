@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "treje",
     "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "davidjl123",
     "counts": 11,
     "has_wrc_req": false
    },
@@ -42,28 +42,13 @@
     "has_wrc_req": false
    },
    {
+    "author": "MrGally75",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrGally75",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -75,9 +60,24 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 313
+  "total_counts": 314
  },
  "100k": {
   "hoc": [
@@ -119,7 +119,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 37
+    "counts": 38
    },
    {
     "author": "Multiconcepted",
@@ -162,7 +162,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 14760
+  "total_counts": 14761
  },
- "latest_count": 41714759
+ "latest_count": 41714760
 }
