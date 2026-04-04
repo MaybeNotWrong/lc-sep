@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "MrGally75",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -43,7 +49,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 48
+    "counts": 49
    },
    {
     "author": "Multiconcepted",
@@ -86,7 +92,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 14931
+  "total_counts": 14932
  },
- "latest_count": 41714930
+ "latest_count": 41714931
 }
