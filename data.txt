@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -31,7 +37,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 229
+    "counts": 230
    },
    {
     "author": "Chalupa_Grandpa",
@@ -78,19 +84,19 @@
     "counts": 3
    },
    {
+    "author": "rideride",
+    "counts": 2
+   },
+   {
     "author": "Tranquilsunrise",
     "counts": 2
    },
    {
     "author": "buy_me_a_pint",
     "counts": 2
-   },
-   {
-    "author": "rideride",
-    "counts": 2
    }
   ],
-  "total_counts": 15073
+  "total_counts": 15074
  },
- "latest_count": 41715072
+ "latest_count": 41715073
 }
