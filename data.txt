@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "vovker1",
+    "counts": 51,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Scared_Substance_762",
+    "counts": 51,
+    "has_wrc_req": false
+   },
+   {
     "author": "Both_Owl_1909",
     "counts": 22,
     "has_wrc_req": false
@@ -17,16 +27,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 13,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Scared_Substance_762",
-    "counts": 12,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 3,
     "has_wrc_req": false
@@ -34,6 +34,11 @@
    {
     "author": "davidjl123",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -45,14 +50,9 @@
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 88
+  "total_counts": 165
  },
  "100k": {
   "hoc": [
@@ -70,7 +70,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 1274
+    "counts": 1312
    },
    {
     "author": "Lonadont",
@@ -97,19 +97,19 @@
     "counts": 66
    },
    {
+    "author": "Scared_Substance_762",
+    "counts": 60
+   },
+   {
     "author": "Multiconcepted",
     "counts": 53
    },
    {
-    "author": "Scared_Substance_762",
-    "counts": 21
-   },
-   {
-    "author": "artbn",
+    "author": "amazingpikachu_38",
     "counts": 16
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "artbn",
     "counts": 16
    },
    {
@@ -117,31 +117,31 @@
     "counts": 9
    },
    {
-    "author": "cuteballgames",
-    "counts": 7
-   },
-   {
     "author": "KalockSwig",
     "counts": 7
    },
    {
-    "author": "Antichess",
-    "counts": 3
+    "author": "cuteballgames",
+    "counts": 7
    },
    {
     "author": "Tranquilsunrise",
     "counts": 3
    },
    {
-    "author": "rideride",
-    "counts": 2
+    "author": "Antichess",
+    "counts": 3
    },
    {
     "author": "buy_me_a_pint",
     "counts": 2
+   },
+   {
+    "author": "rideride",
+    "counts": 2
    }
   ],
-  "total_counts": 18204
+  "total_counts": 18281
  },
- "latest_count": 41718203
+ "latest_count": 41718280
 }
