@@ -2,7 +2,7 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
+    "author": "treje",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -12,18 +12,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1,
+    "author": "ddodd69",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -32,12 +22,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 9
+  "total_counts": 10
  },
  "100k": {
   "hoc": [
@@ -51,7 +51,7 @@
    },
    {
     "author": "treje",
-    "counts": 4142
+    "counts": 4143
    },
    {
     "author": "vovker1",
@@ -86,47 +86,47 @@
     "counts": 53
    },
    {
-    "author": "artbn",
-    "counts": 16
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 16
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 9
+    "author": "artbn",
+    "counts": 16
    },
    {
     "author": "Scared_Substance_762",
     "counts": 9
    },
    {
-    "author": "cuteballgames",
-    "counts": 7
+    "author": "LeinadSpoon",
+    "counts": 9
    },
    {
     "author": "KalockSwig",
     "counts": 7
    },
    {
-    "author": "Antichess",
-    "counts": 3
+    "author": "cuteballgames",
+    "counts": 7
    },
    {
     "author": "Tranquilsunrise",
     "counts": 3
    },
    {
-    "author": "rideride",
-    "counts": 2
+    "author": "Antichess",
+    "counts": 3
    },
    {
     "author": "buy_me_a_pint",
     "counts": 2
+   },
+   {
+    "author": "rideride",
+    "counts": 2
    }
   ],
-  "total_counts": 18125
+  "total_counts": 18126
  },
- "latest_count": 41718124
+ "latest_count": 41718125
 }
