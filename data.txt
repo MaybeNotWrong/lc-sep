@@ -2,7 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "Multiconcepted",
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Both_Owl_1909",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -12,7 +17,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -22,17 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -42,7 +47,7 @@
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 5092
+    "counts": 5093
    },
    {
     "author": "treje",
@@ -81,47 +86,47 @@
     "counts": 53
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 16
-   },
-   {
     "author": "artbn",
     "counts": 16
    },
    {
-    "author": "Scared_Substance_762",
-    "counts": 9
+    "author": "amazingpikachu_38",
+    "counts": 16
    },
    {
     "author": "LeinadSpoon",
     "counts": 9
    },
    {
-    "author": "KalockSwig",
-    "counts": 7
+    "author": "Scared_Substance_762",
+    "counts": 9
    },
    {
     "author": "cuteballgames",
     "counts": 7
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 3
+    "author": "KalockSwig",
+    "counts": 7
    },
    {
     "author": "Antichess",
     "counts": 3
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 2
+    "author": "Tranquilsunrise",
+    "counts": 3
    },
    {
     "author": "rideride",
     "counts": 2
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 2
    }
   ],
-  "total_counts": 18122
+  "total_counts": 18123
  },
- "latest_count": 41718121
+ "latest_count": 41718122
 }
