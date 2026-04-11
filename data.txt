@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -55,7 +60,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 131
+    "counts": 132
    },
    {
     "author": "Scared_Substance_762",
@@ -114,7 +119,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 19599
+  "total_counts": 19600
  },
- "latest_count": 41719595
+ "latest_count": 41719596
 }
