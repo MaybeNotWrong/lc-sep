@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "SubSmartstocks",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -37,7 +42,7 @@
    },
    {
     "author": "SubSmartstocks",
-    "counts": 499
+    "counts": 500
    },
    {
     "author": "Chalupa_Grandpa",
@@ -104,7 +109,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 20091
+  "total_counts": 20092
  },
- "latest_count": 41720087
+ "latest_count": 41720088
 }
