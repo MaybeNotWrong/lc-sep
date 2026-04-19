@@ -18,7 +18,12 @@
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,20 +40,15 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 30
+  "total_counts": 31
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 6872
+    "counts": 6873
    },
    {
     "author": "greenpeppercat",
@@ -147,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23749
+  "total_counts": 23750
  },
- "latest_count": 41723745
+ "latest_count": 41723746
 }
