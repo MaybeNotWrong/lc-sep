@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "Multiconcepted",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -26,7 +31,7 @@
    },
    {
     "author": "treje",
-    "counts": 5187
+    "counts": 5188
    },
    {
     "author": "Lonadont",
@@ -117,7 +122,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 23970
+  "total_counts": 23971
  },
- "latest_count": 41723966
+ "latest_count": 41723967
 }
