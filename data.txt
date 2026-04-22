@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "Playing_2",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -105,6 +110,10 @@
     "counts": 5
    },
    {
+    "author": "naimagawa",
+    "counts": 2
+   },
+   {
     "author": "buy_me_a_pint",
     "counts": 2
    },
@@ -113,15 +122,15 @@
     "counts": 2
    },
    {
-    "author": "naimagawa",
-    "counts": 2
+    "author": "Playing_2",
+    "counts": 1
    },
    {
     "author": "amazingpiplup_230102",
     "counts": 1
    }
   ],
-  "total_counts": 24378
+  "total_counts": 24379
  },
- "latest_count": 41724374
+ "latest_count": 41724375
 }
