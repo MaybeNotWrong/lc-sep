@@ -30,9 +30,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 31
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
@@ -129,11 +134,11 @@
     "counts": 3
    },
    {
-    "author": "naimagawa",
-    "counts": 2
+    "author": "buy_me_a_pint",
+    "counts": 3
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "naimagawa",
     "counts": 2
    },
    {
@@ -149,7 +154,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 25670
+  "total_counts": 25671
  },
- "latest_count": 41725666
+ "latest_count": 41725667
 }
