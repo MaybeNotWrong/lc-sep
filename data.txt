@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 74,
+    "counts": 80,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 29,
     "has_wrc_req": false
    },
    {
@@ -12,13 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 24,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
-    "counts": 22,
+    "counts": 23,
     "has_wrc_req": false
    },
    {
@@ -52,13 +52,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 175
+  "total_counts": 187
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 8654
+    "counts": 8660
    },
    {
     "author": "greenpeppercat",
@@ -66,7 +66,7 @@
    },
    {
     "author": "treje",
-    "counts": 5598
+    "counts": 5599
    },
    {
     "author": "Lonadont",
@@ -105,12 +105,12 @@
     "counts": 149
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 57
+    "author": "LeinadSpoon",
+    "counts": 60
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 55
+    "author": "amazingpikachu_38",
+    "counts": 57
    },
    {
     "author": "artbn",
@@ -177,7 +177,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28561
+  "total_counts": 28573
  },
- "latest_count": 41728545
+ "latest_count": 41728557
 }
