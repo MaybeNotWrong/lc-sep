@@ -23,7 +23,12 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,14 +40,9 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 69
+  "total_counts": 70
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 558
+    "counts": 559
    },
    {
     "author": "LeinadSpoon",
@@ -179,7 +179,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33197
+  "total_counts": 33198
  },
- "latest_count": 41733184
+ "latest_count": 41733185
 }
