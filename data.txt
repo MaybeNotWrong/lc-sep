@@ -33,7 +33,12 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -47,22 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "greenpeppercat",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 144
+  "total_counts": 146
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "greenpeppercat",
-    "counts": 7780
+    "counts": 7781
    },
    {
     "author": "treje",
@@ -100,7 +100,7 @@
    },
    {
     "author": "LeinadSpoon",
-    "counts": 507
+    "counts": 508
    },
    {
     "author": "davidjl123",
@@ -199,7 +199,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33272
+  "total_counts": 33274
  },
- "latest_count": 41733259
+ "latest_count": 41733261
 }
