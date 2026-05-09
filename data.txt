@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -15,7 +26,7 @@
    },
    {
     "author": "treje",
-    "counts": 5750
+    "counts": 5751
    },
    {
     "author": "Lonadont",
@@ -43,7 +54,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 398
+    "counts": 399
    },
    {
     "author": "MrGally75",
@@ -51,7 +62,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 204
+    "counts": 205
    },
    {
     "author": "Scared_Substance_762",
@@ -138,7 +149,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33516
+  "total_counts": 33519
  },
- "latest_count": 41733503
+ "latest_count": 41733506
 }
