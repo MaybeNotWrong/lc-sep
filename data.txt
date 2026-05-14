@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -63,7 +69,7 @@
    },
    {
     "author": "artbn",
-    "counts": 46
+    "counts": 47
    },
    {
     "author": "cuteballgames",
@@ -90,11 +96,11 @@
     "counts": 6
    },
    {
-    "author": "Zgames_791",
+    "author": "Ill-Manager-5600",
     "counts": 5
    },
    {
-    "author": "Ill-Manager-5600",
+    "author": "Zgames_791",
     "counts": 5
    },
    {
@@ -142,7 +148,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35167
+  "total_counts": 35168
  },
- "latest_count": 41735153
+ "latest_count": 41735154
 }
