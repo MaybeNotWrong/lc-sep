@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -78,7 +83,7 @@
    },
    {
     "author": "artbn",
-    "counts": 62
+    "counts": 63
    },
    {
     "author": "KalockSwig",
@@ -165,7 +170,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41639
+  "total_counts": 41640
  },
- "latest_count": 41741625
+ "latest_count": 41741626
 }
