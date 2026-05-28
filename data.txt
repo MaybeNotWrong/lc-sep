@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -47,7 +53,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 546
+    "counts": 547
    },
    {
     "author": "MrGally75",
@@ -98,11 +104,11 @@
     "counts": 5
    },
    {
-    "author": "Zgames_791",
+    "author": "Ill-Manager-5600",
     "counts": 5
    },
    {
-    "author": "Ill-Manager-5600",
+    "author": "Zgames_791",
     "counts": 5
    },
    {
@@ -154,7 +160,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 49173
+  "total_counts": 49174
  },
- "latest_count": 41749157
+ "latest_count": 41749158
 }
