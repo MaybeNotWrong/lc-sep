@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 12,
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 5,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 27
+  "total_counts": 32
  },
  "100k": {
   "hoc": [
@@ -60,11 +60,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 4643
+    "counts": 4645
    },
    {
     "author": "ddodd69",
-    "counts": 3795
+    "counts": 3798
    },
    {
     "author": "cuteballgames",
@@ -195,7 +195,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53915
+  "total_counts": 53920
  },
- "latest_count": 41753897
+ "latest_count": 41753902
 }
