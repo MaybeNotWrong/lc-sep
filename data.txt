@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "artbn",
+    "counts": 13,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -20,14 +25,9 @@
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 8
+  "total_counts": 30
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 363
+    "counts": 374
    },
    {
     "author": "Scared_Substance_762",
@@ -93,7 +93,7 @@
    },
    {
     "author": "artbn",
-    "counts": 100
+    "counts": 111
    },
    {
     "author": "Tranquilsunrise",
@@ -128,11 +128,11 @@
     "counts": 5
    },
    {
-    "author": "Ill-Manager-5600",
+    "author": "Zgames_791",
     "counts": 5
    },
    {
-    "author": "Zgames_791",
+    "author": "Ill-Manager-5600",
     "counts": 5
    },
    {
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55553
+  "total_counts": 55575
  },
- "latest_count": 41755535
+ "latest_count": 41755557
 }
