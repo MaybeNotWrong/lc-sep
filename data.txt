@@ -12,13 +12,23 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "greenpeppercat",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "treje",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -30,25 +40,15 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 19
+  "total_counts": 20
  },
  "100k": {
   "hoc": [
    {
     "author": "treje",
-    "counts": 483
+    "counts": 484
    },
    {
     "author": "naimagawa",
@@ -79,11 +79,11 @@
     "counts": 6
    },
    {
-    "author": "greenpeppercat",
+    "author": "davidjl123",
     "counts": 4
    },
    {
-    "author": "davidjl123",
+    "author": "greenpeppercat",
     "counts": 4
    },
    {
@@ -91,15 +91,15 @@
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
+    "author": "cuteballgames",
     "counts": 2
    },
    {
-    "author": "cuteballgames",
+    "author": "TheMatsValk",
     "counts": 2
    }
   ],
-  "total_counts": 1044
+  "total_counts": 1045
  },
- "latest_count": 41801044
+ "latest_count": 41801045
 }
