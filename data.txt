@@ -13,7 +13,12 @@
    },
    {
     "author": "davidjl123",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -25,14 +30,9 @@
     "author": "Both_Owl_1909",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "MrGally75",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 33
+  "total_counts": 34
  },
  "100k": {
   "hoc": [
@@ -70,7 +70,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 27
+    "counts": 28
    },
    {
     "author": "cuteballgames",
@@ -105,7 +105,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 8368
+  "total_counts": 8369
  },
- "latest_count": 41808368
+ "latest_count": 41808369
 }
