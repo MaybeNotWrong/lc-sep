@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "MrGally75",
+    "author": "Chalupa_Grandpa",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
+    "author": "MrGally75",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -17,17 +17,22 @@
     "has_wrc_req": false
    },
    {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10
+  "total_counts": 11
  },
  "100k": {
   "hoc": [
@@ -37,7 +42,7 @@
    },
    {
     "author": "treje",
-    "counts": 4350
+    "counts": 4351
    },
    {
     "author": "naimagawa",
@@ -104,7 +109,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16052
+  "total_counts": 16053
  },
- "latest_count": 41816052
+ "latest_count": 41816053
 }
