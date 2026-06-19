@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 27,
+    "counts": 72,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 52,
     "has_wrc_req": false
    },
    {
@@ -12,18 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 8,
-    "has_wrc_req": false
-   },
-   {
     "author": "Lonadont",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 3,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -32,8 +27,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 2,
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -42,7 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -52,22 +52,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 70
+  "total_counts": 160
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 7339
+    "counts": 7384
    },
    {
     "author": "treje",
-    "counts": 4358
+    "counts": 4402
    },
    {
     "author": "naimagawa",
@@ -79,7 +79,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 104
+    "counts": 105
    },
    {
     "author": "MrGally75",
@@ -134,7 +134,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16112
+  "total_counts": 16202
  },
- "latest_count": 41816112
+ "latest_count": 41816202
 }
