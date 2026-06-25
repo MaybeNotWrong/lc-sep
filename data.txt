@@ -8,7 +8,12 @@
    },
    {
     "author": "treje",
-    "counts": 4,
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -17,12 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -35,14 +40,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 15
+  "total_counts": 16
  },
  "100k": {
   "hoc": [
@@ -52,7 +52,7 @@
    },
    {
     "author": "treje",
-    "counts": 7034
+    "counts": 7035
    },
    {
     "author": "naimagawa",
@@ -123,7 +123,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 31269
+  "total_counts": 31270
  },
- "latest_count": 41831269
+ "latest_count": 41831270
 }
