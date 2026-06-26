@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Chalupa_Grandpa",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
+    "author": "Chalupa_Grandpa",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -22,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -32,7 +32,7 @@
    },
    {
     "author": "treje",
-    "counts": 7462
+    "counts": 7463
    },
    {
     "author": "naimagawa",
@@ -103,7 +103,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 32246
+  "total_counts": 32247
  },
- "latest_count": 41832246
+ "latest_count": 41832247
 }
