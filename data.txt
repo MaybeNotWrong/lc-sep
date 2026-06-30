@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "treje",
+    "author": "naimagawa",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
-    "counts": 1,
+    "author": "treje",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -17,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -31,7 +31,7 @@
    },
    {
     "author": "naimagawa",
-    "counts": 5390
+    "counts": 5391
    },
    {
     "author": "greenpeppercat",
@@ -98,7 +98,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 34396
+  "total_counts": 34397
  },
- "latest_count": 41834395
+ "latest_count": 41834396
 }
