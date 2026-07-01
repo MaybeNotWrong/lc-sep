@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 12,
+    "counts": 14,
     "has_wrc_req": false
    },
    {
@@ -18,17 +18,12 @@
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 4,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -40,19 +35,24 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 41
+  "total_counts": 45
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 16399
+    "counts": 16401
    },
    {
     "author": "treje",
-    "counts": 8556
+    "counts": 8558
    },
    {
     "author": "naimagawa",
@@ -107,11 +107,11 @@
     "counts": 12
    },
    {
-    "author": "TheMatsValk",
+    "author": "Antichess",
     "counts": 6
    },
    {
-    "author": "Antichess",
+    "author": "TheMatsValk",
     "counts": 6
    },
    {
@@ -123,7 +123,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35324
+  "total_counts": 35328
  },
- "latest_count": 41835323
+ "latest_count": 41835327
 }
