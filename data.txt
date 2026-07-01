@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "ddodd69",
-    "counts": 16,
+    "counts": 18,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Both_Owl_1909",
+    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -12,22 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 14,
-    "has_wrc_req": false
-   },
-   {
     "author": "cuteballgames",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 2,
+    "author": "Lonadont",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -37,23 +37,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 62
+  "total_counts": 68
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 16409
+    "counts": 16412
    },
    {
     "author": "treje",
@@ -69,11 +69,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 658
+    "counts": 660
    },
    {
     "author": "Lonadont",
-    "counts": 525
+    "counts": 526
    },
    {
     "author": "Chalupa_Grandpa",
@@ -112,11 +112,11 @@
     "counts": 12
    },
    {
-    "author": "Antichess",
+    "author": "TheMatsValk",
     "counts": 6
    },
    {
-    "author": "TheMatsValk",
+    "author": "Antichess",
     "counts": 6
    },
    {
@@ -128,7 +128,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 35345
+  "total_counts": 35351
  },
- "latest_count": 41835344
+ "latest_count": 41835350
 }
