@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
+    "author": "ddodd69",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "ddodd69",
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -15,9 +15,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 5
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -27,7 +32,7 @@
    },
    {
     "author": "treje",
-    "counts": 9465
+    "counts": 9466
    },
    {
     "author": "naimagawa",
@@ -110,7 +115,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 44482
+  "total_counts": 44483
  },
- "latest_count": 41844481
+ "latest_count": 41844482
 }
