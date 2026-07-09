@@ -2,23 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "Both_Owl_1909",
+    "counts": 12,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
     "author": "ddodd69",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "naimagawa",
-    "counts": 2,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -27,7 +22,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "naimagawa",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,18 +37,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 28
+  "total_counts": 35
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 20975
+    "counts": 20978
    },
    {
     "author": "treje",
@@ -72,7 +72,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 937
+    "counts": 941
    },
    {
     "author": "Chalupa_Grandpa",
@@ -135,15 +135,15 @@
     "counts": 1
    },
    {
-    "author": "AspenCounts",
+    "author": "teeravj",
     "counts": 1
    },
    {
-    "author": "teeravj",
+    "author": "AspenCounts",
     "counts": 1
    }
   ],
-  "total_counts": 45474
+  "total_counts": 45481
  },
- "latest_count": 41845473
+ "latest_count": 41845480
 }
