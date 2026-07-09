@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Both_Owl_1909",
-    "counts": 6,
+    "author": "treje",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 6,
+    "author": "Both_Owl_1909",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -27,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
@@ -35,24 +40,19 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 22
+  "total_counts": 27
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 20972
+    "counts": 20974
    },
    {
     "author": "treje",
-    "counts": 9840
+    "counts": 9843
    },
    {
     "author": "naimagawa",
@@ -143,7 +143,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 45468
+  "total_counts": 45473
  },
- "latest_count": 41845467
+ "latest_count": 41845472
 }
