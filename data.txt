@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "noduorg",
-    "counts": 332,
+    "counts": 472,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 292,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
     "counts": 180,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 153,
     "has_wrc_req": false
    },
    {
@@ -32,23 +32,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "cuteballgames",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "davidjl123",
     "counts": 5,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -60,9 +55,14 @@
     "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 715
+  "total_counts": 994
  },
  "100k": {
   "hoc": [
@@ -72,7 +72,7 @@
    },
    {
     "author": "treje",
-    "counts": 10010
+    "counts": 10149
    },
    {
     "author": "naimagawa",
@@ -96,7 +96,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 549
+    "counts": 689
    },
    {
     "author": "Chalupa_Grandpa",
@@ -159,15 +159,15 @@
     "counts": 1
    },
    {
-    "author": "teeravj",
+    "author": "AspenCounts",
     "counts": 1
    },
    {
-    "author": "AspenCounts",
+    "author": "teeravj",
     "counts": 1
    }
   ],
-  "total_counts": 46724
+  "total_counts": 47003
  },
- "latest_count": 41846723
+ "latest_count": 41847002
 }
