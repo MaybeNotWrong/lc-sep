@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Both_Owl_1909",
+    "author": "treje",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 2,
+    "author": "Both_Owl_1909",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -17,17 +17,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -35,9 +35,14 @@
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 11
+  "total_counts": 13
  },
  "100k": {
   "hoc": [
@@ -47,11 +52,11 @@
    },
    {
     "author": "treje",
-    "counts": 10622
+    "counts": 10623
    },
    {
     "author": "naimagawa",
-    "counts": 6345
+    "counts": 6346
    },
    {
     "author": "cuteballgames",
@@ -110,11 +115,11 @@
     "counts": 12
    },
    {
-    "author": "TehVulpez",
+    "author": "Antichess",
     "counts": 6
    },
    {
-    "author": "Antichess",
+    "author": "TehVulpez",
     "counts": 6
    },
    {
@@ -142,7 +147,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50042
+  "total_counts": 50044
  },
- "latest_count": 41850041
+ "latest_count": 41850043
 }
