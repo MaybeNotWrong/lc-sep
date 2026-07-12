@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -57,7 +62,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 229
+    "counts": 230
    },
    {
     "author": "artbn",
@@ -80,11 +85,11 @@
     "counts": 12
    },
    {
-    "author": "TehVulpez",
+    "author": "Antichess",
     "counts": 6
    },
    {
-    "author": "Antichess",
+    "author": "TehVulpez",
     "counts": 6
    },
    {
@@ -112,7 +117,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 50032
+  "total_counts": 50033
  },
- "latest_count": 41850031
+ "latest_count": 41850032
 }
