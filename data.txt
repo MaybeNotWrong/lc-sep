@@ -2,17 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
-    "counts": 3,
+    "author": "Both_Owl_1909",
+    "counts": 7,
     "has_wrc_req": false
    },
    {
     "author": "ddodd69",
-    "counts": 3,
+    "counts": 7,
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
+    "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
@@ -24,6 +24,11 @@
    {
     "author": "Lonadont",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -40,20 +45,15 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 17
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 23319
+    "counts": 23323
    },
    {
     "author": "treje",
@@ -85,7 +85,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 1148
+    "counts": 1152
    },
    {
     "author": "Chalupa_Grandpa",
@@ -144,19 +144,19 @@
     "counts": 1
    },
    {
-    "author": "AspenCounts",
-    "counts": 1
-   },
-   {
     "author": "randomusername123458",
     "counts": 1
    },
    {
     "author": "teeravj",
     "counts": 1
+   },
+   {
+    "author": "AspenCounts",
+    "counts": 1
    }
   ],
-  "total_counts": 54898
+  "total_counts": 54906
  },
- "latest_count": 41854897
+ "latest_count": 41854905
 }
