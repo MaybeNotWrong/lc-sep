@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Both_Owl_1909",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -27,17 +32,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 24841
+    "counts": 24842
    },
    {
     "author": "treje",
-    "counts": 12449
+    "counts": 12450
    },
    {
     "author": "naimagawa",
@@ -136,7 +141,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 58340
+  "total_counts": 58342
  },
- "latest_count": 41858339
+ "latest_count": 41858341
 }
