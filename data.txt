@@ -38,7 +38,17 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "vovker1",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -50,19 +60,9 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "vovker1",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 140
+  "total_counts": 141
  },
  "100k": {
   "hoc": [
@@ -116,7 +116,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 339
+    "counts": 340
    },
    {
     "author": "TheMatsValk",
@@ -171,7 +171,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 81898
+  "total_counts": 81899
  },
- "latest_count": 41881876
+ "latest_count": 41881877
 }
