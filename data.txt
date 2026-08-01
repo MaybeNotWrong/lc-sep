@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "MrGally75",
+    "author": "TehVulpez",
     "counts": 20,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
+    "author": "MrGally75",
     "counts": 20,
     "has_wrc_req": false
    },
@@ -27,12 +27,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Trial-Name",
+    "author": "Chalupa_Grandpa",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
+    "author": "Trial-Name",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,9 +45,14 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 54
+  "total_counts": 55
  },
  "100k": {
   "hoc": [
@@ -77,7 +82,7 @@
    },
    {
     "author": "Chalupa_Grandpa",
-    "counts": 355
+    "counts": 356
    },
    {
     "author": "cuteballgames",
@@ -128,15 +133,15 @@
     "counts": 2
    },
    {
-    "author": "-UND34DF0X",
+    "author": "vovker1",
     "counts": 1
    },
    {
-    "author": "vovker1",
+    "author": "-UND34DF0X",
     "counts": 1
    }
   ],
-  "total_counts": 26324
+  "total_counts": 26325
  },
- "latest_count": 41926323
+ "latest_count": 41926324
 }
