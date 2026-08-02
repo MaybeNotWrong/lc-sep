@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -17,7 +22,7 @@
    },
    {
     "author": "treje",
-    "counts": 6437
+    "counts": 6438
    },
    {
     "author": "TehVulpez",
@@ -96,7 +101,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 30318
+  "total_counts": 30319
  },
- "latest_count": 41930317
+ "latest_count": 41930318
 }
