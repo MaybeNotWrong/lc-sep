@@ -2,13 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "Both_Owl_1909",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 4,
+    "author": "Lonadont",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -17,12 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "MrGally75",
+    "author": "vovker1",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -37,23 +37,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
+    "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
+    "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 18
+  "total_counts": 20
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 14353
+    "counts": 14354
    },
    {
     "author": "treje",
@@ -85,7 +85,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 430
+    "counts": 431
    },
    {
     "author": "rideride",
@@ -108,11 +108,11 @@
     "counts": 14
    },
    {
-    "author": "naimagawa",
+    "author": "artbn",
     "counts": 9
    },
    {
-    "author": "artbn",
+    "author": "naimagawa",
     "counts": 9
    },
    {
@@ -136,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33095
+  "total_counts": 33097
  },
- "latest_count": 41933094
+ "latest_count": 41933096
 }
