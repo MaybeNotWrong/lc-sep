@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -51,7 +57,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 61
+    "counts": 62
    },
    {
     "author": "ddodd69",
@@ -62,11 +68,11 @@
     "counts": 14
    },
    {
-    "author": "artbn",
+    "author": "naimagawa",
     "counts": 9
    },
    {
-    "author": "naimagawa",
+    "author": "artbn",
     "counts": 9
    },
    {
@@ -78,11 +84,11 @@
     "counts": 3
    },
    {
-    "author": "vovker1",
+    "author": "MaybeNotWrong",
     "counts": 2
    },
    {
-    "author": "MaybeNotWrong",
+    "author": "vovker1",
     "counts": 2
    },
    {
@@ -90,7 +96,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 33077
+  "total_counts": 33078
  },
- "latest_count": 41933076
+ "latest_count": 41933077
 }
