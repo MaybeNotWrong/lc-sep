@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 2,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -26,7 +31,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 9585
+    "counts": 9586
    },
    {
     "author": "greenpeppercat",
@@ -78,7 +83,7 @@
    },
    {
     "author": "artbn",
-    "counts": 17
+    "counts": 18
    },
    {
     "author": "naimagawa",
@@ -109,7 +114,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55674
+  "total_counts": 55676
  },
- "latest_count": 41955673
+ "latest_count": 41955675
 }
