@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "TehVulpez",
+    "author": "treje",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 8,
+    "author": "TehVulpez",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -27,7 +27,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 24
+  "total_counts": 25
  },
  "100k": {
   "hoc": [
@@ -37,7 +37,7 @@
    },
    {
     "author": "treje",
-    "counts": 11949
+    "counts": 11950
    },
    {
     "author": "TehVulpez",
@@ -124,7 +124,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 55695
+  "total_counts": 55696
  },
- "latest_count": 41955694
+ "latest_count": 41955695
 }
