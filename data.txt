@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 5,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrGally75",
     "counts": 5,
     "has_wrc_req": false
@@ -12,13 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 4,
+    "author": "TehVulpez",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 3,
+    "author": "cuteballgames",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -28,11 +33,6 @@
    },
    {
     "author": "davidjl123",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 25
+  "total_counts": 26
  },
  "100k": {
   "hoc": [
@@ -73,7 +73,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1680
+    "counts": 1681
    },
    {
     "author": "TheMatsValk",
@@ -140,15 +140,15 @@
     "counts": 3
    },
    {
-    "author": "-UND34DF0X",
+    "author": "Antichess",
     "counts": 1
    },
    {
-    "author": "Antichess",
+    "author": "-UND34DF0X",
     "counts": 1
    }
   ],
-  "total_counts": 61060
+  "total_counts": 61061
  },
- "latest_count": 41961059
+ "latest_count": 41961060
 }
