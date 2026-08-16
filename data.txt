@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
-    "author": "Multiconcepted",
+    "author": "MrGally75",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -26,11 +31,11 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 15431
+    "counts": 15432
    },
    {
     "author": "MrGally75",
-    "counts": 4620
+    "counts": 4621
    },
    {
     "author": "greenpeppercat",
@@ -113,7 +118,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76029
+  "total_counts": 76031
  },
- "latest_count": 41976019
+ "latest_count": 41976021
 }
