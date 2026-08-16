@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "MrGally75",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -25,7 +30,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 4619
+    "counts": 4620
    },
    {
     "author": "greenpeppercat",
@@ -108,7 +113,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76028
+  "total_counts": 76029
  },
- "latest_count": 41976018
+ "latest_count": 41976019
 }
