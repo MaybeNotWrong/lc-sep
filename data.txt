@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 466,
+    "counts": 467,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
-    "counts": 455,
+    "counts": 456,
     "has_wrc_req": false
    },
    {
@@ -47,17 +47,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -65,9 +60,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 1026
+  "total_counts": 1028
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "treje",
-    "counts": 4832
+    "counts": 4833
    },
    {
     "author": "MrGally75",
@@ -89,7 +89,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 3524
+    "counts": 3525
    },
    {
     "author": "cuteballgames",
@@ -152,7 +152,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 32039
+  "total_counts": 32041
  },
- "latest_count": 42032038
+ "latest_count": 42032040
 }
