@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "noduorg",
-    "counts": 2405,
+    "counts": 2406,
     "has_wrc_req": true
    },
    {
     "author": "TehVulpez",
-    "counts": 1486,
+    "counts": 1488,
     "has_wrc_req": false
    },
    {
@@ -52,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -65,9 +60,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 4991
+  "total_counts": 4994
  },
  "100k": {
   "hoc": [
@@ -77,11 +77,11 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 6710
+    "counts": 6712
    },
    {
     "author": "noduorg",
-    "counts": 5474
+    "counts": 5475
    },
    {
     "author": "treje",
@@ -152,7 +152,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 36004
+  "total_counts": 36007
  },
- "latest_count": 42036003
+ "latest_count": 42036006
 }
