@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
@@ -70,14 +75,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 10011
+  "total_counts": 10012
  },
  "100k": {
   "hoc": [
@@ -151,7 +151,7 @@
    },
    {
     "author": "artbn",
-    "counts": 5
+    "counts": 6
    },
    {
     "author": "Tranquilsunrise",
@@ -162,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 41024
+  "total_counts": 41025
  },
- "latest_count": 42041023
+ "latest_count": 42041024
 }
