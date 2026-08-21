@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
@@ -65,14 +70,9 @@
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 101
+  "total_counts": 102
  },
  "100k": {
   "hoc": [
@@ -98,7 +98,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 608
+    "counts": 609
    },
    {
     "author": "Lonadont",
@@ -165,7 +165,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 51476
+  "total_counts": 51477
  },
- "latest_count": 42051475
+ "latest_count": 42051476
 }
