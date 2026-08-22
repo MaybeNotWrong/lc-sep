@@ -3,22 +3,17 @@
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 13,
+    "counts": 15,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
     "author": "MrGally75",
     "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 6,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -35,15 +30,20 @@
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 30
+  "total_counts": 34
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 15871
+    "counts": 15873
    },
    {
     "author": "Both_Owl_1909",
@@ -110,16 +110,16 @@
     "counts": 12
    },
    {
+    "author": "Antichess",
+    "counts": 11
+   },
+   {
     "author": "artbn",
     "counts": 11
    },
    {
     "author": "Chalupa_Grandpa",
     "counts": 10
-   },
-   {
-    "author": "Antichess",
-    "counts": 9
    },
    {
     "author": "MaybeNotWrong",
@@ -130,7 +130,7 @@
     "counts": 3
    }
   ],
-  "total_counts": 56567
+  "total_counts": 56571
  },
- "latest_count": 42056566
+ "latest_count": 42056570
 }
