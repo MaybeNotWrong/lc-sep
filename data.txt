@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 25,
+    "counts": 27,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,12 @@
    },
    {
     "author": "MrGally75",
-    "counts": 8,
+    "counts": 10,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -30,20 +35,15 @@
     "author": "treje",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 54
+  "total_counts": 58
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 15883
+    "counts": 15885
    },
    {
     "author": "Both_Owl_1909",
@@ -55,7 +55,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 8992
+    "counts": 8994
    },
    {
     "author": "noduorg",
@@ -130,7 +130,7 @@
     "counts": 3
    }
   ],
-  "total_counts": 56591
+  "total_counts": 56595
  },
- "latest_count": 42056590
+ "latest_count": 42056594
 }
