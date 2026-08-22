@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 10,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -13,11 +13,16 @@
    },
    {
     "author": "Antichess",
-    "counts": 3,
+    "counts": 6,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -30,20 +35,15 @@
     "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 24
+  "total_counts": 30
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 15868
+    "counts": 15871
    },
    {
     "author": "Both_Owl_1909",
@@ -118,19 +118,19 @@
     "counts": 10
    },
    {
-    "author": "MaybeNotWrong",
-    "counts": 7
+    "author": "Antichess",
+    "counts": 9
    },
    {
-    "author": "Antichess",
-    "counts": 6
+    "author": "MaybeNotWrong",
+    "counts": 7
    },
    {
     "author": "Tranquilsunrise",
     "counts": 3
    }
   ],
-  "total_counts": 56561
+  "total_counts": 56567
  },
- "latest_count": 42056560
+ "latest_count": 42056566
 }
