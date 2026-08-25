@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 33,
+    "counts": 36,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
+    "counts": 13,
     "has_wrc_req": false
    },
    {
@@ -12,8 +17,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 11,
+    "author": "cuteballgames",
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -28,11 +33,6 @@
    },
    {
     "author": "treje",
-    "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -67,17 +67,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 96
+  "total_counts": 102
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 19675
+    "counts": 19677
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 15380
+    "counts": 15383
    },
    {
     "author": "treje",
@@ -101,7 +101,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 695
+    "counts": 696
    },
    {
     "author": "LeoCounting_4327",
@@ -160,7 +160,7 @@
     "counts": 5
    }
   ],
-  "total_counts": 66552
+  "total_counts": 66558
  },
- "latest_count": 42066551
+ "latest_count": 42066557
 }
