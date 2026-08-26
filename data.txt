@@ -38,7 +38,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 2,
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -52,11 +52,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
@@ -65,9 +60,14 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "TheMatsValk",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 254
+  "total_counts": 255
  },
  "100k": {
   "hoc": [
@@ -121,7 +121,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 83
+    "counts": 84
    },
    {
     "author": "Chalupa_Grandpa",
@@ -160,7 +160,7 @@
     "counts": 7
    }
   ],
-  "total_counts": 70062
+  "total_counts": 70063
  },
- "latest_count": 42070061
+ "latest_count": 42070062
 }
