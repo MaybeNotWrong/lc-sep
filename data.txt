@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 21972
+    "counts": 21973
    },
    {
     "author": "Both_Owl_1909",
@@ -104,7 +109,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 74232
+  "total_counts": 74233
  },
- "latest_count": 42074231
+ "latest_count": 42074232
 }
