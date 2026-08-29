@@ -2,12 +2,12 @@
  "day": {
   "hoc": [
    {
-    "author": "MrGally75",
-    "counts": 19,
+    "author": "treje",
+    "counts": 20,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "MrGally75",
     "counts": 19,
     "has_wrc_req": false
    },
@@ -42,7 +42,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 62
+  "total_counts": 63
  },
  "100k": {
   "hoc": [
@@ -56,7 +56,7 @@
    },
    {
     "author": "treje",
-    "counts": 12111
+    "counts": 12112
    },
    {
     "author": "MrGally75",
@@ -139,7 +139,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 74293
+  "total_counts": 74294
  },
- "latest_count": 42074292
+ "latest_count": 42074293
 }
