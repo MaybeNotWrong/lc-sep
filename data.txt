@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
-    "author": "MrGally75",
-    "counts": 8,
+    "author": "TehVulpez",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
+    "author": "MrGally75",
+    "counts": 9,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 7,
     "has_wrc_req": false
    },
@@ -17,33 +22,28 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 4,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 27
+  "total_counts": 34
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 22431
+    "counts": 22434
    },
    {
     "author": "Both_Owl_1909",
@@ -51,11 +51,11 @@
    },
    {
     "author": "treje",
-    "counts": 13175
+    "counts": 13178
    },
    {
     "author": "MrGally75",
-    "counts": 10546
+    "counts": 10547
    },
    {
     "author": "noduorg",
@@ -142,7 +142,7 @@
     "counts": 2
    }
   ],
-  "total_counts": 77312
+  "total_counts": 77319
  },
- "latest_count": 42077311
+ "latest_count": 42077318
 }
