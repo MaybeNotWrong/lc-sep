@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 44,
+    "counts": 53,
     "has_wrc_req": false
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 22,
+    "counts": 27,
     "has_wrc_req": false
    },
    {
@@ -23,7 +23,12 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 18,
+    "counts": 19,
+    "has_wrc_req": false
+   },
+   {
+    "author": "wet-gravity",
+    "counts": 10,
     "has_wrc_req": false
    },
    {
@@ -34,11 +39,6 @@
    {
     "author": "Chalupa_Grandpa",
     "counts": 8,
-    "has_wrc_req": false
-   },
-   {
-    "author": "wet-gravity",
-    "counts": 7,
     "has_wrc_req": false
    },
    {
@@ -67,13 +67,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 173
+  "total_counts": 191
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 22781
+    "counts": 22782
    },
    {
     "author": "Both_Owl_1909",
@@ -81,11 +81,11 @@
    },
    {
     "author": "treje",
-    "counts": 13812
+    "counts": 13821
    },
    {
     "author": "MrGally75",
-    "counts": 10930
+    "counts": 10935
    },
    {
     "author": "noduorg",
@@ -152,15 +152,15 @@
     "counts": 15
    },
    {
+    "author": "wet-gravity",
+    "counts": 10
+   },
+   {
     "author": "MaybeNotWrong",
     "counts": 7
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 7
-   },
-   {
-    "author": "wet-gravity",
     "counts": 7
    },
    {
@@ -180,7 +180,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79921
+  "total_counts": 79939
  },
- "latest_count": 42079920
+ "latest_count": 42079938
 }
