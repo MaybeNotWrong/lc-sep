@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "TehVulpez",
+    "counts": 1080,
+    "has_wrc_req": false
+   },
+   {
     "author": "treje",
     "counts": 1038,
     "has_wrc_req": true
    },
    {
-    "author": "TehVulpez",
-    "counts": 990,
-    "has_wrc_req": false
-   },
-   {
     "author": "Both_Owl_1909",
-    "counts": 136,
+    "counts": 228,
     "has_wrc_req": false
    },
    {
     "author": "MrGally75",
-    "counts": 65,
+    "counts": 66,
     "has_wrc_req": false
    },
    {
@@ -48,7 +48,7 @@
    },
    {
     "author": "BobRoss938",
-    "counts": 4,
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -77,17 +77,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2309
+  "total_counts": 2493
  },
  "100k": {
   "hoc": [
    {
     "author": "TehVulpez",
-    "counts": 23753
+    "counts": 23843
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 18488
+    "counts": 18580
    },
    {
     "author": "treje",
@@ -95,7 +95,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 10973
+    "counts": 10974
    },
    {
     "author": "noduorg",
@@ -179,7 +179,7 @@
    },
    {
     "author": "BobRoss938",
-    "counts": 4
+    "counts": 5
    },
    {
     "author": "buy_me_a_pint",
@@ -194,7 +194,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 82057
+  "total_counts": 82241
  },
- "latest_count": 42082056
+ "latest_count": 42082240
 }
