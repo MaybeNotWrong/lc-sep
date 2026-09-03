@@ -17,13 +17,18 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 8,
+    "has_wrc_req": false
+   },
+   {
     "author": "TehVulpez",
     "counts": 8,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 8,
+    "author": "wet-gravity",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -37,22 +42,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "wet-gravity",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
+    "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -62,12 +52,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "naimagawa",
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 72
+  "total_counts": 73
  },
  "100k": {
   "hoc": [
@@ -153,7 +153,7 @@
    },
    {
     "author": "wet-gravity",
-    "counts": 24
+    "counts": 25
    },
    {
     "author": "Chalupa_Chad",
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84452
+  "total_counts": 84453
  },
- "latest_count": 42084451
+ "latest_count": 42084452
 }
