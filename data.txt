@@ -2,17 +2,27 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 4
  },
  "100k": {
   "hoc": [
@@ -30,7 +40,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 759
+    "counts": 760
    },
    {
     "author": "treje",
@@ -58,7 +68,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 33
+    "counts": 34
    },
    {
     "author": "artbn",
@@ -89,7 +99,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 28536
+  "total_counts": 28538
  },
- "latest_count": 42128536
+ "latest_count": 42128538
 }
