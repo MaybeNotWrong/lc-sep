@@ -3,8 +3,8 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 3519,
-    "has_wrc_req": false
+    "counts": 3625,
+    "has_wrc_req": true
    },
    {
     "author": "noduorg",
@@ -13,7 +13,7 @@
    },
    {
     "author": "treje",
-    "counts": 990,
+    "counts": 1095,
     "has_wrc_req": false
    },
    {
@@ -62,6 +62,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
@@ -72,13 +77,13 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 7546
+  "total_counts": 7758
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 31897
+    "counts": 32003
    },
    {
     "author": "noduorg",
@@ -86,7 +91,7 @@
    },
    {
     "author": "treje",
-    "counts": 4543
+    "counts": 4648
    },
    {
     "author": "TehVulpez",
@@ -118,7 +123,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 50
+    "counts": 51
    },
    {
     "author": "BobRoss938",
@@ -149,11 +154,11 @@
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "TheMatsValk",
     "counts": 1
    },
    {
-    "author": "TheMatsValk",
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
@@ -161,7 +166,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67801
+  "total_counts": 68013
  },
- "latest_count": 42167801
+ "latest_count": 42168013
 }
