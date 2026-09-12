@@ -2,18 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
-    "counts": 1,
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -22,17 +17,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "MrGally75",
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 6
+  "total_counts": 8
  },
  "100k": {
   "hoc": [
@@ -54,7 +54,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 1776
+    "counts": 1777
    },
    {
     "author": "Lonadont",
@@ -78,7 +78,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 55
+    "counts": 56
    },
    {
     "author": "BobRoss938",
@@ -105,7 +105,7 @@
     "counts": 6
    },
    {
-    "author": "Cox_1920",
+    "author": "LeinadSpoon",
     "counts": 1
    },
    {
@@ -117,11 +117,11 @@
     "counts": 1
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Cox_1920",
     "counts": 1
    }
   ],
-  "total_counts": 71102
+  "total_counts": 71104
  },
- "latest_count": 42171102
+ "latest_count": 42171104
 }
