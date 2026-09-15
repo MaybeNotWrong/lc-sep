@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "Both_Owl_1909",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "ddodd69",
     "counts": 1,
     "has_wrc_req": false
@@ -15,15 +20,20 @@
     "author": "Lonadont",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 40118
+    "counts": 40119
    },
    {
     "author": "noduorg",
@@ -63,18 +73,18 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 81
+    "counts": 82
    },
    {
     "author": "Claret__",
     "counts": 64
    },
    {
-    "author": "BobRoss938",
+    "author": "artbn",
     "counts": 47
    },
    {
-    "author": "artbn",
+    "author": "BobRoss938",
     "counts": 47
    },
    {
@@ -94,10 +104,6 @@
     "counts": 7
    },
    {
-    "author": "Cox_1920",
-    "counts": 2
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2
    },
@@ -106,15 +112,19 @@
     "counts": 2
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1
+    "author": "Cox_1920",
+    "counts": 2
    },
    {
     "author": "LeinadSpoon",
     "counts": 1
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1
    }
   ],
-  "total_counts": 85641
+  "total_counts": 85643
  },
- "latest_count": 42185641
+ "latest_count": 42185643
 }
