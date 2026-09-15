@@ -43,7 +43,7 @@
    },
    {
     "author": "wet-gravity",
-    "counts": 10,
+    "counts": 11,
     "has_wrc_req": false
    },
    {
@@ -62,23 +62,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 5,
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "buy_me_a_pint",
-    "counts": 1,
+    "author": "cuteballgames",
+    "counts": 5,
     "has_wrc_req": false
    },
    {
@@ -90,9 +80,19 @@
     "author": "naimagawa",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 4430
+  "total_counts": 4431
  },
  "100k": {
   "hoc": [
@@ -130,7 +130,7 @@
    },
    {
     "author": "wet-gravity",
-    "counts": 146
+    "counts": 147
    },
    {
     "author": "davidjl123",
@@ -169,10 +169,6 @@
     "counts": 7
    },
    {
-    "author": "Cox_1920",
-    "counts": 2
-   },
-   {
     "author": "TheMatsValk",
     "counts": 2
    },
@@ -181,15 +177,19 @@
     "counts": 2
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1
+    "author": "Cox_1920",
+    "counts": 2
    },
    {
     "author": "LeinadSpoon",
     "counts": 1
+   },
+   {
+    "author": "buy_me_a_pint",
+    "counts": 1
    }
   ],
-  "total_counts": 85604
+  "total_counts": 85605
  },
- "latest_count": 42185604
+ "latest_count": 42185605
 }
