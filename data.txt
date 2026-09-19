@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "treje",
+    "counts": 14,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Both_Owl_1909",
     "counts": 9,
     "has_wrc_req": false
    },
@@ -12,8 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 5,
+    "author": "rideride",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -30,25 +40,15 @@
     "author": "Claret__",
     "counts": 2,
     "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 29
+  "total_counts": 40
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 43984
+    "counts": 43988
    },
    {
     "author": "noduorg",
@@ -56,7 +56,7 @@
    },
    {
     "author": "treje",
-    "counts": 7716
+    "counts": 7721
    },
    {
     "author": "TehVulpez",
@@ -116,7 +116,7 @@
    },
    {
     "author": "rideride",
-    "counts": 10
+    "counts": 12
    },
    {
     "author": "naimagawa",
@@ -139,7 +139,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 94373
+  "total_counts": 94384
  },
- "latest_count": 42194373
+ "latest_count": 42194384
 }
