@@ -3,12 +3,17 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 29,
+    "counts": 73,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 51,
     "has_wrc_req": false
    },
    {
     "author": "MrGally75",
-    "counts": 16,
+    "counts": 17,
     "has_wrc_req": false
    },
    {
@@ -22,18 +27,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
     "author": "luc122c",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 8,
+    "author": "TehVulpez",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -52,12 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
+    "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -67,18 +62,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 108
+  "total_counts": 196
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 1235
+    "counts": 1279
    },
    {
     "author": "h0rseycat",
@@ -86,7 +86,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 194
+    "counts": 237
    },
    {
     "author": "BobRoss938",
@@ -98,7 +98,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 130
+    "counts": 131
    },
    {
     "author": "Lonadont",
@@ -149,15 +149,15 @@
     "counts": 2
    },
    {
-    "author": "PrinceCrinkle",
+    "author": "Tranquilsunrise",
     "counts": 1
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "PrinceCrinkle",
     "counts": 1
    }
   ],
-  "total_counts": 3191
+  "total_counts": 3279
  },
- "latest_count": 42203191
+ "latest_count": 42203279
 }
