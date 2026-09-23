@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -57,7 +62,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 133
+    "counts": 134
    },
    {
     "author": "Multiconcepted",
@@ -76,11 +81,11 @@
     "counts": 11
    },
    {
-    "author": "luc122c",
+    "author": "Altruistic_Action_18",
     "counts": 10
    },
    {
-    "author": "Altruistic_Action_18",
+    "author": "luc122c",
     "counts": 10
    },
    {
@@ -96,7 +101,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12631
+  "total_counts": 12632
  },
- "latest_count": 42212631
+ "latest_count": 42212632
 }
