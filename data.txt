@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "Both_Owl_1909",
+    "author": "TehVulpez",
     "counts": 9,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 8,
+    "author": "Both_Owl_1909",
+    "counts": 9,
     "has_wrc_req": false
    },
    {
@@ -32,7 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "h0rseycat",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,12 +52,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "h0rseycat",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
+    "author": "artbn",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -62,7 +62,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 50
+  "total_counts": 51
  },
  "100k": {
   "hoc": [
@@ -112,7 +112,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 141
+    "counts": 142
    },
    {
     "author": "Multiconcepted",
@@ -127,19 +127,19 @@
     "counts": 13
    },
    {
-    "author": "artbn",
-    "counts": 11
-   },
-   {
     "author": "rideride",
     "counts": 11
    },
    {
-    "author": "Altruistic_Action_18",
-    "counts": 10
+    "author": "artbn",
+    "counts": 11
    },
    {
     "author": "luc122c",
+    "counts": 10
+   },
+   {
+    "author": "Altruistic_Action_18",
     "counts": 10
    },
    {
@@ -151,7 +151,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12680
+  "total_counts": 12681
  },
- "latest_count": 42212680
+ "latest_count": 42212681
 }
