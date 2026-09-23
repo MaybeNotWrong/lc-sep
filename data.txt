@@ -12,6 +12,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "treje",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -19,16 +29,6 @@
    {
     "author": "MrGally75",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -47,7 +47,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 22
+  "total_counts": 23
  },
  "100k": {
   "hoc": [
@@ -112,19 +112,19 @@
     "counts": 13
    },
    {
-    "author": "rideride",
+    "author": "artbn",
     "counts": 11
    },
    {
-    "author": "luc122c",
-    "counts": 10
+    "author": "rideride",
+    "counts": 11
    },
    {
     "author": "Altruistic_Action_18",
     "counts": 10
    },
    {
-    "author": "artbn",
+    "author": "luc122c",
     "counts": 10
    },
    {
@@ -136,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 12652
+  "total_counts": 12653
  },
- "latest_count": 42212652
+ "latest_count": 42212653
 }
