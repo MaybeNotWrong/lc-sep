@@ -2,12 +2,17 @@
  "day": {
   "hoc": [
    {
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -89,14 +94,14 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 3
+    "counts": 4
    },
    {
     "author": "PrinceCrinkle",
     "counts": 1
    }
   ],
-  "total_counts": 14403
+  "total_counts": 14404
  },
- "latest_count": 42214403
+ "latest_count": 42214404
 }
