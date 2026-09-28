@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 10,
+    "counts": 41,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 31,
     "has_wrc_req": false
    },
    {
@@ -22,6 +27,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
@@ -32,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -45,20 +55,15 @@
     "author": "Cox_1920",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 37
+  "total_counts": 100
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 12628
+    "counts": 12659
    },
    {
     "author": "noduorg",
@@ -66,7 +71,7 @@
    },
    {
     "author": "treje",
-    "counts": 3799
+    "counts": 3830
    },
    {
     "author": "Claret__",
@@ -94,7 +99,7 @@
    },
    {
     "author": "cuteballgames",
-    "counts": 754
+    "counts": 755
    },
    {
     "author": "MrGally75",
@@ -129,11 +134,11 @@
     "counts": 13
    },
    {
-    "author": "Altruistic_Action_18",
+    "author": "luc122c",
     "counts": 10
    },
    {
-    "author": "luc122c",
+    "author": "Altruistic_Action_18",
     "counts": 10
    },
    {
@@ -141,15 +146,15 @@
     "counts": 5
    },
    {
-    "author": "PrinceCrinkle",
+    "author": "Cox_1920",
     "counts": 1
    },
    {
-    "author": "Cox_1920",
+    "author": "PrinceCrinkle",
     "counts": 1
    }
   ],
-  "total_counts": 37118
+  "total_counts": 37181
  },
- "latest_count": 42237118
+ "latest_count": 42237181
 }
