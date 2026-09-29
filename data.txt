@@ -3,6 +3,11 @@
   "hoc": [
    {
     "author": "TehVulpez",
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "MrGally75",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -17,7 +22,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 7
  },
  "100k": {
   "hoc": [
@@ -39,7 +44,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 1950
+    "counts": 1951
    },
    {
     "author": "Lonadont",
@@ -63,7 +68,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 734
+    "counts": 736
    },
    {
     "author": "Chalupa_Grandpa",
@@ -114,7 +119,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 43207
+  "total_counts": 43210
  },
- "latest_count": 42243199
+ "latest_count": 42243202
 }
