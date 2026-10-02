@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
-    "author": "treje",
-    "counts": 724,
-    "has_wrc_req": false
-   },
-   {
     "author": "Both_Owl_1909",
-    "counts": 713,
-    "has_wrc_req": false
+    "counts": 952,
+    "has_wrc_req": true
    },
    {
     "author": "noduorg",
-    "counts": 597,
+    "counts": 836,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 724,
     "has_wrc_req": false
    },
    {
@@ -77,17 +77,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2321
+  "total_counts": 2799
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 25914
+    "counts": 26153
    },
    {
     "author": "noduorg",
-    "counts": 17982
+    "counts": 18221
    },
    {
     "author": "treje",
@@ -190,7 +190,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 71533
+  "total_counts": 72011
  },
- "latest_count": 42271525
+ "latest_count": 42272003
 }
