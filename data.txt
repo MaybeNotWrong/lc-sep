@@ -2,18 +2,23 @@
  "day": {
   "hoc": [
    {
-    "author": "Both_Owl_1909",
-    "counts": 451,
+    "author": "treje",
+    "counts": 478,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 390,
+    "author": "Both_Owl_1909",
+    "counts": 453,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 92,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 77,
+    "counts": 78,
     "has_wrc_req": false
    },
    {
@@ -32,12 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "TehVulpez",
     "counts": 11,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
+    "author": "LeinadSpoon",
     "counts": 11,
     "has_wrc_req": false
    },
@@ -57,41 +62,36 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 5,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 4,
-    "has_wrc_req": false
-   },
-   {
-    "author": "cuteballgames",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 1131
+  "total_counts": 1309
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 25652
+    "counts": 25654
    },
    {
     "author": "noduorg",
-    "counts": 17390
+    "counts": 17477
    },
    {
     "author": "treje",
-    "counts": 10418
+    "counts": 10506
    },
    {
     "author": "Claret__",
@@ -99,7 +99,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 2802
+    "counts": 2803
    },
    {
     "author": "TehVulpez",
@@ -154,11 +154,11 @@
     "counts": 30
    },
    {
-    "author": "luc122c",
+    "author": "Altruistic_Action_18",
     "counts": 10
    },
    {
-    "author": "Altruistic_Action_18",
+    "author": "luc122c",
     "counts": 10
    },
    {
@@ -178,19 +178,19 @@
     "counts": 2
    },
    {
-    "author": "PrinceCrinkle",
-    "counts": 1
-   },
-   {
     "author": "aa4onz",
     "counts": 1
    },
    {
     "author": "TheMatsValk",
     "counts": 1
+   },
+   {
+    "author": "PrinceCrinkle",
+    "counts": 1
    }
   ],
-  "total_counts": 70343
+  "total_counts": 70521
  },
- "latest_count": 42270335
+ "latest_count": 42270513
 }
