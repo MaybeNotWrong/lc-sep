@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 1122,
+    "counts": 1281,
     "has_wrc_req": true
    },
    {
@@ -13,7 +13,7 @@
    },
    {
     "author": "MrGally75",
-    "counts": 111,
+    "counts": 269,
     "has_wrc_req": false
    },
    {
@@ -42,6 +42,16 @@
     "has_wrc_req": false
    },
    {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
@@ -55,25 +65,15 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "rideride",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 2331
+  "total_counts": 2648
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 3266
+    "counts": 3425
    },
    {
     "author": "noduorg",
@@ -88,12 +88,12 @@
     "counts": 497
    },
    {
-    "author": "Lonadont",
-    "counts": 156
+    "author": "MrGally75",
+    "counts": 282
    },
    {
-    "author": "MrGally75",
-    "counts": 124
+    "author": "Lonadont",
+    "counts": 156
    },
    {
     "author": "Chalupa_Grandpa",
@@ -120,15 +120,7 @@
     "counts": 2
    },
    {
-    "author": "artbn",
-    "counts": 1
-   },
-   {
-    "author": "LeinadSpoon",
-    "counts": 1
-   },
-   {
-    "author": "Mifu_",
+    "author": "amazingpikachu_38",
     "counts": 1
    },
    {
@@ -136,11 +128,19 @@
     "counts": 1
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "Mifu_",
+    "counts": 1
+   },
+   {
+    "author": "artbn",
+    "counts": 1
+   },
+   {
+    "author": "LeinadSpoon",
     "counts": 1
    }
   ],
-  "total_counts": 7498
+  "total_counts": 7815
  },
- "latest_count": 42307498
+ "latest_count": 42307815
 }
