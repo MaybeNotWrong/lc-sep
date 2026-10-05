@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 32,
+    "counts": 189,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 183,
     "has_wrc_req": false
    },
    {
     "author": "ddodd69",
     "counts": 27,
-    "has_wrc_req": false
-   },
-   {
-    "author": "treje",
-    "counts": 26,
     "has_wrc_req": false
    },
    {
@@ -27,22 +27,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
+    "author": "noduorg",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
+    "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,12 +52,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 118
+  "total_counts": 432
  },
  "100k": {
   "hoc": [
@@ -72,19 +72,19 @@
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 2176
+    "counts": 2333
    },
    {
     "author": "ddodd69",
     "counts": 485
    },
    {
-    "author": "Lonadont",
-    "counts": 141
+    "author": "treje",
+    "counts": 195
    },
    {
-    "author": "treje",
-    "counts": 38
+    "author": "Lonadont",
+    "counts": 141
    },
    {
     "author": "MrGally75",
@@ -95,7 +95,7 @@
     "counts": 9
    },
    {
-    "author": "cuteballgames",
+    "author": "davidjl123",
     "counts": 6
    },
    {
@@ -103,12 +103,28 @@
     "counts": 6
    },
    {
-    "author": "davidjl123",
+    "author": "cuteballgames",
     "counts": 6
    },
    {
     "author": "TheMatsValk",
     "counts": 2
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1
+   },
+   {
+    "author": "rideride",
+    "counts": 1
+   },
+   {
+    "author": "TehVulpez",
+    "counts": 1
+   },
+   {
+    "author": "Mifu_",
+    "counts": 1
    },
    {
     "author": "artbn",
@@ -117,25 +133,9 @@
    {
     "author": "LeinadSpoon",
     "counts": 1
-   },
-   {
-    "author": "Mifu_",
-    "counts": 1
-   },
-   {
-    "author": "TehVulpez",
-    "counts": 1
-   },
-   {
-    "author": "rideride",
-    "counts": 1
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 1
    }
   ],
-  "total_counts": 5285
+  "total_counts": 5599
  },
- "latest_count": 42305285
+ "latest_count": 42305599
 }
