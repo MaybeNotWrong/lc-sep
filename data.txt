@@ -18,7 +18,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "L407",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -27,8 +32,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "L407",
-    "counts": 2,
+    "author": "Chalupa_Grandpa",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -45,19 +55,9 @@
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Chalupa_Grandpa",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 39
+  "total_counts": 40
  },
  "100k": {
   "hoc": [
@@ -83,7 +83,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 610
+    "counts": 611
    },
    {
     "author": "Oscar1237645",
@@ -126,19 +126,19 @@
     "counts": 8
    },
    {
-    "author": "Claret__",
-    "counts": 4
-   },
-   {
     "author": "artbn",
     "counts": 4
    },
    {
-    "author": "rideride",
-    "counts": 3
+    "author": "Claret__",
+    "counts": 4
    },
    {
     "author": "LeinadSpoon",
+    "counts": 3
+   },
+   {
+    "author": "rideride",
     "counts": 3
    },
    {
@@ -158,15 +158,15 @@
     "counts": 1
    },
    {
-    "author": "Altruistic_Action_18",
+    "author": "Mifu_",
     "counts": 1
    },
    {
-    "author": "Mifu_",
+    "author": "Altruistic_Action_18",
     "counts": 1
    }
   ],
-  "total_counts": 29492
+  "total_counts": 29493
  },
- "latest_count": 42329490
+ "latest_count": 42329491
 }
