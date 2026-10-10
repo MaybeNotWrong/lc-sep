@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 2176,
+    "counts": 2382,
     "has_wrc_req": true
    },
    {
     "author": "noduorg",
-    "counts": 1699,
+    "counts": 1905,
     "has_wrc_req": true
    },
    {
@@ -32,12 +32,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
+    "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "TehVulpez",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -47,13 +47,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "davidjl123",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "ddodduorg",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -65,19 +60,24 @@
     "author": "Chaduorg",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "ddodduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 4796
+  "total_counts": 5208
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 16914
+    "counts": 17120
    },
    {
     "author": "noduorg",
-    "counts": 10317
+    "counts": 10523
    },
    {
     "author": "treje",
@@ -184,7 +184,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 37460
+  "total_counts": 37872
  },
- "latest_count": 42337452
+ "latest_count": 42337864
 }
