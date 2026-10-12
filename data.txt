@@ -3,17 +3,17 @@
   "hoc": [
    {
     "author": "treje",
-    "counts": 1799,
+    "counts": 2003,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1365,
     "has_wrc_req": false
    },
    {
     "author": "Both_Owl_1909",
     "counts": 1217,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
-    "counts": 1161,
     "has_wrc_req": false
    },
    {
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "L407",
+    "author": "rideride",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -77,22 +77,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
+    "author": "L407",
     "counts": 2,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
     "has_wrc_req": false
    },
    {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 5311
+  "total_counts": 5719
  },
  "100k": {
   "hoc": [
@@ -102,11 +102,11 @@
    },
    {
     "author": "noduorg",
-    "counts": 15753
+    "counts": 15957
    },
    {
     "author": "treje",
-    "counts": 8070
+    "counts": 8274
    },
    {
     "author": "MrGally75",
@@ -213,7 +213,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 53875
+  "total_counts": 54283
  },
- "latest_count": 42353866
+ "latest_count": 42354274
 }
