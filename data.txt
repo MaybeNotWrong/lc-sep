@@ -2,8 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "noduorg",
+    "counts": 103,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Lonadont",
+    "counts": 98,
+    "has_wrc_req": false
+   },
+   {
     "author": "Both_Owl_1909",
-    "counts": 32,
+    "counts": 33,
     "has_wrc_req": false
    },
    {
@@ -17,23 +27,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 14,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 9,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 7,
-    "has_wrc_req": false
-   },
-   {
-    "author": "davidjl123",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -42,8 +37,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
-    "counts": 1,
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -55,19 +50,24 @@
     "author": "L407",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 115
+  "total_counts": 294
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 26535
+    "counts": 26536
    },
    {
     "author": "noduorg",
-    "counts": 20664
+    "counts": 20753
    },
    {
     "author": "treje",
@@ -91,7 +91,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1217
+    "counts": 1306
    },
    {
     "author": "Oscar1237645",
@@ -154,11 +154,11 @@
     "counts": 2
    },
    {
-    "author": "ddodduorg",
+    "author": "Altruistic_Action_18",
     "counts": 1
    },
    {
-    "author": "Altruistic_Action_18",
+    "author": "ddodduorg",
     "counts": 1
    },
    {
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67162
+  "total_counts": 67341
  },
- "latest_count": 42367154
+ "latest_count": 42367333
 }
