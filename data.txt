@@ -28,7 +28,12 @@
    },
    {
     "author": "Lonadont",
-    "counts": 3,
+    "counts": 4,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -37,8 +42,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 2,
+    "author": "artbn",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -50,14 +55,9 @@
     "author": "L407",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 89
+  "total_counts": 90
  },
  "100k": {
   "hoc": [
@@ -91,7 +91,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1211
+    "counts": 1212
    },
    {
     "author": "Oscar1237645",
@@ -154,11 +154,11 @@
     "counts": 2
    },
    {
-    "author": "ddodduorg",
+    "author": "Altruistic_Action_18",
     "counts": 1
    },
    {
-    "author": "Altruistic_Action_18",
+    "author": "ddodduorg",
     "counts": 1
    },
    {
@@ -202,7 +202,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 67136
+  "total_counts": 67137
  },
- "latest_count": 42367128
+ "latest_count": 42367129
 }
