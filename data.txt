@@ -2,17 +2,22 @@
  "day": {
   "hoc": [
    {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "MrGally75",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
+    "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -70,7 +75,7 @@
    },
    {
     "author": "rideride",
-    "counts": 141
+    "counts": 142
    },
    {
     "author": "davidjl123",
@@ -157,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 76434
+  "total_counts": 76435
  },
- "latest_count": 42376426
+ "latest_count": 42376427
 }
