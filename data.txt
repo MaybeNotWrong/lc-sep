@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -19,7 +30,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 2315
+    "counts": 2316
    },
    {
     "author": "typin_g",
@@ -75,7 +86,7 @@
    },
    {
     "author": "amazingpikachu_38",
-    "counts": 54
+    "counts": 55
    },
    {
     "author": "artbn",
@@ -146,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86651
+  "total_counts": 86653
  },
- "latest_count": 42386641
+ "latest_count": 42386643
 }
