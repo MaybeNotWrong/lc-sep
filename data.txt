@@ -2,6 +2,11 @@
  "day": {
   "hoc": [
    {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
@@ -12,7 +17,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2
+  "total_counts": 3
  },
  "100k": {
   "hoc": [
@@ -90,7 +95,7 @@
    },
    {
     "author": "artbn",
-    "counts": 29
+    "counts": 30
    },
    {
     "author": "BobRoss938",
@@ -157,7 +162,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 86653
+  "total_counts": 86654
  },
- "latest_count": 42386643
+ "latest_count": 42386644
 }
