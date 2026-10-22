@@ -57,18 +57,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 2,
+    "author": "TheMatsValk",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -77,7 +72,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "cuteballgames",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Typical-Lab8010",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -85,9 +85,14 @@
     "author": "BobRoss938",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 10605
+  "total_counts": 10606
  },
  "100k": {
   "hoc": [
@@ -140,6 +145,10 @@
     "counts": 2
    },
    {
+    "author": "Typical-Lab8010",
+    "counts": 1
+   },
+   {
     "author": "BobRoss938",
     "counts": 1
    },
@@ -148,7 +157,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 2640
+  "total_counts": 2641
  },
- "latest_count": 42402640
+ "latest_count": 42402641
 }
