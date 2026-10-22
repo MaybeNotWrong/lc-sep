@@ -48,7 +48,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 7,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -57,18 +57,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "vovker1",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -77,7 +72,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "Typical-Lab8010",
+    "author": "vovker1",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -87,12 +92,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
+    "author": "Typical-Lab8010",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10606
+  "total_counts": 10608
  },
  "100k": {
   "hoc": [
@@ -125,27 +130,27 @@
     "counts": 11
    },
    {
-    "author": "TehVulpez",
+    "author": "Multiconcepted",
     "counts": 5
    },
    {
-    "author": "Multiconcepted",
-    "counts": 4
+    "author": "TehVulpez",
+    "counts": 5
    },
    {
     "author": "greenpeppercat",
     "counts": 3
    },
    {
-    "author": "TheMatsValk",
-    "counts": 2
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 2
    },
    {
-    "author": "noduorg",
+    "author": "TheMatsValk",
+    "counts": 2
+   },
+   {
+    "author": "Typical-Lab8010",
     "counts": 1
    },
    {
@@ -153,11 +158,15 @@
     "counts": 1
    },
    {
-    "author": "Typical-Lab8010",
+    "author": "noduorg",
+    "counts": 1
+   },
+   {
+    "author": "artbn",
     "counts": 1
    }
   ],
-  "total_counts": 2641
+  "total_counts": 2643
  },
- "latest_count": 42402641
+ "latest_count": 42402643
 }
