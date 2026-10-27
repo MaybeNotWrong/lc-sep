@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 20,
+    "counts": 25,
+    "has_wrc_req": false
+   },
+   {
+    "author": "treje",
+    "counts": 16,
     "has_wrc_req": false
    },
    {
@@ -12,23 +17,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 12,
-    "has_wrc_req": false
-   },
-   {
     "author": "TehVulpez",
-    "counts": 10,
+    "counts": 13,
     "has_wrc_req": false
    },
    {
     "author": "Antichess",
     "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Lonadont",
-    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -42,12 +37,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "rideride",
-    "counts": 1,
+    "author": "Lonadont",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "rideride",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -60,24 +65,19 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 69
+  "total_counts": 81
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 3021
+    "counts": 3026
    },
    {
     "author": "treje",
-    "counts": 1768
+    "counts": 1772
    },
    {
     "author": "noduorg",
@@ -101,7 +101,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 77
+    "counts": 80
    },
    {
     "author": "davidjl123",
@@ -140,11 +140,11 @@
     "counts": 10
    },
    {
-    "author": "TheMatsValk",
+    "author": "Antichess",
     "counts": 8
    },
    {
-    "author": "Antichess",
+    "author": "TheMatsValk",
     "counts": 8
    },
    {
@@ -164,7 +164,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 7849
+  "total_counts": 7861
  },
- "latest_count": 42407849
+ "latest_count": 42407861
 }
