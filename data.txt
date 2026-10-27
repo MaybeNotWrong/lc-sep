@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 1071,
-    "has_wrc_req": false
+    "counts": 1095,
+    "has_wrc_req": true
    },
    {
     "author": "treje",
-    "counts": 1000,
+    "counts": 1023,
     "has_wrc_req": false
    },
    {
@@ -82,17 +82,17 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2183
+  "total_counts": 2230
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 4072
+    "counts": 4096
    },
    {
     "author": "treje",
-    "counts": 2756
+    "counts": 2779
    },
    {
     "author": "noduorg",
@@ -139,11 +139,11 @@
     "counts": 13
    },
    {
-    "author": "artbn",
+    "author": "cuteballgames",
     "counts": 12
    },
    {
-    "author": "cuteballgames",
+    "author": "artbn",
     "counts": 12
    },
    {
@@ -155,19 +155,19 @@
     "counts": 10
    },
    {
-    "author": "Antichess",
-    "counts": 8
-   },
-   {
     "author": "TheMatsValk",
     "counts": 8
    },
    {
-    "author": "Tranquilsunrise",
-    "counts": 7
+    "author": "Antichess",
+    "counts": 8
    },
    {
     "author": "greenpeppercat",
+    "counts": 7
+   },
+   {
+    "author": "Tranquilsunrise",
     "counts": 7
    },
    {
@@ -179,7 +179,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 9963
+  "total_counts": 10010
  },
- "latest_count": 42409963
+ "latest_count": 42410010
 }
