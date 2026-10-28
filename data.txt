@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "typin_g",
-    "counts": 15760,
+    "counts": 15830,
     "has_wrc_req": true
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 15563,
+    "counts": 15635,
     "has_wrc_req": true
    },
    {
@@ -28,7 +28,7 @@
    },
    {
     "author": "vovker1",
-    "counts": 24,
+    "counts": 25,
     "has_wrc_req": false
    },
    {
@@ -42,11 +42,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -57,8 +52,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 2,
+    "author": "TheMatsValk",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -67,7 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,18 +77,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 31733
+  "total_counts": 31876
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 38601
+    "counts": 38673
    },
    {
     "author": "greenpeppercat",
@@ -96,7 +96,7 @@
    },
    {
     "author": "typin_g",
-    "counts": 15803
+    "counts": 15873
    },
    {
     "author": "treje",
@@ -140,22 +140,14 @@
    },
    {
     "author": "vovker1",
-    "counts": 24
+    "counts": 25
    },
    {
     "author": "amazingpikachu_38",
     "counts": 15
    },
    {
-    "author": "BobRoss938",
-    "counts": 13
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 13
-   },
-   {
-    "author": "Antichess",
+    "author": "artbn",
     "counts": 13
    },
    {
@@ -163,15 +155,23 @@
     "counts": 13
    },
    {
-    "author": "artbn",
+    "author": "Antichess",
     "counts": 13
    },
    {
-    "author": "L407",
-    "counts": 10
+    "author": "TheMatsValk",
+    "counts": 13
+   },
+   {
+    "author": "BobRoss938",
+    "counts": 13
    },
    {
     "author": "LeinadSpoon",
+    "counts": 10
+   },
+   {
+    "author": "L407",
     "counts": 10
    },
    {
@@ -183,7 +183,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79910
+  "total_counts": 80053
  },
- "latest_count": 42479861
+ "latest_count": 42480004
 }
