@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "typin_g",
-    "counts": 14535,
+    "counts": 14632,
     "has_wrc_req": true
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 14333,
+    "counts": 14430,
     "has_wrc_req": true
    },
    {
@@ -42,11 +42,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "davidjl123",
     "counts": 3,
     "has_wrc_req": false
@@ -57,8 +52,8 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
-    "counts": 2,
+    "author": "TheMatsValk",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -67,7 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
+    "author": "Antichess",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,18 +77,18 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "LeinadSpoon",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 29273
+  "total_counts": 29467
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 37371
+    "counts": 37468
    },
    {
     "author": "greenpeppercat",
@@ -96,7 +96,7 @@
    },
    {
     "author": "typin_g",
-    "counts": 14578
+    "counts": 14675
    },
    {
     "author": "treje",
@@ -147,15 +147,7 @@
     "counts": 15
    },
    {
-    "author": "BobRoss938",
-    "counts": 13
-   },
-   {
-    "author": "TheMatsValk",
-    "counts": 13
-   },
-   {
-    "author": "Antichess",
+    "author": "artbn",
     "counts": 13
    },
    {
@@ -163,15 +155,23 @@
     "counts": 13
    },
    {
-    "author": "artbn",
+    "author": "Antichess",
     "counts": 13
    },
    {
-    "author": "L407",
-    "counts": 10
+    "author": "TheMatsValk",
+    "counts": 13
+   },
+   {
+    "author": "BobRoss938",
+    "counts": 13
    },
    {
     "author": "LeinadSpoon",
+    "counts": 10
+   },
+   {
+    "author": "L407",
     "counts": 10
    },
    {
@@ -183,7 +183,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 77450
+  "total_counts": 77644
  },
- "latest_count": 42477401
+ "latest_count": 42477595
 }
