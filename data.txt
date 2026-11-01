@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
-    "counts": 35,
+    "author": "Both_Owl_1909",
+    "counts": 39,
     "has_wrc_req": false
    },
    {
-    "author": "Both_Owl_1909",
-    "counts": 34,
+    "author": "ddodd69",
+    "counts": 35,
     "has_wrc_req": false
    },
    {
@@ -28,12 +28,7 @@
    },
    {
     "author": "typin_g",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 2,
+    "counts": 8,
     "has_wrc_req": false
    },
    {
@@ -42,7 +37,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Antichess",
+    "author": "Multiconcepted",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -57,22 +57,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 111
+  "total_counts": 121
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 5808
+    "counts": 5813
    },
    {
     "author": "typin_g",
-    "counts": 4535
+    "counts": 4540
    },
    {
     "author": "treje",
@@ -151,11 +151,7 @@
     "counts": 3
    },
    {
-    "author": "Claret__",
-    "counts": 1
-   },
-   {
-    "author": "BobRoss938",
+    "author": "teeravj",
     "counts": 1
    },
    {
@@ -163,11 +159,15 @@
     "counts": 1
    },
    {
-    "author": "teeravj",
+    "author": "BobRoss938",
+    "counts": 1
+   },
+   {
+    "author": "Claret__",
     "counts": 1
    }
   ],
-  "total_counts": 16531
+  "total_counts": 16541
  },
- "latest_count": 42516529
+ "latest_count": 42516539
 }
