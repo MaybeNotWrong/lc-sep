@@ -2,6 +2,16 @@
  "day": {
   "hoc": [
    {
+    "author": "Lonadont",
+    "counts": 94,
+    "has_wrc_req": false
+   },
+   {
+    "author": "noduorg",
+    "counts": 90,
+    "has_wrc_req": false
+   },
+   {
     "author": "Both_Owl_1909",
     "counts": 54,
     "has_wrc_req": false
@@ -12,17 +22,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
-    "counts": 16,
-    "has_wrc_req": false
-   },
-   {
     "author": "TehVulpez",
-    "counts": 12,
-    "has_wrc_req": false
-   },
-   {
-    "author": "noduorg",
     "counts": 12,
     "has_wrc_req": false
    },
@@ -42,28 +42,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "Chalupa_Grandpa",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "Multiconcepted",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
+    "author": "Chalupa_Grandpa",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
@@ -75,9 +60,24 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "amazingpikachu_38",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 158
+  "total_counts": 314
  },
  "100k": {
   "hoc": [
@@ -95,11 +95,11 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1628
+    "counts": 1706
    },
    {
     "author": "noduorg",
-    "counts": 635
+    "counts": 713
    },
    {
     "author": "ddodd69",
@@ -142,11 +142,11 @@
     "counts": 10
    },
    {
-    "author": "artbn",
+    "author": "cuteballgames",
     "counts": 9
    },
    {
-    "author": "cuteballgames",
+    "author": "artbn",
     "counts": 9
    },
    {
@@ -166,11 +166,7 @@
     "counts": 3
    },
    {
-    "author": "Claret__",
-    "counts": 1
-   },
-   {
-    "author": "BobRoss938",
+    "author": "teeravj",
     "counts": 1
    },
    {
@@ -178,11 +174,15 @@
     "counts": 1
    },
    {
-    "author": "teeravj",
+    "author": "BobRoss938",
+    "counts": 1
+   },
+   {
+    "author": "Claret__",
     "counts": 1
    }
   ],
-  "total_counts": 16578
+  "total_counts": 16734
  },
- "latest_count": 42516576
+ "latest_count": 42516732
 }
