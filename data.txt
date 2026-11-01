@@ -3,7 +3,7 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 42,
+    "counts": 43,
     "has_wrc_req": false
    },
    {
@@ -12,12 +12,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
-    "counts": 12,
+    "author": "Lonadont",
+    "counts": 13,
     "has_wrc_req": false
    },
    {
-    "author": "Lonadont",
+    "author": "TehVulpez",
     "counts": 12,
     "has_wrc_req": false
    },
@@ -42,6 +42,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
     "author": "Antichess",
     "counts": 1,
     "has_wrc_req": false
@@ -52,28 +57,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 127
+  "total_counts": 129
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 5816
+    "counts": 5817
    },
    {
     "author": "typin_g",
@@ -85,7 +85,7 @@
    },
    {
     "author": "Lonadont",
-    "counts": 1624
+    "counts": 1625
    },
    {
     "author": "noduorg",
@@ -132,11 +132,11 @@
     "counts": 10
    },
    {
-    "author": "artbn",
+    "author": "cuteballgames",
     "counts": 9
    },
    {
-    "author": "cuteballgames",
+    "author": "artbn",
     "counts": 9
    },
    {
@@ -156,11 +156,7 @@
     "counts": 3
    },
    {
-    "author": "Claret__",
-    "counts": 1
-   },
-   {
-    "author": "BobRoss938",
+    "author": "teeravj",
     "counts": 1
    },
    {
@@ -168,11 +164,15 @@
     "counts": 1
    },
    {
-    "author": "teeravj",
+    "author": "BobRoss938",
+    "counts": 1
+   },
+   {
+    "author": "Claret__",
     "counts": 1
    }
   ],
-  "total_counts": 16547
+  "total_counts": 16549
  },
- "latest_count": 42516545
+ "latest_count": 42516547
 }
