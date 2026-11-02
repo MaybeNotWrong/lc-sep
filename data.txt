@@ -2,18 +2,18 @@
  "day": {
   "hoc": [
    {
+    "author": "treje",
+    "counts": 886,
+    "has_wrc_req": false
+   },
+   {
     "author": "noduorg",
     "counts": 885,
     "has_wrc_req": false
    },
    {
-    "author": "treje",
-    "counts": 884,
-    "has_wrc_req": false
-   },
-   {
     "author": "Both_Owl_1909",
-    "counts": 186,
+    "counts": 187,
     "has_wrc_req": false
    },
    {
@@ -42,18 +42,13 @@
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
-    "counts": 3,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeinadSpoon",
     "counts": 3,
     "has_wrc_req": false
    },
    {
-    "author": "amazingpikachu_38",
-    "counts": 2,
+    "author": "davidjl123",
+    "counts": 3,
     "has_wrc_req": false
    },
    {
@@ -62,12 +57,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
-    "counts": 1,
+    "author": "amazingpikachu_38",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "Tranquilsunrise",
+    "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -77,18 +72,23 @@
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "Tranquilsunrise",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 2225
+  "total_counts": 2228
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 6147
+    "counts": 6148
    },
    {
     "author": "typin_g",
@@ -96,7 +96,7 @@
    },
    {
     "author": "treje",
-    "counts": 4097
+    "counts": 4099
    },
    {
     "author": "Lonadont",
@@ -135,11 +135,11 @@
     "counts": 65
    },
    {
-    "author": "LeinadSpoon",
+    "author": "davidjl123",
     "counts": 33
    },
    {
-    "author": "davidjl123",
+    "author": "LeinadSpoon",
     "counts": 33
    },
    {
@@ -171,15 +171,7 @@
     "counts": 3
    },
    {
-    "author": "buy_me_a_pint",
-    "counts": 1
-   },
-   {
-    "author": "Claret__",
-    "counts": 1
-   },
-   {
-    "author": "BobRoss938",
+    "author": "teeravj",
     "counts": 1
    },
    {
@@ -187,11 +179,19 @@
     "counts": 1
    },
    {
-    "author": "teeravj",
+    "author": "BobRoss938",
+    "counts": 1
+   },
+   {
+    "author": "Claret__",
+    "counts": 1
+   },
+   {
+    "author": "buy_me_a_pint",
     "counts": 1
    }
   ],
-  "total_counts": 20286
+  "total_counts": 20289
  },
- "latest_count": 42520284
+ "latest_count": 42520287
 }
