@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -30,16 +36,16 @@
     "counts": 329
    },
    {
+    "author": "ddodd69",
+    "counts": 327
+   },
+   {
     "author": "rideride",
     "counts": 327
    },
    {
     "author": "MrGally75",
     "counts": 327
-   },
-   {
-    "author": "ddodd69",
-    "counts": 326
    },
    {
     "author": "vovker1",
@@ -54,11 +60,11 @@
     "counts": 75
    },
    {
-    "author": "LeinadSpoon",
+    "author": "davidjl123",
     "counts": 34
    },
    {
-    "author": "davidjl123",
+    "author": "LeinadSpoon",
     "counts": 34
    },
    {
@@ -66,11 +72,11 @@
     "counts": 17
    },
    {
-    "author": "cuteballgames",
+    "author": "Antichess",
     "counts": 13
    },
    {
-    "author": "Antichess",
+    "author": "cuteballgames",
     "counts": 13
    },
    {
@@ -79,7 +85,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 8
+    "counts": 9
    },
    {
     "author": "TheMatsValk",
@@ -90,11 +96,11 @@
     "counts": 3
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "dragonpro9827",
     "counts": 1
    },
    {
-    "author": "Claret__",
+    "author": "teeravj",
     "counts": 1
    },
    {
@@ -102,15 +108,15 @@
     "counts": 1
    },
    {
-    "author": "dragonpro9827",
+    "author": "buy_me_a_pint",
     "counts": 1
    },
    {
-    "author": "teeravj",
+    "author": "Claret__",
     "counts": 1
    }
   ],
-  "total_counts": 20455
+  "total_counts": 20457
  },
- "latest_count": 42520453
+ "latest_count": 42520455
 }
