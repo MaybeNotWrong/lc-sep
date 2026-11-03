@@ -18,7 +18,7 @@
    },
    {
     "author": "treje",
-    "counts": 3,
+    "counts": 4,
     "has_wrc_req": false
    },
    {
@@ -29,6 +29,16 @@
    {
     "author": "naimagawa",
     "counts": 2,
+    "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Tranquilsunrise",
+    "counts": 1,
     "has_wrc_req": false
    },
    {
@@ -50,19 +60,9 @@
     "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "Tranquilsunrise",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "artbn",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 47
+  "total_counts": 48
  },
  "100k": {
   "hoc": [
@@ -76,7 +76,7 @@
    },
    {
     "author": "treje",
-    "counts": 4158
+    "counts": 4159
    },
    {
     "author": "Lonadont",
@@ -127,11 +127,11 @@
     "counts": 18
    },
    {
-    "author": "Antichess",
+    "author": "cuteballgames",
     "counts": 13
    },
    {
-    "author": "cuteballgames",
+    "author": "Antichess",
     "counts": 13
    },
    {
@@ -155,15 +155,7 @@
     "counts": 2
    },
    {
-    "author": "teeravj",
-    "counts": 1
-   },
-   {
-    "author": "dragonpro9827",
-    "counts": 1
-   },
-   {
-    "author": "BobRoss938",
+    "author": "buy_me_a_pint",
     "counts": 1
    },
    {
@@ -171,11 +163,19 @@
     "counts": 1
    },
    {
-    "author": "buy_me_a_pint",
+    "author": "BobRoss938",
+    "counts": 1
+   },
+   {
+    "author": "dragonpro9827",
+    "counts": 1
+   },
+   {
+    "author": "teeravj",
     "counts": 1
    }
   ],
-  "total_counts": 20503
+  "total_counts": 20504
  },
- "latest_count": 42520501
+ "latest_count": 42520502
 }
