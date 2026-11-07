@@ -2,13 +2,13 @@
  "day": {
   "hoc": [
    {
-    "author": "greenpeppercat",
-    "counts": 4124,
+    "author": "treje",
+    "counts": 4163,
     "has_wrc_req": true
    },
    {
-    "author": "treje",
-    "counts": 4084,
+    "author": "greenpeppercat",
+    "counts": 4124,
     "has_wrc_req": true
    },
    {
@@ -18,7 +18,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 476,
+    "counts": 556,
     "has_wrc_req": false
    },
    {
@@ -102,7 +102,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 10287
+  "total_counts": 10446
  },
  "100k": {
   "hoc": [
@@ -112,7 +112,7 @@
    },
    {
     "author": "treje",
-    "counts": 12459
+    "counts": 12538
    },
    {
     "author": "greenpeppercat",
@@ -124,7 +124,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 3274
+    "counts": 3354
    },
    {
     "author": "TehVulpez",
@@ -235,7 +235,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 52852
+  "total_counts": 53011
  },
- "latest_count": 42552847
+ "latest_count": 42553006
 }
