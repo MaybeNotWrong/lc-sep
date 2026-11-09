@@ -3,7 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 106,
+    "counts": 182,
+    "has_wrc_req": false
+   },
+   {
+    "author": "LeoCounting_4327",
+    "counts": 92,
     "has_wrc_req": false
    },
    {
@@ -27,11 +32,6 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeoCounting_4327",
-    "counts": 17,
-    "has_wrc_req": false
-   },
-   {
     "author": "treje",
     "counts": 11,
     "has_wrc_req": false
@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "typin_g",
+    "author": "davidjl123",
     "counts": 2,
     "has_wrc_req": false
    },
    {
-    "author": "davidjl123",
+    "author": "typin_g",
     "counts": 2,
     "has_wrc_req": false
    },
@@ -67,7 +67,7 @@
     "has_wrc_req": false
    }
   ],
-  "total_counts": 354
+  "total_counts": 505
  },
  "100k": {
   "hoc": [
@@ -81,7 +81,7 @@
    },
    {
     "author": "Both_Owl_1909",
-    "counts": 14031
+    "counts": 14107
    },
    {
     "author": "noduorg",
@@ -128,6 +128,10 @@
     "counts": 143
    },
    {
+    "author": "LeoCounting_4327",
+    "counts": 92
+   },
+   {
     "author": "davidjl123",
     "counts": 86
    },
@@ -158,10 +162,6 @@
    {
     "author": "artbn",
     "counts": 21
-   },
-   {
-    "author": "LeoCounting_4327",
-    "counts": 17
    },
    {
     "author": "Tranquilsunrise",
@@ -204,7 +204,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 68402
+  "total_counts": 68553
  },
- "latest_count": 42568397
+ "latest_count": 42568548
 }
