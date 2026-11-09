@@ -2,23 +2,23 @@
  "day": {
   "hoc": [
    {
+    "author": "noduorg",
+    "counts": 565,
+    "has_wrc_req": false
+   },
+   {
+    "author": "greenpeppercat",
+    "counts": 448,
+    "has_wrc_req": false
+   },
+   {
     "author": "Both_Owl_1909",
     "counts": 444,
     "has_wrc_req": false
    },
    {
-    "author": "noduorg",
-    "counts": 386,
-    "has_wrc_req": false
-   },
-   {
     "author": "LeoCounting_4327",
     "counts": 326,
-    "has_wrc_req": false
-   },
-   {
-    "author": "greenpeppercat",
-    "counts": 269,
     "has_wrc_req": false
    },
    {
@@ -57,6 +57,11 @@
     "has_wrc_req": false
    },
    {
+    "author": "LeinadSpoon",
+    "counts": 2,
+    "has_wrc_req": false
+   },
+   {
     "author": "typin_g",
     "counts": 2,
     "has_wrc_req": false
@@ -67,27 +72,22 @@
     "has_wrc_req": false
    },
    {
-    "author": "LeinadSpoon",
-    "counts": 2,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
     "counts": 1,
     "has_wrc_req": false
    }
   ],
-  "total_counts": 1803
+  "total_counts": 2161
  },
  "100k": {
   "hoc": [
    {
-    "author": "treje",
-    "counts": 16313
+    "author": "greenpeppercat",
+    "counts": 16405
    },
    {
-    "author": "greenpeppercat",
-    "counts": 16226
+    "author": "treje",
+    "counts": 16313
    },
    {
     "author": "Both_Owl_1909",
@@ -95,7 +95,7 @@
    },
    {
     "author": "noduorg",
-    "counts": 8634
+    "counts": 8813
    },
    {
     "author": "typin_g",
@@ -214,7 +214,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 69851
+  "total_counts": 70209
  },
- "latest_count": 42569846
+ "latest_count": 42570204
 }
