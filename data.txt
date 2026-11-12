@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -67,7 +73,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 110
+    "counts": 111
    },
    {
     "author": "cuteballgames",
@@ -138,7 +144,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 79636
+  "total_counts": 79637
  },
- "latest_count": 42579628
+ "latest_count": 42579629
 }
