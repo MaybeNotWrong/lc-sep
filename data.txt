@@ -3,21 +3,21 @@
   "hoc": [
    {
     "author": "MrGally75",
-    "counts": 1,
+    "counts": 3,
+    "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 2,
     "has_wrc_req": false
    },
    {
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
-   },
-   {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
    }
   ],
-  "total_counts": 3
+  "total_counts": 6
  },
  "100k": {
   "hoc": [
@@ -51,11 +51,11 @@
    },
    {
     "author": "ddodd69",
-    "counts": 1372
+    "counts": 1373
    },
    {
     "author": "MrGally75",
-    "counts": 832
+    "counts": 834
    },
    {
     "author": "rideride",
@@ -158,7 +158,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 84520
+  "total_counts": 84523
  },
- "latest_count": 42584512
+ "latest_count": 42584515
 }
