@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "davidjl123",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -47,7 +53,7 @@
    },
    {
     "author": "davidjl123",
-    "counts": 44
+    "counts": 45
    },
    {
     "author": "Multiconcepted",
@@ -58,11 +64,11 @@
     "counts": 19
    },
    {
-    "author": "naimagawa",
+    "author": "rideride",
     "counts": 8
    },
    {
-    "author": "rideride",
+    "author": "naimagawa",
     "counts": 8
    },
    {
@@ -102,7 +108,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 6734
+  "total_counts": 6735
  },
- "latest_count": 42606733
+ "latest_count": 42606734
 }
