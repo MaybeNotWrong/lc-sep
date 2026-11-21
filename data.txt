@@ -2,16 +2,6 @@
  "day": {
   "hoc": [
    {
-    "author": "ddodd69",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
@@ -20,9 +10,24 @@
     "author": "davidjl123",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "TehVulpez",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 4
+  "total_counts": 5
  },
  "100k": {
   "hoc": [
@@ -36,7 +41,7 @@
    },
    {
     "author": "TehVulpez",
-    "counts": 1594
+    "counts": 1595
    },
    {
     "author": "noduorg",
@@ -115,15 +120,11 @@
     "counts": 2
    },
    {
-    "author": "AzureCeleste",
-    "counts": 1
-   },
-   {
-    "author": "typin_g",
-    "counts": 1
-   },
-   {
     "author": "HyperLexus",
+    "counts": 1
+   },
+   {
+    "author": "AzureCeleste",
     "counts": 1
    },
    {
@@ -133,9 +134,13 @@
    {
     "author": "vovker1",
     "counts": 1
+   },
+   {
+    "author": "typin_g",
+    "counts": 1
    }
   ],
-  "total_counts": 10752
+  "total_counts": 10753
  },
- "latest_count": 42610748
+ "latest_count": 42610749
 }
