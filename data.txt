@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Lonadont",
-    "counts": 222,
+    "counts": 307,
     "has_wrc_req": false
    },
    {
     "author": "noduorg",
-    "counts": 176,
+    "counts": 261,
     "has_wrc_req": false
    },
    {
@@ -42,12 +42,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "Multiconcepted",
+    "author": "TehVulpez",
     "counts": 4,
     "has_wrc_req": false
    },
    {
-    "author": "TehVulpez",
+    "author": "Multiconcepted",
     "counts": 4,
     "has_wrc_req": false
    },
@@ -62,17 +62,12 @@
     "has_wrc_req": false
    },
    {
-    "author": "TheMatsValk",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "Tranquilsunrise",
     "counts": 1,
     "has_wrc_req": false
    },
    {
-    "author": "cuteballgames",
+    "author": "TheMatsValk",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -80,9 +75,14 @@
     "author": "artbn",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "cuteballgames",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 751
+  "total_counts": 921
  },
  "100k": {
   "hoc": [
@@ -100,11 +100,11 @@
    },
    {
     "author": "noduorg",
-    "counts": 1405
+    "counts": 1490
    },
    {
     "author": "Lonadont",
-    "counts": 1308
+    "counts": 1393
    },
    {
     "author": "treje",
@@ -199,7 +199,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 11499
+  "total_counts": 11669
  },
- "latest_count": 42611495
+ "latest_count": 42611665
 }
