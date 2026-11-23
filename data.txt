@@ -3,12 +3,12 @@
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 591,
+    "counts": 661,
     "has_wrc_req": false
    },
    {
     "author": "Lonadont",
-    "counts": 503,
+    "counts": 573,
     "has_wrc_req": false
    },
    {
@@ -57,22 +57,7 @@
     "has_wrc_req": false
    },
    {
-    "author": "typin_g",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
     "author": "amazingpikachu_38",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Antichess",
-    "counts": 1,
-    "has_wrc_req": false
-   },
-   {
-    "author": "Multiconcepted",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -82,7 +67,17 @@
     "has_wrc_req": false
    },
    {
-    "author": "artbn",
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Antichess",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "typin_g",
     "counts": 1,
     "has_wrc_req": false
    },
@@ -90,19 +85,24 @@
     "author": "cuteballgames",
     "counts": 1,
     "has_wrc_req": false
+   },
+   {
+    "author": "artbn",
+    "counts": 1,
+    "has_wrc_req": false
    }
   ],
-  "total_counts": 1302
+  "total_counts": 1442
  },
  "100k": {
   "hoc": [
    {
     "author": "Both_Owl_1909",
-    "counts": 3988
+    "counts": 4058
    },
    {
     "author": "Lonadont",
-    "counts": 2256
+    "counts": 2326
    },
    {
     "author": "Oscar1237645",
@@ -217,7 +217,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 14083
+  "total_counts": 14223
  },
- "latest_count": 42614079
+ "latest_count": 42614219
 }
