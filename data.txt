@@ -1,7 +1,18 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "ddodd69",
+    "counts": 1,
+    "has_wrc_req": false
+   },
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 2
  },
  "100k": {
   "hoc": [
@@ -31,7 +42,7 @@
    },
    {
     "author": "ddodd69",
-    "counts": 537
+    "counts": 538
    },
    {
     "author": "MrGally75",
@@ -47,7 +58,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 137
+    "counts": 139
    },
    {
     "author": "greenpeppercat",
@@ -126,7 +137,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 16193
+  "total_counts": 16196
  },
- "latest_count": 42616189
+ "latest_count": 42616192
 }
