@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "treje",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -27,7 +33,7 @@
    },
    {
     "author": "treje",
-    "counts": 975
+    "counts": 976
    },
    {
     "author": "ddodd69",
@@ -71,7 +77,7 @@
    },
    {
     "author": "Tranquilsunrise",
-    "counts": 18
+    "counts": 19
    },
    {
     "author": "Antichess",
@@ -130,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17144
+  "total_counts": 17146
  },
- "latest_count": 42617140
+ "latest_count": 42617142
 }
