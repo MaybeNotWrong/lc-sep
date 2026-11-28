@@ -1,7 +1,13 @@
 {
  "day": {
-  "hoc": [],
-  "total_counts": 0
+  "hoc": [
+   {
+    "author": "Multiconcepted",
+    "counts": 1,
+    "has_wrc_req": false
+   }
+  ],
+  "total_counts": 1
  },
  "100k": {
   "hoc": [
@@ -43,7 +49,7 @@
    },
    {
     "author": "Multiconcepted",
-    "counts": 167
+    "counts": 168
    },
    {
     "author": "rideride",
@@ -130,7 +136,7 @@
     "counts": 1
    }
   ],
-  "total_counts": 17353
+  "total_counts": 17354
  },
- "latest_count": 42617349
+ "latest_count": 42617350
 }
